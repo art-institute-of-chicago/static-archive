@@ -1,0 +1,287 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_9b3b8a3f8e4528a964af0e4fbaf9bc2c) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_7f93a803812a6df1cc565ab0a1d75360) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_7f93a803812a6df1cc565ab0a1d75360) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_19cedf4c5d216ef70600325e9163841e) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_d8e3c0608e2a21b07f12dc51d30db8ce) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_9b3b8a3f8e4528a964af0e4fbaf9bc2c) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_c983ccae97f3b17642ecbd11f1d15836) -->
+<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_7f93a803812a6df1cc565ab0a1d75360) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_7f93a803812a6df1cc565ab0a1d75360) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Play a Painting | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8985.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_modern.gif" alt="" title="The Art Institute of Chicago" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Mod-Contemp-header.png" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Modern">Art Access: Modern and Contemporary Art</a> > <a href="../lesson">Lesson Plans</a> > <span class="sel">Play a Painting</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Play a Painting</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Play a Painting</strong><br />       <div class="content">
+<p>In this lesson plan, students explore the relationship between music and art.</p><br />
+<p>Suggested Grade Level: 3-5<br />
+Estimated Time: One class period</p>
+<h3>Introduction</h3>
+<p>Music is auditory, existing in time, but art is visual, existing in space. The process of examining music and art together can highlight the distinctive elements of each form. It can also demonstrate how their characteristics are interrelated. In this lesson, students create musical interpretations of two works of art.</p>
+<div class="image wrap"><img src="../images/E31631.jpg" border="0" class="inline" /></div>
+<div class="image wrap"><img src="../images/E12188.jpg" border="0" class="inline" /></div>
+<h3>Lesson Objectives</h3>
+<ul>
+<li>Learn to describe and analyze works of art</li>
+<li>Explore the relationship between music and the visual arts</li>
+</ul>
+<h3>Key Terms:</h3>
+<ul>
+<li><a href="1023#composition">composition</a></li>
+<li><a href="1023#improvisation">improvisation</a></li>
+</ul>
+<h3>Instructional Materials</h3>
+<ul>
+<li><a href="../Guitarist"><em>The Old Guitarist</em></a></li>
+<li><a href="../Improvisation"><em>Improvisation No. 30 (Cannons)</em></a></li>
+<li>Classroom percussion instruments or instruments made from rubber bands, paper, blocks, etc.</li>
+</ul>
+<h3>Procedures</h3>
+<p><strong>Activity One</strong></p>
+<ul>
+<li>Encourage students to think about the sounds they can make on their own and with instruments. Begin discussion with the following questions:</li>
+<ul>
+<li>How many ways can you make sounds with your hands?</li>
+<li>How many different sounds can you make with your mouth and voice?</li>
+<li>What different sounds can be produced with handmade or percussion instruments?</li>
+</ul>
+<li>Look together at Pablo Picasso’s <a href="../Guitarist"><em>The Old Guitarist</em></a>, late 1903-early 1904, and discuss it, asking:</li>
+<ul>
+<li>What do you see?</li>
+<li>What is the dominant color in the painting?</li>
+<li>What is the painting’s mood? What other elements of the composition contribute to this mood?</li>
+<li>What would the music played by the old man sound like?</li>
+</ul>
+<li>Have students describe the sounds in detail. Ask:</li>
+<ul>
+<li>Are the sounds loud, soft, long, short, high, low, smooth, rough?</li>
+</ul>
+<li>Encourage students to try to produce the sounds of the painting, first with their hands, mouths, or voices, and then with their instruments.</li>
+</ul><br />
+<p><strong>Activity Two:</strong></p>
+<ul>
+<li>Once students have finished interpreting an art object as sound, have them "play" a work of art. Look at Vasily Kandinsky’s <a href="../Improvisation"><em>Improvisation No. 30 (Cannons)</em></a>, 1913. Ask:</li>
+<ul>
+<li>What do you see? (real objects such as a cannon, formal elements such as colors, lines, etc.)</li>
+</ul>
+<li>Tell students that in his book <em>Concerning the Spiritual in Art</em>, Kandinsky associated color with the sounds of musical instruments: green with the cello, yellow with brass instruments, and white with silence. Ask them whether or not they agree with Kandinsky’s associations:</li>
+<ul>
+<li>How do you feel about Kandinsky’s associations?</li>
+<li>Are they valid? Are they arbitrary?</li>
+</ul>
+<li>Ask students to describe what sounds come to mind while looking at the painting and have them try to produce these sounds with their hands, mouths, voices, and instruments.</li>
+<li>Find out which parts of the painting students think they should play alone, as solos, and which parts they want to play together, in chorus. Ask them in what order they think they should play the parts and why. Encourage them to consider how their eyes move across the painting. Ask:</li>
+<ul>
+<li>What attracts your eyes first?</li>
+<li>What do you think the artist painted first?</li>
+<li>What elements of the painting are the most prominent (loud)?</li>
+<li>What elements seem to be in the background (soft)?</li>
+</ul>
+<li>Act as the composer/conductor for the first performance; then allow a series of students to take that role. Let the composer/conductors choose from the proposed sounds the ones that they want to use to present each visual element. Allow them to conduct the piece more than once if necessary to achieve the effects they desire.</li>
+</ul>
+<h3>Glossary</h3>
+<p><strong><a name="composition" id="composition"></a>composition</strong> (<em>n</em>)<br />
+the arrangement of elements, such as space, shapes and colors, in a work of art</p>
+<p><strong><a name="improvisation" id="improvisation"></a>improvisation</strong> (<em>n</em>)<br />
+an act performed or composed spontaneously, without previous preparation or rehearsal</p></br>
+<h3>Evaluation</h3>
+<p>Base students’ evaluation on their ability to identify elements of line, shape, space, color, texture, pattern, and mood in the visual arts while making varied and creative musical sounds inspired by these elements.</p>
+<p><a href="http://www.isbe.state.il.us/ils/">Illinois Learning Standards</a><br />
+Fine Arts: 25, 26</p>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001023.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001023.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Modern and Contemporary Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Guitarist">Artworks</a></li>
+<li class="expanded"><a href="../lesson">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/1024">Surrealist Games </a></li>
+<li class="leaf"><a href="../resource/1254">Write a Short Story</a></li>
+<li class="leaf"><a href="../resource/1022">Finding Polygons in Cubist Art</a></li>
+<li class="leaf active last"><a href="1023" class="active">Play a Painting</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="../family">Family Activities</a></li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1862">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/artwork/8991">Improvisation No. 30 (Cannons)</a></span>, 1913</li><li class="last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/artwork/28067">The Old Guitarist</a></span>, late 1903–early 1904</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

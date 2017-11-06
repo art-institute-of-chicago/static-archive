@@ -1,0 +1,30 @@
+/*<!-- Magic of America: text area stylesheet -->*/
+/*<!-- This file last changed: 30 July, 2007 -->*/
+
+body {
+	line-height: 120%;
+}
+
+ul.none {
+    list-style-type: none;
+}
+
+.indent {
+	text-indent: -3em; margin-left: 3em;
+}
+
+a:link {
+	text-decoration: none;
+	color: #B43C17;
+}
+a:visited {
+	text-decoration: none;
+	color: #B43C17;
+}
+a:hover {
+	text-decoration: none;
+	color: #C9E181;
+}
+a:active {
+	text-decoration: none;
+}

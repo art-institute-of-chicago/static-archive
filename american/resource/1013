@@ -1,0 +1,330 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_45b3adc9dc2cd7a4190adc45bfdb9d05) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_aafd1a3bc887b7d7f40b9f4444af69e8) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_aafd1a3bc887b7d7f40b9f4444af69e8) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_2eba0e8c014f6dcd68dfb995592a1905) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_0340377b5bcfb2da442d446d469af9f2) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_45b3adc9dc2cd7a4190adc45bfdb9d05) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8ef130f34d72a43800797b0f295710c8) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_aafd1a3bc887b7d7f40b9f4444af69e8) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_aafd1a3bc887b7d7f40b9f4444af69e8) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Colonial Identity | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8932.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_american.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_amerart.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/American">Art Access: American Art to 1900</a> > <a href="../lesson">Lesson Plans</a> > <span class="sel">Colonial Identity</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Colonial Identity</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Colonial Identity</strong><br />       <div class="content">
+<p>In this lesson, students learn how Copley's portraits of Mr. and Mrs. Daniel Hubbard illustrate the Hubbards' desire to identify themselves with England while indicating their profession and social status. Students observe these paintings and discuss how this is evident. They research and discuss the origins of the American colonies and explore how colonists were still influenced by English culture. As a follow-up project, students produce a portrait of an individual, including <a href="1013#attribute">attributes</a> that provide information about the tastes and ambitions of the sitter.</p>
+<p><strong>Suggested Grade Level:</strong> 7-8 (with adaptations for 9-12)<br />
+<strong>Estimated Time:</strong> Three class periods</p>
+<div class="image wrap"><img src="../images/E26551.jpg" border="0" class="inline" /></div>
+    <div class="image wrap"><img src="../images/E31177.jpg" border="0" class="inline" /></div>
+<h3>Introduction</h3>
+<p>As 18th-century American colonists grew more prosperous, many sought to record their achievements. <a href="1013#portrait">Portraits</a> fulfilled this desire. One of the challenges confronting the early American painter was that <a href="1013#patron">patrons</a> (mostly wealthy New England merchants and businessmen) requested a sophisticated <a href="1013#style">style</a>, in keeping with the English tradition of portraiture. Colonial artists, however, had little access to the paintings or training necessary to develop a style in the English tradition. John Singleton Copley and his peers studied <a href="1013#mezzotint">mezzotint</a> reproductions of English portraits. Mezzotints were important because they could be bought and sold relatively cheaply, giving artists in the colonies access to art from England and the rest of Europe.</p>
+<h3>Lesson Objectives</h3>
+<ul>
+<li>Compare and critically analyze works of art, considering especially how attributes or <a href="1013#symbol">symbols</a> reveal social status in colonial America </li>
+<li>Learn to conduct research on the Web </li>
+<li>Learn about the American colonies and the importation of culture from England</li>
+<li>Create a portrait that incorporates telling attributes </li>
+</ul>
+
+<h3>Key Terms</h3>
+<ul>
+<li>colony</li>
+<li>mezzotint</li>
+<li>class</li>
+<li>taste</li>
+<li>portrait </li>
+<li>texture </li>
+<li><a href="1013#realism">realism</a></li>
+<li>attribute</li>
+<li>symbol</li>
+<li><a href="1013#cherub">cherub</a></li>
+<li>sitter</li>
+</ul>
+<h3>Instructional Materials</h3>
+<ul>
+<li>Pencils </li>
+<li>Notebook paper </li>
+<li>Paper</li>
+<li>Colored pens, colored pencils, or acrylic paint</li>
+<li>Brushes </li>
+<li>Water</li>
+<li>Recommended Web sites (see below) </li>
+</ul>
+<h3>Discussion</h3>
+<ul>
+<li> Explain that given Copley's great status, only wealthy individuals could afford to commission him to paint a portrait. </li>
+<li>Ask students what visual evidence in <a href="../MrsHubbard"><em>Mrs. Daniel Hubbard</em></a> and <a href="../MrsHubbard#daniel"><em>Daniel Hubbard</em>  makes the case for the sitters' social and economic status? (clothing, hairstyles, furniture, objects related to leisure or work). Help by first asking students to consider how people exhibit their wealth and status in images of themselves today.</li> 
+<ul>
+<li>Do people ever use images to project an inaccurate view of themselves? </li>
+<li>Why did he go back there when the villagers made him uncomfortable?</li>
+<li>The background and props in the portraits serve as attributes or symbols of Mr and Mrs. Hubbard's lifestyle in 18th-century America. Ask students to identify these props and to imagine what they signal about the individual sitters as well as how they emphasize the differences between each sitter. For example:</li>
+<ul>
+<li>The clouds in the background of Mrs. Hubbard's portrait contrast Mr. Hubbard's more serious "business" interior. </li>
+<li>The pedestal against which Mrs. Hubbard leans bears a cherub that alludes to love and playfulness; in Mr. Hubbard's portrait, a <a href="1013#classical">classical</a> column symbolizes tradition, enlightenment, and knowledge. </li>
+<li>Sketches for a needlework pattern, rest on the pedestal in Mrs. Hubbard's portrait, testifying to her interest in needlework and suggesting that this activity is appropriate for women of her social class. Mr. Hubbard, by contrast, rests his hand on a book, either a ledger containing accounts or a sign that he is well read. </li>
+</ul></ul>
+<li><em>Grades 9-12:</em> Have students read and discuss chapter five of <em>Ways of Seeing</em> by John Berger (London: British Broadcasting Corporation; New York: Penguin Books), which is available in the library and the <a>Educator Resource Center</a>. </li>
+<li>Encourage students to explore texture in the paintings. For example: the fabric worn by the sitters or the skin on their face and hands. Ask:</li>
+<ul>
+<li>How did he convince viewers of the realism of each? </li>
+</ul>
+<li>Read aloud the following passage written about Hans Holbein's 16th-century oil painting <a href="http://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors" target="_blank"><em>The Ambassadors:</em></a>  "Except the faces and the hands, there is not a surface in this picture which does not make one aware of how it has been elaborately worked over—by weavers, embroiderers, carpet-makers, goldsmiths, leather workers, mosaic workers, furriers, tailors, jewelers—and how this working-over and the resulting richness of each surface has been finally worked-over and reproduced by Holbein the painter." </li>
+<li>Have students discuss this statement in relation to Copley's paintings, asking: </li>
+<ul>
+<li>What kind of &quot;workers&quot; produced the materials in the painting?</li>
+<li>In the painting, how has the artist brought attention to his own "work" </li>
+</ul>
+<li>Read aloud another passage from the chapter: "Oil painting celebrated a new kind of wealth [that] had to be able to demonstrate the desirability of what money could buy…the visual desirability of what can be bought lies in its tangibility, in how it will reward the touch, the hand, of the owner." Ask: </li>
+<ul>
+<li>How would making objects appear tangible or realistic make them visually desirable? </li>
+</ul>
+</ul>
+<h3>Activity</h3>
+<ul>
+<li>Divide students into groups and have them use a <a href="http://www.artic.edu/aic/collections/citi/resources/_erfimages/colonial.pdf">worksheet</a>  to conduct research about the American colonists on the web sites below (or a textbook chapter in an American history text of your choice):</li>
+<ul>
+<li><a href="http://www.theamericanrevolution.org" target="_blank">The American Revolution Homepage</a></li>
+<li><a href="http://www.plimoth.org/" target="_blank">Plymouth-on-the Webz</a></li>
+</ul></ul>
+<p><strong>Worksheet questions include:</strong></p>
+<ul>
+<li>Define "colony"</li>
+<li>What does it mean to be a "colony"?</li>
+<li>What do you think are some of the reasons that people left England for the colonies?</li>
+<li>How do you think the colonists felt about living so far from England?</li>
+<li>What were the advantages?</li>
+<li>What were the disadvantages?</li>
+<li>If you were a colonist, what kinds of things would you have brought from your home country?</li>
+<li>Can you think of people today who move to a new place but continue to practice the traditions of the country or region where they came from? (e.g., moving from the southern to the northern United States, emigrating from Mexico to the United States).</li>
+<li>Why might people do this?</li>
+</ul>
+
+<h3>Evaluation</h3>
+<p>Base students' evaluations on their participation in class discussion, ability to describe and analyze a work of art, and appreciation of the decisions that colonists made in forming their American identity.</p>
+<h3>Follow-up:</h3>
+<ul>
+<li>Have students create a portrait of someone who is known to them (friend, parent, or other adult). Encourage them to consider the environment in which they will place their sitter, what clothes he or she will wear, and what other attributes they will include to signal the sitter's interests and identity. Ask them to consider whether or not they will rely on a particular kind of imagery (in art, advertising, etc.) that appeals to the tastes of their sitter.</li>
+<li>Challenge students to imagine that they are portraitists living in the United States during the 1700s and they have to paint a portrait of one historical or fictional individual from the Revolutionary period. Encourage students to choose people of various social classes and ethnic backgrounds (farmers, slaves, merchants, traders, artisans, Native Americans). Have each student gather information relating to their character. Ask them to produce a portrait containing several attributes and to write a brief biography or short story about the individual in their painting. Hold a mini-gallery opening featuring the "Many Faces of the 13 Colonies."</li>
+</ul><br />
+<h3>Glossary</h3>
+<p><strong><a name="attribute" id="attribute"></a>attribute</strong> (<em>n</em>)<br />
+object closely associated with belonging to a specific person or thing; in art, often used to identify known individuals, such as saints</p>
+<p><strong><a name="cherub" id="cherub"></a>cherub</strong> (<em>n</em>)<br />
+singular: a child, usually winged, in painting and sculpture that appears innocent, chubby, and rosy</p>
+<p><strong><a name="classical" id="classical"></a>classical</strong> (<em>adj</em>)<br />
+of or having characteristics of antiquity or ancient Greek or Roman cultures</p>
+<p><strong><a name="mezzotint" id="mezzotint"></a>mezzotint</strong> (<em>n</em>)<br />
+engraving type popular during the 18th century, made by roughing the surface of a copper or steel plate with a tool called a rocker and then scraping and burnishing the roughed surface to produce an image</p>
+<p><strong><a name="patron" id="patron"></a>patron</strong> (<em>n</em>)<br />
+person who hires an artist to create a work of art</p>
+<p> <strong><a name="portrait" id="portrait"></a>portrait</strong> (<em>n</em>)<br />
+the likeness of a person (especially a face) in a work of art, such as a painting, drawing, sculpture, or photograph</p>
+<p><strong><a name="realism" id="realism"></a>Realist</strong> (<em>adj</em>)<br />
+relating to a movement in 19th-century France that concentrated on the unidealized representation of "real and existing things" (Courbet); a general term used to describe an intent to objectively depict the appearance of the physical world </p>
+<p><strong><a name="style" id="style"></a>style</strong> (<em>n</em>)<br />
+distinctive manner of expression (as in writing, speech, or art) </p>
+<p><strong><a name="symbol" id="symbol"></a>symbol</strong> (<em>n</em>)<br />
+something that stands for or represents something else; a visible sign of a concept or other invisible trait </p><br />
+
+<p><a href="http://www.isbe.state.il.us/ils/" target="_blank">Illinois Learning Standards</a><br />
+Language Arts: 4-5<br />
+Social Science: 16, 18<br />
+Fine Arts: 25-27</p>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001013.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001013.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: American Art to 1900 </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../MrsHubbard">Artworks</a></li>
+<li class="expanded"><a href="../lesson">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/1241">Art and Geology</a></li>
+<li class="leaf active"><a href="1013" class="active">Colonial Identity</a></li>
+<li class="leaf last"><a href="../resource/1014">Freed from Slavery</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="../family">Family Activities</a></li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1870">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/American/artwork/59784">Daniel Hubbard</a></span>, 1764</li><li class="last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/American/artwork/59787">Mrs. Daniel Hubbard (Mary Greene)</a></span>, c. 1764</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

@@ -1,0 +1,147 @@
+{
+"map"       : "50-sw_2000.jpg",
+"mapwidth"  : "2000px", 
+"mapheight" : "1347px",
+"areas"     : {
+  "a"  : {
+      "left"    : "184px",
+      "top"     : "533px",
+      "width"   : "141px",
+      "height"  : "208px",
+      "data" : {
+        "joyride-stop" : true,
+        "ctitle"    : "15 Alexandre Blanchet, <em>The two friends</em>",
+        "citation"  : "Alexandre Blanchet (French, 1882–1961). <em>Two Friends</em>, 1912. Oil on canvas; 157.5 × 111.8 cm (62 1/2 × 44 in). Fondation Gottfried Keller, Musee d’art et d’histoire, Geneva. "
+      }
+  },
+  "b"  : {
+      "left"    : "453px",
+      "top"     : "651px",
+      "width"   : "70px",
+      "height"  : "48px",
+      "data" : {
+        "owned"       : true,
+        "thumbnail"   : "pasturage_segonzac_200.jpg",
+        "artist"      : "Andr&eacute; Dunoyer de Segonzac",
+        "period"      : "French, 1884–1974",
+        "title"       : "<em>Pasturage</em>, 1912",
+        "medium"      : "Oil on canvas; 73.3 x 91.4 cm (28 7/8 x 36 in)",
+        "collection"  : "Arthur Jerome Eddy Memorial Collection, 1931.516",
+        "description" : "A successful painter and later a celebrated printmaker, Segonzac was not affiliated with any major art movement of the early twentieth century. His wide range of aesthetic inspirations can be seen in <em>Pasturage</em>, from the pastoral landscapes of the Barbizon school to the bright palette of the avant-garde Fauves. After corresponding with Walt Kuhn, executive secretary for the Association of American Painters and Sculptors, Segonzac sent five works to the Chicago presentation of the Armory Show. Two paintings, including <em>Pasturage</em>, were purchased by Arthur Jerome Eddy, who would write in <em>Cubists and Post-Impressionism</em> about the artist’s independent view.",
+        "link"        : "http://www.artic.edu/aic/collections/artwork/9006?search_no=33&index=0",
+        "ctitle"      : "116 Andre Dunoyer de Segonzac, <em>Pastures</em>",
+        "citation"    : "André Dunoyer de Segonzac (French, 1884–1974). <em>Pasturage</em>, 1912. Oil on canvas; 73.3 × 91.4 cm (28 7/8 × 36 in.). The Art Institute of Chicago, Arthur Jerome Eddy Memorial Collection, 1931.516."
+      }
+  },
+  "c"  : {
+      "left"    : "1431px",
+      "top"     : "439px",
+      "width"   : "176px",
+      "height"  : "133px",
+      "data" : {
+        "ctitle"    : "91 Maurice Denis, <em>Nausicaa</em> (Lent by M. E. Druet)",
+        "citation"  : "Maurice Denis (French, 1870–1943). <em>Nausicaa, Dream of Ulysses</em>, 1909. Oil on canvas; 90 × 140 cm (35.1 × 54.6 in.). Private collection."
+      }
+  },
+  "d"  : {
+      "left"    : "463px",
+      "top"     : "703px",
+      "width"   : "39px",
+      "height"  : "39px",
+      "data" : {
+        "ctitle"    : "24 Constantine Brancusi, <em>The kiss</em>",
+        "citation"  : "Constantin Brâncusi (French, born Romania, 1876–1957). <em>The Kiss</em>, 1908. Plaster. "
+      }
+  },
+  "e"  : {
+      "left"    : "532px",
+      "top"     : "671px",
+      "width"   : "22px",
+      "height"  : "68px",
+      "data" : {
+        "ctitle"    : "3 Alexandre Archipenko, <em>Colored Woman</em>",
+        "citation"  : "Alexander Archipenko (American, born Ukraine, 1887–1964). <em>Négresse</em>, 1911. Cement; approx. h. 43.1 cm (17 in.). Private collection."
+      }
+  },
+  "f"  : {
+      "left"    : "577px",
+      "top"     : "690px",
+      "width"   : "41px",
+      "height"  : "52px",
+      "data" : {
+        "ctitle"    : "4 Alexandre Archipenko, <em>Repose</em>",
+        "citation"  : "Alexander Archipenko (American, born Ukraine, 1887–1964). <em>Repose</em>, 1911. Plaster. "
+      }
+  },
+  "g"  : {
+      "left"    : "635px",
+      "top"     : "675px",
+      "width"   : "30px",
+      "height"  : "65px",
+      "data" : {
+        "ctitle"    : "27 Constantine Brancusi, <em>Miss Pogany</em>",
+        "citation"  : "Constantin Brâncusi  (French, born Romania, 1876–1957). <em>Mlle. Pogany</em>, 1912. Plaster; sculpture: 45.5 × 23.4 × 23.4 cm (17 7/8 × 9 3/16 × 9 3/16 in.); base: 17.5 × 19 cm (6 7/8 x 7 1/2 in.). Musée National de l’Art Moderne, Paris, bequest of Constantin Brâncusi, 1957, AM 4002-50."
+      }
+  },
+  "h"  : {
+      "left"    : "961px",
+      "top"     : "516px",
+      "width"   : "99px",
+      "height"  : "302px",
+      "data" : {
+        "ctitle"    : "218 Wilhelm Lehmbruck, <em>Woman Kneeling</em>",
+        "citation"  : "Wilhelm Lehmbruck (German, 1881–1919). <em>Kneeling Woman</em>, 1911. Cast stone; 175.8 × 138.4 × 69.8 cm (69 1/4 × 54 1/2 × 27 1/2 in.) Albright-Knox Art Gallery, Buffalo. Charles Clifton Fund, 1938:12."
+      }
+  },
+  "i"  : {
+      "left"    : "1507px",
+      "top"     : "718px",
+      "width"   : "54px",
+      "height"  : "115px",
+      "data" : {
+        "ctitle"    : "26 Constantine Brancusi, <em>A muse</em>",
+        "citation"  : "Constantin Brâncusi (French, born Romania, 1876–1957). <em>Muse</em>, 1912. Plaster."
+      }
+  },
+  "j"  : {
+      "left"    : "1631px",
+      "top"     : "755px",
+      "width"   : "29px",
+      "height"  : "77px",
+      "data" : {
+        "ctitle"    : "135 Paul Gauguin, <em>Wood Sculpture</em> (Lent by M. E. Druet)",
+        "citation"  : "Paul Gauguin  (French, 1848–1903). <em>Cylinder with Two Figures</em>, 1891–93. Wood; h. 35.5 cm (14 in.). "
+      }
+  },
+  "k"  : {
+      "left"    : "1610px",
+      "top"     : "730px",
+      "width"   : "38px",
+      "height"  : "12px",
+      "data" : {
+        "ctitle"    : "23 E. A. Bourdelle, <em>Heracles</em>",
+        "citation"  : "Émile Antoine Bourdelle (French, 1861–1929). <em>Herakles Archer</em>, 1908–09. Bronze; 63.5 × 59.5 × 26.4 cm (25 × 23 7/16 × 10 3/8 in.). Williams College Museum of Art, gift of George B. Hayes, Class of 1886, 55.9."
+      }
+  },
+  "l"  : {
+      "left"    : "1672px",
+      "top"     : "781px",
+      "width"   : "43px",
+      "height"  : "33px",
+      "data" : {
+        "ctitle"    : "25 Constantine Brancusi, <em>Sleeping Muse</em>",
+        "citation"  : "Constantin Brâncusi. <em>Sleeping Muse</em>, 1909–11. Plaster. "
+      }
+  },
+  "m"  : {
+      "left"    : "1691px",
+      "top"     : "537px",
+      "width"   : "101px",
+      "height"  : "280px",
+      "data" : {
+        "ctitle"    : "218 1/2 Wilhelm Lehmbruck, <em>Young girl</em>",
+        "citation"  : "Wilhelm Lehmbruck (German, 1881–1919). <em>Standing Woman</em>, 1910. Plaster. Destroyed."
+      }
+  }
+}
+}

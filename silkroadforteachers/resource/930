@@ -1,0 +1,283 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_6b90df586b18e9c46af39d438900707d) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_2dbc006863948bf377676f1ebd0ff1c3) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_2dbc006863948bf377676f1ebd0ff1c3) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_0088bbdfbede4826ff5349096ddafdd7) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_6b90df586b18e9c46af39d438900707d) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_2dbc006863948bf377676f1ebd0ff1c3) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_2dbc006863948bf377676f1ebd0ff1c3) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Create a Chinese Dragon  | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-1829.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/aic_silkroad.gif" alt="The Art Institute of chicago" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/silkroad_header.gif" alt="Silkroad" title="" width="550" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/silkroad">Silk Road, Resources for Teachers</a> > <a href="../Lessons">Lesson Plans</a> > <span class="sel">Create a Chinese Dragon </span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Create a Chinese Dragon </h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Create a Chinese Dragon</strong><br />       <div class="meta">
+    </div>
+  <div class="content">
+<p>
+Students will learn more about dragons in Chinese culture and create a dragon of their own. Designed for use in conjunction with a visit to the Art Institute.
+</p>
+    <div class="image wrap"><img src="../images/E36394.jpg" alt="../images/E36394.jpg" title="../images/E36394.jpg" width="256" height="202" class="inline" /></div>
+
+<p><strong>Name:</strong> Margaret Bahner
+<br /><strong>School:</strong> Illinois School
+<br /><strong>Subject Area:</strong> Art
+
+<br /><strong>Grade Level:</strong> Second and Third Grade</p>
+
+<h3>State Goals</h3>
+<ul><li>25: Know the language of the arts</li>
+<li>26: Through creating, understand how works of art are produced</li>
+<li>27: Understand the role of the arts in civilizations, past and present</li></ul>
+
+<h3>Objectives</h3>
+<p><strong>Students will:</strong>
+<ul><li>Develop an understanding and appreciation of the importance of Chinese dragons in the history of Chinese culture.</li>
+<li>Learn how to prepare and go to a museum that houses original works of art.</li>
+<li>Use their imagination after learning about and viewing dragons at the museum to create a drawing/watercolor painting of a dragon.</li></ul>
+
+<h3>Materials/Resources/Gallery Objects</h3>
+<p><strong>Art Supplies</strong></p>
+<ul><li>9”X 12” Tag board</li>
+
+<li>Pencils</li>
+<li>Erasers</li>
+<li>12”X 18” watercolor paper</li>
+<li>Watercolor trays</li>
+<li>Brushes of various sizes</li>
+<li>Water bowls</li>
+<li>Washcloths</li>
+<li>Colored pencils</li>
+<li>Fine-tipped permanent markers</li></ul>
+
+<p><strong>Links and Media Resources</strong>
+<ul><li><a href="http://www.cdot.org/history/dragon_articles.htm#3%20Types%20of%20Dragons" target="_blank" rel="nofollow">Types of dragons</a></li>
+<li><a href="http://edsitement.neh.gov/view_lesson_plan.asp?id=381" target="_blank" rel="nofollow">Learning about dragons</a></li>
+<li><a href="http://www.chinavoc.com/dragon/default.asp" target="_blank" rel="nofollow">History and culture of dragons</a></li>
+<li><a href="http://www.moonfestival.org/legends/dragon.htm" target="_blank" rel="nofollow">Legend of the Chinese dragon</a></li>
+<li>Dragons, BBC Wildvision for D.K. Vision &amp; Discovery Channel, produced by Michael Waterhouse, directed by Ovidio Salazar [c. 1998]
+<ul><li>Video cassette from the Illinois School Library  (VID 398.24 DR)</li></ul></li></ul>
+<h3>Procedures</h3>
+<strong>Day 1</strong><ol>
+<li>Begin by asking the students:</li>
+<ul>
+<li>Where do dragons come from?</li><li>Are dragons real or imaginary?</li><li> Do you think dragons have a purpose?</li>
+</ul><li>Continue with showing the students a map of the Silk Road regions and explain how dragons originated in China. Read "<a href="http://www.moonfestival.org/legends/dragon.htm">The Legend of the Chinese Dragon</a>" which recounts beliefs about dragons and describes their physical attributes.</li><li>Conclude Day 1 with a description of the field trip to be taken to the Art Institute, consisting of a staged program about dragons and gallery tour of dragons in Chinese art. Go over museum etiquette:</li>
+<ul>
+<li>We stay with our group, parent volunteer or teacher.</li><li>We are quiet and respectful of others who are visiting the museum. </li><li>We never touch the art in the museum because it is valuable, one of a kind and very old.</li></ul><li>Meet docents upon arrival at the Art Institute of Chicago. Hand out tag boards and pencils so that the students can sketch some of the different dragons they see in the museum. These sketches will be used on Day 3 for the watercolor painting.</li></ol><br />
+<p><strong>Day 3</strong></p><p>On the third day students will design a large dragon drawing based on what they have learned about dragons in class and at the Art Institute. They will look at the sketches they’ve done at the Art Institute to help them with the design.</p>
+<ol>
+<li>Each student will receive a piece of watercolor paper. They are to put their name on the paper and turn it over. Review the characteristics of the dragon:
+<ul>
+<li>Body of a snake</li>
+<li>Head of a horse</li>
+<li>Antlers of the deer</li>
+<li>Claws of the eagle</li>
+<li>Beard of a goat</li>
+<li>Scales of a fish</li>
+</ul>
+Begin drawing a large dragon, as this is a big piece of paper. Next they can set the scene and draw the background. Where is the dragon living?</li>
+<li>Students can begin adding watercolor painting to thedrawing. Demonstrate how to wet the paper and use the wet-on-wet technique for the background and dragon. Once dry,demonstrate how to go inside the dragon with smaller brushes to work in the details. Demonstrate how to use the washcloth to sop up unwanted color or puddles of water.</li>
+<li>Once the painting is complete, go back inside and bring out the details that were drawn with colored pencils and fine-tipped permanent markers.</li>
+<li>Attach a nametag to the bottom of the painting and put a title on the work of art. Now the students have created their own interpretation of a Chinese dragon! Hang in the hallway for all the staff and students to enjoy.</li>
+</ol>
+</div><br /><br />
+    	     	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/930_CreatingDragon.pdf">http://www.artic.edu/aic/collections/citi/resources/930_CreatingDragon.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Silk Road, Resources for Teachers </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../about">About the Silk Road</a></li>
+<li class="expanded"><a href="../Lessons">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf active first"><a href="930" class="active">Create a Chinese Dragon </a></li>
+<li class="leaf"><a href="../resource/1527">Cultural Celebrations and Storytelling</a></li>
+<li class="leaf"><a href="../resource/1528">Discovering Silk Road Stories</a></li>
+<li class="leaf"><a href="../resource/1530">From China to Mexico: Silk Road Ceramics</a></li>
+<li class="leaf"><a href="../resource/1531">Introducing Chinese Culture and Art</a></li>
+<li class="leaf"><a href="../resource/1532">Music of the Silk Road</a></li>
+<li class="leaf"><a href="../resource/1533">Silk Road Envelope Book Project</a></li>
+<li class="leaf"><a href="../resource/1534">Silk Road History Lab</a></li>
+<li class="leaf"><a href="../resource/1535">Silk Road Journeys: Analyzing Poetry</a></li>
+<li class="leaf last"><a href="../resource/1536">World Languages and Cultural Exchange</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="../bibliography">Bibliography</a></li>
+<li class="collapsed"><a href="../imagegal">Image Gallery</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="leaf last"><a href="../credits">Credits</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"><div class="relatedimage"><a href="../artwork/147007"><img src="../images/6257_3061014.jpg" alt="Winged Beast (Tomb Figure)" title="China, Winged Beast (Tomb Figure)"  /></a></div> <span class="italic"><a href="../artwork/147007">Winged Beast (Tomb Figure)</a></span>, Western Han dynasty (206 B.C.–9 A.D.)</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

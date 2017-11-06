@@ -1,0 +1,221 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_46fd040abdb73d6d7781d079a5718ac0) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_3a15108a3fb472bec4203ff12a7dce3c) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_46fd040abdb73d6d7781d079a5718ac0) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Alexey Brodovitch  | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-10220.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/aic_Penn.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Penn_hdr.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives">Irving Penn Archives</a> > <a href="../additionalresources">Audio and Other Resources</a> > <span class="sel">Alexey Brodovitch </span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Alexey Brodovitch </h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Overview: Alexey Brodovitch and Irving Penn</strong><br />           	     	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><p>Born in Russia in 1898 to aristocratic parents, Alexey Brodovitch (died 1971) dreamt of becoming an artist when he was a young man but was forced into military service. He served in the Imperial Calvary during World War I, then joined the White Army to fight the Bolsheviks during the Russian Civil War. In 1920, Brodovitch moved to Paris with his wife, Nina, settling with other Russian &eacute;migr&eacute; artists in the Montparnasse neighborhood.</p>
+
+<p>There Brodovitch first took a job painting houses. As he increased his social contacts among artists, he found more artistic work painting sets for the <em>Ballets Russes</em>. His exposure to vanguard art movements such as Constructivism, as well as to the Art Deco style and popular forms of pastiche, fueled an intense interest in photography, typography, and their combinations. Brodovitch began working as a freelance graphic designer, taking commissions for posters, advertisements, and even restaurant menus.</p>
+
+<p>Brodovitch arrived in the United States in 1930 and moved to Philadelphia, where he established the Department of Advertising Design at the Museum School of Industrial Art (now part of the University of the Arts). He introduced his students to cutting-edge magazines and other leading design work from Europe that had not yet had an impact on graphic design in the United States. In 1933, he formed a Design Laboratory course at the college, which met on Saturdays and used contemporary examples and technology to explore innovative design possibilities. As a student at the Museum School of Industrial Art (1934&ndash;38), Irving Penn was one of Brodovitch&#39;s early pupils in the Design Laboratory.</p>
+
+<p>In 1934, <em>Harper&#30;s Bazaar</em> editor Carmel Snow saw Brodovitch&#39;s work in New York City. She immediately suggested the magazine hire him as an art director. He frequently used Surrealist devices in his layouts, which featured constellations of small photographs, a clever use of white space, and contemporary fonts. Penn assisted Brodovitch during the summers of 1937 and 1938 in the art department of <em>Harper&#39;s Bazaar</em>, where he worked on layouts and made drawings or took photographs to illustrate articles. After Penn finished art school, he worked full time at the magazine and was exposed to photographers such as Martin Munkacsi and George Hoyningen-Huene, who were beginning to change the look of fashion photography.</p>
+
+<p>Brodovitch frequently took on extra projects and jobs outside of his duties as art director of <em>Harper&#39;s Bazaar</em>. From 1935 to 1937, he photographed several ballet companies using a 35mm camera and slow exposure time. The resulting ethereal images were published in the 1945 photographic book <a href="http://ryerson.artic.edu/record=b486736~S1"><em>Ballet</em></a>. In addition to personal projects, Brodovitch often sought out freelance design work. In 1939, Brodovitch took a position at the upscale New York City department store, Saks Fifth Avenue. He designed a variety of products for the store, including advertisements, logos, and wrapping paper. Penn worked there as his assistant, and later inherited the position when Brodovitch left in 1941 to take on another freelance position at I. Miller Shoes. In addition to his work at the magazine and freelance commissions, Brodovitch continued to teach his innovative Design Laboratory classes, which from 1941 to 1966 were held as evening sessions in New York City.</p>
+
+<p>During the early 1940s, Brodovitch and other art directors including <a href="../resource/1972" target="_blank">Alexander Liberman</a> (who became art director at the rival fashion magazine <em>Vogue</em> in 1943) were responsible for dramatically changing the design of magazines by including more photographs, experimenting with different fonts and layouts, and seeking different work in photography to match the expression of modernity in their new designs. The dynamism Brodovitch demanded was found in the era&#39;s rising photographers: Penn, who began working at <em>Vogue</em> in 1942, and Richard Avedon, who worked at <em>Harper&#39;s Bazaar</em> from 1945 until he moved to <em>Vogue</em> in 1966.</p>
+
+<p>Two fires in 1956&mdash;one at his farmhouse in Pennsylvania, the other at his home in East Hampton, Long Island, New York&mdash;caused Brodovitch great personal loss, including the destruction of much of his life&#39;s work. Brodovitch, who struggled with alcoholism, was fired in 1958 from <em>Harper&#39;s Bazaar</em>. His wife Nina died the next year, inducing a severe depression for which (along with the alcoholism) he was often hospitalized beginning in the 1960s. In 1967, after breaking his hip, Brodovitch left the United States for a village in southern France, where he died in 1971.</p>
+
+<p>In 1972, the Philadelphia College of Art posthumously awarded Brodovitch a doctorate of fine arts and mounted an <a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/exhibition-history" target="_blank">exhibition</a> titled <em>Alexey Brodovitch and His Influence</em>. The exhibition catalog for the 1972 show contains quotations by many of the artists and designers Brodovitch mentored throughout his long career. Penn, one of Brodovitch&#39;s early prot&eacute;g&eacute;s, said of his teacher and first professional mentor:</p>
+
+<blockquote>This curious, remarkable man who managed somehow to germinate seeds of talent unknown even to the person who carried them. He did this with such regularity and over such a long period of time that chance could not be the explanation.<sup>1</sup></blockquote>
+
+<p><hr /></p>
+<p><sup>1</sup> <sub>Alexey Brodovitch. <em>Alexey Brodovitch and His Influence</em>, Philadelphia College of Art, Philadelphia, 1972, p. 10.</sub></p></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Irving Penn Archives </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../overview">Overview</a></li>
+<li class="collapsed"><a href="../themes">Themes</a></li>
+<li class="collapsed"><a href="../permanent">Images</a></li>
+<li class="collapsed"><a href="../timelines">Timelines</a></li>
+<li class="collapsed"><a href="../resource/1971">About the Artist and Archive</a></li>
+<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/cameras-techniques">Cameras and Techniques</a></li>
+<li class="expanded"><a href="../additionalresources">Audio and Other Resources</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/1951">Recording: 1950 MoMA Symposium</a></li>
+<li class="leaf active"><a href="1973" class="active">Alexey Brodovitch </a></li>
+<li class="leaf"><a href="../resource/1972">Alexander Liberman</a></li>
+<li class="leaf"><a href="../resource/1968">Analysis: <em>Nude No. 130</em></a></li>
+<li class="leaf"><a href="../resource/1969">Analysis: Platinum Prints</a></li>
+<li class="leaf"><a href="../resource/2379">Transcript: Alexey Brodovitch Workshop</a></li>
+<li class="leaf last"><a href="../resource/2380">Transcript: Photography within the Humanities</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="../search">Search</a></li>
+<li class="leaf last"><a href="../thanks">Acknowledgements</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

@@ -1,0 +1,270 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_f0f9085990c757bb7f0eb9c33edc8dbb) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_09522a3bebba20741125a54e49e81b5d) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_09522a3bebba20741125a54e49e81b5d) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_39d37d8efff756bc80b58ae1f5ffa5ee) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_f0f9085990c757bb7f0eb9c33edc8dbb) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_87d5c2bed03f93ab1e6bc7534f9ae953) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_09522a3bebba20741125a54e49e81b5d) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_09522a3bebba20741125a54e49e81b5d) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Make a Coat of Arms | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8930.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_renaissance.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_renaissance.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance">Art Access: Renaissance and Baroque Art</a> > <a href="../family">Family Activities</a> > <span class="sel">Make a Coat of Arms</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Make a Coat of Arms</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Family Activity: Make a Coat of Arms</strong><br />       <div class="content">
+<p>Read about the legend of Saint George and make your own coat of arms. Includes discussion questions, an art-making activity, and a writing activity.</p><br />
+<h3>Introduction:</h3>
+<p>In the 13th century, the Italian bishop Jacobus de Voraigne recorded the <a href="1052#stgeorge">story of Saint George and the dragon</a> in his book <em>The Golden Legend</em>.</p>
+<p>Bernat Martorell’s <a href="../Dragon"><em>Saint George Killing the Dragon</em></a> shows Saint George as he is about to pierce the horrible beast with his lance. When in battle, <a href="1052#knight">knights</a> like Saint George wore suits of <a href="1052#armor">armor</a> to protect themselves. A knight also often wore something over his upper armor called a <a href="1052#surcoat">surcoat</a>. This was decorated with a coat of arms so that people could identify the knight when his helmet covered his face. A coat of arms consisted of an arrangement of <a href="1052#symbol">symbols</a> and colors associated with the knight’s family. Imagine you were a <a href="1052#medieval">medieval</a> knight. What would be on your coat of arms?</p>
+<div class="image wrap"><img src="../images/E11278.jpg" border="0" class="inline" /></div>
+<h3>Discussion Questions:</h3>
+<p>Look at the image of Saint George Killing the Dragon.</p>
+<ul>
+<li>Can you find details of Saint George’s story? The princess and sheep, the dragon’s lair, the bones of his victims, the king and queen?</li>
+<li>Find Saint George’s coat of arms.</li>
+<li>What shape is embroidered on it? (answer at <a href="1052#answers">bottom of page</a>)</li>
+<li>What could this shape stand for? (answer at <a href="1052#answers">bottom of page</a>)</li>
+</ul><br />
+<h3>Activity:</h3>
+<p>Make a surcoat with your coat of arms.<p>
+<div class="image wrap">
+<img src="../images/1052_samples.jpg" border="0" class="inline" /></div>
+<h3>Materials Needed:</h3>
+<ul>
+<li>Posterboard, about 12" x 14" (2 pieces)</li>
+<li>Sturdy paper or fabric, about 1" x 10" (2 pieces)</li>
+<li>Markers, pencils, or crayons</li>
+<li>Aluminum foil</li>
+<li>Cut-out shapes and images from magazines or newspapers</li>
+<li>Glue</li>
+</ul>
+<h3>Steps:</h3>
+<ol>
+<li>Make a list of your favorite colors, belongings, pets, places, past times or hobbies, foods, or toys. This will help you figure out what to include in your coat of arms.</li>
+<li>Make a sandwich board: Connect the short ends of two pieces of posterboard with strips of paper or fabric, leaving at least 6" of slack between the pieces of board and enough space between the strips so that your head fits through. One piece of board is the front of your surcoat and the other is the back. The strips are you shoulder straps.</li>
+<li>Using pencils, crayons, markers, aluminum foil, cut paper, and glue, decorate the front and back of your surcoat with pictures that represent items chosen from your list.</li>
+</ol>
+<h3>More Fun:</h3>
+<p>After reading the story of Saint George and the dragon write your own story about your heroic deeds as a medieval knight.</p>
+<p><a name="stgeorge" id="stgeorge"></a><strong>Saint George and the Dragon</strong><br />
+<p>Outside the walls of a town there dwelt a horrible dragon. To calm the fury of this monster, each day the king, queen, and townspeople offered it one sheep and one person. The unfortunate person’s name was drawn in a lottery, and the lot for this day had fallen upon the daughter of the king.</p>
+<p>"Take ye my gold and my silver. And half my kingdom," cried the king to his people, "but give back my daughter, that she may be spared so dreadful a death!" But no one would take her place, and the princess went and stood with a sheep before the dragon’s lair.</p>
+<p>Riding his horse, Saint George happened upon the princess. He asked the cause of her trouble. She replied," Brave knight, get away with all speed, lest thou die the same death that awaits me!" "Be without fear," said Saint George, "for in the name of my church I will save thee!"</p>
+<p>Suddenly, the dragon emerged from its lair. Under its wings were strewn many bones of its past victims. Saint George, holding high his pointed lance, set bravely upon the dragon and…slayed the monster with one blow!</p>
+<ul>
+<li>Who will you save?
+<li>Against whom or what will you battle?
+<li>Will there be a reward for you at the end? 
+</ul>
+<h3>Glossary:</h3>
+<p><a name="armor" id="armor"></a><strong>armor</strong> (<em>n</em>)<br />
+a defensive covering for the body, made of metal and used in battle during the Middle Ages, Renaissance, and Baroque periods</p>
+<p><a name="knight" id="knight"></a><strong>knight</strong> (<em>n</em>)<br />
+man of noble birth and member of the king’s core army who provided military protection to the king and his feudal lords.</p>
+<p><a name="medieval" id="medieval"></a><strong>medieval, Middle Ages</strong> (<em>adj</em>)<br />
+period in European history between Classical antiquity and the Renaissance (from about A.D. 500 to around 1500); of (or in the style of) the Middle Ages</p>
+<p><a name="surcoat" id="surcoat"></a><strong>surcoat</strong> (<em>n</em>) <br />
+a sleeveless garment worn over armor</p>
+<p><a name="symbol" id="symbol"></a><strong>symbol</strong> (<em>n</em>) <br />
+something that stands for or represents something else; a visible sign of an abstract trait or idea (such as a nation’s flag)</p><br /><br />
+<p><strong>Answers to Discussion questions:</strong></p>
+<ol>
+<li>St. George's coat of arms is embroidered with <strong>a cross</a></li>
+<li>The cross is a symbol of the Christian religion. By wearing the cross, Saint George shows his devotion to his faith.</li>
+</ol>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001052.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001052.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Renaissance and Baroque Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Dragon">Artworks</a></li>
+<li class="collapsed"><a href="../lesson">Lesson Plans</a></li>
+<li class="expanded"><a href="../family">Family Activities</a>
+<ul class="menu">
+<li class="leaf active first"><a href="1052" class="active">Make a Coat of Arms</a></li>
+<li class="leaf"><a href="../resource/1053">What a Relief!</a></li>
+<li class="leaf last"><a href="../resource/1051">Family Portrait</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1873">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/15468">Saint George and the Dragon</a></span>, 1434/35</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

@@ -1,0 +1,281 @@
+{
+"map"       : "50-ne_2000.jpg",
+"mapwidth"  : "2000px", 
+"mapheight" : "1333px",
+"areas"     : {
+    "d"  : {
+        "width"   : "80px",
+        "height"  : "84px",
+        "left"    : "1872px",
+        "top"     : "844px",
+        "data" : {
+          "ctitle"    : "24 Constantine Brancusi, <em>The kiss</em>",
+          "citation"  : "Constantin Brâncusi (French, born Romania, 1876-1957), <em>The Kiss</em>, 1908. Plaster."
+        }
+    },
+    "e"  : {
+        "width"   : "44px",
+        "height"  : "144px",
+        "left"    : "1828px",
+        "top"     : "790px",
+        "data" : {
+          "ctitle"    : "3 Alexandre Archipenko, <em>Colored Woman</em>",
+          "citation"  : "Alexander Archipenko (American, born Ukraine, 1887–1964), <em>N&eacute;gresse</em>, 1911. Cement. Approximately 17 inches high (43.1 cm). Private collection."
+        }
+    },
+    "f"  : {
+        "width"   : "48px",
+        "height"  : "88px",
+        "left"    : "1780px",
+        "top"     : "855px",
+        "data" : {
+          "ctitle"    : "4 Alexandre Archipenko, <em>Repose</em>",
+          "citation"  : "Alexander Archipenko (American, born Ukraine, 1887–1964), <em>Repose</em>, 1911. Plaster."
+        }
+    },
+    "g"  : {
+        "width"   : "85px",
+        "height"  : "180px",
+        "left"    : "1695px",
+        "top"     : "770px",
+        "data" : {
+          "ctitle"    : "27 Constantine Brancusi, <em>Miss Pogany</em>",
+          "citation"  : "Constantin Brâncusi  (French, born Romania, 1876-1957), <em>Mlle. Pogany</em>, 1912. Plaster. Sculpture: 17 7/8 x 9 3/16 x 9 3/16 in. (45.5 x 23.4 x 23.4 cm); Base: 6 7/8 in. high x 7 1/2 in. (17.5 cm high x 19 cm). Musée National de l’Art Moderne, Paris. Bequest of Constantin Brâncusi 1957, AM 4002-50."
+        }
+    },
+    "h1"  : {
+        "width"   : "80px",
+        "height"  : "356px",
+        "left"    : "1020px",
+        "top"     : "590px",
+        "group"   : "h",
+        "data"    : {
+          "joyride-stop" : true
+        }
+    },
+    "h2"  : {
+        "width"   : "120px",
+        "height"  : "81px",
+        "left"    : "1100px",
+        "top"     : "865px",
+        "group"   : "h"
+    },
+    "i"  : {
+        "width"   : "37px",
+        "height"  : "65px",
+        "left"    : "835px",
+        "top"     : "785px",
+        "data" : {
+          "ctitle"    : "26 Constantine Brancusi, <em>A muse</em>",
+          "citation"  : "Constantin Brâncusi (French, born Romania, 1876-1957), <em>Muse</em>, 1912. Plaster."
+        }
+    },
+    "j"  : {
+        "width"   : "51px",
+        "height"  : "60px",
+        "left"    : "784px",
+        "top"     : "792px",
+        "data" : {
+          "ctitle"    : "135 Paul Gauguin, <em>Wood Sculpture</em> (Lent by M. E. Duret)",
+          "citation"  : "Paul Gauguin  (French, 1848–1903), <em>Cylinder with Two Figures</em>, 1891–1893. Wood. 14 in. high (35.5 cm)."
+        }
+    },
+    "k"  : {
+        "width"   : "60px",
+        "height"  : "70px",
+        "left"    : "724px",
+        "top"     : "784px",
+        "data" : {
+          "ctitle"    : "23 E. A. Bourdelle, <em>Heracles</em>",
+          "citation"  : "&Eacute;mile Antoine Bourdelle (French, 1861-1929), <em>Herakles Archer</em>, 1908–1909. Bronze. 25 x 23 7/16 x 10 3/8 in. (63.5 x 59.5 x 26.4 cm). Williams College Museum of Art. Gift of George B. Hayes, Class of 1886, 55.9."
+        }
+    },
+    "l"  : {
+        "width"   : "50px",
+        "height"  : "42px",
+        "left"    : "672px",
+        "top"     : "812px",
+        "data" : {
+          "ctitle"    : "25 Constantine Brancusi, <em>Sleeping Muse</em>",
+          "citation"  : "Constantin Brâncusi, <em>Sleeping Muse</em>, 1909–1911. Plaster."
+        }
+    },
+    "m"  : {
+        "width"   : "85px",
+        "height"  : "305px",
+        "left"    : "570px",
+        "top"     : "660px",
+        "data" : {
+          "ctitle"    : "218 1/2 Wilhelm Lehmbruck, <em>Young girl</em>",
+          "citation"  : "Wilhelm Lehmbruck (German, 1881–1919), <em>Standing Woman</em>, 1910. Plaster. Destroyed."
+        }
+    },
+    "n"  : {
+        "width"   : "146px",
+        "height"  : "105px",
+        "left"    : "5px",
+        "top"     : "755px",
+        "data" : {
+          "ctitle"    : "150 Pierre Girieud, <em>Tribute to Gauguin</em> (Lent by M. E. Druet)",
+          "citation"  : "Pierre Girieud (French, 1875-1940), <em>Homage to Gauguin</em>, 1906. Gouache, 19 3/4 x 29 1/2 in. ( 50.2 x 74.9 cm)."
+        }
+    },
+    "o"  : {
+        "width"   : "110px",
+        "height"  : "96px",
+        "left"    : "364px",
+        "top"     : "755px",
+        "data" : {
+          "owned"       : true,
+          "thumbnail"   : "lestaque_charmy_200.jpg",
+          "artist"      : "Emilie Charmy",
+          "period"      : "French, 1880&ndash;1974",
+          "title"       : "<em>L'Estaque</em>, c. 1910",
+          "medium"      : "Oil on canvas; 57.3 x 73.7 cm (22 1/2 x 29 in.)",
+          "collection"  : "Arthur Jerome Eddy Memorial Collection, gift of Elizabeth Day McCormick, 1931.518",
+          "description" : "Emilie Charmy was a self-taught painter who exhibited with the Fauves. Here she employed her vividly colored Fauvist palette and rapid brushwork to depict a view of L’Estaque, the small French fishing village made famous by the landscapes of Paul C&eacute;zanne and later Georges Braque. Modern art dealer Emile Druet lent three paintings by Charmy to the Chicago presentation, where they hung in the French gallery alongside works by Henri Matisse.",
+          "link"        : "http://www.artic.edu/aic/collections/artwork/9010?search_no=30&index=0",
+          "ctitle"      : "64 Emilie Charmy, <em>Landscape</em>",
+          "citation"    : "Emilie Charmy (French, 1878–1974), <em>L’Estaque</em>, c. 1910. Oil on canvas. 22 1/2 x 29 in. (57.3 x 73.7 cm). The Art Institute of Chicago. Arthur Jerome Eddy Memorial Collection, gift of Elizabeth Day McCormick, 1931.518."
+        }
+    },
+    "p"  : {
+        "width"   : "190px",
+        "height"  : "80px",
+        "left"    : "680px",
+        "top"     : "700px",
+        "data" : {
+          "ctitle"    : "20 Pierre Bonnard, <em>A Provencale conversation</em> (Lent by Bernheim Jeune and Co.)",
+          "citation"  : "Pierre Bonnard (French, 1867–1947), <em>Proveçale Conversation</em>, 1911, reworked by the artist in 1927. Oil on canvas. 49 1/4 x 80 3/4 in. (125.1 x 205.1 cm). National Gallery, Prague."
+        }
+    },
+    "q"  : {
+        "width"   : "88px",
+        "height"  : "124px",
+        "left"    : "875px",
+        "top"     : "716px",
+        "data" : {
+          "ctitle"    : "407 Felix Vallotton, <em>Woman reading</em>",
+          "citation"  : "F&eacute;lix Vallotton (French, born Switzerland, 1865-1925), <em>Woman Reading</em>, 1907. Oil on canvas. 39 3/8 x 31 7/8 in. (100 x 81 cm). Private collection."
+        }
+    },
+    "r"  : {
+        "width"   : "55px",
+        "height"  : "115px",
+        "left"    : "965px",
+        "top"     : "725px",
+        "data" : {
+          "ctitle"    : "406 Felix Vallotton, <em>Woman dressing her hair</em>",
+          "citation"  : "F&eacute;lix Vallotton (French, born Switzerland, 1865-1925), <em>Coiffure</em>, 1911. Oil on canvas. 39 x 31 7/8 in. (99 x 81 c.)."
+        }
+    },
+    "s"  : {
+        "width"   : "25px",
+        "height"  : "165px",
+        "left"    : "1100px",
+        "top"     : "670px",
+        "data" : {
+          "ctitle"    : "52 Auguste Chabaud, <em>The flock after the rain</em> (Lent by John Quinn)",
+          "citation"  : "Auguste Elisee Chabaud (French, 1882-1955), <em>The Flock After the Rain</em>, 1912. Oil on canvas, approximately 30 x 41 in. (76.2 x 104.1 cm)."
+        }
+    },
+    "t"  : {
+        "width"   : "30px",
+        "height"  : "58px",
+        "left"    : "1128px",
+        "top"     : "725px",
+        "data" : {
+          "ctitle"    : "238 Henri Matisse, <em>Joaquina</em> (Lent by Bernheim Jeune and Co.)",
+          "citation"  : "Henri Matisse (French, 1869–1954), <em>Joaquina</em>, 1911. Oil on canvas. 21 5/8 x 14 15/16 in. (55 x 38 cm). National Gallery, Prague, Czech Republic."
+        }
+    },
+    "u"  : {
+        "width"   : "30px",
+        "height"  : "54px",
+        "left"    : "1128px",
+        "top"     : "784px",
+        "data" : {
+          "ctitle"    : "250 Henri Matisse, <em>Study</em> (Lent by George F. Of)",
+          "citation"  : "Henri Matisse (French, 1869–1954), <em>Nude in a Wood</em>, 1906. Oil on board mounted on panel. 16 x 12 3/4 in. (40.6 x 32.4 cm). The Brooklyn Museum, New York. Gift of George F. Of, 52.150."
+        }
+    },
+    "v"  : {
+        "width"   : "60px",
+        "height"  : "105px",
+        "left"    : "1160px",
+        "top"     : "740px",
+        "data" : {
+          "ctitle"    : "241 Henri Matisse, <em>Young sailor</em>",
+          "citation"  : "Henri Matisse (French, 1869–1954), <em>The Young Sailor II</em>, 1906. Oil on canvas. 40 x 32 3/4 in. (101.6 x 83.2 cm). The Metropolitan Museum of Art, New York. Jacques and Natasha Gelman Collection, 1998, 1999.363.41."
+        }
+    },
+    "w"  : {
+        "width"   : "55px",
+        "height"  : "112px",
+        "left"    : "1220px",
+        "top"     : "730px",
+        "data" : {
+          "ctitle"    : "245 Henri Matisse, <em>Portrait of Marguerite</em>",
+          "citation"  : "Henri Matisse (French, 1869–1954), <em>Girl with a Black Cat</em>, 1910. Oil on canvas. 37 x 25 1/4 in. (94 x 64.1 cm). Private Collection, Paris."
+        }
+    },
+    "x"  : {
+        "width"   : "96px",
+        "height"  : "200px",
+        "left"    : "1275px",
+        "top"     : "650px",
+        "data" : {
+          "ctitle"    : "246 Henri Matisse, <em>Nasturtiums</em>",
+          "citation"  : "Henri Matisse (French, 1869–1954), <em>Nasturtiums with the Painting \"Dance,\"</em> 1912. Oil on canvas. 75 1/2 x 45 3/8 in. (191.8 x 115.3 cm). The Metropolitan Museum of Art, New York. Bequest of Scofield Thayer, 1982, 1984.433.16."
+        }
+    },
+    "y"  : {
+        "width"   : "96px",
+        "height"  : "234px",
+        "left"    : "1372px",
+        "top"     : "616px",
+        "data" : {
+          "ctitle"    : "244 Henri Matisse, <em>Luxury</em>",
+          "citation"  : "Henri Matisse (French, 1869–1954), <em>Le Luxe, II</em>, 1907/08. 82 1/2 x 54 3/4 in (209.6 x 139.1 cm). The Royal Museum of Fine Arts, Copenhagen. J. Rump Collection."
+        }
+    },
+    "z1"  : {
+        "width"   : "296px",
+        "height"  : "175px",
+        "left"    : "1485px",
+        "top"     : "590px",
+        "group"   : "z"
+    },
+    "z2"  : {
+        "width"   : "205px",
+        "height"  : "110px",
+        "left"    : "1485px",
+        "top"     : "765px",
+        "group"   : "z"
+    },
+    "ddd"  : {
+        "width"   : "58px",
+        "height"  : "66px",
+        "left"    : "1157px",
+        "top"     : "673px",
+        "data" : {
+          "ctitle"    : "247 Henri Matisse, <em>Still Life</em>",
+          "citation"  : "Henri Matisse (French, 1869-1954). <em>L'Ilyssus du Parth&eacute;non</em>, 1908. Oil on canvas; 61 x 73 cm (24 x 28 3/4 in.). Private collection."
+        }
+    }
+},
+"groups" : {
+  "h" : {
+    "data" : {
+      "ctitle"    : "218 Wilhelm Lehmbruck, <em>Woman Kneeling</em>",
+      "citation"  : "Wilhelm Lehmbruck (German, 1881–1919), <em>Kneeling Woman</em>, 1911. Cast stone. 69 1/4 x 54 1/2 x 27 1/2 in. (175.89 x 138.43 x 69.85 cm.) Albright-Knox Art Gallery, Buffalo. Charles Clifton Fund, 1938:12."
+    }
+  },
+  "z" : {
+    "data" : {
+      "ctitle"    : "242 Henri Matisse, <em>Red Panel</em>",
+      "citation"  : "Henri Matisse (French, 1869–1954), <em>The Red Studio</em>, fall 1911. Oil on canvas, 71 1/4 x 86 1/4 in. (181 x 219.1 cm). The Museum of Modern Art, New York. Mrs. Simon Guggenheim Fund, 8.1949."
+    }
+  }
+}
+}

@@ -1,0 +1,210 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_b6d74e1b6c9aa92e1dfda33cc51a2123) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_e2375dc53546a7a8e0755fe4c66c5fee) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_e2375dc53546a7a8e0755fe4c66c5fee) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_52e4d6451e55c974ec0bcc160755093f) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_b6d74e1b6c9aa92e1dfda33cc51a2123) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_87d5c2bed03f93ab1e6bc7534f9ae953) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_e2375dc53546a7a8e0755fe4c66c5fee) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_e2375dc53546a7a8e0755fe4c66c5fee) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Map | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<script type='text/javascript' src='http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAAFF_WC1caP8MqSY2IpK3vRRTfpeXB0ZEvC_rFQysW8umeeP2sRTji4Bjd-_ZUZ5uq7yaOW1VqbWgfQ'></script>
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8930.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/aicmaps-gmaps.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "aicmaps": { "map": "aicmap", "kml": "http://www.artic.edu/aic/collections/citi/resources/Rsrc_001873.kml" } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_renaissance.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_renaissance.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance">Art Access: Renaissance and Baroque Art</a> > <span class="sel">Map</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Map</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Map: Renaissance and Baroque Art</strong><br />       <p>Click on the colored areas or the markers on the map below to see the context of various works of Renaissance and Baroque art.</p><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		  
+
+
+<div id='aicmap' style='width: 545px; height: 331px'></div>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Renaissance and Baroque Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Dragon">Artworks</a></li>
+<li class="collapsed"><a href="../lesson">Lesson Plans</a></li>
+<li class="collapsed"><a href="../family">Family Activities</a></li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf active"><a href="1873" class="active">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/110760">The Adventures of Ulysses</a></span>, 1435/45</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/23972">Virgin and Child with the Young Saint John the Baptist</a></span>, c. 1515</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/59856">The Crucifixion</a></span>, 1538</li></ul><p><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/resource/morerelatedartworks" class="morerelatedartworks">More related artworks&hellip;</a></p></div><div id="relatedArtworksMore"><ul><li class="first"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/110760">The Adventures of Ulysses</a></span>, 1435/45</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/23972">Virgin and Child with the Young Saint John the Baptist</a></span>, c. 1515</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/59856">The Crucifixion</a></span>, 1538</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/15468">Saint George and the Dragon</a></span>, 1434/35</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/106187">Armor</a></span>, 1570/80</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/5848">Landscape with Saint John on Patmos</a></span>, 1640</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/11434">Salome with the Head of Saint John the Baptist</a></span>, c. 1639/42</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/95998">Old Man with a Gold Chain</a></span>, 1631</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/75520">The Omval</a></span>, 1645</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/27310">The Holy Family with Saints Elizabeth and John the Baptist</a></span>, c. 1615</li><li><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/60755"><img src="../images/2626_3060714.jpg" alt="Landscape with the Ruins of the Castle of Egmond" title="Jacob van Ruisdael
+Dutch, c.1628-1682, Landscape with the Ruins of the Castle of Egmond"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/60755">Landscape with the Ruins of the Castle of Egmond</a></span>, 1650/55</li><li><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/62042"><img src="../images/4839_3060864.jpg" alt="Still Life with Dead Game, Fruits, and Vegetables in a Market" title="Frans Snyders
+Flemish, 1579-1657, Still Life with Dead Game, Fruits, and Vegetables in a Market"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/62042">Still Life with Dead Game, Fruits, and Vegetables in a Market</a></span>, 1614</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/561">The Family Concert</a></span>, 1666</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/87479">The Assumption of the Virgin</a></span>, 1577/79</li><li><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/44741"><img src="../images/2340_3060702.jpg" alt="The Annunciation" title="Alessandro Vittoria
+Italian, 1525—1608, The Annunciation"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/44741">The Annunciation</a></span>, c. 1583</li><li class="last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/80084">The Crucifixion</a></span>, 1627</li></ul><p><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/resource/lessrelatedartworks" class="lessrelatedartworks">&hellip;Fewer related artworks</a></p></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

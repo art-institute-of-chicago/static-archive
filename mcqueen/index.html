@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  <!-- Facebook share metadata -->
+  <meta property="og:url" content="/mcqueen" />
+  <meta property="og:title" content="Steve McQueen" />
+  <meta property="og:description" content="Steve McQueen has had a nearly 20-year career as a visual artist working primarily in moving images. As the holder of the largest collection of work by McQueen in any museum in the United States, the Art Institute of Chicago is proud to present, in the first large-scale survey ever devoted to the artist, 15 of his works, including one created specially for the exhibition and on view for the first time." />
+  <meta property="og:image" content="works/charlotte_480.png" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+
+  <title>Steve McQueen</title>
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+
+  <!-- Included CSS Files (Uncompressed) -->
+  <link rel="stylesheet" href="foundation.css">
+  <link rel="stylesheet" href="style.css" type="text/css"/>
+
+  <script src="jquery.js"></script>
+  <script src="modernizr.foundation.js"></script>
+  <script src="foundation.min.js"></script>
+  <script src="jquery.foundation.navigation.js"></script>
+  <script src="jquery.fleximap.js"></script>
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="waypoints.min.js" type="text/javascript"></script>
+  <script src="jquery.color.js" type="text/javascript"></script>
+  <script src="jquery.scrollTo-1.4.3-min.js" type="text/javascript"></script>
+
+  <style type="text/css">
+    div#main-image {
+      width:100% !important;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      height:100%;
+      cursor:pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="row near-full-height">
+    <div class="twelve columns full-height">
+      <div id="main-image">
+        <!-- main landing image -->
+      </div>
+    </div>
+  </div>
+
+  <div id="header-padding" class="row" style="height:8px;"></div>
+  <div id="header-waypoint"></div>
+  <header class="row">
+    <div class="six columns">
+        <div id="title-container">
+          <img class="header-title red" src="mcqueen-red.png" alt="Steve McQueen"/>
+          <img class="header-title black" src="mcqueen-black.png" alt="Steve McQueen"/>
+        </div>
+          <a href="http://www.artic.edu" id="home-link">&nbsp;</a>
+    </div>
+    <div class="six columns">
+      <div id="date-container">
+        <img class="header-date red" src="mcqueen-date-red.png" alt="October 21, 2012-January 6, 2013"/>
+        <img class="header-date black" src="mcqueen-date-black.png" alt="October 21, 2012-January 6, 2013"/>
+      </div>
+    </div>
+  </header>
+
+  <div id="first-stop" class="row spacer hide-for-small"></div>
+
+  <div id="bottom-container">
+
+  <div class="row">
+    <div class="eight columns centered">
+      <article class="panel radius">
+        <p>Steve McQueen is an internationally acclaimed artist whose work is primarily engaged with moving images. Born in London in 1969, he has, over the last twenty years, made a series of film and video installations designed for gallery-based presentation, along with two feature films made for cinematic release. His efforts in these two distinct, but interrelated, arenas have earned him a reputation as one of the most important and influential artists of his generation working with these media, and beyond. McQueen's earliest works are silent, and mostly black-and-white, often with a focus on the body, very often the artist’s own. Subsequent pieces incorporate, as a general rule, sound and color, and often emerge from more elaborate investigations.</p>
+        <div id="read-more" class="read-more">
+          <p>McQueen has been equally concerned with the act of recording moving images as he is with the specific conditions in which these images are presented. The size of the screen, the dimensions of the room, and the relationship between the viewer and the projection itself are all fundamental considerations. McQueen's thinking about formal and spatial relationships in this regard lends a sculptural element to his art. One work in particular, <em>Queen and Country</em> (2007–09), is an entirely sculptural installation with no moving image or sound component. Presented here for the first time outside of the United Kingdom, the work is a memorial to British men and women killed in military service during the most recent war in Iraq.</p>
+          <p style="padding-bottom:17px;">Most of McQueen's oeuvre&mdash;including his gallery-based installations as well as feature films&mdash;evidences a potent, at times oblique, political consciousness. Many works address specific social and historical moments in ways that seemingly emerge from documentary or journalistic impulses. Other films are more abstract, their meanings shaped by allegory or metaphor. McQueen always communicates directly to viewers through what one writer termed "the medium of aesthetic affect."</p></p>
+        </div>
+
+        <p><a href="javascript:;" id="read-more-link">Read more</a></p>
+
+        <p><strong>Explore the floor plan</strong></p>
+        <div id="floor-plan-supercontainer">
+          <div id="floor-plan-container"></div>
+        </div>
+
+        <div id="social-icons-container">
+          <a href="http://www.facebook.com/share.php?u=/mcqueen&t=Steve%20McQueen" target="_blank"><img src="facebook-white_16.gif"/></a>
+          <a href="http://twitter.com/?status=Check+out+the+first+large-scale+survey+devoted+to+awarding-winning+visual+artist+Steve+McQueen%3A+http%3A%2F%2Fow.ly%2FelJZy+%40artinstitutechi" target="_blank"><img src="twitter-white_16.gif"/></a>
+        </div>
+
+      </article>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="four columns offset-by-two end">
+<!--
+      <article class="panel radius" id="related-events-container">
+        <p id="related-events"></p>
+        <br />
+        <p class="smalltext"><a href="http://www.artic.edu/calendar?keyword=mcqueen"><strong>See more related events</strong></a></p>
+      </article>
+-->
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="eight columns centered">
+      <ul class="button-group even four-up">
+        <li><a href="http://www.artic.edu/tickets" class="button radius">Buy Tickets</a></li>
+        <li><a href="https://www.artic.edu/aic/joinnow/Membership.aspx" class="button radius">Become a Member</a></li>
+        <li><a href="http://www.artic.edu/e-news" class="button radius">Stay Informed</a></li>
+        <li><a href="javascript:;" class="button radius" data-reveal-id="credits-modal" data-animation="fade" data-dismiss-modal-class="close-modal">Sponsors</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="row half-spacer hide-for-small" ></div>
+  <div class="row half-spacer show-for-small" ></div>
+
+  <!-- hidden at load -->
+  <div id="modal-containment-area">
+    <div class="reveal-modal medium panel radius" id="credits-modal">
+      <p>This exhibition is organized by the Art Institute of Chicago and Schaulager, Basel, Switzerland.</p>
+      <p>Lead sponsorship is provided by Donna and Howard Stone. Major funding is provided by the Andy Warhol Foundation for the Visual Arts and the Lannan Foundation. Co-sponsorship is provided by Stephanie Skestos Gabriele and James Gabriele and Barbara Ruben. Additional funding is provided by Judith Neisser and Penelope Steiner. Generous annual support is also provided by the Exhibitions Trust: Goldman Sachs, Kenneth and Anne Griffin, Thomas and Margot Pritzker, the Earl and Brenda Shapiro Foundation, the Trott Family Foundation, and the Woman’s Board of the Art Institute of Chicago.</p>
+      <p class="modal-caption">TOP IMAGE: STEVE MCQUEEN. <EM>CHARLOTTE</EM>, 2004. COURTESY OF THE ARTIST; MARIAN GOODMAN GALLERY, NEW YORK/PARIS; AND THOMAS DANE GALLERY, LONDON.</p>
+      <p><a href="javascript:;" class="close-modal">Return to page</a></p>
+    </div>
+  </div>
+
+  </div>
+
+  <script type="text/javascript">
+
+    function imageFade(container, direction) {
+      if(direction === "down") {
+        $(container).find('img.red').animate({'opacity':'0','-ms-filter':'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)'}, 1000);
+        $(container).find('img.black').animate({'opacity':'1','-ms-filter':'progid:DXImageTransform.Microsoft.Alpha(Opacity=100)'}, 1000);
+        $(container).animate({'background-color':'#ae2126'}, 1000);
+      } else {
+        $(container).find('img.red').animate({'opacity':'1','-ms-filter':'progid:DXImageTransform.Microsoft.Alpha(Opacity=100)'}, 1000);
+        $(container).find('img.black').animate({'opacity':'0','-ms-filter':'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)'}, 1000);
+        $(container).animate({'background-color':'#171217'}, 1000);
+      }
+    }
+
+    function launchModal(area) {
+      var id = $(area).attr('id');
+      if(!$('#' + id + '-modal').length) {
+        var title = $(area).data('title') ? $(area).data('title') : '';
+        var text = $(area).data('text') ? $(area).data('text') : '';
+        var image = $(area).data('image') ? '<img src="/' + $(area).data('image') + '" class="modal-thumbnail"/>' : '';
+        var medium = $(area).data('medium') ? $(area).data('medium') : '';
+        var caption = $(area).data('caption') ? $(area).data('caption') : '';
+        var modal = '<div class="reveal-modal medium panel radius" id="' + id + '-modal">' + 
+          '<p class="modal-title">' + title + '</p>' + 
+          '<p class="modal-medium">' + medium + '</p>' +
+          '<p>' + image + text + '</p>' + 
+          '<p class="modal-caption">' + caption + '</p>' +
+          '<p><a href="javascript:;" class="close-modal">Return to page</a></p></div>';
+        $('#modal-containment-area').append(modal);
+      }
+      $('#' + id + '-modal').reveal({animation:'fade', dismissModalClass:'close-modal'});  
+    }
+
+    // trigger selector, container selector, eg. '#read-more'
+    function expandSize(trigger, container) {
+      var startheight = $(container).height();
+      var fullheight = $(container).css('height', 'auto').height();
+      $(container).css('height', startheight);
+      $(trigger).on('click', function() {
+        var currheight = $(container).height();
+        $(trigger).html(currheight == 0 ? "Read less" : "Read more");
+        $(container).animate({
+          'height' : (currheight == 0 ? fullheight : '0')
+        }, 500);
+      });
+    }
+
+    function mapHighlight(area, toggle) {
+      var hotspots = [];
+      if($(area).data('group')) {
+        var group = $(area).data('group');
+        $('.fleximap-area').each(function(k,a) {
+          if($(a).data('group') == group) {
+            hotspots.push(a);
+          }
+        });
+      } else {
+        hotspots.push(area);
+      }
+
+      if(toggle) {
+        var stylez = {'opacity' : '1'};
+      } else {
+        var stylez = {'opacity' : '0'};
+      }
+
+      $.each(hotspots, function(k,v) {
+        $(v).children('.fleximap-overlay').css(stylez);
+      });
+    }
+
+    function displayEvents(data) {
+      var i = 0;
+      var lastdate = '';
+      var container = $('#related-events');
+      while(i < 8 && i < data.length) {
+        if(data[i]['date'] != lastdate) {
+          if(lastdate != '') {
+            $(container).append('<br />');
+          }
+          lastdate = data[i]['date'];
+          var dateline = '<span class="dateline">' + lastdate + '</span><hr />';
+          $(container).append(dateline);
+        }
+        var event = '<a href="/' + data[i]['url'] + '">' + data[i]['title'] + '</a><br />';
+        $(container).append(event);
+        i += 1;
+      }
+    }
+
+    $.ajax({
+      url: "floor-plan.json",
+      dataType: "json",
+      success: function(data) {
+        $('#floor-plan-container').flexiMap(data);
+      },
+      error: function(xhr, status, error) {
+        console.error(status + ': ' + error.message);
+      }
+    });
+
+    $(window).load(function() {
+
+      $('#main-image').click(function() {
+        $.scrollTo($('#header-waypoint'), {
+          axis: 'y',
+          duration: 1500,
+          easing: 'swing'
+        });
+      });
+
+      if($(window).width() > 767) {
+        $('#header-waypoint').waypoint(function(event, direction) {
+          switch(direction) {
+            case "down":
+              $('header').css({'position':'fixed'});
+              $('#header-padding').css('height','85px');
+              imageFade($('header'), "down");
+              break;
+            case "up":
+              $('header').css({'position':'relative'});
+              $('#header-padding').css('height','8px');
+              imageFade($('header'), "up");
+              break;
+          }
+        });
+      }
+
+      $('#main-image').css('background','url(charlotte_2000.jpg) no-repeat top left fixed');
+
+      // read more
+      expandSize('#read-more-link', '#read-more');
+
+      // related events feed
+      $.get("/calendar", {'url' : 'http://www.artic.edu/calendar?keyword=mcqueen'}, function(data) {displayEvents(data);}, 'json');
+
+      $(window).resize(function() {
+        $('#floor-plan-container').flexiMap('resize');
+        $('#read-more-link').off('click');
+        expandSize('#read-more-link', '#read-more');
+      });
+
+    });
+
+  </script>
+
+  <script type="text/javascript">
+    // google analytics 
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount','UA-4351925-1']);
+    _gaq.push(['_setDomainName', 'artic.edu']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_setSiteSpeedSampleRate', 20]);
+    _gaq.push(['_trackPageview']);
+    (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0];
+       s.parentNode.insertBefore(ga, s);
+     })();
+  </script>
+
+  <!--
+  Start of DoubleClick Floodlight Tag: Please do not remove
+  Activity name of this tag: McQueen Landing Page
+  URL of the webpage where the tag is expected to be placed: /mcqueen
+  Creation Date: 10/10/2012
+  -->
+  <script type="text/javascript">
+    var axel = Math.random() + "";
+    var a = axel * 10000000000000;
+    document.write('<iframe src="http://2676259.fls.doubleclick.net/activityi;src=2676259;type=aic20095;cat=mcque393;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+  </script>
+  <noscript>
+    <iframe src="http://2676259.fls.doubleclick.net/activityi;src=2676259;type=aic20095;cat=mcque393;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+  </noscript>
+  <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+</body>
+</html>

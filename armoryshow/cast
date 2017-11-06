@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>The Cast</title>
+
+  
+    <meta property="og:title" content="The Cast" itemprop="name">
+  <meta name="twitter:title" content="The Cast">
+
+
+
+    <meta property="og:url" content="/armoryshow/cast">
+  <meta name="twitter:url" content="/armoryshow/cast">
+
+    <meta property="og:type" content="website"> 
+  
+
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery.js" type="text/javascript"></script>
+    
+  <script src="modernizr.foundation.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.navigation.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.tooltips.js" type="text/javascript"></script>
+    
+  <script src="gallery.js" type="text/javascript"></script>
+    
+  <script src="jquery.fleximap.js" type="text/javascript"></script>
+    
+  <script src="armoryshow.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+  
+
+  <style type="text/css">
+
+    html { 
+    
+    background-image: url('315-grand-staircase_2000.jpg');
+    
+    background-position:top center;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+    }
+
+  </style>
+
+  <header>
+    <table width="100%">
+      <tr>
+        <td width="42%">
+
+          <a href="http://www.artic.edu">
+            <img src="armoryshow-logo.png" id="main-logo"/>
+          </a>
+
+        </td>
+        <td width="16%" style="vertical-align:middle">
+
+          <h2>The Cast</h2>
+
+        </td>
+        <td width="42%">
+
+          <nav id="main-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+                <a href="cast#">Explore</a><a href="cast#" class="flyout-toggle"><span> </span></a>
+                <ul class="flyout small right">
+                  <li ><a href="/armoryshow">Introduction</a></li>
+                  <li ><a href="/armoryshow/setting-the-stage">Setting the Stage</a></li>
+                  <li class="active"><a href="cast">The Cast</a></li>
+                  <li ><a href="/armoryshow/show">The Show</a></li>
+                  <li ><a href="/armoryshow/program-notes">The Program Notes</a></li>
+                  <li ><a href="/armoryshow/audience">The Audience</a></li>
+                  <li ><a href="/armoryshow/finale">The Finale</a></li>
+                  <li ><a href="/armoryshow/legacy">The Legacy</a></li>
+                  <li ><a href="/armoryshow/bibliography">Bibliography</a></li>
+                  <li ><a href="/armoryshow/credits">Credits</a></li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+          <nav id="gallery-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+              <a id="gallery-map-link" class="gallery-map-link" href="cast#">Gallery</a><a href="cast#" class="flyout-toggle gallery-map-link"><span> </span></a>
+                <ul class="flyout right gallery-map">
+                  <li><div id="floor-plan-map"></div></li> 
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+        </td>
+      </tr>
+    </table>
+
+    <div style="clear:both;"></div>
+  </header>
+
+  
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+    <div class="row">
+      <div class="ten columns centered">
+        <article class="panel">
+          <div class="article-inset">
+            <p>Many individuals were responsible for bringing the International Exhibition of Modern Art to Chicago. Serveral of the key players and their contributions are listed below.</p>
+<div class="thumbnail-container cast">
+  <a href="cast#arthur-t-aldis"><img src="arthur-t-aldis_200.jpg" /></a>
+  <a href="cast#carpenter"><img src="carpenter_200.jpg" /></a>
+  <a href="cast#arthur-b-davies"><img src="arthur-b-davies_200.jpg" /></a>
+  <a href="cast#arthur-jerome-eddy"><img src="arthur-jerome-eddy_200.jpg" /></a>
+  <a href="cast#william-french"><img src="27-william-french_200.jpg" /></a>
+  <a href="cast#walt-kuhn"><img src="walt-kuhn_200.jpg" /></a>
+  <a href="cast#walter-pach"><img src="walter-pach_200.jpg" /></a>
+</div>
+
+<div class="slideshow-container" id="slide-arthur-t-aldis">
+  <div class="slideshow-text">
+
+    <a href="cast#" data-reveal-id="arthur-t-aldis-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+      <img src="arthur-t-aldis_200.jpg" class="slideshow-image-large"/>
+    </a>
+
+    <div class="expandable">
+
+      <div class="summary">
+        <p><strong>Arthur Taylor Aldis (1861&ndash;1933)</strong> was the individual most responsible for bringing the Armory Show to Chicago. An influential governing member of the Art Institute, he worked behind the scenes to garner interest and support for the controversial exhibition among the museum's trustees and the city's well-to-do.</p>
+      </div>
+
+      <div class="fulltext">
+        <p><strong>Arthur Taylor Aldis (1861&ndash;1933)</strong> was a prosperous real estate developer and an influential governing member of the Art Institute of Chicago; he would eventually be elected trustee in 1916. He was introduced to Arthur B. Davies, president of the Association of American Painters and Sculptors (AAPS), and Walt Kuhn, the group's executive secretary, in Paris in November 1912, when the two were in the midst of securing loans for the <em>International Exhibition of Modern Art</em>. "Rather wild and radical in his taste, and precipitate in his actions," according to Art Institute Director William M. R. French, Aldis immediately promised that the museum would host the exhibition following its run in New York.<a href="cast#ref1"><sup>1</sup></a> "We practically closed a deal with the Chicago Institute," Kuhn wrote to his wife, Vera, on November 11, 1912.<a href="cast#ref1"><sup>2</sup></a> At a time when powerful patrons held significant authority to shape the collections and exhibitions of American art museums, Aldis's support and influence with the museum trustees was crucial to bringing the Armory Show to Chicago. Throughout the official negotiations that ensued, Aldis maintained his own correspondence with Kuhn, keeping him abreast of the developments and offering advice about dealing with the more conservative museum officials. He was present at the signing of the contract in New York on February 28, 1913, and indeed, Kuhn recalled that it was "Mr. Aldis [who] came from Chicago with a committee to secure the show for the Art Institute"&mdash;although it was in fact Newton H. Carpenter, the museum's executive secretary, who served as the museum's official representative.<a href="cast#ref1"><sup>3</sup></a> As arrangements were confirmed and plans moved forward, Aldis continued to "butt in," as he called it, urging the museum staff to send the AAPS precise plans of the museum's galleries so that Davies and Kuhn could correctly lay out the exhibition in advance&mdash;he did "not suppose that any one here has a peculiar knowledge of the many modern schools which would enable us to do it."<a href="cast#ref1"><sup>4</sup></a> Particularly interested in the graphic arts, he and his wife, Mary, purchased three lithographs by Odilon Redon while the exhibition was still in New York. Through it all, Aldis remained the AAPS's "best man" in Chicago. "I am not exaggerating when I say," Kuhn wrote to him, "that it is largely owing to the moral support of persons like yourself that the success of the exhibition seems assured."<a href="cast#ref1"><sup>5</sup></a></p>
+
+        <div class="ref">
+          <a href="cast#" name="ref1"></a>
+          <p><sup>1</sup> French to Hallowell, Nov. 25, 1912. William M. R. French&mdash;Letter Books, box 16, vol. 1, 1912&ndash;13, Art Institute of Chicago Archives (hereafter called AIC Archives).</p>
+          <p><sup>2</sup> Walt Kuhn to Vera Kuhn, Nov. 11, 1912. Armory Show Records, Organizers' Letters, box 1, folder 4, Archives of American Art, Smithsonian Institution (hereafter called AAA).</p>
+          <p><sup>3</sup> Walt Kuhn, <em>The Story of the Armory Show</em> (New York, 1938), p. 19.</p>
+          <p><sup>4</sup> Aldis to Carpenter, Mar. 5, 1913. William M. R. French&mdash;Exhibition Correspondence, 1912&ndash;14, box 18, AIC Archives.</p>
+          <p><sup>5</sup> Kuhn to Aldis, Dec. 28, 1912. Armory Show Records, Traveling Exhibition, 1912&ndash;14, box 1, folder 61, AAA.</p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="slideshow-container" id="slide-carpenter">
+  <div class="slideshow-text">
+    <a href="cast#" data-reveal-id="carpenter-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+      <img src="carpenter_200.jpg" class="slideshow-image-large"/>
+    </a>
+
+    <div class="expandable">
+
+      <div class="summary">
+        <p><strong>Newton H. Carpenter (1853&ndash;1918)</strong> was the executive secretary of the Art Institute and was responsible for the organizational details of mounting the Armory Show in Chicago. More a businessman than an art connoisseur, he welcomed the sensational exhibition primarily as a draw for increased attendance.</p>
+      </div>
+
+      <div class="fulltext">
+        <p><strong>Newton H. Carpenter (1853&ndash;1918)</strong> was the executive secretary of the Art Institute of Chicago from 1881 to 1914. Following Director William M. R. French's preliminary negotiations, and especially after French left Chicago for a lecture tour of California, Carpenter stepped in to work out the details of bringing the Armory Show to Chicago. His extensive correspondence with Walt Kuhn, executive secretary for the Association of American Painters and Sculptors, reveals the minutia of arrangements for financing, shipping, insurance, installation, catalogue production, press coverage, and sales. As this record makes clear, Carpenter was&mdash;in the words of Art Institute governing member Arthur T. Aldis&mdash;"very keen" about the exhibition.<a href="cast#ref2"><sup>1</sup></a> His excitement, however, seems to have had less to do with his admiration for modern art than with his desire to take advantage of the unprecedented opportunity for increased publicity and attendance. In dealing with the press, Carpenter appears to have encouraged the satirical tone that characterized much of the city's coverage of the show. The <em>Chicago Inter-Ocean</em> quoted his rather wry comments extensively:<blockquote>
+  I can not describe myself as a cubist. . . . But I told one of the girls in the sculpture class that if she built a group of clay and let me stand off and hurl a brick at if for a while it would be a cubist piece of sculpture when I was through. As for the futurists? Well, I cannot say. But let me tell you this, that there are so many good pictures in that show that by the time you have looked at them all, you will forget the cubists, post impressionists and the vagueists&mdash;my own term&mdash;and remember good art only. It's to be a great show. The biggest thing Chicago has had this season.<a href="cast#ref2"><sup>2</sup></a></blockquote></p>
+  <p>At the close of the exhibition, Carpenter was pleased not only with the record-breaking attendance figures but also with the cool reception the show received from the Art Institute's students, whom he had at first worried might be "side-tracked in some way by the exhibition."<a href="cast#ref2"><sup>3</sup></a> With no such immediate adverse consequences, he remained confident that the Art Institute had done right in bringing the Armory Show to Chicago. Writing to Kuhn, he pontificated, "I feel under great obligation to the Association for making this collection and for allowing it to come to Chicago. I say this, notwithstanding the adverse criticism which we have received on account of the exhibition. Our people have never waivered [<em>sic</em>] for a moment in the matter of having the exhibition here nor have they regretted it. We believe that what we have done has been for the best."<a href="cast#ref2"><sup>4</sup></a></p>
+
+        <div class="ref">
+          <a href="cast#" name="ref2"></a>
+          <p><sup>1</sup> Aldis to Davies, Mar. 17, 1913. Armory Show Records, Traveling Exhibition, 1912&ndash;14, box 1, folder 61, AAA.</p>
+          <p><sup>2</sup> "Hit Mud with Brick; Result, Cubist Art," <em>Chicago Inter-Ocean</em>, Mar. 9, 1913.</p>
+          <p><sup>3</sup> Carpenter to French, Apr. 7, 1913. French&mdash;Exhibition Correspondence, 1912&ndash;14, box 18, AIC Archives.</p>
+          <p><sup>4</sup> Carpenter to Kuhn, Apr. 21, 1913. Armory Show Records, Traveling Exhibition, 1912&ndash;14, box 1, folder 61, AAA.</p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="slideshow-container" id="slide-arthur-b-davies">
+  <div class="slideshow-text">
+    <a href="cast#" data-reveal-id="arthur-b-davies-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+      <img src="arthur-b-davies_200.jpg" class="slideshow-image-large"/>
+    </a>
+
+    <div class="expandable">
+
+      <div class="summary">
+        <p><strong>Arthur B. Davies (1862&ndash;1928)</strong> was the president of the Association of American Painters and Sculptors and was largely responsible for the inclusion of European modern artists in the Armory Show.</p>
+      </div>
+
+      <div class="fulltext">
+        <p><strong>Arthur B. Davies (1862&ndash;1928)</strong> was a New York painter and president of the Association of American Painters and Sculptors. Although his own aesthetic was more conservative and rooted in the nineteenth century than that of the artists with whom he was affiliated, he was a passionate promoter of modern art. When a few friends had their artwork rejected from the National Academy of Design, a bastion of conservatism and the arbiter of taste in New York City, Davies joined their efforts to provide an alternative forum for modern artists. In December 1911, the Association of American Painters and Sculptors (AAPS) was founded, and on January 9, 1912, Davies was named its president. Almost immediately, the members of the AAPS began to make plans for what would become the Armory Show; although they had only vague notions of what would be displayed, they were determined that the show should reflect contemporary currents in art. In the summer of 1912, Davies came across a catalogue from that year's Sonderbund Exhibition in Cologne, which included the works of Paul Cézanne, Paul Gauguin, Edvard Munch, Pablo Picasso, and Vincent van Gogh. He wrote to Walt Kuhn, executive secretary for the AAPS: "I wish we could have as good a show."<a href="cast#ref3"><sup>1</sup></a></p>
+<p>With an idea in mind of what artwork ought to be included, Davies sent Kuhn to Europe to meet with numerous artists, collectors, and dealers. Kuhn left in September 1912 for Germany and the Netherlands, and Davies joined him on November 6 in Paris. In order to gain access to the most avant-garde art in Europe, Davies recruited the help of his friend Walter Pach, an agent living in Paris with an intimate knowledge of the modern art scene. With Pach as their guide, Davies and Kuhn visited the studios of artists such as Constantin Brâncusi and Marcel Duchamp. Upon viewing Brâncusi's art for the first time, Davies remarked: "That's the kind of man I'm giving the show for."<a href="cast#ref3"><sup>2</sup></a> After leaving the home of art collector Michael Stein, where Davies had just arranged the loan of two paintings by Henri Matisse, he stood outside the closed door, doffed his hat, and bowed low as a gesture of gratitude to Stein. Remembering such signs of enthusiasm, Pach later noted that Davies was particularly quick to appreciate such art, which was unlike anything he had ever seen before: "Davies had not been in Paris for years and was seeing the moderns for the first time. The depth of his intuitions was therefore astonishing&mdash;in my experience, unique. He followed them up for years, in his own vigorous collecting and in the guidance he gave to numbers of other people. Modern Art in America owes more to him than to anyone else."<a href="cast#ref3"><sup>3</sup></a></p>
+<p>At the end of November 1913, Davies returned to the United States to finalize the arrangements for the opening of the New York presentation. During this frenzied three-month period, Davies supervised all aspects of organization, including final negotiations with artists and lenders, extensive publicity, and the printing of catalogues and pamphlets. He was responsible for selecting American artists to participate. Davies also took the lead in corresponding with William M. R. French, director of the Art Institute, in order to arrange for the museum to host a smaller version of the Armory Show. Although he did not travel to Chicago, he was one of only two American artists to have multiple paintings exhibited in the Chicago presentation, a reflection of his invaluable role in organizing the exhibition.</p>
+
+        <div class="ref">
+          <a href="cast#" name="ref3"></a>
+          <p><sup>1</sup> Davies to Walt Kuhn, Sept. 2, 1912. Armory Show Records, Organizers' Letters, box 1, folder 1, AAA.</p>
+          <p><sup>2</sup> Walter Pach, <em>Queer Thing, Painting: Forty Years in the World of Art</em> (New York and London: Harper and Brothers, 1938), p. 178.</p>
+          <p><sup>3</sup> Pach to the director of Munson-Williams-Proctor Institute, Jan. 14, 1958, published in <em>Arthur B. Davies (1862&ndash;1928): A Centennial Exhibition</em> (Utica, New York: Munson-Williams-Proctor Institute, 1962), p. 7.</p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="slideshow-container" id="slide-arthur-jerome-eddy">
+  <div class="slideshow-text">
+    <a href="cast#" data-reveal-id="arthur-jerome-eddy-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+      <img src="arthur-jerome-eddy_200.jpg" class="slideshow-image-large"/>
+    </a>
+
+    <div class="expandable">
+      
+      <div class="summary">
+        <p><strong>Arthur Jerome Eddy (1859&ndash;1920)</strong> was Chicago's boldest collector of modern art and a prominent supporter of the Armory Show. He was also the author of several books on art, most importantly <em>Cubists and Post-Impressionism</em> (1914),the first American publication to promote modern art. In addition to purchasing 18 paintings and 7 prints from the exhibition&mdash;making him one of the largest buyers&mdash;he also gave two popular lectures on Cubism at the Art Institute of Chicago at the time of the show.</p>
+      </div>
+
+      <div class="fulltext">
+        <p><strong>Arthur Jerome Eddy (1859&ndash;1920)</strong> was a prosperous Chicago lawyer and progressive commentator on politics and economics, although he was especially renowned in the city for his many eclectic pursuits and his bold attraction to anything new&mdash;from bicycles and automobiles to the latest trends in modern art. Eddy had been a collector of James McNeill Whistler, Auguste Rodin, and the French Impressionists since the World's Columbian Exposition in 1893. By 1912, he had purchased his first abstract works by the American painter Arthur Dove and the Dutch painter Otto van Rees. As a resident of New York as well as Chicago, Eddy surely saw the dramatic press coverage leading up to the Armory Show's opening in New York, and this alone would have been enough to assure his attendance. In New York, Eddy purchased 15 of the most radical works on display, including Marcel Duchamp's <em>Portrait of Chess Players</em> (1911) and <em>The King and Queen Surrounded by Swift Nudes</em> (1912), Albert Gleizes's <em>Man on a Balcony</em> (1912), and Francis Picabia's <em>Dances at the Spring</em> (1912). In Chicago, he purchased three additional paintings by the Spanish artist Amadeo de Sousa Cardoza, as well as three lithographs by Maurice Denis and four by Edouard Vuillard. Eddy's vanguard tastes were so well known that the Chicago press erroneously reported that he also purchased the most controversial picture in the Armory Show, the legendary <em>Nude Descending a Staircase</em> by Marcel Duchamp. Although he did not in fact buy the painting, Eddy did famously "find" the nude in the picture&mdash;her outline was published in the <em>Chicago Daily Tribune</em> on the day the exhibition opened in Chicago.</p>
+  <p>Possibly due to such activities as well as Eddy's bravado personality, Walt Kuhn, the executive secretary of the Association of American Painters and Sculptors, at first considered him a great "source of annoyance."<a href="cast#ref4"><sup>1</sup></a> On the heels of the opening, Kuhn disparagingly complained to the association's president, Arthur B. Davies, that Eddy and others looked on the exhibition "in the usual 'Porky' parvenu manner," referring to Chicago's reputation as a city of stockyards and upstarts.<a href="cast#ref4"><sup>2</sup></a> Just a few days later, however, Kuhn changed his mind, writing, "Mr. Eddy has changed his tune. He gave a lecture Friday to about a thousand people in Fullerton Hall, endorsing the Association and asking fair play for the exhibitors."<a href="cast#ref4"><sup>3</sup></a> This lecture by Eddy on "The Cubists," delivered at noon on March 27, filled every seat of the museum's auditorium. According to the <em>Chicago Examiner</em>, he praised the radical artists, as well as, it seems, his own good sense in purchasing their works while they were still a bargain. Although the article criticized the collector for shying away from "the fatal moment of dealing seriously with Cubism" and indulging "in many moments of delightful persiflage," it also noted his evocative comparisons of the Cubist movement to the Progressive Party and of the appreciation of abstraction in painting to the enjoyment of color and design in Persian carpets.<a href="cast#ref4"><sup>4</sup></a> Eddy reprised his address on April 3, when he "referred repeatedly to the paintings as beautiful color conceptions" and once again "congratulated himself on having bought several of them."<a href="cast#ref4"><sup>5</sup></a></p>
+  <p>Eddy was not only an avid collector of and lecturer on modern art, he was also the author of several books on the subject. In 1902 he published his first book on art, <em>Delight: The Soul of Art</em>, and quickly followed that text with another, <em>Recollections and Impressions of James A. McNeill Whistler</em> (1903). Eddy's most important book and his great contribution to modern art scholarship is, however, <em>Cubists and </em></a><em>Post-Impressionism</em>, which was inspired by the Armory Show; it was the first work published in the United States on modern art.<a href="cast#ref4"><sup>6</sup> </a> In it, Eddy championed the vitality and invention of modernism, paying specific attention to Cubism and using many works from his own collection as examples.</p>
+
+        <div class="ref">
+          <a href="cast#" name="ref4"></a>
+          <p><sup>1</sup> Kuhn to Elmer MacRae, Mar. 25, 1913, quoted in Milton W. Brown, <em>The Story of the Armory Show</em>, 2nd ed. (New York: Abbeville Press, 1988), p. 208.</p>
+          <p><sup>2</sup> Kuhn to Davies, Mar. 26, 1913, quoted in ibid.</p>
+          <p><sup>3</sup> Kuhn to Davies, Mar. 29, 1913, quoted in ibid.</p>
+          <p><sup>4</sup> Joan Candoer, <em>Chicago Examiner</em>, Mar. 28, 1913.</p>
+          <p><sup>5</sup> "President Wilson a Cubist? Sure! Art Collector Says," <em>Chicago Daily Tribune</em>, Apr. 4, 1913, p. 9.</p>
+          <p><sup>6</sup> Although Eddy wrote <em>Cubists and Post-Impressionism </em>in 1913, it was not published until the following March.</p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="slideshow-container" id="slide-william-french">
+  <div class="slideshow-text">
+    <a href="cast#" data-reveal-id="william-french-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+      <img src="27-william-french_200.jpg" class="slideshow-image-large"/>
+    </a>
+
+    <div class="expandable">
+      
+      <div class="summary">
+        <p><strong>William M. R. French (1843&ndash;1914)</strong> was the director of the Art Institute at the time of the Armory Show. Although he was deeply skeptical of European modernism and initially reluctant to take on the exhibition, his commitment to the museum's progressive mission ultimately shaped the Chicago installation's greater focus on the most radical modern artists of the day.</p>
+      </div>
+
+      <div class="fulltext">
+        <p><strong>William M. R. French (1843&ndash;1914)</strong> was the first director of the Art Institute of Chicago, as well as its curator of painting and sculpture, from 1885 until his death in 1914&mdash;just one year after the Armory Show opened at the museum. Then 69 years old, French was a respected art critic, lecturer, and teacher, with traditional personal taste. Deeply ambivalent about modernism, he wrote to Sara Tyson Hallowell, the Art Institute's buying agent in Europe, "I think I shall have to go out of the art critic business. I not only do not appreciate most of the Post-Impressionists' works, but a good deal of the Impressionists' work . . . although I know this is flat heresy."<a href="cast#ref5"><sup>1</sup></a> Informed of the planned <em>International Exhibition of Modern Art</em> by Art Institute Governing Member Arthur T. Aldis, whom he considered "rather wild and radical in his taste,"<a href="cast#ref5"><sup>2</sup></a> French nevertheless promptly initiated official negotiations with the Association of American Painters and Sculptors to bring the show to Chicago. After seeing the New York installation in mid-February, he described his impression of the show to Charles L. Hutchinson, president of the board of trustees: "The fraction of the exhibition comprising the real modernists&mdash;post-impressionists, cubists, pointillists, futurists&mdash;six or seven galleries, is eminently satisfactory. Anything more fantastic it would be hard to conceive."<a href="cast#ref5"><sup>3</sup></a> His skepticism prevailed, however, as he concluded:<blockquote>
+I suspect we have here the representatives of two classes of radicals. First, a few eccentrics, some of them, like Van Gogh, actually unbalanced and insane, who really believe what they profess; secondly, the imitators, who run all the way from sheer weakness to the most impudent charlatanism. The choice is between madness and humbug.<a href="cast#ref5"><sup>4</sup></a></blockquote></p> <p>
+ Despite such personal misgivings, French considered it the Art Institute's duty to encourage public awareness of and enthusiasm for art rather than legislate taste. To French, the <em>International Exhibition of Modern Art</em> was an opportunity to "give the radicals a fair chance" in the eyes of the public.<a href="cast#ref5"><sup>5</sup></a> With limited gallery space available for the exhibition, French specifically requested that the most radical foreign sections be sent intact, as these were the works that Chicago audiences would have the least chance of seeing otherwise. As has since become notorious, French left Chicago for a lecture tour on the West Coast four days before the exhibition opened. Although he did not exactly "flee" the city as the press enthusiastically reported (his plans having been made several months in advance), he was, by his own admission, relieved to be absent for the duration of the "freak exhibition."<a href="cast#ref5"><sup>6</sup></a></p>
+
+        <div class="ref">
+          <a href="cast#" name="ref5"></a>
+          <p><sup>1</sup> French to Hallowell, Mar. 18, 1913. William M. R. French&mdash;Letter Books, box 16, vol. 2, 1912&ndash;13, AIC Archives.</p>
+          <p><sup>2</sup> French to Hallowell, Nov. 25, 1912. William M. R. French&mdash;Letter Books, box 16, vol. 1, 1912&ndash;13, AIC Archives.</p>
+          <p><sup>3</sup> French to Hutchinson, Feb. 22, 1913. William M. R. French&mdash;Exhibition Correspondence, 1912&ndash;14, box 18, AIC Archives.</p>
+          <p><sup>4</sup> Ibid.</p>
+          <p><sup>5</sup> French to John W. Beatty, May 1, 1913. William M. R. French&mdash;Letter Books, box 16, vol. 2, 1912&ndash;13, AIC Archives.</p>
+          <p><sup>6</sup> French to Eugene Pirard, May 6, 1913. William M. R. French&mdash;Letter Books, box 16, vol. 2, 1912&ndash;13, AIC Archives.</p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="slideshow-container" id="slide-walt-kuhn">
+  <div class="slideshow-text">
+    <a href="cast#" data-reveal-id="walt-kuhn-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+      <img src="walt-kuhn_200.jpg" class="slideshow-image-large"/>
+    </a>
+
+    <div class="expandable">
+
+      <div class="summary">
+        <p><strong>Walt Kuhn (1877&ndash;1949)</strong> was a New York artist and the executive secretary of the Association of American Painters and Sculptors. He arrived in Chicago with the Armory Show, and his letters give a vivid, if biased, impression of the city's reaction to modern art.</p>
+      </div>
+
+      <div class="fulltext">
+        <p><strong>Walt Kuhn (1877&ndash;1949)</strong> was a New York painter and illustrator and the executive secretary of the Association of American Painters and Sculptors (AAPS). With the AAPS's European agent, Walter Pach, he helped to assemble the European section of the Armory Show during a month-long trip to Cologne, the Hague, Amsterdam, Berlin, Munich, Paris, and London in autumn 1912. Packed with visits to modern art exhibitions, artists' studios, galleries, and collectors' homes, the trip was a revelation for Kuhn, who was then working in an Impressionist style and was only slightly acquainted with the radical developments in European art. He felt that he had "crowded an entire art education into those few weeks."<a href="cast#ref6"><sup>1</sup></a> </p>
+<p>Upon returning to New York, Kuhn maintained an official correspondence with buyers, lenders, magazine publishers, and organizers in Chicago and Boston. It is, however, his personal letters to his wife, Vera, as well as to his good friend and president of the AAPS, Arthur B. Davies, that convey his most vivid impressions of the Chicago exhibition. Kuhn arrived in the city with the first shipment of pictures on the evening of March 21, 1913. In high spirits, he reported that Newton H. Carpenter, executive secretary of the Art Institute, had turned over the hanging to him without a single restriction, praised the professionalism of the staff, and approved the look of the exhibition&mdash;especially the Cubist room, which he said looked "simply great."<a href="cast#ref6"><sup>2</sup></a> Nevertheless, from the beginning his correspondence registers a deep prejudice against the "Porky" city of Chicago. Displeased with everything from the weather to what seemed to him to be cheap and gaudy hotels, Kuhn hoped to escape this "desert of vulgarity" as quickly as possible.<a href="cast#ref6"><sup>3</sup></a> To his dismay, however, he was obliged to spend two weeks correcting misinformation in the press and dealing with public officials and socialites. During his first contact with Chicago society at a dinner given by the Cliff Dwellers Society on March 23, Kuhn seems to have quarreled with collector Arthur Jerome Eddy and was relieved to have avoided the society's opening the next day. "The so-called intelligent class here," he wrote, "are a lot of self advertisers and ignoramuses. [Frederick James] Gregg and I are pretty well hated by one or two of them."<a href="cast#ref6"><sup>4</sup></a> His initial opinion of the general public who visited the museum was not much better, although he expressed a more positive view several days later, writing, "The visitors are becoming more and more interested, and the outlook now is very good as far as appreciation goes."<a href="cast#ref6"><sup>5</sup></a> Kuhn's greatest complaint, however, was the irreverent and sensational nature of the Chicago press. He conceded, "We made a big mistake by not being on hand here sooner than we were. The press had no idea of the importance of the show, they simply imagined it was a sort of circus."<a href="cast#ref6"><sup>6</sup></a></p>
+
+        <div class="ref">
+          <a href="cast#" name="ref6"></a>
+          <p><sup>1</sup> Kuhn to Pach, Dec. 12, 1912. Armory Show Records, Organizers' Letters, box 1, folder 7, AAA.</p>
+          <p><sup>2</sup> Kuhn to Vera Kuhn, Mar. 23, 1913. Armory Show Records, Organizers' Letters, box 1, folder 5, AAA.</p>
+          <p><sup>3</sup> Kuhn to Vera Kuhn, Mar. 1913. Armory Show Records, Organizers' Letters, box 1, folder 5, AAA.</p>
+          <p><sup>4</sup> Kuhn to Vera Kuhn, Mar. 25, 1913. Armory Show Records, Organizers' Letters, box 1, folder 5, AAA.</p>
+          <p><sup>5</sup> Kuhn to Vera Kuhn, Mar. 30, 1913. Armory Show Records, Organizers' Letters, box 1, folder 5, AAA.</p>
+          <p><sup>6</sup> Ibid.</p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="slideshow-container" id="slide-walter-pach">
+  <div class="slideshow-text">
+    <a href="cast#" data-reveal-id="walter-pach-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+      <img src="walter-pach_200.jpg" class="slideshow-image-large"/>
+    </a>
+
+    <div class="expandable">
+    
+      <div class="summary">
+        <p><strong>Walter Pach (1883&ndash;1958)</strong> was the European agent for the Association of American Painters and Sculptors and was essential to the choosing and securing of the European works. As chief sales agent, he was also the spokesperson for the works in the galleries.</p></div>
+
+      <div class="fulltext">
+       
+<p><strong>Walter Pach (1883&ndash;1958)</strong> was an American agent and artist who played an essential role in choosing and securing European artworks for the 1913 Armory Show. He served as the primary liaison between the artists, collectors, and dealers in Europe and the Association of American Painters and Sculptors (AAPS) in America. Working as an agent as well as a writer and lecturer on modern art, Pach traveled frequently to Europe and lived in Paris from the fall of 1907 until July 1908 and again from September 1910 until January 1913, right before the Armory Show opened in New York. During his time in Europe, he became an avant-garde art scene insider, developing close friendships with artists such as Constantin Brâncusi, Marcel Duchamp, and Henri Matisse. Pach was also close to many of the leading Parisian art collectors and dealers; he regularly visited the famous salons of Leo and Gertrude Stein and Sarah and Michael Stein. </p>
+ <p> Pach had been friends with Arthur B. Davies, president of the AAPS, since 1909. Davies had come to rely on him for news and information about modern European painters and would occasionally ask for small favors, such as translating articles or sending photographs. When Pach learned that Davies was organizing the Armory Show and intended to include European avant-garde art, he naturally offered to help his friend. Although he never formally joined the AAPS, he was instrumental in securing the loans of paintings, sculptures, and prints from European artists, collectors, and dealers. Davies and Walt Kuhn, executive secretary of the AAPS, joined Pach in Paris, where he escorted them to the galleries of Bernheim-Jeune, Eugène Druet, Daniel-Henry Kahnweiler, and Ambroise Vollard. He also brought them to the studios of artists such as Brâncusi and Duchamp. Pach's intimate knowledge of the Parisian art scene introduced Davies and Kuhn to art they might not have found otherwise but which perfectly suited their intentions for the Armory Show. At Brâncusi's studio, Davies remarked to Pach: "That's the kind of man I'm giving the show for."<a href="cast#ref7"><sup>1</sup></a> The artists visited and selected by the AAPS representatives were reflective of Pach's particular taste. Pach was responsible for selecting many of the most divisive and commented-on works featured in the Armory Show, such as Duchamp's <em>Nude Descending a Staircase</em>, Matisse's <em>Blue Nude</em>, and Francis Picabia's <em>Dances at the Spring</em>. </p>
+  <p> Before they left Europe, Davies and Kuhn asked Pach to continue working with them in America as the AAPS's sales agent and spokesman, and in the meantime left it to him to make all the final arrangements in Europe, giving him "full authority to act for the Society."<a href="cast#ref7"><sup>2</sup></a> Although they left detailed instructions for what was to be included in the show, the availability of some works was uncertain until the last minute, so the choice of which works would be sent to the United States was ultimately left to Pach's discretion. He left Paris in order to work as the chief sales agent at the Armory Show, and in doing so became the exhibition's main spokesperson. Pach was the only person to be at the New York, Chicago, and Boston venues every day from the time the doors opened until the exhibition closed. In contrast to Kuhn's bleak account of the Chicago public, Pach seemed to take a much more good-natured view of the situation, perhaps because he seems to have genuinely enjoyed socializing with the people of Chicago. Pach reported to art collector Michael Stein, "You would be <em>astounded</em> at the amount of intelligence I find in my rounds of the galleries (I am chief salesman as you know),&mdash;even as a small fraction of the comment, it more than makes up for the idiots."<a href="cast#ref7"><sup>3</sup></a> One Chicago artist and buyer, Manierre Dawson, wrote an account that gives an impression of Pach's congenial methods: "The man with the moustache and tremulous hands who seemed in constant attendance saw me as the most lingering of spectators. Engaging me in conversation, I found him most interesting and informative. His name is Walter Pach."<a href="cast#ref7"><sup>4</sup></a></p>
+ <p>It was largely through Pach's efforts that some Chicagoans came to accept, and even appreciate, the art on view. Besides answering questions and providing his interpretations to visitors in the galleries, Pach gave a lecture on modern art in Fullerton Hall on March 24, the opening evening. In addition, he wrote several essays about the show: <em>The Art of Odilon Redon</em>; <em>A Sculptor's Architecture</em>; and "Hindsight and Foresight," "The Cubist Room," and "As to Futurists," all three published in the pamphlet <em>For and Against</em>; and translated Elie Faure's <em>C&eacute;zanne</em>. Pach was optimistic that the Armory Show and his efforts would have a significant influence on art appreciation among Chicagoans. He wrote to Robert Koehler, director of the Minneapolis School of Fine Arts, "I am full of confidence that the impression on all classes of the big public of Chicago has been a profound one and that it will continue to grow for many many years."<a href="cast#ref7"><sup>5</sup></a></p>
+
+        <div class="ref">
+          <a href="cast#" name="ref7"></a>
+          <p><sup>1</sup> Walter Pach, <em>Queer Thing, Painting: Forty Years in the World of Art</em> (New York and London: Harper and Brothers, 1938), p. 178.</p>
+          <p><sup>2</sup> Walt Kuhn to Theodore E. Butler, Dec. 21, 1912. Armory Show Records, Artists and Lenders Correspondence, box 1, folder 19, AAA.</p>
+          <p><sup>3</sup> Pach to Stein, Mar. 30, 1913. Gertrude Stein manuscript collection, quoted in Laurette E. McCarthy, "The 'Truths' about the Armory Show: Walter Pach's Side of the Story," <em>Archives of American Art Journal</em>, 44,3&ndash;4 (Fall 2004), p. 7.</p>
+          <p><sup>4</sup> Manierre Dawson, journal, Mar. 25, 1913. Manierre Dawson Papers, reel 64, frame 955, AAA.</p>
+          <p><sup>5</sup> Pach to Koehler, Apr. 26, 1913. Armory Show Records, Publicity, box 1, folder 52, AAA.</p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="modal-container"></div>
+
+<script type="text/javascript">
+$(window).load(function() {
+
+  initializeManualSlideshow('arthur-t-aldis');
+
+  // dynamically load modal content to prevent page load delay
+  $('#modal-container').html(' \
+    <div id="arthur-t-aldis-modal" class="reveal-modal expand"><img src="arthur-t-aldis_800.jpg"/></div> \
+    <div id="carpenter-modal" class="reveal-modal expand"><img src="carpenter_800.jpg"/></div> \
+    <div id="arthur-b-davies-modal" class="reveal-modal expand"><img src="arthur-b-davies_800.jpg"/></div> \
+    <div id="arthur-jerome-eddy-modal" class="reveal-modal expand"><img src="arthur-jerome-eddy_800.jpg"/></div> \
+    <div id="william-french-modal" class="reveal-modal expand"><img src="27-william-french_800.jpg"/></div> \
+    <div id="walt-kuhn-modal" class="reveal-modal expand"><img src="walt-kuhn_800.jpg"/></div> \
+    <div id="walter-pach-modal" class="reveal-modal expand"><img src="walter-pach_800.jpg"/></div> \
+  ');
+  // add close modal links dynamically so they don't have to be hand coded
+  addCloseModalLinks();
+
+});
+</script>
+
+          </div>
+        </article>
+      </div>
+    </div> <!-- .row -->
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+  
+
+  <script type="text/javascript">
+    $.ajax({
+      url: "floor-plan.json",
+      dataType: "json",
+      success: function(data) {
+        floor_plan_data = data;
+
+        // load floor plan fleximap
+        $('#floor-plan-map').flexiMap(floor_plan_data, function() {
+          setupTooltips('#floor-plan-map');
+        });
+
+        // resize it when nav accessed
+        $('.gallery-map-link').bind('touchstart mouseover', function() {
+          $('#floor-plan-map').flexiMap('resize', '540px', '369px');
+        });
+      },
+      error: function(xhr, status, error) {
+        console.error(status + ': ' + error.message);
+      }
+    });
+
+    $(document).foundationNavigation();
+  </script>
+
+  <!-- "AIC_US_Spark" c/o "Audience On Demand",  segment: 'AIC_REM_Armory Show Site_Unsecure' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+  <script src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment&returnType=js"></script>
+  <noscript>
+  <img src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment" width="1" height="1" />
+  </noscript>
+  <!-- End of pixel tag -->
+
+
+</body>
+</html>

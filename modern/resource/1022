@@ -1,0 +1,281 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_8bef70d5a67098acfa71b160cecef9cf) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_2b70bf63f0622e76afde9fa2d25a89de) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_2b70bf63f0622e76afde9fa2d25a89de) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_e2dc07cb78271c50b4932ef9e9f4d88c) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_13ce703ee023280a7a9e2a0c72c795ea) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_8bef70d5a67098acfa71b160cecef9cf) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_c983ccae97f3b17642ecbd11f1d15836) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_2b70bf63f0622e76afde9fa2d25a89de) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_2b70bf63f0622e76afde9fa2d25a89de) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Finding Polygons in Cubist Art | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8985.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_modern.gif" alt="" title="The Art Institute of Chicago" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Mod-Contemp-header.png" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Modern">Art Access: Modern and Contemporary Art</a> > <a href="../lesson">Lesson Plans</a> > <span class="sel">Finding Polygons in Cubist Art</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Finding Polygons in Cubist Art</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Finding Polygons in Cubist Art</strong><br />       <div class="content">
+<p>Students explore geometric properties and relationships in a two-dimensional work of art. They first search for and identify polygons in a <a href="1022#cubism">Cubist</a> painting and then use polygons to create their own Cubist portrait of a classmate.</p><br />
+<p><strong>Suggested Grade Level:</strong> 4<br />
+<strong>Estimated Time:</strong> One to two class periods</p>
+<h3>Lesson Objectives</h3>
+<ul>
+<li>Identify different kinds of polygons</li>
+<li>Create a Cubist portrait using polygons</li>
+</ul>
+<h3>Key Terms:</h3>
+<ul>
+<li><a href="1022#cubism">Cubism</a></li>
+<li><a href="1022#polygon">polygon</a></li> 
+</ul>
+<h3>Instructional Materials</h3>
+<ul>
+<li><a href="../Guitarist#kahnweiler"><em>Daniel-Henry Kahnweiler</em></a></li>
+<li>Paper</li>
+<li>Pencil</li>
+<li>Colored pencils</li>
+<li>Ruler</li>
+</ul>
+<h3>Procedures</h3>
+<p><strong>Discussion</strong></p>
+<ul>
+<li>Introduce students to polygons and the following related terms:</li>
+<ul>
+<li>vertex/vertices</li>
+<li>congruent</li>
+<li>triangle</li>
+<li>equilateral triangle</li>
+<li>isosceles triangle</li>
+<li>right triangle</li>
+<li>scalene triangle</li>
+<li>parallelogram</li>
+<li>rectangle</li>
+<li>trapezoid</li>
+<li>isosceles trapezoid</li>
+<li>pentagon</li>
+<li>hexagon</li>
+<li>heptagon</li>
+<li>octagon</li>
+</ul>
+</ul>
+<div class="image wrap">&lt;<img src="../images/G30251.jpg" border="0" class="inline" /></div>
+<ul>
+<li>Examine Picasso’s <a href="../Guitarist#kahnweiler"><em>Daniel-Henry Kahnweiler</em></a> with students. Have students make a list of the recognizable objects and human features they can find. Ask them to think about what the details tell us about the man sitting for the portrait.</li>
+<li>Ask students to list all of the polygons in this painting. Discuss how Picasso illustrated different body parts with shapes. Ask:</li>
+<ul>
+<li>How are these shapes used to create a sense of three-dimensional form and space?</li>
+</ul>
+</ul>
+<p><strong>Activity</strong></p>
+<ul>
+<li>Have students create a Cubist portrait of a classmate that incorporates each polygon seen in Picasso’s portrait. Encourage students to divide their classmate’s features any way they want. (For example, a cheek or chin can be several shapes.) Students might also want to walk around the "sitter" and see how his or her face appears from different points of view.</li> 
+<li>Encourage students to add a few of the most significant and recognizable physical features of their classmate (curly hair, freckles, a piece of jewelry, etc.).</li>
+<li>Hang the finished portraits in the classroom and see if students can guess the model for each one.</li>
+</ul>
+<h3>Evaluation</h3>
+<p>Base students’ evaluation on their ability to classify and compare polygons and use these shapes to create <a href="1022#abstract">abstract</a> portraits of individuals.</p><br />
+<h3>Glossary</h3>
+<p><strong><a name="abstract" id="abstract"></a>abstract</strong> (<em>adj</em>)<br />
+not recognizable; lacking pictorial representation or narrative content but utilizing color, form, and texture for expressive or decorative purposes</p>
+<p><strong><a name="cubism" id="cubism"></a>Cubism/Cubist</strong> (<em>n</em>, <em>adj</em>)<br />
+the early-20th-century art movement led by Pablo Picasso (1881-1973) and Georges Braque (1882-1963) that used abstract, fragmented shapes to depict several views of the same subject simultaneously, emphasizing the basic geometry or structure of the subject; of or relating to Cubism</p>
+<p><strong><a name="polygon" id="polygon"></a>polygon</strong> (<em>n</em>)<br />
+ in geometry, a union of segments connected end to end. The segments are called sides. Two sides meet at a vertex (pl., vertices). The number of sides of a polygon is equal to the number of vertices. </p><br />
+<p><a href="http://www.isbe.state.il.us/ils/" target="_blank">Illinois Learning Standards</a><br />
+Math: 9<br />
+Fine Arts: 26</p>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001022.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001022.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Modern and Contemporary Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Guitarist">Artworks</a></li>
+<li class="expanded"><a href="../lesson">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/1024">Surrealist Games </a></li>
+<li class="leaf"><a href="../resource/1254">Write a Short Story</a></li>
+<li class="leaf active"><a href="1022" class="active">Finding Polygons in Cubist Art</a></li>
+<li class="leaf last"><a href="../resource/1023">Play a Painting</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="../family">Family Activities</a></li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1862">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/artwork/111060">Daniel-Henry Kahnweiler</a></span>, autumn 1910</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

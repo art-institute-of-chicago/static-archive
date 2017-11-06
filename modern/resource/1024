@@ -1,0 +1,279 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_867a77d0f4402415da025a50a0df6dde) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a0546e7672d13f2f21ed37442a1da5d9) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_a0546e7672d13f2f21ed37442a1da5d9) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_4056b90d48285ffef102645ecfc69517) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_76c8feb929f196d32e67037dc4d915fd) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_867a77d0f4402415da025a50a0df6dde) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_c983ccae97f3b17642ecbd11f1d15836) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a0546e7672d13f2f21ed37442a1da5d9) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_a0546e7672d13f2f21ed37442a1da5d9) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Surrealist Games  | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8985.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_modern.gif" alt="" title="The Art Institute of Chicago" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Mod-Contemp-header.png" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Modern">Art Access: Modern and Contemporary Art</a> > <a href="../lesson">Lesson Plans</a> > <span class="sel">Surrealist Games </span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Surrealist Games </h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Surrealist Games</strong><br />       <div class="content">
+<p>In this lesson plan, students use a <a href="1024#surrealism">Surrealist</a> word game to learn parts of speech and examine a work of art to provide inspiration for a <a href="1024#collage">collage</a>-making exercise.</p><br />
+<p>Suggested Grade Level: 3-5<br />
+Estimated Time: One class period</p>
+<h3>Introduction</h3>
+<p>Surrealist artists believed that imagination was most alive in the expression of unconscious or illogical thought. Some artists painted directly from dreams while others incorporated chance or the accident. Still others created impossible scenes by combining objects or events that had nothing to do with one another.</p>
+<p>The phrase "exquisite corpse" originated with a Surrealist game of chance in which sentences were jointly created by a group of people, each person unaware of the words written by previous players. The Surrealists also played a similar game with drawings instead of words. In a modified game of Exquisite Corpse, students review and practice the parts of speech. By looking at a painting by René Magritte and creating their own Surrealist "room," students further explore the Surrealist idea of placing common objects in unusual locations.</p>
+<div class="image wrap"><img src="../images/E10169.jpg" border="0" class="inline" /></div>
+<h3>Lesson Objectives</h3>
+<ul>
+<li>Learn the parts of speech and practice using them to construct Surrealist sentences</li>
+<li>Describe and analyze a work of Surrealist art</li>
+<li>Experiment with collage techniques</li>
+</ul>
+<h3>Key Terms:</h3>
+<ul>
+<li>Surrealist</li>
+<li>exquisite</li>
+<li>corpse</li>
+<li>transfixed</li>
+<li>collage</li>
+</ul>
+<h3>Instructional Materials</h3>
+<ul>
+<li><a href="../Time"><em>Time Transfixed</em></a></li>
+<li>Pencil</li>
+<li>Paper</li>
+<li>Room worksheet (included here)</li>
+<li>Magazines</li>
+<li>Scissors</li>
+<li>Glue stick</li>
+</ul>
+<h3>Activity One</h3>
+<ul>
+<li>Review with students the parts of a speech and decide on a sentence structure for the game. (For example, article + adjective/noun/verb/adjective/noun.)</li>
+<li>Divide students into groups of five and have each group create its own Exquisite Corpse sentence by following these steps:</li>
+<ol><li>Instruct one student in each group to write the first word or words of the sentence (article + adjective) at the top of a piece of paper. He or she should then fold the piece of paper over to conceal the written word and pass it to the next person.</li>
+<li>The next person should fill in the next part of speech (a noun), conceal it, and pass the paper to the next person.</li>
+<li>When the first round has been completed, open the papers and read the sentences aloud, making sure all groups use the correct parts of speech. The results are often strange and humorous!</li>
+</ol>
+</ul>
+<h3>Activity Two</h3>
+<ol>
+<li>In <a href="../Time"><em>Time Transfixed</em></a>, Magritte forced objects into illogical relationships by depicting a train emerging from a fireplace. Show students the image and discuss why the painting is unusual, asking:</li>
+<ul>
+<li>What do you see?</li>
+<li>What kind of a room is this?</li>
+<li>What is out of place?</li>
+<li>What kind of lines are used in the picture? Straight or curved?</li>
+<li>Do you see different textures? What are they?</li>
+<li>Is the painting full or empty? What takes up most of the space?</li>
+<li>Do the objects in the painting seem to be moving or still?</li>
+<li>Is the image serious or lighthearted?</li>
+</ul>
+<li>Using the worksheet provided, have students cut out objects from magazines and create their own Magritte-inspired room.</li>
+</ol>
+<br />
+<h3>Evaluation</h3>
+<p>Base students’ evaluation on their ability to recognize and use the parts of speech and on their demonstrated understanding of principles in art such as line, texture, <a href="1024#composition">composition</a>, and mood.</p><br />
+<h3>Glossary</h3>
+<p><strong><a name="collage" id="collage"></a>collage</strong> (<em>n</em>)<br />
+derived from the French verb <em>coller</em> ("to glue"): a work of art made by sticking pieces of paper, newsprint, photographs, fabric, or other items onto a flat backing. Collages often include painted passages. </p>
+<p><strong><a name="composition" id="composition"></a>composition</strong> (<em>n</em>)<br />
+the arrangement of elements, such as space, shapes and colors, in a work of art</p>
+<p><strong><a name="surrealism" id="surrealism"></a>Surrealism</strong> (<em>n</em>)<br />
+movement introduced by a group of writers and artists led by French poet André Breton (1896-1966) in Paris in 1924. Surrealists embraced the act of spontaneous creation. To unleash their creativity, some used Austrian psychiatrist Sigmund Freud’s theory of psychoanalysis, probing the world of dreams, fantasies, and the subconscious in their art. Many Surrealists produced fantastic, meticulously rendered objects, while others combined ordinary objects in strange and startling ways. Some strayed from realism to work in abstract Surrealist styles that incorporated whimsical, organic forms.</p><br />
+<p><a href="http://www.isbe.state.il.us/ils/" target="_blank">Illinois Learning Standards</a><br />
+Fine Arts: 25, 26</p>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001024.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001024.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Modern and Contemporary Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Guitarist">Artworks</a></li>
+<li class="expanded"><a href="../lesson">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf active first"><a href="1024" class="active">Surrealist Games </a></li>
+<li class="leaf"><a href="../resource/1254">Write a Short Story</a></li>
+<li class="leaf"><a href="../resource/1022">Finding Polygons in Cubist Art</a></li>
+<li class="leaf last"><a href="../resource/1023">Play a Painting</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="../family">Family Activities</a></li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1862">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/artwork/34181">Time Transfixed</a></span>, 1938</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

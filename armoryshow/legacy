@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>The Legacy</title>
+
+  
+    <meta property="og:title" content="The Legacy" itemprop="name">
+  <meta name="twitter:title" content="The Legacy">
+
+
+
+    <meta property="og:url" content="/armoryshow/legacy">
+  <meta name="twitter:url" content="/armoryshow/legacy">
+
+    <meta property="og:type" content="website"> 
+  
+
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery.js" type="text/javascript"></script>
+    
+  <script src="modernizr.foundation.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.navigation.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.tooltips.js" type="text/javascript"></script>
+    
+  <script src="gallery.js" type="text/javascript"></script>
+    
+  <script src="jquery.fleximap.js" type="text/javascript"></script>
+    
+  <script src="armoryshow.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+  
+
+  <style type="text/css">
+
+    html { 
+    
+    background-image: url('DSC_6760_2000.jpg');
+    
+    background-position:top center;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+    }
+
+  </style>
+
+  <header>
+    <table width="100%">
+      <tr>
+        <td width="42%">
+
+          <a href="http://www.artic.edu">
+            <img src="armoryshow-logo.png" id="main-logo"/>
+          </a>
+
+        </td>
+        <td width="16%" style="vertical-align:middle">
+
+          <h2>The Legacy</h2>
+
+        </td>
+        <td width="42%">
+
+          <nav id="main-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+                <a href="legacy#">Explore</a><a href="legacy#" class="flyout-toggle"><span> </span></a>
+                <ul class="flyout small right">
+                  <li ><a href="/armoryshow">Introduction</a></li>
+                  <li ><a href="/armoryshow/setting-the-stage">Setting the Stage</a></li>
+                  <li ><a href="/armoryshow/cast">The Cast</a></li>
+                  <li ><a href="/armoryshow/show">The Show</a></li>
+                  <li ><a href="/armoryshow/program-notes">The Program Notes</a></li>
+                  <li ><a href="/armoryshow/audience">The Audience</a></li>
+                  <li ><a href="/armoryshow/finale">The Finale</a></li>
+                  <li class="active"><a href="legacy">The Legacy</a></li>
+                  <li ><a href="/armoryshow/bibliography">Bibliography</a></li>
+                  <li ><a href="/armoryshow/credits">Credits</a></li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+          <nav id="gallery-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+              <a id="gallery-map-link" class="gallery-map-link" href="legacy#">Gallery</a><a href="legacy#" class="flyout-toggle gallery-map-link"><span> </span></a>
+                <ul class="flyout right gallery-map">
+                  <li><div id="floor-plan-map"></div></li> 
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+        </td>
+      </tr>
+    </table>
+
+    <div style="clear:both;"></div>
+  </header>
+
+  
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+    <div class="row">
+      <div class="ten columns centered">
+        <article class="panel">
+          <div class="article-inset">
+            <p><blockquote>Of course in 1913 our exhibition was a "hard" one, and people were not prepared for it at all. Nevertheless I knew that we had sown a good seed and it is showing on the walls of the Institute. I am glad that Matisse is there, not as part of our harvest, but because I think there is really a good section of the American public that can keep up with modern art if given a chance.<br />&mdash;Walter Pach<a href="legacy#ref"><sup>1</sup></a></blockquote></p>
+<p>Almost a decade after the 1913 Armory Show, Walter Pach, the European agent for the Association of American Painters and Sculptors (AAPS), recognized the dual nature of the exhibition's public reception: despite inspiring much confusion, outrage, and ridicule, the Armory Show also inspired a significant number of Chicago artists and collectors to challenge the aesthetic status quo. The interest in modern art that the Armory Show had generated in the city would continue to grow over the years. </p>
+
+<div class="pdf-thumbnail-container">
+  <a href="catalogue-of-original-drawings-by-picasso.pdf" target="_blank">
+    <img src="65-arts-club-exhibitions_200.jpg" class="slideshow-image-large left"/>
+  </a>
+  <div class="download-pdf-text">
+    <a href="catalogue-of-original-drawings-by-picasso.pdf" target="_blank">Download PDF</a>
+  </div>
+</div>
+
+<p> Following the exhibition, new art institutions were formed in Chicago to provide venues for presenting the work of modern European and American artists. In 1915, the Renaissance Society at the University of Chicago was founded to promote the growth and understanding of contemporary art. Initially devoted to hosting lectures, the society started mounting exhibitions in 1918. Over the following decades, the Renaissance Society presented several exhibitions dedicated to artists who had been featured in the Armory Show, including Constantin Brâncusi, Henri Matisse, and Pablo Picasso. Another venue, the Arts Club of Chicago, was founded in 1916 by Armory Show organizer Arthur T. Aldis, along with Rue Winterbotham Carpenter and several other prominent Chicagoans. The Arts Club was committed to exhibiting contemporary American and foreign artists. From 1923 to 1927, when its own galleries proved too small for its ambitious program, the club organized a series of shows at the Art Institute&mdash;including the first museum exhibition in the United States devoted to Pablo Picasso in 1923 and an exhibition on Georges Braques in 1924. </p>
+
+<div class="pdf-thumbnail-container right">
+  <a href="eddy-collection-1922.pdf" target="_blank">
+    <img src="61-eddy-collection_200.jpg" class="slideshow-image-large right"/>
+  </a>
+  <div class="download-pdf-text">
+    <a href="eddy-collection-1922.pdf" target="_blank">Download PDF</a>
+  </div>
+</div>
+
+<p> Although the Renaissance Society and Arts Club supported the work of American artists, the opportunities for emerging Chicago modernists were still limited. The main opportunity for living artists to exhibit their work in the city, the Art Institute's annual Chicago and Vicinity show, was juried by the conservative Chicago Society of Artists. In 1921, after a particularly harsh year, however, artists Carl Hoeckner, Raymond Jonson, and Rudolph Weisenborn organized a "salon des </a>refus&eacute;s" of nearly 300 works at Rothchild's department store on State Street. The following year, they formed the Chicago No-Jury Society of Artists and began to hold independent shows at such venues as Marshall Field's department store. With an abstract emblem and events like the Cubist Balls of 1923&ndash;25, these artists clearly looked to the Armory Show as a source of inspiration.</p>
+<p> Private collectors were also spurred on by the exhibition. Arthur Jerome Eddy, for example, was one of the foremost patrons of modern art in the city. Having acquired some of the most radical works in the Armory Show, he continued to augment his collection and to promote modern artists in the public eye. He wrote the ambitious and heavily illustrated <em>Cubists and Post-Impressionism</em> (1914), the first book on the subject published in the United States. By the time of Eddy's death in 1920, his collection had swelled to include hundreds of works. With the support of fellow Armory Show veteran Arthur T. Aldis, 67 of these were exhibited at the Art Institute in 1922, and 23 were eventually acquired for the museum's collection.</p>
+
+<a href="legacy#" data-reveal-id="bartlet-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+  <img src="birch-bartlet-1931_200.jpg" class="slideshow-image-large left"/>
+</a>
+
+<p>By the early 1920s, a number of Chicagoans were following Eddy's example and buying works of modern art. The most notable of these collectors were Frederic Clay Bartlett and his second wife, Helen Birch Bartlett, who amassed an important collection of Post-Impressionist and modern French art. Their collection, which included works by Matisse, Picasso, and other artists whose work had been presented at the Armory Show, was displayed at the museum three times in the 1920s. In 1926, following the untimely death of Helen Birch Bartlett, the collection was donated to the Art Institute, making it the first museum in America to own a significant collection of modern art that was permanently on view. An Art Institute trustee since 1918, Robert Allerton was another local collector and generous donor, giving nearly 900 works of art to the museum over the course of his lifetime. Some of Allerton's earliest acquisitions, <em>Sketches of a Young Woman and a Man</em> and <em>Seated Male Nude</em> by Picasso, became the museum's first works by the artist in the permanent collection when donated in 1923 and 1924, respectively.</p>
+<p>The particularly generous spirit of its patrons allowed the Art Institute to continually expand its holdings of modern art. In 1921, Joseph Winterbotham, father of Arts Club of Chicago founder Rue Winterbotham Carpenter, established a fund for the purchase of modern art with some unusual but bold conditions. With an initial gift of $50,000, Winterbotham stipulated that the money must be invested and, with the earned interest, the museum should build a collection of 35 European modern paintings. Once the first group of 35 was assembled, any of these artworks could later be sold or exchanged for other modern works. Winterbotham's goal was to ensure that the development of the collection "as time goes on, is toward superior works of art and of greater merit and continuous improvement."<a href="legacy#ref"><sup>2</sup></a> The first purchase made with the fund was a painting by Matisse, who had been the object of such derision and protest in 1913.<a href="legacy#ref"><sup>3</sup></a> Winterbotham's dedication to enriching the Art Institute's modern art collection set an example that other Chicagoans soon followed. </p>
+<p>Among the museum's own staff, the momentum generated by the Armory Show seemed to initially stall: an exhibition of modern German art, for example, planned in 1914 and spearheaded by Arthur T. Aldis, was cancelled. After the end of World War I, however, and with the appointment of confirmed modernist Robert Harshe as assistant director in 1920 and as director the following year, the Art Institute made a series of groundbreaking acquisitions. By 1933, when the museum mounted the huge <em>Century of Progress</em> exhibition celebrating Chicago's centennial, the works of Matisse, Picasso, Marcel Duchamp, Vassily Kandinsky, and others figured as the culmination in a chronological arrangement of artworks&mdash;echoing their importance at the Armory Show in 1913. Throughout the 1940s and 1950s, the next generation of museum staff built and expanded on this legacy. Under the leadership of Director Daniel Catton Rich and Katharine Kuh, the museum's first curator of modern painting and sculpture, the collection of modern art continued to grow through bold acquisitions, such as Matisse's <em>Bather by a River</em>. As a result of this continued dedication, the museum's remarkable collection of modern art became one of its defining features. </p>
+<p>This momentum continues to the present day. Indeed, while a century ago the Art Institute of Chicago made seven crammed galleries available for a limited presentation of what Walt Kuhn called "the new spirit in art," today the museum boasts numerous spaces to see art of the twentieth and twenty-first centuries, including Renzo Piano's Modern Wing.<a href="legacy#ref"><sup>4</sup></a></p>
+
+<div class="ref">
+  <a href="legacy#" name="ref"></a>
+  <p><sup>1</sup> Walter Pach to Rue Carpenter, May 14, 1922. Arts Club Papers, The Newberry Library.</p>
+  <p><sup>2</sup> Joseph Winterbotham Deed of Gift to the Art Institute of Chicago, Apr. 9, 1921. AIC Archives.</p>
+  <p><sup>3</sup> Sophia Shaw Pettus, "Checklist of the Joseph Winterbotham Collection, 1921–1994," <em>Museum Studies</em>, 20, 2 (Fall<strong> </strong>1994), p. 183. </p>
+  <p><sup>4</sup> Kuhn to Walter Pach, Dec. 12, 1912. Armory Show Records, Organizers' Letters, box 1, folder 7, AAA.</p>
+</div>
+
+<div id="modal-container"></div>
+
+<script type="text/javascript">
+$(window).load(function() {
+
+  initializeManualSlideshow('modern-art-collectors');
+
+  // dynamically load modal content to prevent page load delay
+  $('#modal-container').html(' \
+    <div id="bartlet-modal" class="reveal-modal expand"><img src="birch-bartlet-1931_800.jpg"/></div> \
+  ');
+  // add close modal links dynamically so they don't have to be hand coded
+  addCloseModalLinks();
+
+});
+</script>
+
+          </div>
+        </article>
+      </div>
+    </div> <!-- .row -->
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+  
+
+  <script type="text/javascript">
+    $.ajax({
+      url: "floor-plan.json",
+      dataType: "json",
+      success: function(data) {
+        floor_plan_data = data;
+
+        // load floor plan fleximap
+        $('#floor-plan-map').flexiMap(floor_plan_data, function() {
+          setupTooltips('#floor-plan-map');
+        });
+
+        // resize it when nav accessed
+        $('.gallery-map-link').bind('touchstart mouseover', function() {
+          $('#floor-plan-map').flexiMap('resize', '540px', '369px');
+        });
+      },
+      error: function(xhr, status, error) {
+        console.error(status + ': ' + error.message);
+      }
+    });
+
+    $(document).foundationNavigation();
+  </script>
+
+  <!-- "AIC_US_Spark" c/o "Audience On Demand",  segment: 'AIC_REM_Armory Show Site_Unsecure' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+  <script src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment&returnType=js"></script>
+  <noscript>
+  <img src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment" width="1" height="1" />
+  </noscript>
+  <!-- End of pixel tag -->
+
+
+</body>
+</html>

@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>The Program Notes</title>
+
+  
+    <meta property="og:title" content="The Program Notes" itemprop="name">
+  <meta name="twitter:title" content="The Program Notes">
+
+
+
+    <meta property="og:url" content="/armoryshow/program-notes">
+  <meta name="twitter:url" content="/armoryshow/program-notes">
+
+    <meta property="og:type" content="website"> 
+  
+
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery.js" type="text/javascript"></script>
+    
+  <script src="modernizr.foundation.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.navigation.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.tooltips.js" type="text/javascript"></script>
+    
+  <script src="gallery.js" type="text/javascript"></script>
+    
+  <script src="jquery.fleximap.js" type="text/javascript"></script>
+    
+  <script src="armoryshow.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+  
+
+  <style type="text/css">
+
+    html { 
+    
+    background-image: url('312-gallery-53_2000.jpg');
+    
+    background-position:top center;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+    }
+
+  </style>
+
+  <header>
+    <table width="100%">
+      <tr>
+        <td width="42%">
+
+          <a href="http://www.artic.edu">
+            <img src="armoryshow-logo.png" id="main-logo"/>
+          </a>
+
+        </td>
+        <td width="16%" style="vertical-align:middle">
+
+          <h2>The Program Notes</h2>
+
+        </td>
+        <td width="42%">
+
+          <nav id="main-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+                <a href="program-notes#">Explore</a><a href="program-notes#" class="flyout-toggle"><span> </span></a>
+                <ul class="flyout small right">
+                  <li ><a href="/armoryshow">Introduction</a></li>
+                  <li ><a href="/armoryshow/setting-the-stage">Setting the Stage</a></li>
+                  <li ><a href="/armoryshow/cast">The Cast</a></li>
+                  <li ><a href="/armoryshow/show">The Show</a></li>
+                  <li class="active"><a href="program-notes">The Program Notes</a></li>
+                  <li ><a href="/armoryshow/audience">The Audience</a></li>
+                  <li ><a href="/armoryshow/finale">The Finale</a></li>
+                  <li ><a href="/armoryshow/legacy">The Legacy</a></li>
+                  <li ><a href="/armoryshow/bibliography">Bibliography</a></li>
+                  <li ><a href="/armoryshow/credits">Credits</a></li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+          <nav id="gallery-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+              <a id="gallery-map-link" class="gallery-map-link" href="program-notes#">Gallery</a><a href="program-notes#" class="flyout-toggle gallery-map-link"><span> </span></a>
+                <ul class="flyout right gallery-map">
+                  <li><div id="floor-plan-map"></div></li> 
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+        </td>
+      </tr>
+    </table>
+
+    <div style="clear:both;"></div>
+  </header>
+
+  
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+    <div class="row">
+      <div class="ten columns centered">
+        <article class="panel">
+          <div class="article-inset">
+            <div class="pdf-thumbnail-container">
+  <a href="catalogue-chicago.pdf" target="_blank">
+    <img src="catalogue-chicago_200.jpg" class="slideshow-image-large"/>
+  </a>
+  <div class="download-pdf-text">
+    <a href="catalogue-chicago.pdf" target="_blank">Download PDF</a>
+  </div>
+</div>
+
+<p>Unlike the New York catalogue for the <em>International Exhibition of Modern Art</em>&mdash;which, due to time constraints and a staggering number of artworks, was awkwardly organized and included a supplement with corrections and late additions&mdash;the catalogue for the Chicago exhibition had the advantage of being published in one compact volume with 16 illustrations and 453 items organized alphabetically by artist.<a href="program-notes#ref"><sup>1</sup></a> For the beneﬁt of the public and at the insistence of the Art Institute's director, William M. R. French, the titles of all the works were also translated into English.</p>
+<p>Like the New York publication, the Chicago catalogue included a preface by Frederick James Gregg, a newspaperman who served as the publicity representative for the Association of American Painters and Sculptors (AAPS). Gregg quoted a lengthy statement by Arthur B. Davies, the AAPS president, explaining the exhibition's intention to simply give "the public here the opportunity to see for themselves the results of new inﬂuences at work in other countries in an art way" so that "the intelligent may judge for themselves."<a href="program-notes#ref"><sup>2</sup></a> </a> This comment was popular with the Chicago press and in keeping with the widely accepted mission of the museum. Less often repeated, and indeed removed from later printings of the catalogue, were Gregg's much more assertive comments regarding the need for change, progress, and bravery in American art along the lines of the modernist innovations in Europe. "The less they find their work showing signs of the developments indicated in the Europeans," he wrote, "the more reason they will have to consider whether or not painters and sculptors here have fallen behind through escaping . . . the forces that have manifested themselves on the other side of the Atlantic."<a href="program-notes#ref"><sup>3</sup></a></p>
+
+<div class="thumbnail-container program-notes">
+    <a href="cezanne.pdf" target="_blank">
+      <img src="cezanne_150h.jpg" />
+    </a>
+    <a href="for-and-against.pdf" target="_blank">
+      <img src="for-and-against_150h.jpg" />
+    </a>
+    <a href="odilon-redon.pdf" target="_blank">
+      <img src="odilon-redon_150h.jpg" />
+    </a>
+    <a href="sculptors-architecture.pdf" target="_blank">
+      <img src="sculptors-architecture_150h.jpg" />
+    </a>
+</div>
+
+<div class="download-pdf-text">
+  <p>Click the above images to download a PDF of the original documents</p>
+</div>
+
+<p>In addition to the exhibition catalogue, visitors could also purchase an array of publications on modern art as they entered the exhibition. The AAPS produced four pamphlets to sell at the New York presentation, three of which were also sold in Chicago: <em>Odilon Redon</em> by Walter Pach (the AAPS European agent), <em>Cézanne</em> by Elie Faure (translated by Pach), and <em>A Sculptor's Architecture</em> by Pach.<a href="program-notes#ref"><sup>4</sup></a> In addition, the Art Institute and the AAPS produced a pamphlet especially for Chicago audiences that presented both positive and negative assessments of the exhibition. Entitled <em>For and Against</em>, the 64-page booklet included Davies's statement regarding the exhibition's objective (without Gregg's more decisive comments); articles by Pach and Gregg defending the exhibition; a reprint of an open-minded review from the <em>Chicago Evening Post</em>; two negative reviews by noted artist and critic Kenyon Cox and Princeton art historian Frank Jewett Mather; and an article on Cubism by artist Francis Picabia. According to Newton H. Carpenter, the museum's executive secretary, this pamphlet sold extremely well.</p>
+<p>Alongside these "official" publications, the Art Institute also sold a number of magazines with special articles on the exhibition, including the March 1913 issue of <em>Arts &amp; Decoration</em>, which was edited by AAPS member Guy Pène du Bois and devoted entirely to the Armory Show, and the April issue of <em>Art and Progress</em>, which included a deeply critical article by Adeline Adams.<a href="program-notes#ref"><sup>5</sup></a></p>
+
+<div class="pdf-thumbnail-container right">
+  <a href="the-cubies.pdf" target="_blank">
+    <img src="the-cubies_200.jpg" class="slideshow-image-large right"/>
+  </a>
+  <div class="download-pdf-text">
+    <a href="the-cubies.pdf" target="_blank">Download PDF</a>
+  </div>
+</div>
+
+<p>Even after the Armory Show closed, the exhibition continued to inspire texts. One amusing example is <em>The Cubies' A B C</em>, a satire of modern art, personified as three geometric figures. The book was the creation of Mary Mills and Harvey Lyall, who dedicated it to the AAPS. Written in the style of a children's ABC book, the letters are accompanied by rhyming descriptions of the qualities of modern art that are paired with illustrations, some of which include works from the Armory Show. The Art Institute's <em>Head of a Woman (Fernande)</em> by Pablo Picasso, for example, is featured in the book, paired with the following verse: </p>
+<blockquote> P's for Picasso, Picabia and Party<br />
+(Who deal in abstractions, distractions and such.)<br />
+When with vision chaotic and expletives hearty,<br />
+You beg of a Cubie their sense to impart, he<br />
+Profoundly makes answer: "In little is much."<br />
+<br />
+&mdash;P's for Picasso, Picabia and Party.<a href="program-notes#ref"><sup>6</sup></a></blockquote>
+
+<p><hr /></p>
+
+<div class="ref">
+  <a href="program-notes#" name="ref"></a>    
+  <p><sup>1</sup> While the checklist included 453 works, because groups of an artist's prints or drawings were listed together under single entries, the total number of works exhibited was actually 634: 312 paintings, 57 watercolors, 120 prints, and 115 drawings.</p>
+  <p><sup>2</sup> Association of American Painters and Sculptors, <em>Catalogue of the International Exhibition of Modern Art</em>, exh. cat. (Chicago: Art Institute, 1913).</p>
+  <p><sup>3</sup> Ibid.</p>
+  <p><sup>4</sup> A collection of excerpts from Paul Gauguin's Tahitian journal <em>Noa-Noa</em> (translated by Walt Kuhn) was not sold on grounds of indecency. Two weeks before the exhibition opened in Chicago, French, the Art Institute director, received a letter from Adeline Adams, a New York acquaintance, making him aware of the illicit pamphlet. Adeline Adams to William M. R. French, Mar. 13, 1913. French&mdash;Exhibition Correspondence, box 18, 1912–14, AIC Archives.</p>
+  <p><sup>5</sup> Carpenter wrote to French during the latter's lecture trip in California, "I was quite amused over the article in <em>Art and Progress</em>. Miss Mechlin sold me the 500 copies without my seeing the article. However, these magazines have sold so well that we have ordered 465 additional copies. We get them for 7 ½¢ and sell them for 20¢ each." Carpenter to French, Apr. 7, 1913. William M. R. French&mdash;Exhibition Correspondence, 1912–14, box 18, AIC Archives. </p>
+  <p><sup>6</sup> Mary Mills Lyall and Harvey Lyall, <em>The Cubies' A B C</em> (New York: G. P. Putnam's Sons, 1913), p. 36.</p>
+</div>
+
+          </div>
+        </article>
+      </div>
+    </div> <!-- .row -->
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+  
+
+  <script type="text/javascript">
+    $.ajax({
+      url: "floor-plan.json",
+      dataType: "json",
+      success: function(data) {
+        floor_plan_data = data;
+
+        // load floor plan fleximap
+        $('#floor-plan-map').flexiMap(floor_plan_data, function() {
+          setupTooltips('#floor-plan-map');
+        });
+
+        // resize it when nav accessed
+        $('.gallery-map-link').bind('touchstart mouseover', function() {
+          $('#floor-plan-map').flexiMap('resize', '540px', '369px');
+        });
+      },
+      error: function(xhr, status, error) {
+        console.error(status + ': ' + error.message);
+      }
+    });
+
+    $(document).foundationNavigation();
+  </script>
+
+  <!-- "AIC_US_Spark" c/o "Audience On Demand",  segment: 'AIC_REM_Armory Show Site_Unsecure' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+  <script src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment&returnType=js"></script>
+  <noscript>
+  <img src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment" width="1" height="1" />
+  </noscript>
+  <!-- End of pixel tag -->
+
+
+</body>
+</html>

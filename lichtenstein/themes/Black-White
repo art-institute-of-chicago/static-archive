@@ -1,0 +1,360 @@
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_841ed3992a4f3343aec3ebf7d9c8c869) -->
+<!-- From CITI. (20b229a62e443434817344d9edc0eb40_7708ff22724feb1f40e1e10860b5c0e3) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Black and White | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-17634.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/jqModal.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/browserDetect.js"></script>
+<script type="text/javascript" src="../js/jquery.hoverintent.minified.js"></script>
+<script type="text/javascript" src="../js/infiniteScroll.js"></script>
+<script type="text/javascript" src="../js/filterMenu.js"></script>
+<script type="text/javascript" src="../js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+
+   <script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page-node.tpl.php-->
+</head>
+<body class="not-front not-logged-in ntype-artwork-listing sidebar-right">
+  <div id="header">
+    <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/Lichtenstein_AIC.png" alt="The Art Institute of Chicago" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Lichtenstein-hdr.png" alt="Roy Lichtenstein: A Retrospective" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+<div id="pagewrapper">
+
+<div id="page">
+<div id="column_container">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Lichtenstein">Roy Lichtenstein: A Retrospective</a> > <a href="../themes">Themes</a> > <span class="sel">Black and White</span></div></div>
+      </div>
+    
+    <div id="page-title-wrapper">
+              <h1 class="title">Black and White</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <div class="content">
+    <div class="bodycopy">
+        <h3>1961&ndash;66</h3>
+
+<div class="image wrap"><a href="http://www.artic.edu/aic/collections/exhibitions/Lichtenstein/artwork/203346" rel="nofollow"><img alt=" A Retrospective" src="../images/203346.png"></a></div>
+
+<p>In the early 1960s, as Lichtenstein was producing his <em>War</em> and <em>Romance</em> comic panels, he was simultaneously working on a series drained of Pop color and narrative. Continuing to mimic the graphic conventions in mass-produced printed matter—in this series, newspaper advertisements and mail-order catalogues—he created over 50 black-and-white works on paper and canvas, as well as ceramic sculptures, of insistently ordinary, everyday objects.</p>
+
+<p>Pop works of the period like <em>Look Mickey</em> (1961) involved an intricate compositional choreography. In the <em>Black and White</em> works, Lichtenstein intensified his focus on subject and scale. The objects here are centered on the canvas, or "islanded," as Lichtenstein phrased it. He also experimented with treating the painted canvas as an object, as in <em>Portable Radio</em> (1962), which includes a functional leather strap, or <em>Compositions I</em> (1964), a grossly inflated facsimile of a student notebook.</p>
+
+<p>The year 1962 marked Lichtenstein's transition to machine-made, perforated metal screens, through which he painted by hand his trademark dots. The staggered rows of holes produced an optical phenomenon, a banding effect, which is evident in the background of <em>Magnifying Glass</em> (1963). The optical illusion is far less present in the "magnified" portion of the painting, where the increased amount of white space counteracts the retinal effect produced by the dotted background.</p>
+
+<p>Optical effects are also present in works that do not incorporate dots. Pattern and repetition create the dizzying tread of <em>Tire</em> (1962), a painting evoking contemporary black-and-white Op art (short for Optical art) works by artists such as Bridget Riley and Victor Vassarely, while minimal detail was used with stunning results in <em>Golf Ball</em> (1962) to express pattern and volume.</p>
+
+<p><hr /></p>
+<p><sub>Roy Lichtenstein. <em>Ball of Twine</em>, 1963. © Estate of Roy Lichtenstein. Courtesy of Christie's.</sub></p>    </div>
+    <div class="floatClear"></div>
+    <div id="galleryHolder">
+        <div id="filterMenu" style="height:35px;">
+                    <h3>View artworks</h3>
+                    <ul id="filters">
+                                                </ul>
+          <div id="filterControls">
+            <div id="results">Showing <span id="count">11</span> results</div>
+            <div id="reset">
+              <a href="Black-White#" id="filter-name">Reset</a>
+              <a href="Black-White#" id="resetBox"><span>X</span></a>
+            </div>
+          </div>
+        </div>
+        <div class="floatClear"></div>
+        <div id="galleryContent">
+                        <div class="floatClear"></div>
+        </div>
+    </div>
+</div>
+<script language="javascript">
+
+    //Utils
+    Array.prototype.unique = function() {
+        var o = {}, i, l = this.length, r = [];
+        for(i=0; i<l;i+=1) o[this[i]] = this[i];
+        for(i in o) r.push(o[i]);
+        return r;
+    };
+
+    function sortUnorderedList(ul, sortDescending) {
+      if(typeof ul == "string")
+        ul = document.getElementById(ul);
+
+      // Get the list items and setup an array for sorting
+      var lis = ul.getElementsByTagName("LI");
+      var vals = [];
+
+      // Populate the array
+      for(var i = 0, l = lis.length; i < l; i++)
+        vals.push(lis[i].innerHTML);
+
+      // Sort it
+      vals.sort();
+
+      // Sometimes you gotta DESC
+      if(sortDescending)
+        vals.reverse();
+
+      // Change the list on the page
+      for(var i = 0, l = lis.length; i < l; i++)
+        lis[i].innerHTML = vals[i];
+    }
+
+    var galleryObjects = {"artwork_203341":{"artwork_link":"..\/203341","object_title":"Tire","object_date_begin":"1\/1\/1961","object_date_end":"12\/31\/1962","object_image_thumbnail":"..\/images\/182144_2982788.jpg","object_image_medium":"..\/images\/182144_2982787.jpg","object_date_display":"1961 or 62 (TBC)","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_207066":{"artwork_link":"..\/207066","object_title":"Desk Calendar","object_date_begin":"1\/1\/1962","object_date_end":"12\/31\/1962","object_image_thumbnail":"..\/images\/182114_2982308.jpg","object_image_medium":"..\/images\/182114_2982307.jpg","object_date_display":"1962","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_204561":{"artwork_link":"..\/204561","object_title":"Golf Ball","object_date_begin":"1\/1\/1962","object_date_end":"12\/31\/1962","object_image_thumbnail":"..\/images\/182037_2981588.jpg","object_image_medium":"..\/images\/182037_2981587.jpg","object_date_display":"1962","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_203342":{"artwork_link":"..\/203342","object_title":"Radio (with Leather Strap)","object_date_begin":"1\/1\/1962","object_date_end":"12\/31\/1962","object_image_thumbnail":"..\/images\/182145_2982804.jpg","object_image_medium":"..\/images\/182145_2982803.jpg","object_date_display":"1962","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_192131":{"artwork_link":"..\/192131","object_title":"The Ring","object_date_begin":"1\/1\/1962","object_date_end":"12\/31\/1962","object_image_thumbnail":"..\/images\/182142_2982756.jpg","object_image_medium":"..\/images\/182142_2982755.jpg","object_date_display":"1962","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican, 1923-1997","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_203346":{"artwork_link":"..\/203346","object_title":"Ball of Twine","object_date_begin":"1\/1\/1963","object_date_end":"12\/31\/1963","object_image_thumbnail":"..\/images\/178278_2963444.jpg","object_image_medium":"..\/images\/178278_2963443.jpg","object_date_display":"1963","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_203839":{"artwork_link":"..\/203839","object_title":"Large Jewels","object_date_begin":"1\/1\/1963","object_date_end":"12\/31\/1963","object_image_thumbnail":"..\/images\/182148_2982868.jpg","object_image_medium":"..\/images\/182148_2982867.jpg","object_date_display":"1963","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923 - 1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205020":{"artwork_link":"..\/205020","object_title":"Magnifying Glass","object_date_begin":"1\/1\/1963","object_date_end":"12\/31\/1963","object_image_thumbnail":"..\/images\/182063_2981684.jpg","object_image_medium":"..\/images\/182063_2981683.jpg","object_date_display":"1963","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205504":{"artwork_link":"..\/205504","object_title":"Compositions I","object_date_begin":"1\/1\/1964","object_date_end":"12\/31\/1964","object_image_thumbnail":"..\/images\/182107_2982196.jpg","object_image_medium":"..\/images\/182107_2982195.jpg","object_date_display":"1964","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923 - 1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_208216":{"artwork_link":"..\/208216","object_title":"Ceramic Sculpture 7","object_date_begin":"1\/1\/1965","object_date_end":"12\/31\/1965","object_image_thumbnail":"..\/images\/182159_2983028.jpg","object_image_medium":"..\/images\/182159_2983027.jpg","object_date_display":"1965","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_204642":{"artwork_link":"..\/204642","object_title":"Black and White Head","object_date_begin":"1\/1\/1966","object_date_end":"12\/31\/1966","object_image_thumbnail":"..\/images\/182155_2982964.jpg","object_image_medium":"..\/images\/182155_2982963.jpg","object_date_display":"1966","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""}};
+    
+    (function($){
+    $(document).ready(function(){
+        //Hide reset box
+        $("#reset").hide();
+        var galleryContent = $("#galleryContent"), gCEnd = galleryContent.children(".floatClear");
+        var dates = new Array();
+        
+        $.each(galleryObjects, function(i, gObj) {
+            (function() {
+                dates.push([gObj.object_date_begin, gObj.object_date_end]);
+            // build DOM objects and nest them through appends
+            var g = $('<div>', { 'class': 'galleryImage' } );
+            var gLink = $( '<a>', { 'href': gObj.artwork_link } );
+            var gThumbnail = $( '<img original="' + gObj.object_image_thumbnail + '" class="lazyLoad"/>' );
+            var gTooltip = $( "<div>", { "class": "tooltip", "html": '<img original="' + gObj.object_image_medium +'" alt="" class="lazyLoad"/><div id="artworkData"><em><strong>'+ gObj.object_title +'</strong></em>, '+ gObj.object_date_display +'<br/>' + gObj.object_artist_culture_display + '</div>' } );
+            gLink.append(gThumbnail);
+            gLink.append(gTooltip);
+            g.append(gLink);
+
+            
+            // associate object to DOM object
+            g.artData = gObj;
+
+            // bind filtering events
+            g.bind( "filterByName", function(event,name) {
+              if (g.artData.object_artist_sort_name !== name) { g.hide(); }
+              else { g.fadeIn(); }
+            });
+
+            g.bind( "filterByTag", function(event,tag) {
+              if ( $.inArray( tag, $.map(g.artData.object_tag_list.split(","), function(n){ return $.trim(n); }) ) == -1 ) { g.hide(); }
+              else { g.fadeIn(); }
+            });
+
+            g.bind( "filterByDate", function(event,d1,d2) {
+                 var dt = new Array(g.artData.object_date_begin, g.artData.object_date_end);
+
+                 dt = $.map(dt, function(_a) { var d = new Date(Date.parse(_a)); return d.getFullYear(); });
+
+                 if(dt.filter(Boolean).length !== 0){
+                           if (d1 <= dt[0] && d2 >= dt[1]) { g.fadeIn(); }
+                   else { g.hide(); }
+                 }
+                 else { g.hide(); }
+            });
+
+            g.bind( "filterReset", function(event){
+                g.fadeIn();
+            });
+
+            gTooltip.hide();
+            // do rollovers for this link -- you can change the fadeIn and fadeOut to just show() and hide() if you don't like the fading effect
+            gLink.hover(
+                function () {
+                    gTooltip.show();
+                    // position tooltip
+                    gTooltip.css( { "bottom": gThumbnail.height()/2 + ( g.height() - gThumbnail.height() ) + "px", "left": gThumbnail.width()/2 + "px" } );
+                  },
+
+                function () { gTooltip.hide(); }
+            );
+            // insert this gallery node before end of list
+            gCEnd.before(g);
+          })();
+            });
+
+                          //event resetting all filters
+      $( "#resetBox").click( function () {
+          $(".galleryImage").trigger( "filterReset" );
+          $("#count").text($('.galleryImage').size());
+          $(".active").removeClass("active");
+          $("#reset").hide();
+          if(typeof slider != 'undefined'){
+            slider.slider("values", 0, slider.slider("option", "min"));
+            slider.slider("values", 1, slider.slider("option", "max"));
+            refreshRange();
+            refreshTicks();
+          }
+        return false;
+      });
+    });
+  })(jQuery);
+
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+</script>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+             
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+			      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+       <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Roy Lichtenstein: A Retrospective </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/Lichtenstein/index">Overview</a></li>
+<li class="expanded"><a href="../themes">Themes</a>
+<ul class="menu">
+<li class="leaf first"><a href="../themes/Look-Mickey">Look Mickey</a></li>
+<li class="leaf"><a href="../themes/Early-Abstractions">Early Abstractions/Late Brushstrokes </a></li>
+<li class="leaf"><a href="../themes/Early-Pop">Early Pop</a></li>
+<li class="leaf active"><a href="Black-White" class="active">Black and White</a></li>
+<li class="leaf"><a href="../themes/War-Romance">War and Romance</a></li>
+<li class="leaf"><a href="../themes/Brushstrokes">Brushstrokes/Explosions</a></li>
+<li class="leaf"><a href="../themes/Landscapes">Landscapes</a></li>
+<li class="leaf"><a href="../themes/Art-History">Art History</a></li>
+<li class="leaf"><a href="../themes/Modern">Modern</a></li>
+<li class="leaf"><a href="../themes/Mirrors">Mirrors</a></li>
+<li class="leaf"><a href="../themes/Entablatures">Entablatures</a></li>
+<li class="leaf"><a href="../themes/Artists-Studios">Artist’s Studios</a></li>
+<li class="leaf"><a href="../themes/Perfect-Imperfect">Perfect/Imperfect</a></li>
+<li class="leaf"><a href="../themes/Nudes">Nudes</a></li>
+<li class="leaf"><a href="../themes/Landscapes-Chinese">Landscapes in the Chinese Style</a></li>
+<li class="leaf last"><a href="../themes/Works-Paper">Works on Paper</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="http://extras.artic.edu/timelines/lichtenstein/">Timeline</a></li>
+<li class="leaf"><a href="../videos">Videos</a></li>
+<li class="leaf"><a href="../selectedworks">Selected Works</a></li>
+<li class="leaf last"><a href="../search-artworks">Search Artworks</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+   <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+  </div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>
+

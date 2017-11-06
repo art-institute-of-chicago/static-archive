@@ -1,0 +1,240 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_7de4947f590d5a1d6ce269f856d15e74) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_3cfebbd788fb2f7d8ddc6c602ea8d0be) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_3cfebbd788fb2f7d8ddc6c602ea8d0be) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_8649357a5df69d96daf61974655cfc69) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_5ec6782c07694d823e398df95ad8d6e3) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_7de4947f590d5a1d6ce269f856d15e74) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_87d5c2bed03f93ab1e6bc7534f9ae953) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_3cfebbd788fb2f7d8ddc6c602ea8d0be) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_3cfebbd788fb2f7d8ddc6c602ea8d0be) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Family Portrait | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8930.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_renaissance.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_renaissance.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance">Art Access: Renaissance and Baroque Art</a> > <a href="../family">Family Activities</a> > <span class="sel">Family Portrait</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Family Portrait</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Family Activity: Family Portrait</strong><br />       <div class="content">
+<p>Examine Jan Steen's <a href="../FamilyConcert"><em>The Family Concert</em></a> and make a family portrait of your own that illustrates a favorite family activity. Includes discussion questions and an art-making activity.</p><br />
+<h3>Introduction:</h3>
+<p>Jan Steen’s painting shows a family relaxing and making music together. Members of the family sit around a table playing instruments. The view of a windmill outside the window and the vines creeping in, tell us that it is spring or summer in the Netherlands. Gold and richly colored materials inside the house tell us that this family paid careful attention to how they decorated their home.</p>
+<div class="image wrap"><img src="../images/E15393.jpg" border="0" class="inline" /></div>
+<h3>Discussion Questions:</h3>
+<p>Look carefully at Steen’s picture.</p>
+<ul>
+<li>How many people are in the painting? What are they each doing?</li>
+<li>What kinds of household items do you see?</li>
+<li>How many animals are there? How many chairs? Instruments?</li>
+<li>Can you find any of these objects in your own home?</li>
+<li>What do you think life was like for this family who lived 300 years ago? </li>
+</ul><br />
+<h3>Activity:</h3>
+<p>Make your own family portrait in a room in your home.</p>
+<div class="image wrap">
+<img src="../images/familyportrait.jpg" border="0" class="inline" />
+</div>
+<h3>Materials Needed:</h3>
+<ul>
+<li>Paper</li>
+<li>Pencils, crayons, or paints</li>
+</ul>
+<h3>Steps:</h3>
+<ol>
+<li>Sit in a room in your home and make a list of the objects and materials you see. Don't forget to include what you see and what time of year it is.</li>
+<li>Think of an activity that you and your family do together in this room.</li>
+<li>Using pens, pencils, crayons, or paints, create a portrait of your family engaged in this activity. What objects will you include? What will each member of your family be doing?</li>
+</ol>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001051.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001051.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Renaissance and Baroque Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Dragon">Artworks</a></li>
+<li class="collapsed"><a href="../lesson">Lesson Plans</a></li>
+<li class="expanded"><a href="../family">Family Activities</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/1052">Make a Coat of Arms</a></li>
+<li class="leaf"><a href="../resource/1053">What a Relief!</a></li>
+<li class="leaf active last"><a href="1051" class="active">Family Portrait</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1873">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Renaissance/artwork/561">The Family Concert</a></span>, 1666</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

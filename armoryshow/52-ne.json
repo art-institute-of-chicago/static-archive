@@ -1,0 +1,208 @@
+{
+"map"       : "52-ne_2000.jpg",
+"mapwidth"  : "2000px", 
+"mapheight" : "1279px",
+"areas"     : {
+  "a"  : {
+      "left"    : "32px",
+      "top"     : "605px",
+      "width"   : "315px",
+      "height"  : "320px",
+      "data" : {
+        "ctitle"    : "408 Vincent van Gogh, <em>Ball at Arles</em>",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890). <em>The Dance Hall in Arles</em>, October–November 1888. Oil on canvas; 65 × 80.5 cm (25 5/8 × 31 11/16 in.). Musée d’Orsay, Paris, RF 1950 9."
+      }
+  },
+  "b"  : {
+      "left"    : "21px",
+      "top"     : "458px",
+      "width"   : "170px",
+      "height"  : "140px",
+      "data" : {
+        "ctitle"    : "415 Vincent van Gogh, <em>Wooden Shoes</em>",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890). <em>A Pair of Leather Clogs</em>, 1888. Oil on canvas; 32.5 × 40.5 cm (12 13/16 × 15 15/16 in.). Van Gogh Museum, Amsterdam."
+      }
+  },
+  "c"  : {
+      "left"    : "194px",
+      "top"     : "468px",
+      "width"   : "158px",
+      "height"  : "130px",
+      "data" : {
+        "ctitle"    : "416 Vincent van Gogh, <em>Shrimps</em>",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890). <em>Prawns and Mussels</em>, September–November 1886. Oil on canvas; 26.5 × 34.8 cm (10 5/8 × 13 3/8 in.). Van Gogh Museum, Amsterdam, S 122 V/1962."
+      }
+  },
+  "d"  : {
+      "left"    : "364px",
+      "top"     : "655px",
+      "width"   : "188px",
+      "height"  : "180px",
+      "data" : {
+        "ctitle"    : "414 Vincent van Gogh, <em>The big olive tree</em>",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890). <em>Olive Orchard or The Olive Plantation</em>, 1889. Oil on canvas; 53.5 × 64.5 cm (21 × 25 3/8 in.). Private collection."
+      }
+  },
+  "e"  : {
+      "left"    : "386px",
+      "top"     : "488px",
+      "width"   : "135px",
+      "height"  : "162px",
+      "data" : {
+        "joyride-stop" : true,
+        "ctitle"    : "417 Vincent van Gogh, <em>Mill, Montmartre</em>",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890). <em>The Mill of Montmartre</em>, 1886. Oil on canvas. 46.5 × 38 cm. Destroyed."
+      }
+  },
+  "f"  : {
+      "left"    : "560px",
+      "top"     : "590px",
+      "width"   : "225px",
+      "height"  : "225px",
+      "data" : {
+        "ctitle"    : "408 Vincent van Gogh, <em>Hills at Arles</em>",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890), <em>Mountains at Saint-Rémy</em>, July 1889. Oil on canvas; 71.8 × 90.8 cm (28 1/4 × 35 3/4 in.). Solomon R. Guggenheim Museum, New York,Thannhauser Collection, gift, Justin K. Thannhauser  78.2514.24."
+      }
+  },
+  "g"  : {
+      "left"    : "555px",
+      "top"     : "364px",
+      "width"   : "224px",
+      "height"  : "222px",
+      "data" : {
+        "ctitle"    : "418 Vincent van Gogh, <em>Landscape, Arles</em>",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890). <em>Olive Trees</em>, 1889. Oil on canvas; 72.7 × 92.1 cm (28 5/8 × 36 1/4 in.). The Metropolitan Museum of Art, The Walter H. and Leonore Annenberg Collection, gift of Walter H. and Leonore Annenberg, 1998, bequest of Walter H. Annenberg, 2002, 1998.325.1."
+      }
+  },
+  "h"  : {
+      "left"    : "792px",
+      "top"     : "654px",
+      "width"   : "102px",
+      "height"  : "140px",
+      "data" : {
+        "ctitle"    : "422 Vincent van Gogh, Self-portrait (Lent by John Quinn)",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890). <em>Self-Portrait</em>, Summer 1887. Oil on canvas; 41 × 33.5 cm (16 1/8 × 13 3/16 in.). Wadsworth Atheneum, Hartford, Connecticut."
+      }
+  },
+  "i"  : {
+      "left"    : "790px",
+      "top"     : "518px",
+      "width"   : "108px",
+      "height"  : "128px",
+      "data" : {
+        "ctitle"    : "423 Vincent van Gogh, <em>Head and Shoulders of Young Woman</em>",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890). <em>Adeline Ravoux</em>, 1890. Oil on canvas; 50.2 × 50.5 cm (19 3/4 × 19 7/8 in.). Cleveland Museum of Art, bequest of Leonard C. Hanna, Jr., 1958.31."
+      }
+  },
+  "j"  : {
+      "left"    : "904px",
+      "top"     : "654px",
+      "width"   : "168px",
+      "height"  : "132px",
+      "data" : {
+        "ctitle"    : "413 Vincent van Gogh, <em>In the Woods</em>",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890), <em>Undergrowth With Two Figures</em>, June 1890. Oil on canvas; 49.5 × 99.7 cm (19 1/2 × 39 1/4 in.). Cincinnati Art Museum, bequest of Mary E. Johnston, 1967.1430."
+      }
+  },
+  "k"  : {
+      "left"    : "926px",
+      "top"     : "522px",
+      "width"   : "124px",
+      "height"  : "126px",
+      "data" : {
+        "ctitle"    : "412 Vincent van Gogh, <em>The olive tree</em>",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890). <em>Landscape with Figures</em>, 1889. Oil on canvas; 73 × 92.1 cm (28 3/4 × 36 1/4 in.). The Baltimore Museum of Art, The Cone Collection, 1950.303."
+      }
+  },
+  "l"  : {
+      "left"    : "1072px",
+      "top"     : "608px",
+      "width"   : "116px",
+      "height"  : "166px",
+      "data" : {
+        "ctitle"    : "424 Vincent van Gogh, <em>Red flowers</em>",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890). <em>Vase with Poppies</em>, Summer 1886. Oil on canvas; 56 × 46 cm (22 × 18 1/8 in.). Wadsworth Atheneum, Hartford, Connecticut."
+      }
+  },
+  "m"  : {
+      "left"    : "1088px",
+      "top"     : "494px",
+      "width"   : "70px",
+      "height"  : "114px",
+      "data" : {
+        "ctitle"    : "410 Vincent van Gogh, <em>The Zouave</em> (Lent by M. E. Druet)",
+        "citation"  : "Vincent van Gogh (Dutch, 1853–1890). <em>The Zouave</em>, c. June 20, 1888. Reed pen and brown ink, wax crayon and watercolor, over graphite, on wove paper; 31.5 × 23.6 cm (12 3/8 × 9 5/16 in.). The Metropolitan Museum of Art, gift of Emanie Philips, 1962, 62.151."
+      }
+  },
+  "n"  : {
+      "left"    : "1205px",
+      "top"     : "615px",
+      "width"   : "122px",
+      "height"  : "158px",
+      "data" : {
+        "ctitle"    : "43 Paul Cezanne, <em>Portrait</em>",
+        "citation"  : "Paul Cézanne (French, 1839–1906). <em>Portrait of Gustave Boyer</em>, c. 1870 . Oil on canvas; 60 × 44 cm (23 5/8 × 17 3/8 in.)."
+      }
+  },
+  "o"  : {
+      "left"    : "1222px",
+      "top"     : "528px",
+      "width"   : "95px",
+      "height"  : "80px",
+      "data" : {
+        "ctitle"    : "48 Paul Cezanne, <em>Harvesters</em> (Lent by J. O. Summer)",
+        "citation"  : "Paul Cézanne (French, 1839–1906). <em>The Harvesters</em>, c. 1877. Oil on canvas; 26 × 41 cm (10 1/4 × 16 1/8 in.). Private collection."
+      }
+  },
+  "p"  : {
+      "left"    : "1330px",
+      "top"     : "600px",
+      "width"   : "192px",
+      "height"  : "186px",
+      "data" : {
+        "ctitle"    : "44 Paul Cezanne, <em>Melum</em> (Lent by Ambroise Vollard)",
+        "citation"  : "Paul Cézanne (French, 1839–1906). <em>Jas de Bouffan</em>, c. 1879. Oil on canvas; 60 × 73 cm (23 5/8 × 28 3/4 in.). Nasjonalgalleriet, Oslo, gift of Tryggve Sagen."
+      }
+  },
+  "q"  : {
+      "left"    : "1536px",
+      "top"     : "616px",
+      "width"   : "206px",
+      "height"  : "178px",
+      "data" : {
+        "ctitle"    : "49 Paul Cezanne, <em>Landscape</em>",
+        "citation"  : "Paul Cézanne (French, 1839–1906). <em>The Road</em>, c. 1871. Oil on canvas; 58.4 × 71.1 cm (23 × 28 in.). Private collection."
+      }
+  },
+  "r"  : {
+      "left"    : "1562px",
+      "top"     : "464px",
+      "width"   : "140px",
+      "height"  : "146px",
+      "data" : {
+        "ctitle"    : "50 Paul Cezanne, <em>Portrait, C&eacute;zanne</em>",
+        "citation"  : "Paul Cézanne (French, 1839–1906). <em>Self Portrait with Bowler Hat</em>, c. 1885. Oil on canvas; 44.5 × 35.5 cm (17 1/2 × 14 in.). Ny Carlsberg Glyptotek, Copenhagen, MIN 1892."
+      }
+  },
+  "s"  : {
+      "left"    : "1758px",
+      "top"     : "548px",
+      "width"   : "234px",
+      "height"  : "260px",
+      "data" : {
+        "ctitle"    : "38 Paul Cezanne, <em>Woman with rosary</em>",
+        "citation"  : "Paul Cézanne (French, 1839–1906). <em>An Old Woman with a Rosary</em>, 1895/96. Oil on canvas; 80.6 × 65.5 cm (31 3/4 × 25 3/4 in.). The National Gallery, London, NG6195."
+      }
+  },
+  "t"  : {
+      "left"    : "1788px",
+      "top"     : "365px",
+      "width"   : "172px",
+      "height"  : "180px",
+      "data" : {
+        "ctitle"    : "51 Paul Cezanne, <em>Portrait, Mme. C&eacute;zanne</em>",
+        "citation"  : "Paul Cézanne (French, 1839–1906). <em>Portrait of Madame Cézanne</em>, c. 1885. Oil on canvas; 46 × 38.1 cm (18 1/8 × 15 in.). Private collection."
+      }
+  }
+}
+}

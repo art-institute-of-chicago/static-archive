@@ -1,0 +1,295 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_dbc81d96f0f8c5d6150c64ca1af74d65) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_ba0cdfd9b3d5a3791b14c9f538745420) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_ba0cdfd9b3d5a3791b14c9f538745420) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_089b1b5b653b11489c7788381d200614) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_dbc81d96f0f8c5d6150c64ca1af74d65) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_ba0cdfd9b3d5a3791b14c9f538745420) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_ba0cdfd9b3d5a3791b14c9f538745420) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Discovering Silk Road Stories | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-1829.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/aic_silkroad.gif" alt="The Art Institute of chicago" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/silkroad_header.gif" alt="Silkroad" title="" width="550" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/silkroad">Silk Road, Resources for Teachers</a> > <a href="../Lessons">Lesson Plans</a> > <span class="sel">Discovering Silk Road Stories</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Discovering Silk Road Stories</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Discovering Silk Road Stories</strong><br />       <div class="meta">
+  </div>
+  <div class="content">
+<p>Discover the importance of storytelling along the Silk Road. Includes tips for a visit to the Field Museum.</p>
+    <div class="image wrap"><img src="../images/E24714.jpg" alt="../images/E24714.jpg" title="../images/E24714.jpg" width="205" height="256" class="inline" /></div>
+
+<p><strong>Name:</strong> Gina Alicea
+<br /><strong>School:</strong> Talman Elementary School
+<br /><strong>Subject Area(s):</strong> Art, History
+
+<br /><strong>Grade Level:</strong> Fifth and Sixth Grade</p>
+
+<h3>State Goals</h3>
+<ul><li>1B: Apply reading strategies to improve understanding.</li>   
+<li>2B: Read and interpret a variety of literary works.</li>
+<li>5A:  Research to acquire, organize, and use information to communicate ideas.</li>
+<li>17C3a: Understand how human activity is affected by geographic factors.</li>
+<li>18A4: Analyze influence of cultural factors.</li>
+<li>4A3c: Follow multi-step oral instructions.</li>
+<li>26B2d: Create works of art using problem solving and designing.</li>
+<li>27B4: Understand how the arts change in response to changes in society.</li>
+<li>1B: Apply reading strategies to improve understanding.</li>      
+<li>4A2b: Ask and respond to questions related to oral presentations.</li>
+<li>5A: Research to acquire, organize, and use information to communicate ideas.</li>
+<li>17C3a: Understand how human activity is affected by geographic factors.</li>
+<li>18A4: Analyze influence of cultural factors.</li></ul>
+
+<h3>Objectives</h3>
+<p><strong>Students will:</strong></p>
+<ul><li>Develop a basic understanding of the importance of storytelling along the Silk Road.</li>
+<li>Read and interpret stories related to the Silk Road.</li>
+<li>Record important information from the stories.</li>
+<li>Understand how geographical factors influenced human activity along the Silk Road.</li>
+<li>Work effectively in small cooperative groups.</li>
+<li>Listen effectively to an oral presentation and ask questions.</li>
+
+<li>Research an exhibit case and record information.</li>
+<li>Make connections between the artifacts and the Silk Road.</li>
+<li>Listen effectively to multi-step oral instructions.</li></ul>
+
+<h3>Materials/Resources</h3>
+<ul><li>Copies of the stories “The Bride with the Horse’s Head” and “A Rainbow in Silk”; <em>Stories from the Silk Road</em>, by Cherry Gilchrist</li>
+<li><a href="http://www.artic.edu/aic/collections/citi/resources/graphicorganizer1.pdf">Graphic Organizer 1</a></li>
+<li><a href="http://www.artic.edu/aic/collections/citi/resources/graphicorganizer2.pdf">Graphic Organizer 2</a></li>
+<li>Silkworm discovery box from Field Museum</li>
+<li>Map of the silk trade route</li>
+<li>Posters of Chinese Silk Painting and Silk Robes</li>
+<li>Bus and chaperones for field trip</li>
+<li>Field Museum floor map</li>
+<li>China permanent exhibit</li>
+<li>Field Museum docent</li>
+<li>Graphic organizer</li>
+<li>Students’ sketches from the Field Museum</li>
+<li>Map of the silk trade route</li></ul>
+<h3>Procedures</h3>
+<p><strong>Storytelling</strong></p>
+<ol>
+<li>Ask the students what they know about storytelling.</li><li>Provide a brief overview of the importance of storytelling in all cultures as a way to make sense of the world and spread information. (Remind them this was before newspapers, TV, internet, cell phones, etc.)</li><li>Divide the class into two groups. Group A: Read the story “The Bride with the Horse’s Head;” Group B: Read the story “A Silk Rainbow."</li><li>Groups A &amp; B each complete the <a href="http://www.artic.edu/aic/collections/citi/resources/graphicorganizer1.pdf">Graphic Organizer 1</a> in response to the story they have read.</li><li>Groups report back to the whole class.</li>
+<li>Have the class discuss the findings of each group. Consider the following with the class: What are the similarities and what are the differences between the two stories? What have we learned?</li>
+</ol>
+<p><strong>Field Museum visit</strong></p>
+<ol><li>Plan a class visit to the Field Museum.</li><li>In preparation for the visit, work with students on making up a list of things to look for at the museum that pertain to aspects of the Silk Road covered in the two stories.</li><li>In the museum, divide students into two groups. Each will visit a different exhibition (China exhibition and Jade Hall exhibit).</li>
+<li>Have the two groups do the following:<br /><em>Group One in China exhibition:</em>
+<ul>
+<li>Students review museum etiquette.</li><li>Review key elements of the Silk Road trade route.</li>
+<li>Students take a guided tour of China with a Field Museum docent.</li>
+<li>Discussion of the exhibit: question and answer with docent.</li>
+<li>Students choose an exhibit case (within the China exhibition) to analyze.</li>
+<li>Students answer questions on <a href="http://www.artic.edu/aic/collections/citi/resources/graphicorganizer2.pdf">Graphic Organizer 2</a>.</li>
+</ul>
+<em>Group Two in Jade Hall exhibit:</em>
+<ul>
+<li>Students will take a self-guided tour of the Jade Hall exhibit.</li>
+<li>Students will read the informational displays in the middle of the exhibit to gather information about jade and respond to questions in <a href="http://www.artic.edu/aic/collections/citi/resources/graphicorganizer2.pdf">Graphic Organizer 2</a>.</li>
+</ul>
+</li>
+<li>Reflection. Both groups.</li>
+<ul>
+<li>Students will draw or sketch an object or detail of an object that caught their attention today because of its design, subject, or other interesting quality.</li>
+</ul>
+</li>
+</ol>
+</div><br /><br />
+    	     	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001528.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001528.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Silk Road, Resources for Teachers </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../about">About the Silk Road</a></li>
+<li class="expanded"><a href="../Lessons">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/930">Create a Chinese Dragon </a></li>
+<li class="leaf"><a href="../resource/1527">Cultural Celebrations and Storytelling</a></li>
+<li class="leaf active"><a href="1528" class="active">Discovering Silk Road Stories</a></li>
+<li class="leaf"><a href="../resource/1530">From China to Mexico: Silk Road Ceramics</a></li>
+<li class="leaf"><a href="../resource/1531">Introducing Chinese Culture and Art</a></li>
+<li class="leaf"><a href="../resource/1532">Music of the Silk Road</a></li>
+<li class="leaf"><a href="../resource/1533">Silk Road Envelope Book Project</a></li>
+<li class="leaf"><a href="../resource/1534">Silk Road History Lab</a></li>
+<li class="leaf"><a href="../resource/1535">Silk Road Journeys: Analyzing Poetry</a></li>
+<li class="leaf last"><a href="../resource/1536">World Languages and Cultural Exchange</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="../bibliography">Bibliography</a></li>
+<li class="collapsed"><a href="../imagegal">Image Gallery</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="leaf last"><a href="../credits">Credits</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"><div class="relatedimage"><a href="../artwork/27925"><img src="../images/2090_3060690.jpg" alt="Suspension Bell (Bo)" title="China, Suspension Bell (Bo)"  /></a></div> <span class="italic"><a href="../artwork/27925">Suspension Bell (Bo)</a></span>, Eastern Zhou dynasty (770–256 B.C.), first half of 5th century B.C.</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

@@ -1,0 +1,193 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_e448a3c51ea22c4555e9a15ab34b1b61) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_8258b9d5941aeeaeec9399bac74e7459) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_9a0624b5d67bc8ffd83e6b2740c07a80) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_e448a3c51ea22c4555e9a15ab34b1b61) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_556f9b06121dc0373b6dedb3bf14949d) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Resource details | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="css/roll.css" />
+<link rel="shortcut icon" href="images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "css/aicportal.css";</style>
+<style type="text/css" media="all">@import "css/node.css";</style>
+<style type="text/css" media="all">@import "css/user.css";</style>
+<style type="text/css" media="all">@import "css/content.css";</style>
+<style type="text/css" media="all">@import "css/gallery.css";</style>
+<style type="text/css" media="all">@import "css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "css/exhibition-13038.css";</style>
+<style type="text/css" media="all">@import "css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "css/devel.css";</style>
+<style type="text/css" media="all">@import "css/style.css";</style>
+<style type="text/css" media="all">@import "css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "css/system-menus.css";</style>
+<style type="text/css" media="all">@import "css/system.css";</style>
+<style type="text/css" media="all">@import "css/main.css";</style>
+<style type="text/css" media="all">@import "css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "css/print.css";</style>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/drupal.js"></script>
+<script type="text/javascript" src="js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="js/extlink.js"></script>
+<script type="text/javascript" src="js/devel.js"></script>
+<script type="text/javascript" src="js/autocomplete.js"></script>
+<script type="text/javascript" src="js/jqModal.js"></script>
+<script type="text/javascript" src="js/redirect.js"></script>
+<script type="text/javascript" src="js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "/aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "/aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="images/Ryerson_aic.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="images/Ryerson_hdr.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson">Ryerson & Burnham Library Exhibitions</a> > <span class="sel">Resource details</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Resource details</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>02. Hilliard, Raymond, Homes. Site plan, c.1964-1965.</strong><br />       Clark, Cermak and State Streets; Chicago, IL, 1963-1966.
+<br /><br />
+The Hilliard Homes, public housing for families and the elderly built for the Chicago Housing Authority (CHA), continue to be one of the most successful public housing projects constructed in Chicago, being the only project never to require uniformed police to keep order. Consisting of two 16-story towers of elderly housing and two 18-story arc-shaped towers for family housing, both groups of buildings were built without a structural concrete core. Instead, the outer walls consist of load-bearing, interlocking shells with elliptical windows designed to better distribute stresses on the building skin. As with Marina City, the widening dimensions of the rooms as one moves toward the windows gives the impression of greater interior volume than truly exists.
+<br /><br />
+The success of the Hilliard Homes is not completely understood, but may at least be attributed in part to Goldberg's careful study of complex community relationships which informed many of his later designs—"Communication makes community," he once said. The core of each building was a community room to which the apartments fed, so that residents could intermingle and share. Social systems in the elderly units recall "the community life around a campfire" which our ancestors inhabited for millennia, and the circular form of Hilliard is Goldberg's "direct response to that kind of neighborhood."
+<br /><br />
+On a broader level, the success of the Hilliard Homes may be attributed also to the fact that "the architecture gave a message that [the CHA had built] a community... and... simply weren't storing people, which has been the general message of [previous] public housing [projects]. Goldberg felt strongly that people who live in public housing should "not feel that because they are poor they are being punished." But it almost didn't happen. The bureaucrats in D.C. considered the plans were "too good for the poor" and that the designs would have been "better suited to a more artistic element of society." However, with the developer Chuck Swibel's help, Goldberg was able to retain his original design, about which he once said: "I didn't design for the poor, I designed for people."<br /><br />
+    	 "Architecture for Urbanism: Selections from the Bertrand Goldberg Archive," Case 3, Ryerson &amp; Burnham Libraries, November 1, 2011–January 2, 2012<br />
+<br />
+<a href="http://digital-libraries.saic.edu/u?/mqc,2143">Link to R&amp;B Archives Digital Collections record</a><br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<img src="images/Rsrc_002239.jpg" alt="" />		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Ryerson &amp; Burnham Library Exhibitions </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson/index">Library Exhibitions Home</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

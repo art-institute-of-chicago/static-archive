@@ -1,0 +1,75 @@
+#carousel {
+  -moz-background-clip:border;
+  -moz-background-inline-policy:continuous;
+  -moz-background-origin:padding;
+  background:#797979 none repeat scroll 0 0;
+  color:#FFFFFF;
+  overflow:hidden;
+  position:relative;
+  text-align:left;
+}
+#slides {
+  float:left;
+  height:280px;
+  margin:0 20px 0 0;
+  overflow:hidden;
+  position:relative;
+  width:290px;
+}
+#caption {
+  display:inline;
+  float:left;
+  margin:2em 0 0;
+}
+#caption ul {
+  list-style-image:none;
+  list-style-position:outside;
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  width:255px;
+}
+#caption li + li {
+  border-top:1px solid #D6D6D6;
+}
+#caption .title {
+  display:block;
+  font-size:2.24em;
+  line-height:29.8px; /* For titles that drop down to two lines */
+}
+#caption a {
+  color:#FFFFFF;
+  text-decoration:none;
+}
+#caption ul a {
+  display:block;
+  padding:1em 0;
+}
+#caption a.activeSlide {
+  color:#7F0C07;
+}
+* html #carousel {
+}
+
+/* vertical center overrides for modern browsers */
+#carousel {
+  display: table; 
+  position: static;
+  width:100%;
+}
+
+#slides {
+  margin:0;
+}
+
+#caption {
+  display: table-cell; 
+  vertical-align: middle;
+  margin:0;
+  float:none;
+}
+
+#caption ul {
+  position: static
+}
+

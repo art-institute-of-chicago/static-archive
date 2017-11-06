@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>The Show</title>
+
+  
+    <meta property="og:title" content="The Show" itemprop="name">
+  <meta name="twitter:title" content="The Show">
+
+
+
+    <meta property="og:url" content="/armoryshow/show">
+  <meta name="twitter:url" content="/armoryshow/show">
+
+    <meta property="og:type" content="website"> 
+  
+
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery.js" type="text/javascript"></script>
+    
+  <script src="modernizr.foundation.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.navigation.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.tooltips.js" type="text/javascript"></script>
+    
+  <script src="gallery.js" type="text/javascript"></script>
+    
+  <script src="jquery.fleximap.js" type="text/javascript"></script>
+    
+  <script src="armoryshow.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+  
+
+  <style type="text/css">
+
+    html { 
+    
+    background-image: url('306-gallery-50_2000.jpg');
+    
+    background-position:top center;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+    }
+
+  </style>
+
+  <header>
+    <table width="100%">
+      <tr>
+        <td width="42%">
+
+          <a href="http://www.artic.edu">
+            <img src="armoryshow-logo.png" id="main-logo"/>
+          </a>
+
+        </td>
+        <td width="16%" style="vertical-align:middle">
+
+          <h2>The Show</h2>
+
+        </td>
+        <td width="42%">
+
+          <nav id="main-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+                <a href="show#">Explore</a><a href="show#" class="flyout-toggle"><span> </span></a>
+                <ul class="flyout small right">
+                  <li ><a href="/armoryshow">Introduction</a></li>
+                  <li ><a href="/armoryshow/setting-the-stage">Setting the Stage</a></li>
+                  <li ><a href="/armoryshow/cast">The Cast</a></li>
+                  <li class="active"><a href="show">The Show</a></li>
+                  <li ><a href="/armoryshow/program-notes">The Program Notes</a></li>
+                  <li ><a href="/armoryshow/audience">The Audience</a></li>
+                  <li ><a href="/armoryshow/finale">The Finale</a></li>
+                  <li ><a href="/armoryshow/legacy">The Legacy</a></li>
+                  <li ><a href="/armoryshow/bibliography">Bibliography</a></li>
+                  <li ><a href="/armoryshow/credits">Credits</a></li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+          <nav id="gallery-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+              <a id="gallery-map-link" class="gallery-map-link" href="show#">Gallery</a><a href="show#" class="flyout-toggle gallery-map-link"><span> </span></a>
+                <ul class="flyout right gallery-map">
+                  <li><div id="floor-plan-map"></div></li> 
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+        </td>
+      </tr>
+    </table>
+
+    <div style="clear:both;"></div>
+  </header>
+
+  
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+    <div class="row">
+      <div class="ten columns centered">
+        <article class="panel">
+          <div class="article-inset">
+            <div class="expandable">
+  <div class="summary">
+    <p>Installed in seven elegant galleries in the Art Institute’s classical Beaux Arts&ndash;style building on Michigan Avenue, the Chicago presentation of the <em>International Exhibition of Modern Art</em> was quite apart from the huge exhibition that so stirred the New York art scene. With its more formal setting and more tightly focused selection of works, the Chicago show constituted a distinct presentation in the history of modern art in the United States.
+  </div>
+  <div class="fulltext">
+<p>Installed in nine elegant galleries in the Art Institute's classical Beaux Arts&ndash;style building on Michigan Avenue, the Chicago presentation of the <em>International Exhibition of Modern Art</em> was quite different from the huge exhibition that so stirred the New York art scene. With its more formal setting and more tightly focused selection of works, the Chicago show constituted a distinct presentation in the history of modern art in the United States.</p>
+<p>The negotiations to bring the exhibition to Chicago began in early November 1912 and were concluded just three weeks before the show was to open, on March 24, 1913. Having been obliged to make arrangements on such short notice, Director William M. R. French resorted to "desperate measures" to make room for the "Modernists' show"&mdash;canceling several previously scheduled exhibitions and emptying six permanent collection galleries.<a href="show#ref"><sup>1</sup></a> Still, the Chicago exhibition was necessarily smaller than the New York presentation, encompassing around 1,000 linear feet&mdash;about half of what was available at the 69th Regiment Armory in New York.</p>
+<p>With the exhibition space thus reduced, only a portion of the 1,090 works shown in New York could come to Chicago.<a href="show#ref"><sup>2</sup></a> The contract between the Association of American Painters and Sculptors (AAPS) and the Art Institute, signed on February 28, specified that Arthur B. Davies, president of the AAPS, would select the works to be shown, with French providing the final approval. Early on, Davies and Walt Kuhn, executive secretary of the AAPS, had promised to give the Art Institute a "representative collection"&mdash;no doubt intending a smaller version of the grand chronological overview they devised for New York, which showed the progress of modern painting from such earlier artists as Jean-Auguste-Dominique Ingres, Francisco de Goya, and Eugène Delacroix to Gustave Courbet, &Eacute;douard Manet, and the Impressionists, then to older Post-Impressionists Paul Cézanne, Paul Gauguin, and Vincent van Gogh, and finally to the newest generation of moderns&mdash;about half of whom were relatively chaste Americans.<a href="show#ref"><sup>3</sup></a> </p>
+<p>French, however, had his own ideas about what was most suitable for a Chicago audience. Writing to Davies on March 6, he asked specifically for "the more novel part of the exhibition, chiefly the things which come from Europe . . . the works of Matisse, Gauguin, Redon, Duchamp, Cézanne, Picasso, Van Gogh, Rousseau, John and the rest of the well known and extraordinary foreigners."<a href="show#ref"><sup>4</sup></a>  Such a request is testament to French's stoic professionalism and progressive commitment to acquainting the public with all aspects of modern art, for this was precisely the part of the exhibition that he personally disliked. Chicago audiences, French felt, were already familiar with many of the American artists in the show, so he suggested limiting them to one work apiece&mdash;with the political exception of Davies himself, who, "as one of our old students, and the President of the Association," French invited to send more. <a href="show#ref"><sup>5</sup></a>  He also exempted the American painter Robert W. Chanler, for his painted screens, he felt, would form a fine "decorative entrance to the exhibition."<a href="show#ref"><sup>6</sup></a> Finally, French also suggested omitting "the old paintings by the radicals or reformers of other days. Our public is well acquainted with these works, and we have examples in our permanent collection of Courbet, Manet, Monet, Delacroix, Goya, Corot and many others."<a href="show#ref"><sup>7</sup></a> Davies made no counterargument and on March 13 sent a written plan for the exhibition that closely reflected French's suggestions.<a href="show#ref"><sup>8</sup></a>  When the show was finally installed a week later, there were only a few shifts in Davies's original gallery designations, probably due to last-minute loan modifications.</p>
+<p>The <a href="/armoryshow/staircase-n">gallery at the top of the museum's Grand Staircase</a> featured nine screens by Robert W. Chanler and a selection of European sculpture. <a href="/armoryshow/50-ne">Gallery 50</a> contained the works of then-living French modernists such as Pierre Bonnard, Maurice Denis, Henri Matisse, and Félix Vallotton. According to Walter Pach, chief sales agent for the AAPS, this was the most important gallery in Davies's plan, for Matisse had a "splendid long wall . . . to himself . . . the first thing you see as you enter. Davies made the plan for hanging . . . and designed it that Matisse should first meet the eye and set a pace&mdash;annunciate the character of the exhibition."<a href="show#ref"><sup>9</sup></a> Given this scene, it is perhaps not surprising that Matisse was the most talked about&mdash;and most vilified&mdash;artist of the exhibition in Chicago. <a href="/armoryshow/51">Gallery 51</a> was dedicated to English, Irish, and German works&mdash;their number very much reduced from the New York exhibition&mdash;as well as some by American artists. <a href="/armoryshow/52-ne">Gallery 52</a> was assigned to the deceased Post-Impressionist artists Cézanne, Gauguin, Van Gogh, and Henri Rousseau. <a href="/armoryshow/53-ne">Gallery 53</a> was filled wholly with Cubist works, and <a href="/armoryshow/26">Gallery 26</a> was devoted to Odilon Redon. American works made up only three of the nine galleries (as opposed to nine of eighteen in New York)&mdash;<a href="/armoryshow/25-ne">Galleries 25</a>, 52A, and 54. A narrow unnumbered gallery between Gallery 50 and the top of the Grand Staircase held many of the works on paper.</p>
+<div>
+
+    <div class="ref">
+      <a href="show#" name="ref"></a>
+      <p><sup>1</sup> French to Charles L. Hutchinson, Mar. 5, 1913. French&mdash;Letter Books, box 16, vol. 2, 1912–13, AIC Archives.</p>
+      <p><sup>2</sup> In the catalogue for the New York presentation, 1,112 works are listed, but 22 of these were not received.</p>
+      <p><sup>3</sup> Kuhn to French, Feb. 6, 1913. French&mdash;Exhibition Correspondence, box 18, 1912–14, AIC Archives.</p>
+      <p><sup>4</sup> French to Davies, Mar. 6, 1913. French&mdash;Letter Books, box 16, vol. 2, 1912–13, AIC Archives.</p>
+      <p><sup>5</sup> Ibid.</p>
+      <p><sup>6</sup> Ibid.</p>
+      <p><sup>7</sup> Ibid.</p>
+      <p><sup>8</sup> Davies to French, Mar. 13, 1913. Armory Show Records, Traveling Exhibition, 1912–14, box 1, Folder 61,  Archives of American Art, Smithsonian Institution.</p>
+      <p><sup>9</sup> Pach to Michael Stein, Mar. 30, 1913, Gertrude Stein manuscript collection. Quoted in Laurette E. McCarthy, "The 'Truths' about the Armory Show: Walter Pach's Side of the Story," <em>Archives of American Art Journal</em>, 44, 3–4 (Fall 2004), p. 8.</p>
+    </div>
+
+  </div>
+</div>
+
+<p><strong>Explore the artworks exhibited at the Art Institute of Chicago through 12 historic photographs. Select a gallery and click to launch.</strong></p>
+ 
+<p>Artworks are identified by the catalogue numbers, artist names, and titles under which they were published in the Chicago catalogue, followed by the most current cataloguing information that recent research allows. Only works that have been positively identified are included here.</p>
+
+<div id="floor-plan-map-inline"></div>
+
+<script type="text/javascript" src="floor-plan.json"></script>
+<script type="text/javascript">
+  $(window).load(function() {
+    // change fleximap identifier to avoid clashing with nav
+    var inline_floor_plan_data = $.extend(true, {}, floor_plan_data);
+    inline_floor_plan_data["identifier"] = "flexifloor-inline";
+    // load floor plan fleximap
+    $('#floor-plan-map-inline').flexiMap(inline_floor_plan_data, function() {
+      setupTooltips('#floor-plan-map-inline', 'bottom');
+    });
+  });
+</script>
+
+          </div>
+        </article>
+      </div>
+    </div> <!-- .row -->
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+  
+
+  <script type="text/javascript">
+    $.ajax({
+      url: "floor-plan.json",
+      dataType: "json",
+      success: function(data) {
+        floor_plan_data = data;
+
+        // load floor plan fleximap
+        $('#floor-plan-map').flexiMap(floor_plan_data, function() {
+          setupTooltips('#floor-plan-map');
+        });
+
+        // resize it when nav accessed
+        $('.gallery-map-link').bind('touchstart mouseover', function() {
+          $('#floor-plan-map').flexiMap('resize', '540px', '369px');
+        });
+      },
+      error: function(xhr, status, error) {
+        console.error(status + ': ' + error.message);
+      }
+    });
+
+    $(document).foundationNavigation();
+  </script>
+
+  <!-- "AIC_US_Spark" c/o "Audience On Demand",  segment: 'AIC_REM_Armory Show Site_Unsecure' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+  <script src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment&returnType=js"></script>
+  <noscript>
+  <img src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment" width="1" height="1" />
+  </noscript>
+  <!-- End of pixel tag -->
+
+
+</body>
+</html>

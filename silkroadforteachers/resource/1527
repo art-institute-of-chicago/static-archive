@@ -1,0 +1,271 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_b75362c8507d2b531845c36425b70311) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_10d6a20cfc8e9aafd953e3d9ce70bf44) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_10d6a20cfc8e9aafd953e3d9ce70bf44) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_ab4aa6bc06402f7a2ab36f268858258c) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_b75362c8507d2b531845c36425b70311) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_10d6a20cfc8e9aafd953e3d9ce70bf44) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_10d6a20cfc8e9aafd953e3d9ce70bf44) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Cultural Celebrations and Storytelling | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-1829.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/aic_silkroad.gif" alt="The Art Institute of chicago" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/silkroad_header.gif" alt="Silkroad" title="" width="550" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/silkroad">Silk Road, Resources for Teachers</a> > <a href="../Lessons">Lesson Plans</a> > <span class="sel">Cultural Celebrations and Storytelling</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Cultural Celebrations and Storytelling</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Cultural Celebrations and Storytelling</strong><br />       <div class="meta">  
+    </div>
+<div class="content">
+<p>The Cinderella story appears as a part of diverse cultures around the world.  Read a few of these different variations and discuss their similarities and differences, recognizing the role culture plays in the stories and traditions that we have.</p>
+    <div class="image wrap"><img src="../images/G25285.jpg" alt="../images/G25285.jpg" title="../images/G25285.jpg" width="165" height="249" class="inline" /></div>
+
+<p><strong>Name:</strong> Kathryn Harmount
+<br /><strong>School:</strong> Jefferson Elementary
+<br /><strong>Subject Area:</strong> Language Arts
+
+<br /><strong>Grade Level:</strong> Fifth Grade</p>
+
+<h3>State Goals</h3>
+<ul><li>2.B.2a:  Respond to literary material by making inferences, drawing conclusions and comparing it to their own experience, prior knowledge and other texts.</li>
+<li>2.B.2b:  Identify and explain themes that have been explored in literature from different societies and eras.</li>
+<li>3.B.2b:  Establish central idea, organization, elaboration and unity in relation to purpose and audience.</li>
+<li>3.C.2a:  Write for a variety of purposes and for specified audiences in a variety of forms including narrative (e.g., fiction, autobiography), expository (e.g., reports, essays) and persuasive writings (e.g., editorials, advertisements).</li></ul>
+
+<h3>Objectives</h3>
+<p><strong>Students will:</strong></p>
+<ul><li>Learn how a single idea or story can be transformed through cultural perspective and personal point-of-view.</li>
+<li>Distinguish the features of several different Cinderella stories that are unique to a particular culture or era.</li>
+<li>Take what they learned about how the perspective of a culture influences its stories and artwork, and apply it to their own lives.</li>
+<li>Learn how personal point of view also impacts traditions.</li></ul>
+
+<h3>Materials/Resources/Gallery Objects</h3>
+<ul><li>Several versions of Cinderella stories such as <em>Rhodopis</em> (Egyptian), <em>The Rough-Faced Girl</em> (Native American) and <em>Yeh-Shen</em> (Chinese)</li>
+<li>Large pieces of bulletin board or chart paper (one piece for each group)</li>
+<li>Markers (class set)</li>
+<li>Venn diagrams (class set)</li>
+<li>Paper</li>
+<li>Pencils</li></ul>
+<h3>Procedures</h3>
+<p><strong>Introduction</strong></p>
+<ol>
+<li>In whole group, discuss how many classic fairy tales were originally passed on verbally instead of being written down.These stories traveled all over the world and because the storytellers changed, the stories themselves changed as well.</li>
+<li>Explain to the class that they will be looking at a popular fairytale and comparing the version they are used to with versions from around the world.</li>
+</ol>
+<p><strong>Making a Story Map</strong></p>
+<ol>
+<li>Ask students to recall what they know about the fairy tale Cinderella. Write the list of ideas on the board.</li>
+<li>Show students how to make a story map of the narrative by drawing important events, adding descriptions when needed. (A map should have 8-12 panels) Keep example story map displayed.</li>
+<li>Break class into groups of 4 students. Each group will be given a version of Cinderella to read, from which they will create a story map.</li>
+<li>After students have had enough time to read and prepare group maps, the different groups will present their maps to the class.</li>
+<li>Once all groups have presented, the class will discuss how all the stories follow the same basic map, but each one has its own distinct features. Some areas to compare are the evil stepmother/stepsisters, fairy godmother, and the shoe. Keep a comparison chart on the board.</li>
+<li>Ask students why they think their story has the differences that it does. Discuss how the values of each culture are expressed through their version of Cinderella.</li>
+</ol>
+<p><strong>Venn Diagram</strong></p>
+<ol>
+<li>Each student will individually complete a Venn diagram tographically compare the original version of Cinderella and the new version they have read.</li>
+<li>Tell students that cultural perspective has a large influence on what happens in a certain area, but that even within that area, each individual has a unique point-of-view that affects how they see the traditions of their culture.</li>
+</ol>
+<p><strong>Celebration Stories</strong></p>
+<ol>
+<li>Discuss with students that something most cultures have incommon is the celebration. Talk about types of celebrations (birthdays, holidays, accomplishments, etc.). Give students 5 minutes to brainstorm, during which they compile an inventory of different celebrations they have with their friends and families.</li>
+<li>Have students write about one kind of celebration from their list that they have with their family or friends. They should describe in detail why they celebrate and what they do in their celebrations. If time permits, students can illustrate their celebration stories.</li>
+<li>In small groups, students will take turns sharing their celebration story. Groups will discuss which part of the celebration comes from culture and which parts are special traditions unique to the individual.</li>
+<li>Volunteers will have an opportunity to read their story to the class.</li></ol>
+</div><br /><br />
+    	     	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001527.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001527.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Silk Road, Resources for Teachers </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../about">About the Silk Road</a></li>
+<li class="expanded"><a href="../Lessons">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/930">Create a Chinese Dragon </a></li>
+<li class="leaf active"><a href="1527" class="active">Cultural Celebrations and Storytelling</a></li>
+<li class="leaf"><a href="../resource/1528">Discovering Silk Road Stories</a></li>
+<li class="leaf"><a href="../resource/1530">From China to Mexico: Silk Road Ceramics</a></li>
+<li class="leaf"><a href="../resource/1531">Introducing Chinese Culture and Art</a></li>
+<li class="leaf"><a href="../resource/1532">Music of the Silk Road</a></li>
+<li class="leaf"><a href="../resource/1533">Silk Road Envelope Book Project</a></li>
+<li class="leaf"><a href="../resource/1534">Silk Road History Lab</a></li>
+<li class="leaf"><a href="../resource/1535">Silk Road Journeys: Analyzing Poetry</a></li>
+<li class="leaf last"><a href="../resource/1536">World Languages and Cultural Exchange</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="../bibliography">Bibliography</a></li>
+<li class="collapsed"><a href="../imagegal">Image Gallery</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="leaf last"><a href="../credits">Credits</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="../artwork/34286">Mirror Frame with Tree of Life Motif</a></span>, Mughal period, 17th/18th century</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

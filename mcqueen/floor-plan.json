@@ -1,0 +1,358 @@
+{
+"map"       : "brochure-floor-plan2_700.jpg",
+"overlay"   : "brochure-floor-plan-overlay2_700.jpg", 
+"click"     : "launchModal(this);",
+"mapheight" : "422px", 
+"mapwidth"  : "700px", 
+"hoverin"   : "mapHighlight(this, true);",
+"hoverout"  : "mapHighlight(this, false);",
+"areas"     : {
+    "exodus"  : {
+        "width"   : "124px",
+        "height"  : "18px",
+        "top"     : "18px",
+        "left"    : "12px",
+        "group"   : "1"
+    },
+    "exodus2" : {
+        "width"   : "45px",
+        "height"  : "45px",
+        "top"     : "155px",
+        "left"    : "335px",
+        "group"   : "1"
+    },
+    "bear"  : {
+        "width"   : "106px",
+        "height"  : "24px",
+        "top"     : "40px",
+        "left"    : "12px",
+        "group"   : "2"
+    },
+    "bear2" : {
+        "width"   : "35px",
+        "height"  : "27px",
+        "top"     : "160px",
+        "left"    : "510px",
+        "group"   : "2"
+    },
+    "five-easy-pieces"  : {
+        "width"   : "154px",
+        "height"  : "24px",
+        "top"     : "65px",
+        "left"    : "12px",
+        "group"   : "3"
+    },
+    "five-easy-pieces2" : {
+        "width"   : "26px",
+        "height"  : "38px",
+        "top"     : "190px",
+        "left"    : "492px",
+        "group"   : "3"
+    },
+    "just-above-my-head"  : {
+        "width"   : "176px",
+        "height"  : "25px",
+        "top"     : "90px",
+        "left"    : "12px",
+        "group"   : "4"
+    },
+    "just-above-my-head2" : {
+        "width"   : "31px",
+        "height"  : "38px",
+        "top"     : "190px",
+        "left"    : "529px",
+        "group"   : "4"
+    },
+    "deadpan" : {
+        "width"   : "116px",
+        "height"  : "24px",
+        "top"     : "116px",
+        "left"    : "12px",
+        "group"   : "5"
+    },
+    "deadpan2" : {
+        "width"   : "60px",
+        "height"  : "24px",
+        "top"     : "286px",
+        "left"    : "495px",
+        "group"   : "5"
+    },
+    "current" : {
+        "width"   : "113px",
+        "height"  : "22px",
+        "top"     : "142px",
+        "left"    : "12px",
+        "group"   : "6"
+    },
+    "current2" : {
+        "width"   : "50px",
+        "height"  : "36px",
+        "top"     : "224px",
+        "left"    : "336px",
+        "group"   : "6"
+    },
+    "girls-tricky"  : {
+        "width"   : "134px",
+        "height"  : "24px",
+        "top"     : "165px",
+        "left"    : "12px",
+        "group"   : "7" 
+    },
+    "girls-tricky2" : {
+        "width"   : "29px",
+        "height"  : "45px",
+        "top"     : "76px",
+        "left"    : "335px",
+        "group"   : "7"
+    },
+    "illuminer" : {
+        "width"   : "120px",
+        "height"  : "24px",
+        "top"     : "190px",
+        "left"    : "12px",
+        "group"   : "8"
+    },
+    "illuminer2" : {
+        "width"   : "31px",
+        "height"  : "45px",
+        "top"     : "75px",
+        "left"    : "404px",
+        "group"   : "8"
+    },
+    "caribs-leap" : {
+        "width"   : "138px",
+        "height"  : "24px",
+        "top"     : "215px",
+        "left"    : "12px",
+        "group"   : "9"
+    },
+    "caribs-leap2" : {
+        "width"   : "58px",
+        "height"  : "60px",
+        "top"     : "29px",
+        "left"    : "515px",
+        "group"   : "9"
+    },
+    "western-deep" : {
+        "width"   : "143px",
+        "height"  : "25px",
+        "top"     : "240px",
+        "left"    : "12px",
+        "group"   : "10"
+    },
+    "western-deep2" : {
+        "width"   : "63px",
+        "height"  : "50px",
+        "top"     : "28px",
+        "left"    : "443px",
+        "group"   : "10"
+    },
+    "mees"  : {
+        "width"   : "182px",
+        "height"  : "39px",
+        "top"     : "266px",
+        "left"    : "12px",
+        "group"   : "11"
+    },
+    "mees2" : {
+        "width"   : "42px",
+        "height"  : "42px",
+        "top"     : "215px",
+        "left"    : "439px",
+        "group"   : "11"
+    },
+    "charlotte" : {
+        "width"   : "120px",
+        "height"  : "27px",
+        "top"     : "306px",
+        "left"    : "12px",
+        "group"   : "12"
+    },
+    "charlotte2"  : {
+        "width"   : "37px",
+        "height"  : "54px",
+        "top"     : "158px",
+        "left"    : "400px",
+        "group"   : "12"
+    },
+    "queen-and-country" : {
+        "width"   : "207px",
+        "height"  : "25px",
+        "top"     : "334px",
+        "left"    : "12px",
+        "group"   : "13"
+    },
+    "queen-and-country2"  : {
+        "width"   : "77px",
+        "height"  : "42px",
+        "top"     : "28px",
+        "left"    : "346px",
+        "group"   : "13"
+    },
+    "static"  : {
+        "width"   : "100px",
+        "height"  : "23px",
+        "top"     : "360px",
+        "left"    : "12px",
+        "group"   : "14"
+    },
+    "static2" : {
+        "width"   : "46px",
+        "height"  : "74px",
+        "top"     : "274px",
+        "left"    : "430px",
+        "group"   : "14"
+    },
+    "end-credits" : {
+        "width"   : "132px",
+        "height"  : "24px",
+        "top"     : "384px",
+        "left"    : "12px",
+        "group"   : "15"
+    },
+    "end-credits2"  : {
+        "width"   : "31px",
+        "height"  : "44px",
+        "top"     : "274px",
+        "left"    : "371px",
+        "group"   : "15"
+    }
+},
+"groups" : {
+    "1" : {
+        "data" : {
+            "title"   : "<em>Exodus</em>, 1992&ndash;97",
+            "text"    : "<em>Exodus</em> was shot very early in McQueen's career. This silent, color film, made with a handheld Super 8, captures two men smartly dressed in hats and coats moving through the crowded streets of London. Unlike most of his subsequent work, <em> Exodus</em> captures an event McQueen encountered by chance while out walking with his camera. \"I was in Brick Lane market,\" McQueen recalls. \"There were these two old fellows . . . almost ceremoniously walking along, one behind the other. . . . I got the impression they were in a relationship, that they were a couple.\" Notably both men carry a potted coconut palm. Early in the film the first man smiles broadly and speaks (soundlessly) to the camera; the second smiles shyly as he passes by. They diverge from one another, temporarily lost in the crowd, even as the palms merrily waving above their heads mark their passage through it. As their pace outstrips that of the camera, they cross a street against oncoming traffic to board a double-decker bus; in the final moments one of the men waves goodbye from an upper rear window.<br /><br />The word exodus describes a passage to freedom, referring most directly to the departure of the Israelites from Egypt under the leadership of Moses, the central narrative of the second book of the Bible. Ultimately McQueen's <em>Exodus</em> can be understood as a poetic, metaphoric consideration of the experiences, movements, and migrations that constitute the global African diaspora.",
+            "caption" : "THE ART INSTITUTE OF CHICAGO, DONNA AND HOWARD STONE MEDIA FUND. CHARPENEL COLECCI&Oacute;N, GUADALAJARA, M&Eacute;XICO. PRIVATE COLLECTION. COLLECTION LEMAITRE.",
+            "medium"  : "Super 8 film, transferred to video monitor, no sound, 1:05 min., continuous play",
+            "image"   : "works/exodus_200.jpg"
+        }
+    },
+    "2" : {
+        "data" : {
+            "title"   : "<em>Bear</em>, 1993",
+            "text"    : "McQueen completed <em>Bear</em> while still a student at Goldsmiths College of the University of London. He has described it as one of the cornerstones of his career to date. <em>Bear</em> was the artist's first film to be exhibited publicly and the first to be shown in the side-to-side, floor-to-ceiling format that has characterized much of his work, directly confronting the viewer with the action.<br /><br />Like most of McQueen's early films, it is silent, filmed in black-and-white, and lacks a straightforward narrative. Two naked men, one of them McQueen, square off in an apparent fight. But what is traditionally an aggressive act quickly becomes subverted by the sexually charged possibilities of their encounter. Each man sizes the other up and stares the other down. They exchange taunts as well as suggestive leers. One moment they lock in an embrace; the next they struggle aggressively. A viewer might well wonder whether this is a fighting match, a mating dance, or both. The film seems to suggest that violence has an erotic dimension, or conversely that eros has its violent aspect.<br /><br />The camera circles the action, providing rotating points of view, but without a clear resolution. <em>Bear</em> is a study in contrasts. Film speeds, for example, are manipulated: sped up to intensify action or slowed to create dreamlike passages. Extreme camera angles and sharp contrasts in lighting heighten the drama. Ultimately, <em>Bear</em> is a beautiful, deliberately ambiguous construct.",
+            "caption" : "HIRSHHORN MUSEUM AND SCULPTURE GARDEN, SMITHSONIAN INSTITUTION, HOLENIA PURCHASE FUND, IN MEMORY OF JOSEPH H. HIRSHHORN, 2006. ARTS COUNCIL COLLECTION, SOUTHBANK CENTRE, LONDON. TATE, PRESENTED BY THE PATRONS OF NEW ART (SPECIAL PURCHASE FUND) THROUGH THE TATE GALLERY FOUNDATION 1996.<br /><br />COURTESY OF THE ARTIST, MARIAN GOODMAN GALLERY, NEW YORK/PARIS, AND THOMAS DANE GALLERY, LONDON.",
+            "medium"  : "16 mm black-and-white film, transferred to video, no sound, 10:35 mins., continuous projection",
+            "image"   : "works/bear_200.jpg"
+        }
+    },
+    "3" : {
+        "data" : {
+            "title"   : "<em>Five Easy Pieces</em>, 1995",
+            "text"    : "Exquisite and provocative, <em>Five Easy Pieces</em> is a montage of performed actions carefully choreographed as a study of motion. The scale of the projection is larger-than-life. The vertiginous angles of the camera, shooting almost directly up or down on the figures, are characteristic of 1920s avant-garde photography and cinema.<br /><br />The work opens with a close up of a tightrope, slowly descending into the frame as it tenses under the weight of a cautious performer. We first watch the tightrope walker from the back as she negotiates the space slowly, and then later see her from the front. Through McQueen's lens, her intensely concentrated face and the isolated movement of her torso have an erotic air. An aerial view of five men hula-hooping is doubled by the shadows cast on the ground in front of them. Interspersed throughout the film are clips of close, almost endoscopic views of the artist's face, with color suddenly intruding on the otherwise black-and-white work.<br /><br />Throughout the film the viewer is aware of the camera as both an object and a participant in the action. This effect is dramatically heightened when the artist urinates and then spits on the camera, which looks up at McQueen from under a glass table. What seems like an act of aggression is also a formal maneuver. The artist's actions alter both what and how the camera sees.",
+            "caption" : "PETER FLEISSIG [INVISIBLE MUSEUM, LONDON]. VAN ABBEMUSEUM, EINDHOVEN, THE NETHERLANDS.<br /><br />COURTESY OF THE ARTIST, MARIAN GOODMAN GALLERY, NEW YORK/PARIS, AND THOMAS DANE GALLERY, LONDON.",
+            "medium"  : "16 mm black-and-white and color film, transferred to video, no sound, 7:34 mins., continuous projection",
+            "image"   : "works/five-easy-pieces_200.jpg"
+        }
+    },
+    "4" : {
+        "data" : {
+            "title"   : "<em>Just Above My Head</em>, 1996",
+            "text"    : "McQueen has often said that the art of film has to do with looking at things in a different way. <em>Just Above My Head</em> is a self-portrait that forces the viewer to do just that. Shot from below, an angle favored by the artist early in his career, this short, silent film presents the viewer with everything that passes above McQueen's head as he walks determinedly through a largely undefined landscape. Shot in austere black-and-white, the film evidences a deliberate visual economy. The focus here, emphasized by the size of the projection, is not on the artist, but on the negative space above his head. The monumental screen is filled with an empty, marbled sky, while the artist's head bobs at the bottom edge of the frame, sometimes dipping out of it altogether.<br /><br />Metaphorically, the work suggests notions of marginality and exclusion; indeed, colloquially, the title phrase refers to things one cannot understand. Similarly, the principal narrative act of the film all but eliminates the protagonist from the position of centrality. The film makes the viewer struggle, as the camera struggles, to locate an elusive subject.",
+            "caption" : "SOLOMON R. GUGGENHEIM MUSEUM, GIFT, THE BOHEN FOUNDATION, 1999. PARTIAL GIFT OF PAMELA AND RICHARD KRAMLICH TO THE NEW ART TRUST TO BENEFIT THE SAN FRANCISCO MUSEUM OF MODERN ART, THE MUSEUM OF MODERN ART, NEW YORK, AND TATE. MUS&Eacute;E D&Eacute;PARTEMENTAL D'ART CONTEMPORAIN DE ROCHECHOUART, FRANCE.<br /><br />COURTESY OF THE ARTIST, MARIAN GOODMAN GALLERY, NEW YORK/PARIS, AND THOMAS DANE GALLERY, LONDON.",
+            "medium"  : "16 mm black-and-white film, transferred to video, no sound, 9:35 mins., continuous projection",
+            "image"   : "works/just-above-my-head_200.jpg"
+        }
+    },
+    "5" : {
+        "data" : {
+            "title"   : "<em>Deadpan</em>, 1997",
+            "text"    : "McQueen's earliest films were based on the movements of a central figure or figures. In <em>Deadpan</em>, the emphasis has shifted, as the main character, again McQueen, remains stationary while the principal action occurs around him. The use of black-and-white without audio is appropriate given his choice of source material: the restaging of the classic scene from Buster Keaton's silent 1928 comedy <em>Steamboat Bill, Jr.</em>, in which a windstorm causes the fa&ccedil;ade of a house to come crashing down. Keaton's bewildered character narrowly avoids disaster by his chance placement in the path of an open window. In McQueen's reconstruction everything has been stripped to the barest essentials. Attention is paid to the cinematic notion of framing&mdash;whether it is the framing of his character against the house, the frame of the open window, or the framework construction of the house itself.<br /><br />Unlike Keaton's fully functional house, McQueen's is empty. Keaton's comedy is silent, but it was always intended to have a musical accompaniment, an essential element used to reinforce the drama and punctuate the slapstick. McQueen's film is truly silent, denying us the whoosh of air that ruffles his shirt or the thud of the wall that creates the dust cloud around him. Multiple camera angles record the action and McQueen's reaction. Each time the fa&ccedil;ade falls, the artist remains standing&mdash;stoic, unblinking, and defiant. A formerly comedic moment is transformed into a repeated confrontation. Ultimately the viewer is presented with a situation that is both comic and death defying: one in which the protagonist is repeatedly at risk, but survives by his own willful intractability.",
+            "caption" : "MUSEUM BOJIMANS VAN BEUNINGEN, ROTTERDAM, PURCHASE FONDS W. VAN REDE 1997. THE MUSEUM OF MODERN ART, NEW YORK, FRACTIONAL AND PROMISED GIFT OF THEA WESTREICH AND ETHAN WAGNER. COLLECTION CENTRE POMPIDOU, MUS&Eacute;E NATIONAL D'ART MODERNE/CENTRE DE CR&Eacute;ATION INDUSTRIELLE, PARIS. PAMELA AND RICHARD KRAMLICH, SAN FRANCISCO.<br /><br />COURTESY OF THE ARTIST, MARIAN GOODMAN GALLERY, NEW YORK/PARIS, AND THOMAS DANE GALLERY, LONDON.",
+            "medium"  : "16 mm black-and-white film, transferred to video, no sound, 4:35 mins., continuous projection",
+            "image"   : "works/deadpan_200.jpg"
+          }
+    },
+    "6" : {
+        "data" : {
+            "title"   : "<em>Current</em>, 1999",
+            "text"    : "<em>Current</em> presents a situation so quiet and quotidian that its beauty could be easily overlooked. The images were taken by McQueen along the banks of the Limmat River in Zurich. An evidently discarded bicycle rests just beneath the surface of gently moving water; one wheel, lit by the sun, is a bright circle of light, while the other, in shade, is a dark ring. The work is a sequence of five 35 mm slides projected continuously; the slow dissolve between these very similar shots distills the moving image to the most basic level, slow and subtle. As the carrousels rotate through the slides, the bicycle's position shifts slightly and the watery surface changes, acting as a canvas for the dance of light and shade. There is a disconnect, however, between the action of the projectors and what the viewer actually sees on the screen: while the two projectors work in tandem with one image fading into another, the light in each projector is programmed to vary from slide to slide. This manipulation gives the impression of movement while also, at times, obscuring the object beneath the surface.<br /><br />The theme of seeing is fundamental to many of McQueen's works, as they compel the viewer to reassess familiar objects and situations, to see them differently. In <em>Current</em> the process of change is not readily apparent: we notice it only after it has occurred. In this way, the artist challenges viewers to question how we make sense of what we see.",
+            "caption" : "COURTESY OF THE ARTIST, MARIAN GOODMAN GALLERY, NEW YORK/PARIS, AND THOMAS DANE GALLERY, LONDON.",
+            "medium"  : "Programmed sequence of five 35 mm slides, no sound, 10 mins., continuous projection",
+            "image"   : "works/current_200.jpg"
+        }
+    },
+    "7" : {
+        "data" : {
+            "title"   : "<em>Girls, Tricky</em>, 2001",
+            "text"    : "In <em>Girls, Tricky</em>, McQueen captures the experimental \"trip-hop\" musician and producer Tricky (born Adrian Thaws) as he rehearses and records the song \"Girls\" in a dimly lit recording studio. Four days spent together in this confined space resulted in an intimate and sensitive representation of the singer. Of this experience McQueen has recalled, \"I wanted to get as close to the artist as possible. Tricky possesses a certain spontaneity, which also influenced the film. He is someone who entrusts himself to his own voice and tries to find out where it may carry him. It's a rare moment that you see an artist close up gearing himself up for a vocal performance in such a visual way. In effect, a moment not for camera is caught.\"<br /><br />Indeed, Tricky never once acknowledges the camera. Over the course of a nearly fifteen-minute performance, Tricky erupts into a frenzied state akin to an ecstatic trance. Yet by the end it becomes eminently clear that the singer has maintained total command of both his senses and the recording session. <em>Girls, Tricky</em> is a tough, startling portrait of creativity in the extreme.",
+            "caption" : "THE ART INSTITUTE OF CHICAGO, WILSON L. MEAD FUND, THROUGH PRIOR GIFT OF LUCILLE L. AND JOSEPH L. BLOCK; CURATOR'S, CYRUS HALL MCCORMICK, AND ANNABELLE DECKER FUNDS; CLAIRE AND GORDON PRUSSIAN FUND FOR CONTEMPORARY ART. WILLIAM AND RUTH TRUE, SEATTLE. EMANUEL HOFFMANN FOUNDATION, ON PERMANENT LOAN TO THE &Ouml;FFENTLICHE KUNSTSAMMLUNG BASEL. HARVARD ART MUSEUMS/FOGG MUSEUM, PURCHASE THROUGH THE GENEROSITY OF AGNES GUND & DANIEL SHAPIRO AND THE RICHARD NORTON MEMORIAL FUND IN HONOR OF LINDA NORDEN.",
+            "medium"  : "Color video, sound, 14:47 mins., continuous projection",
+            "image"   : "works/girls-tricky_200.jpg"
+        }
+    },
+    "8" : {
+        "data" : {
+            "title"   : "<em>Illuminer</em>, 2001",
+            "text"    : "The relationship between darkness, light, and presence is addressed in McQueen's short film <em>Illuminer</em>. This work, a self-portrait of sorts, was filmed in one night in a hotel room in Paris. McQueen has described its making: \"Instinctively I put this little camera and tripod on top of the television and pointed it at myself on the bed and just let things happen.\" The resulting film shows the undressed artist turning out the lights and getting into a bed made with stark white sheets to watch television. (This film marks the last time McQueen has appeared in his own work.) A television reporter speaking in French narrates a current affairs program about the deployment of military forces in Afghanistan in the wake of the September 11, 2001, terrorist attacks on the United States. The sounds of conflict&mdash;notably gunfire and shouting&mdash;episodically punctuate his presentation.<br /><br />The relationship of the artist's body to reflected light becomes the subject of the work. Here the ambient glow of the television (presumably broadcasting unseen images of combat) is the only illumination that articulates the artist's recumbent form on the bed in the shadows. Throughout the short film, the autofocus feature on the camera strains to render a clear image; the function activates the camera as a searching eye struggling to find its subject. Absent the distinctive glare of the screen, the figure would have remained invisible. McQueen has said of the film: \"I was only illuminated by violence. One has an idea of the images on the television but, in fact, what's happening is that the violence made me present.\"",
+            "caption" : "MUS&Eacute;E D'ART MODERNE GRAND-DUC JEAN, MUDAM LUXEMBOURG. FUNDA&Ccedil;&Atilde;O DE SERRALVES/MUSEU DE ARTE CONTEMPOR&Aring;NEA, PORTO. KUNSTMUSEUM BASEL. CONTEMPORARY ART COLLECTION \"LA CAIXA\" FOUNDATION, SPAIN.<br /><br />COURTESY OF THE ARTIST, MARIAN GOODMAN GALLERY, NEW YORK/PARIS, AND THOMAS DANE GALLERY, LONDON.",
+            "medium"  : "Color video, sound, 15:13 mins., continuous projection",
+            "image"   : "works/illuminer_200.jpg"
+        }
+    },
+    "9" : {
+        "data" : {
+            "title"   : "<em>Caribs' Leap</em>, 2002",
+            "text"    : "Presented as a single work of installation, <em>Caribs' Leap</em> and <em>Western Deep</em> are linked by images of falling or descent as allegories of oppression. <em>Caribs' Leap</em>, comprising two screens, was filmed on the Caribbean island of Grenada, the birthplace of McQueen's parents. One screen presents images of present-day Grenada: the ocean bathed in natural light with a soundscape of crashing waves as people go about their daily routines. Themes of mortality are introduced as the camera lingers on an overturned boat set ablaze, and later takes the viewer inside a room full of ornate coffins with the dead laid out for viewing. The second screen obliquely memorializes the mass suicide of hundreds of indigenous Carib Indians, who threw themselves from the island's cliffs in 1651 rather than surrender to the French army. The lone ghostlike figure whose fall repeats over and over also evokes haunting images of September 11, 2001.<br /><br />Despite the stark oppositions presented in <em>Western Deep</em> and <em>Caribs' Leap</em>&mdash;claustrophobia/openness; dark/light; close-ups/wide-angle shots&mdash;McQueen draws a distinct comparison between past and present economies of exploitation. He has commented, \"What I'm looking for is to hold for half an hour a moment in time. To press a pause button, in order to see and reflect, to illuminate the past and make it present.\"",
+            "caption" : "THE ART INSTITUTE OF CHICAGO, MARILYNN ALSDORF DISCRETIONARY, ANNABELLE DECKER, WILSON L. MEAD, AND MODERN AND CONTEMPORARY DISCRETIONARY FUNDS, ROBERT AND MARLENE BAUMGARTEN ENDOWMENT. KUNSTSAMMLUNG NORDRHEIN-WESTFALEN, D&Uuml;SSELDORF. TATE, PURCHASED 2005. EMANUEL HOFFMANN FOUNDATION, ON PERMANENT LOAN TO THE &Ouml;FFENTLICHE KUNSTSAMMLUNG BASEL.",
+            "medium"  : "Super 8 mm color film, transferred to video, sound, 28:53 mins., continuous play 35 mm color film, transferred to video, no sound, 12:06 mins., continuous play",
+            "image"   : "works/caribs-leap_200.jpg"
+        }
+    },
+    "10" : {
+        "data" : {
+            "title"   : "<em>Western Deep</em>, 2002",
+            "text"    : "Presented as a single work of installation, <em>Caribs' Leap</em> and <em>Western Deep</em> are linked by images of falling or descent as allegories of oppression. <em>Western Deep</em> parallels the theme of descent, bringing the viewer to the TauTona Mine, or Western Deep No. 3, located near Johannesburg, South Africa, where over five thousand laborers work more than two miles below the earth's surface in the deepest gold mine in the world. McQueen's camera, embedded in a claustrophobically small elevator with scores of miners beginning their day, takes the viewer on an ear-shattering ride into the depths. The oppressive heat and noise of the mine are palpable. Feelings of confinement are especially intense during those portions of the film that are illuminated only by the miners' helmet lamps. Equally dehumanizing are the Orwellian scenes of compulsory exercises that the miners perform during routine medical assessments back on the earth's surface.<br /><br />Despite the stark oppositions presented in <em>Western Deep</em> and <em>Caribs' Leap</em>&mdash;claustrophobia/openness; dark/light; close-ups/wide-angle shots&mdash;McQueen draws a distinct comparison between past and present economies of exploitation. He has commented, \"What I'm looking for is to hold for half an hour a moment in time. To press a pause button, in order to see and reflect, to illuminate the past and make it present.\"",
+            "caption" : "THE ART INSTITUTE OF CHICAGO, MARILYNN ALSDORF DISCRETIONARY, ANNABELLE DECKER, WILSON L. MEAD, AND MODERN AND CONTEMPORARY DISCRETIONARY FUNDS, ROBERT AND MARLENE BAUMGARTEN ENDOWMENT. KUNSTSAMMLUNG NORDRHEIN-WESTFALEN, D&Uuml;SSELDORF. TATE, PURCHASED 2005. EMANUEL HOFFMANN FOUNDATION, ON PERMANENT LOAN TO THE &Ouml;FFENTLICHE KUNSTSAMMLUNG BASEL.",
+            "medium"  : "Super 8 mm color film, transferred to video, sound, 24:12 mins.",
+            "image"   : "works/western-deep_200.jpg"
+        }
+    },
+    "11" : {
+        "data" : {
+            "title"   : "<em>Mees, After Evening Dip, New Years Day, 2002</em>, 2005",
+            "text"    : "Still photography has not been a central preoccupation for Steve McQueen, as he has shown only a few photographs in his career to date. In that sense <em>Mees, After Evening Dip, New Years Day, 2002</em> is somewhat anomalous within the context of his larger practice. Yet the use of a singular, beautiful image to represent both a particular moment and, at the same time, to carry larger meanings is very much at the core of McQueen's art. Here the presentation of a photographic transparency over a glowing lightbox, as opposed to a more standard opaque print, also alludes to the illuminated presentation of film.<br /><br />The subject of this photograph, the eponymous Mees, is the son of a friend of McQueen and of his family in the artist's adopted home city of Amsterdam. Joint trips to the shore in Holland over the December holidays became a tradition for both families. This image&mdash;derived from an impromptu snap&mdash;was taken by McQueen immediately after the teenager emerged from the icy ocean waters on New Year's Day, the daring swim itself part of the families' annual ritual. McQueen captures Mees just after he has come out of the water and shows us the boy warming himself. The work thus suggests notions of renewal, comfort, and solace, self-administered or otherwise.",
+            "caption" : "CARI AND MICHAEL J. SACKS.",
+            "medium"  : "Lightbox with color transparency",
+            "image"   : "works/mees_200.jpg"
+        }
+    },
+    "12" : {
+        "data" : {
+            "title"   : "<em>Charlotte</em>, 2004",
+            "text"    : "<em>Charlotte</em> is a silent 16 mm film projection of an eye and lid so tightly framed by the camera that it is impossible to identify the subject as the famous English actress Charlotte Rampling. (Her career to date spans more than four decades in English, French, and Italian cinema.) Using only her first name for the title, McQueen suggests the type of familiarity that often exists between artist and model.<br /><br />The work depicts a sensual game. The artist's finger repeatedly engages the eye&mdash;teasing, poking, and pulling at the flesh around it. The maturity of the eye only becomes obvious when the fleshy lid is manipulated, pinching the skin into folds that fail to retain their original shape until McQueen smoothes them back into place. The close-up of the lid that follows suggests female genitalia; the digit, a phallus. Remarkably, Rampling does not blink when the finger finally touches the surface of her eye. The crimson light that bathes the action&mdash;symbolic of intense emotions such as love, aggression, and passion&mdash;imports an uneasy tension into the film, which depicts, in the end, a negotiation of trust between two individuals.<br /><br /><em>Charlotte</em> is an exploration of vision&mdash;and the potential for its manipulation. The allusions embedded in McQueen's film (underscored by the insistent sonic whir of the increasingly rare 16 mm projector) suggest both an homage and a provocation toward cinema, its history, and its icons.",
+            "caption" : "EMANUEL HOFFMANN FOUNDATION, ON PERMANENT LOAN TO THE &Ouml;FFENTLICHE KUNSTSAMMLUNG BASEL; ELLIPSE FOUNDATION/CONTEMPORARY ART COLLECTION, PORTUGAL. SAMMLUNG HOFFMANN, BERLIN. MAURIZIO GRECO COLLECTION, NAPLES.<br /><br />COURTESY OF THE ARTIST, MARIAN GOODMAN GALLERY, NEW YORK/PARIS, AND THOMAS DANE GALLERY, LONDON.",
+            "medium"  : "16 mm color film, no sound, 5:42 mins., continuous projection",
+            "image"   : "works/charlotte_200.jpg"
+        }
+    },
+    "13" : {
+        "data" : {
+            "title"   : "<em>Queen and Country</em>, 2007&ndash;09",
+            "text"    : "<em>Queen and Country</em> is a moving tribute to the British men and women who lost their lives during the most recent war in Iraq. McQueen was commissioned in 2003 by the Imperial War Museum in London to be the \"official artist for the war,\" a tradition dating back to World War I. McQueen spent six days in Basra. Although he returned empty-handed, inspiration later struck him while he was preparing to mail a letter. \"I thought who better to appear on a stamp than a soldier who has served their Queen and country?\" When his request for the cooperation of the Ministry of Defense was met with resistance (and the query: \"Why don't you do landscapes?\"), McQueen hired a researcher to assist in reaching out to the victims' families. Of the 115 contacted at the time, 102 responded and 98 agreed to participate. Family members were asked to select a photograph; many chose images of their loved ones either in fatigues or in full army dress. These were turned into facsimile sheets of perforated stamps, all bearing the familiar silhouette of Queen Elizabeth. The sheets are housed in an oak cabinet with sliding vertical drawers and ordered chronologically by the subject's date of death. Viewers are encouraged to interact with the piece.<br /><br />As the work has toured Britain in recent years, the campaign to have these issued as real stamps was embraced by the public but was not approved by the Royal Mail. McQueen has commented, \"I want these men and women to enter the bloodstream of the country and beyond. I wanted to make a piece with which everyone could interact, either by buying a stamp and posting a letter, or receiving one.\" McQueen does not consider the work of art to be truly finished until the stamps are put into circulation. The cabinet now comprises images of 168 servicemen and women.",
+            "caption" : "IWM (IMPERIAL WAR MUSEUMS), PRESENTED BY THE ART FUND.",
+            "medium"  : "Oak cabinet containing a series of 160 facsimile postage sheets; shown here: Lance Corporal Allan Douglas The Highlanders Died 30 January 2006 Aged 22 (detail)",
+            "image"   : "works/queen-and-country_200.jpg"
+        }
+    },
+    "14" : {
+        "data" : {
+            "title"   : "<em>Static</em>, 2009",
+            "text"    : "A filmic portrait of the Statue of Liberty, <em>Static</em> is the result of McQueen's interest in exploring the fundamental, if abstract, concept embedded in the sculpture's name: liberty. Designed by Fr&eacute;d&eacute;ric Auguste Bartholdi, the monument in the New York harbor was dedicated on October 28, 1886. An icon of freedom, it was for decades a potent beacon to immigrants arriving in New York by ship.<br /><br />The film defamiliarizes an eminently recognizable symbol whose meanings are assuredly entrenched in the popular imagination. In the summer of 2009, the artist visited Ellis Island on a family vacation. There, he says, the concept came to him in an instant. He decided that he wanted to \"spin this thing around,\" to set her \"off-kilter.\" Although securing permission to do so was no easy task, McQueen made the film orbiting the statue in a helicopter. The resulting close-up of the film's star is not entirely flattering, for the handheld camera captures in some detail the cosmetic distress of her aging surfaces. Sound plays an aggressive role, as the persistent whirring of the helicopter lends overtones of invasive surveillance or even a military operation. While the subject itself is immobile, McQueen's highly unstable camera, combined with jarring jump cuts, creates a remarkable effect: the statue itself seems to lift off its base. First the colossus seems to float and then to fly against the backdrop of lower Manhattan and its surrounds. The statue soars most majestically during several passages when the sound fades to near silence. With <em>Static</em>, McQueen raises questions about the democratic promises this figure has so ably represented.",
+            "caption" : "EMANUEL HOFFMANN FOUNDATION, ON PERMANENT LOAN TO THE &Ouml;FFENTLICHE KUNSTSAMMLUNG BASEL. PHILADELPHIA MUSEUM OF ART, JOINT PURCHASE WITH THE KATHERINE AND KEITH L. SACHS FOUNDATION WITH FUNDS CONTRIBUTED BY THE MODERN AND CONTEMPORARY ART REVOLVING FUND. LOS ANGELES COUNTY MUSEUM OF ART, GIFT OF STEVE TISCH. TATE. PURCHASED WITH ASSISTANCE FROM IVOR BRAKA, THOMAS DANE, MRS WENDY FISHER AND ZAMYN 2012.<br /><br />COURTESY OF THE ARTIST, MARIAN GOODMAN GALLERY, NEW YORK/PARIS, AND THOMAS DANE GALLERY, LONDON.",
+            "medium"  : "35 mm film transferred to HD, sound, 7:03 mins., continuous projection",
+            "image"   : "works/static_200.jpg"
+        }
+    },
+    "15" : {
+        "data" : {
+            "title"   : "<em>End Credits</em>, 2012",
+            "text"    : "This exhibition marks the debut of a new work inspired by the life of the legendary African American singer and social crusader Paul Robeson (1898&ndash;1976). McQueen envisioned the structure of the piece, <em>End Credits</em>&mdash;made without a camera via digital technology&mdash;as one related to the conclusion of every feature film: the rolling credits. Here, however, the backstory becomes the narrative itself.<br /><br />Beginning in the 1920s Robeson pursued his lifelong artistic and intellectual activities: performing in concerts, plays, and films, and by the 1930s he was traveling extensively, writing and speaking internationally on social and political issues. Based in London, he toured throughout Europe and the United States to overwhelming acclaim. As World War II began in Europe, Robeson returned to the U.S. and emerged as a symbol of the fight against fascism abroad and racism at home. He was a national hero hailed by both black and white Americans. In 1946, together with W. E. B. DuBois and Albert Einstein, Robeson organized the National Crusade to End Lynching. A powerful voice for social justice, he was blacklisted in the 1950s for his activism, and his career as a performer was all but destroyed. FBI documents obtained by McQueen through the Freedom of Information Act reveal that United States surveillance agencies had begun investigating Robeson as early as 1941. This scrutiny continued throughout the rest of his life, with crippling effects. In poor health, he spent his final decade in seclusion in New York and Philadelphia.<br /><br />McQueen's new work is a radical look at Robeson's extraordinary story. The artist has included every document&mdash;thousands and thousands of pages&mdash;in Robeson's recently declassified, although still heavily redacted, FBI files. The work is an exercise in duration: nearly six hours of \"footage\" combined with a spoken-word soundtrack. The discrepancy between the visual and audio components creates a predictable but asymmetrical loop.",
+            "caption" : "COURTESY OF THE ARTIST, MARIAN GOODMAN GALLERY, NEW YORK/PARIS, AND THOMAS DANE GALLERY, LONDON.",
+            "medium"  : "Sequence of digitally scanned files, continuous projection; independent sound, continuous play",
+            "image"   : "works/end-credits_200.jpg"
+        }
+    }
+}
+}

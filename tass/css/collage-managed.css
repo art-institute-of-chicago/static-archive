@@ -1,0 +1,213 @@
+/*EM calculator: http://riddle.pl/emcalc/
+The base font for the site is 10px or x-small.  To calculate the padding, width, etc with ems, 
+you have to base it off the font of that element, or the next containing element.
+
+This page intentionally uses pixels instead of ems because we do not want the table or the images to be resized by the browser.
+*/
+
+/**
+*COLLAGED MANAGED CONTENT, HEADER, FOOTER AND SEARCH
+
+/**
+*HEADER
+**/
+/*#header_nav {
+	display: block;
+	clear: both;
+	float: left;
+}
+#header_nav ul {
+	background-color: #EBEBEB;
+	border-top: 1px solid #acadb0;
+	background-image:url("../gfx/header_nav_buttonbac.gif");
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	float: left;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 74.00em;
+}
+#header_nav li {
+	float: left;
+}
+#header_nav li a {
+	border-bottom: 1px solid #ACADB0;
+	border-right: 1px solid #ACADB0;
+	display: block;
+	font-weight: bold;
+	padding: 0.4em;
+	text-align: left;
+	vertical-align: bottom;
+}
+#header_nav #collection_nav a, #header_nav #exhibitions_nav a, #header_nav #calendar_nav  a {
+	background-color: #c7c8ca;
+}
+
+#header_nav #visit_nav a, #header_nav #kids_nav a, #header_nav #students_nav a, #header_nav #libraries_nav a, #header_nav #about_nav a, #header_nav #members_nav a {
+	background-color: #EBEBEB;
+}
+#header_nav #shop_nav a {
+	background-color: #EBEBEB;
+	border-right: 0px solid #ACADB0;
+}
+
+#header_nav #home_nav a {
+	background-color: #EBEBEB;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #ACADB0;
+	border-bottom-color: #ACADB0;
+}
+#header_nav a {
+	text-decoration: none;
+	color: #666666;
+}*/
+/**
+*HEADER NAV HOVER
+**/
+/*#header_nav #collection_nav a:hover, #header_nav #exhibitions_nav a:hover, #header_nav #calendar_nav a:hover, #header_nav #visit_nav a:hover, #header_nav #kids_nav a:hover, #header_nav #students_nav a:hover, #header_nav #libraries_nav a:hover, #header_nav #about_nav a:hover, #header_nav #members_nav a:hover, #header_nav #shop_nav a:hover, #header_nav #home_nav a:hover
+ {
+	color: #CC6633;
+}
+#header_nav  .sel a {
+	color: #CC6633;
+}*/
+/**
+*HEADER NAV ACTIVE
+**/
+/*#header_nav #collection_nav.sel a, #header_nav #exhibitions_nav.sel a, #header_nav #calendar_nav.sel a , #header_nav #visit_nav.sel a, #header_nav #kids_nav.sel a, #header_nav #students_nav.sel a, #header_nav #libraries_nav.sel a, #header_nav #about_nav.sel a, #header_nav #members_nav.sel a, #header_nav #shop_nav.sel a {
+	border-bottom-color: #FFFFFF;
+	background-color: #FFFFFF;
+}
+#header_nav #home_nav.sel a {
+	background-color: #FFFFFF;
+}*/
+
+/**
+*SEARCH FIELD 
+**/
+#search-box {
+	float: right;
+	margin: 0em 0em 0em 0em;
+}
+body.citi-exhib-site #search-box, body.ntype-exhibitionpage #search-box {
+	margin-right: 21.0em;
+}
+* html body.citi-exhib-site #search-box, * html body.ntype-exhibitionpage #search-box {
+	margin-right: 1.0em;
+}
+
+.header_search {
+	border: 1px solid #aaa;
+	width:99px;
+	height: 1.6em;
+	background-color:#fff;
+	margin: 0em/* .1em .4em .1em*/;
+	padding: 0.2em 0em 0em 0.2em;
+	line-height: 1em;
+	width: 13.4em;
+	float: left;
+	}
+
+.header_search_button {
+	border: 1px solid #aaa;
+	background-color:#fff;
+	margin: 0em 0em 0em 1.0em;
+	padding: .1em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.1em;
+	color: #666;
+	font-weight: bold;
+	float: left;
+}
+
+/**
+*FOOTER
+**/
+/** footer **/
+  #footer
+  {
+  }
+
+  #footer-inner
+  {
+  }
+
+  #footer-message /* Wrapper for the footer message from Drupal's "Site information"
+                     and for any blocks placed in the footer region */
+  {
+  }
+	.footer_text a:link 
+	{
+		text-decoration: none;
+		color: #000000;
+	}
+	.footer_text a:visited 
+	{
+		text-decoration: none;
+		color: #000000;
+	}
+
+	#footer_nav {
+		border-top: 1px solid #ACADB0;
+		border-bottom: 1px solid #ACADB0;
+		border-right: 1px solid #ACADB0;
+		display: block;
+		float:left;
+		font-size: 1.1em;
+		font-family: Arial, Helvetica, sans-serif;
+		margin: 0 0 20px 0px;
+		width: 578px;
+	}
+	
+	#footer_nav .footer_link a:hover {
+		color: #666666;
+	}
+	#footer_nav a {
+		text-decoration: none;
+		color: #666666;
+		
+		}
+	
+	#footer_nav .footer_link a {
+		background-color: #EBEBEB;
+		text-align: left;
+		padding: 2px 4px;
+	}
+	#footer_nav .first a{
+		border-left: 1px solid #ACADB0;
+		}
+	
+	#footer_nav li a {
+		display: block;
+		border-right: 1px solid #ACADB0;
+		text-align: center;
+		vertical-align: bottom;
+		padding: 2px 0px;
+	
+	}
+	#footer_nav .last li a {
+		list-style: none;
+		display: block;
+		border-right: 1px solid #ACADB0;
+		text-align: center;
+		vertical-align: bottom;
+		padding: .2em 0em;
+	
+	}
+	
+	#footer_nav ul {
+		list-style-type: none;
+		margin: 0em;
+		padding: 0em;
+		
+	}
+	#footer_nav li {
+		float: left;
+	}
+	#footer p{
+	clear: both;
+	font-size: 1.1em;
+	margin: 2.00em 0em 0em 0em;
+	}

@@ -1,0 +1,358 @@
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_d57df699e0cb0e0a83d719c34d29cf4b) -->
+<!-- From CITI. (20b229a62e443434817344d9edc0eb40_a030bdcf0233aa342b96fb52873f5e1c) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Works on Paper | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-17634.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/jqModal.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/browserDetect.js"></script>
+<script type="text/javascript" src="../js/jquery.hoverintent.minified.js"></script>
+<script type="text/javascript" src="../js/infiniteScroll.js"></script>
+<script type="text/javascript" src="../js/filterMenu.js"></script>
+<script type="text/javascript" src="../js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+
+   <script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page-node.tpl.php-->
+</head>
+<body class="not-front not-logged-in ntype-artwork-listing sidebar-right">
+  <div id="header">
+    <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/Lichtenstein_AIC.png" alt="The Art Institute of Chicago" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Lichtenstein-hdr.png" alt="Roy Lichtenstein: A Retrospective" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+<div id="pagewrapper">
+
+<div id="page">
+<div id="column_container">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Lichtenstein">Roy Lichtenstein: A Retrospective</a> > <a href="../themes">Themes</a> > <span class="sel">Works on Paper</span></div></div>
+      </div>
+    
+    <div id="page-title-wrapper">
+              <h1 class="title">Works on Paper</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <div class="content">
+    <div class="bodycopy">
+        <div class="image wrap"><a href="http://www.artic.edu/aic/collections/exhibitions/Lichtenstein/artwork/122054" rel="nofollow"><img alt=" A Retrospective" src="../images/122054.png"></a></div>
+
+<p>Throughout Lichtenstein's career, works on paper were an integral part of his creative process. As he noted, "It's all thought up in the drawings and all accomplished in the paintings." The artist almost always began with a two-dimensional source, from which he sketched the image, recomposing it to suit narrative clarity or formal ends. Subsequently, he traced the drawing onto canvas with the aid of an opaque projector, continuing to make compositional adjustments. To accommodate the projector, drawings like <em>Crying Girl (Study)</em> (1964) and <em>Ohhh . . . Alright . . . (Study)</em> (1965) needed to be small in size. In some instances, as in <em>Forest Scene (Study)</em> (1980), a larger intermediate drawing was produced to further elaborate compositional details. Many of these large-scale studies were then turned into slides and projected again onto the canvas.</p>
+
+<p>Lichtenstein also used drawings as a form of notation, to capture his thoughts on process. In <em>Haystack and Haystacks (Studies)</em> (c. 1968), detailed notes and directions for color combinations of dot patterns are indicated for studio assistants. <em>Landscape with Rock and Chinese-Style Landscapes (Studies)</em> (1996) tentatively explores compositional possibilities.</p>
+
+<p>Over time collage became an additional tool in Lichtenstein's creative process. As his color palette expanded and his vocabulary of patterned dots and diagonals became more intricate, painted-and-cut pieces of paper enabled him to arrange complex and disparate elements. <em>Still Life with Reclining Nude (Study)</em> (1997) is an example of the multilayered, richly patterned collages that Lichtenstein utilized to resolve his compositions.</p>
+
+<p>Rarely did Lichtenstein make drawings as fully finished works that were not used as the basis for later paintings, but, between 1961 and 1968, he produced roughly 30 of these in black and white. In <em>Alka Seltzer</em> (1966), he graphically summed up his earlier techniques—the emphasis on cropping and scale and the use of halftone dots—and introduced the idea of reflection, a notion that would return often in his career.</p>
+
+<p><hr /></p>
+<p><sub>Roy Lichtenstein. <em>Alka Seltzer</em>, 1966. © Estate of Roy Lichtenstein. Margaret Fisher Endowment.</sub></p>    </div>
+    <div class="floatClear"></div>
+    <div id="galleryHolder">
+        <div id="filterMenu" style="height:35px;">
+                    <h3>View artworks</h3>
+                    <ul id="filters">
+                                                </ul>
+          <div id="filterControls">
+            <div id="results">Showing <span id="count">14</span> results</div>
+            <div id="reset">
+              <a href="Works-Paper#" id="filter-name">Reset</a>
+              <a href="Works-Paper#" id="resetBox"><span>X</span></a>
+            </div>
+          </div>
+        </div>
+        <div class="floatClear"></div>
+        <div id="galleryContent">
+                        <div class="floatClear"></div>
+        </div>
+    </div>
+</div>
+<script language="javascript">
+
+    //Utils
+    Array.prototype.unique = function() {
+        var o = {}, i, l = this.length, r = [];
+        for(i=0; i<l;i+=1) o[this[i]] = this[i];
+        for(i in o) r.push(o[i]);
+        return r;
+    };
+
+    function sortUnorderedList(ul, sortDescending) {
+      if(typeof ul == "string")
+        ul = document.getElementById(ul);
+
+      // Get the list items and setup an array for sorting
+      var lis = ul.getElementsByTagName("LI");
+      var vals = [];
+
+      // Populate the array
+      for(var i = 0, l = lis.length; i < l; i++)
+        vals.push(lis[i].innerHTML);
+
+      // Sort it
+      vals.sort();
+
+      // Sometimes you gotta DESC
+      if(sortDescending)
+        vals.reverse();
+
+      // Change the list on the page
+      for(var i = 0, l = lis.length; i < l; i++)
+        lis[i].innerHTML = vals[i];
+    }
+
+    var galleryObjects = {"artwork_210559":{"artwork_link":"..\/210559","object_title":"The Last Buffalo (Study)","object_date_begin":"1\/1\/1950","object_date_end":"12\/31\/1950","object_image_thumbnail":"..\/images\/182164_2983092.jpg","object_image_medium":"..\/images\/182164_2983091.jpg","object_date_display":"1950","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_210561":{"artwork_link":"..\/210561","object_title":"Donald Duck","object_date_begin":"1\/1\/1958","object_date_end":"12\/31\/1958","object_image_thumbnail":"..\/images\/182172_2983236.jpg","object_image_medium":"..\/images\/182172_2983235.jpg","object_date_display":"1958","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_210564":{"artwork_link":"..\/210564","object_title":"Mickey Mouse I","object_date_begin":"1\/1\/1958","object_date_end":"12\/31\/1958","object_image_thumbnail":"..\/images\/182163_2983108.jpg","object_image_medium":"..\/images\/182163_2983107.jpg","object_date_display":"1958","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_210820":{"artwork_link":"..\/210820","object_title":"Ohhh...Alright... (Study)","object_date_begin":"1\/1\/1964","object_date_end":"12\/31\/1964","object_image_thumbnail":"..\/images\/182170_2983204.jpg","object_image_medium":"..\/images\/182170_2983203.jpg","object_date_display":"1964","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_122054":{"artwork_link":"..\/122054","object_title":"Alka Seltzer","object_date_begin":"1\/1\/1966","object_date_end":"12\/31\/1966","object_image_thumbnail":"..\/images\/178297_4146300.jpg","object_image_medium":"..\/images\/178297_4146299.jpg","object_date_display":"1966","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican, 1923-1997","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_210592":{"artwork_link":"..\/210592","object_title":"Cape Cod Still Life (Study)","object_date_begin":"1\/1\/1972","object_date_end":"12\/31\/1972","object_image_thumbnail":"..\/images\/182165_2983124.jpg","object_image_medium":"..\/images\/182165_2983123.jpg","object_date_display":"1972","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_210594":{"artwork_link":"..\/210594","object_title":"The Red Horseman (Study)","object_date_begin":"1\/1\/1974","object_date_end":"12\/31\/1974","object_image_thumbnail":"..\/images\/182166_2983140.jpg","object_image_medium":"..\/images\/182166_2983139.jpg","object_date_display":"1974","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_210613":{"artwork_link":"..\/210613","object_title":"Reclining Nude in Brushstroke Landscape (Study)","object_date_begin":"1\/1\/1986","object_date_end":"12\/31\/1986","object_image_thumbnail":"..\/images\/182167_2983156.jpg","object_image_medium":"..\/images\/182167_2983155.jpg","object_date_display":"1986","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican, 1923-1997","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_210615":{"artwork_link":"..\/210615","object_title":"Reflections on Nancy (Study)","object_date_begin":"1\/1\/1989","object_date_end":"12\/31\/1989","object_image_thumbnail":"..\/images\/182168_2983172.jpg","object_image_medium":"..\/images\/182168_2983171.jpg","object_date_display":"1989","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican, 1923-1997","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_210621":{"artwork_link":"..\/210621","object_title":"Drawing for Interior with Bathroom","object_date_begin":"1\/1\/1992","object_date_end":"12\/31\/1992","object_image_thumbnail":"..\/images\/182169_2983188.jpg","object_image_medium":"..\/images\/182169_2983187.jpg","object_date_display":"1992","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican, 1923-1997","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_208321":{"artwork_link":"..\/208321","object_title":"Collage for Interior with Painting of Reclining Nude","object_date_begin":"1\/1\/1997","object_date_end":"12\/31\/1997","object_image_thumbnail":"..\/images\/182124_2982468.jpg","object_image_medium":"..\/images\/182124_2982467.jpg","object_date_display":"1997","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_208322":{"artwork_link":"..\/208322","object_title":"Collage for Still Life with Reclining Nude","object_date_begin":"1\/1\/1997","object_date_end":"12\/31\/1997","object_image_thumbnail":"..\/images\/182161_2983060.jpg","object_image_medium":"..\/images\/182161_2983059.jpg","object_date_display":"1997","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_210625":{"artwork_link":"..\/210625","object_title":"Interior with Ajax (Study)","object_date_begin":"1\/1\/1997","object_date_end":"12\/31\/1997","object_image_thumbnail":"..\/images\/182130_2982564.jpg","object_image_medium":"..\/images\/182130_2982563.jpg","object_date_display":"1997","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican, 1923-1997","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_210821":{"artwork_link":"..\/210821","object_title":"Interior with Nude Leaving (Study)","object_date_begin":"1\/1\/1997","object_date_end":"12\/31\/1997","object_image_thumbnail":"..\/images\/182171_2983220.jpg","object_image_medium":"..\/images\/182171_2983219.jpg","object_date_display":"1997","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""}};
+    
+    (function($){
+    $(document).ready(function(){
+        //Hide reset box
+        $("#reset").hide();
+        var galleryContent = $("#galleryContent"), gCEnd = galleryContent.children(".floatClear");
+        var dates = new Array();
+        
+        $.each(galleryObjects, function(i, gObj) {
+            (function() {
+                dates.push([gObj.object_date_begin, gObj.object_date_end]);
+            // build DOM objects and nest them through appends
+            var g = $('<div>', { 'class': 'galleryImage' } );
+            var gLink = $( '<a>', { 'href': gObj.artwork_link } );
+            var gThumbnail = $( '<img original="' + gObj.object_image_thumbnail + '" class="lazyLoad"/>' );
+            var gTooltip = $( "<div>", { "class": "tooltip", "html": '<img original="' + gObj.object_image_medium +'" alt="" class="lazyLoad"/><div id="artworkData"><em><strong>'+ gObj.object_title +'</strong></em>, '+ gObj.object_date_display +'<br/>' + gObj.object_artist_culture_display + '</div>' } );
+            gLink.append(gThumbnail);
+            gLink.append(gTooltip);
+            g.append(gLink);
+
+            
+            // associate object to DOM object
+            g.artData = gObj;
+
+            // bind filtering events
+            g.bind( "filterByName", function(event,name) {
+              if (g.artData.object_artist_sort_name !== name) { g.hide(); }
+              else { g.fadeIn(); }
+            });
+
+            g.bind( "filterByTag", function(event,tag) {
+              if ( $.inArray( tag, $.map(g.artData.object_tag_list.split(","), function(n){ return $.trim(n); }) ) == -1 ) { g.hide(); }
+              else { g.fadeIn(); }
+            });
+
+            g.bind( "filterByDate", function(event,d1,d2) {
+                 var dt = new Array(g.artData.object_date_begin, g.artData.object_date_end);
+
+                 dt = $.map(dt, function(_a) { var d = new Date(Date.parse(_a)); return d.getFullYear(); });
+
+                 if(dt.filter(Boolean).length !== 0){
+                           if (d1 <= dt[0] && d2 >= dt[1]) { g.fadeIn(); }
+                   else { g.hide(); }
+                 }
+                 else { g.hide(); }
+            });
+
+            g.bind( "filterReset", function(event){
+                g.fadeIn();
+            });
+
+            gTooltip.hide();
+            // do rollovers for this link -- you can change the fadeIn and fadeOut to just show() and hide() if you don't like the fading effect
+            gLink.hover(
+                function () {
+                    gTooltip.show();
+                    // position tooltip
+                    gTooltip.css( { "bottom": gThumbnail.height()/2 + ( g.height() - gThumbnail.height() ) + "px", "left": gThumbnail.width()/2 + "px" } );
+                  },
+
+                function () { gTooltip.hide(); }
+            );
+            // insert this gallery node before end of list
+            gCEnd.before(g);
+          })();
+            });
+
+                          //event resetting all filters
+      $( "#resetBox").click( function () {
+          $(".galleryImage").trigger( "filterReset" );
+          $("#count").text($('.galleryImage').size());
+          $(".active").removeClass("active");
+          $("#reset").hide();
+          if(typeof slider != 'undefined'){
+            slider.slider("values", 0, slider.slider("option", "min"));
+            slider.slider("values", 1, slider.slider("option", "max"));
+            refreshRange();
+            refreshTicks();
+          }
+        return false;
+      });
+    });
+  })(jQuery);
+
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+</script>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+             
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+			      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+       <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Roy Lichtenstein: A Retrospective </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/Lichtenstein/index">Overview</a></li>
+<li class="expanded"><a href="../themes">Themes</a>
+<ul class="menu">
+<li class="leaf first"><a href="../themes/Look-Mickey">Look Mickey</a></li>
+<li class="leaf"><a href="../themes/Early-Abstractions">Early Abstractions/Late Brushstrokes </a></li>
+<li class="leaf"><a href="../themes/Early-Pop">Early Pop</a></li>
+<li class="leaf"><a href="../themes/Black-White">Black and White</a></li>
+<li class="leaf"><a href="../themes/War-Romance">War and Romance</a></li>
+<li class="leaf"><a href="../themes/Brushstrokes">Brushstrokes/Explosions</a></li>
+<li class="leaf"><a href="../themes/Landscapes">Landscapes</a></li>
+<li class="leaf"><a href="../themes/Art-History">Art History</a></li>
+<li class="leaf"><a href="../themes/Modern">Modern</a></li>
+<li class="leaf"><a href="../themes/Mirrors">Mirrors</a></li>
+<li class="leaf"><a href="../themes/Entablatures">Entablatures</a></li>
+<li class="leaf"><a href="../themes/Artists-Studios">Artist’s Studios</a></li>
+<li class="leaf"><a href="../themes/Perfect-Imperfect">Perfect/Imperfect</a></li>
+<li class="leaf"><a href="../themes/Nudes">Nudes</a></li>
+<li class="leaf"><a href="../themes/Landscapes-Chinese">Landscapes in the Chinese Style</a></li>
+<li class="leaf active last"><a href="Works-Paper" class="active">Works on Paper</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="http://extras.artic.edu/timelines/lichtenstein/">Timeline</a></li>
+<li class="leaf"><a href="../videos">Videos</a></li>
+<li class="leaf"><a href="../selectedworks">Selected Works</a></li>
+<li class="leaf last"><a href="../search-artworks">Search Artworks</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+   <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+  </div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>
+

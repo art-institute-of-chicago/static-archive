@@ -1,0 +1,108 @@
+/* CSS Document */
+
+
+
+
+
+/*background color alignment main box*/
+#nav, #nav ul {
+	float: left;
+	width: 740px;
+	list-style: none;
+	line-height: 1;
+	background-color: #CCCCCC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: x-small;
+	padding: 0;
+	border: solid #eda;
+	border-width: 0px 0;
+	margin: 0 0 1em 0;
+	z-index: 9999;
+}
+/* text*/
+#nav a {
+	display: block;
+
+	
+	color: #333333;
+	/*border-right: 1px solid #CCCCCC;*/
+	text-decoration: none;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-right:6px;
+	padding-left:6px;
+}
+
+/*makes li's horizontal*/
+
+#nav li {
+	float: left;
+	padding: 0;
+	
+}
+/*drop down box size*/
+#nav li ul {
+	position: absolute;
+	left: -999em;
+	height: auto;
+	width: 12em;
+	background-color: #FFFFFF;
+	font-weight: normal;
+	/*border-width: 0.25em;*/
+	margin: 0;
+	z-index:9999;
+}
+
+/*dropdowntextline hiite length*/
+#nav li ul a {
+	width: 10.60em;
+
+	border-right: 0px solid #ACADB0;
+}
+
+/*drop down*/
+#nav li:hover ul, #nav li li:hover ul, #nav li li li:hover ul, #nav li.sfhover ul, #nav li li.sfhover ul, #nav li li li.sfhover ul {
+	left: auto;
+	color: #CC6633;
+}
+
+
+/*hilite bar*/
+#nav li:hover, #nav li.sfhover {
+	background: #999999;
+	
+}
+
+/*content box*/
+
+#content {
+	clear: left;
+}
+
+.share_home {
+    color:#999999;
+	height: 3px;
+	float: right;	
+}
+
+.share_home a {
+    color:#999999;
+	
+}
+.share {
+    color:#999999;
+	height: 3px;
+	margin-right: 10px;
+}
+.share a {
+    color:#999999;
+
+}
+  #lineh {
+	line-height: 14px;
+	padding-top: 3px;
+	padding-right: 0px;
+	padding-bottom: 8px;
+	padding-left: 0px;
+}

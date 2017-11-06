@@ -1,0 +1,211 @@
+{
+"map"       : "53-ne_2000.jpg",
+"mapwidth"  : "2000px", 
+"mapheight" : "1388px",
+"areas"     : {
+  "a"  : {
+      "left"    : "1185px",
+      "top"     : "474px",
+      "width"   : "210px",
+      "height"  : "525px",
+      "data" : {
+        "ctitle"    : "6 Alexandre Archipenko, <em>Family life</em>",
+        "citation"  : "Alexander Archipenko (American, born Ukraine, 1887–1964). <em>Family Life</em>, 1912. Plaster; approx. h. 182.9 cm (72 in.). Destroyed."
+      }
+  },
+  
+  "b"  : {
+      "left"    : "315px",
+      "top"     : "565px",
+      "width"   : "165px",
+      "height"  : "136px",
+      "data" : {
+        "ctitle"    : "28 Greorges Braque, <em>The violin</em>",
+        "citation"  : "Georges Braque (French, 1882–1963). <em>The Violin</em>, 1912. Oil on canvas; 46 × 61 cm (18 1/8 × 24 in.). Private collection."
+      }
+  },
+  
+  "c"  : {
+      "left"    : "305px",
+      "top"     : "710px",
+      "width"   : "175px",
+      "height"  : "132px",
+      "data" : {
+        "ctitle"    : "290 Paul Picasso, <em>Trees</em>",
+        "citation"  : "Pablo Ruiz y Picasso (Spanish, 1881–1973). <em>Two Trees</em>, 1907–08. Opaque watercolor on cream laid paper; 47.9 × 62.7 cm (18 7/8 × 24 11/16 in.). Philadelphia Museum of Art, The Louise and Walter Arensberg Collection, 1950, 1950-134-163."
+      }
+  },
+  
+  "d"  : {
+      "left"    : "496px",
+      "top"     : "638px",
+      "width"   : "216px",
+      "height"  : "188px",
+      "data" : {
+        "joyride-stop" : true,
+        "owned"       : true,
+        "thumbnail"   : "forest_derain_200.jpg",
+        "artist"      : "André Derain",
+        "period"      : "French, 1880–1954",
+        "title"       : "<em>Forest at Martigues</em>, c. 1908/09",
+        "medium"      : "Oil on canvas; 81.3 x 100.3 cm (32 x 39 1/2 in.)",
+        "collection"  : "Arthur Jerome Eddy Memorial Collection, 1931.506",
+        "description" : "In 1908, André Derain vacationed in Martigues, a small fishing village west of Marseilles. Pablo Picasso visited the artist there and they spent their time together painting landscapes; <em>Forest at Martiques</em> likely dates to during or soon after this period of collaboration. Organizers of the Chicago presentation of the Armory Show emphasized the connection between these two artists by hanging this painting beside Picasso's watercolor <em>Two Trees</em> (1907–08, The Philadephia Museum of Art), with which it shares a subject matter and palette. Like many of the works presented at the Chicago exhibition, Derain's canvas was purchased by Eddy, who would describe the artist's incorporation of Cubist aesthetics as \"both impressive and beautiful.\"",
+        "link"      : "http://www.artic.edu/aic/collections/artwork/8975?search_no=1&index=0",
+        "ctitle"    : "94 Andre Derain, <em>The forest at Martignes</em>",
+        "citation"  : "André Derain (French, 1880–1954). <em>Forest at Martigues</em>, c. 1908–09. Oil on canvas; 81.3 × 100.3 cm (32 × 39 1/2 in.). The Art Institute of Chicago, Arthur Jerome Eddy Memorial Collection, 1931.506."
+      }
+  },
+  
+  "e"  : {
+      "left"    : "720px",
+      "top"     : "588px",
+      "width"   : "214px",
+      "height"  : "226px",
+      "data" : {
+        "ctitle"    : "105 Marcel Duchamp, <em>The king and queen surrounded by nudes</em>",
+        "citation"  : "Marcel Duchamp (American, born France, 1887–1968). <em>The King and Queen Surrounded by Swift Nudes</em>, 1912. Oil on canvas; 114.6 × 128.9 cm (45 1/8 × 50 3/4 in.). Philadelphia Museum of Art, The Louise and Walter Arensberg Collection, 1950, 1950-134-63a."
+      }
+  },
+  
+  "f"  : {
+      "left"    : "946px",
+      "top"     : "652px",
+      "width"   : "110px",
+      "height"  : "154px",
+      "data" : {
+        "ctitle"    : "293 Paul Picasso, <em>The woman and the pot of mustard</em> (Lent by Henry Kahnweiler)",
+        "citation"  : "Pablo Ruiz y Picasso (Spanish, 1881–1973). <em>Woman with Mustard Pot</em>, 1909–10. Oil on canvas; 73 × 60 cm (28 3/4 × 23 5/8 in.). Gemeentemuseum, The Hague."
+      }
+  },
+  
+  "g"  : {
+      "left"    : "1065px",
+      "top"     : "565px",
+      "width"   : "120px",
+      "height"  : "240px",
+      "data" : {
+        "ctitle"    : "95 Andre Derain, <em>Window overlooking the park</em>",
+        "citation"  : "André Derain (French, 1880–1954). <em>Window at Vers</em>, 1912. Oil on canvas; 130.8 × 89.5 cm (51 1/2 × 35 1/4 in.). The Museum of Modern Art, New York. Abby Aldrich Rockefeller Fund, purchased in memory of Mrs. Cornelius J. Sullivan, 631.1939."
+      }
+  },
+  
+  "h"  : {
+      "left"    : "1400px",
+      "top"     : "638px",
+      "width"   : "90px",
+      "height"  : "148px",
+      "data" : {
+        "ctitle"    : "106 Marcel Duchamp, <em>Chess players</em>",
+        "citation"  : "Marcel Duchamp (American, born France, 1887–1968). <em>Portrait of Chess Players</em>, 1911. Oil on canvas; 39 5/8 × 39 9/16 in. (100.6 × 100.5 cm). Philadelphia Museum of Art, The Louise and Walter Arensberg Collection, 1950, 1950-134-56."
+      }
+  },
+  
+  "i"  : {
+      "left"    : "1494px",
+      "top"     : "690px",
+      "width"   : "56px",
+      "height"  : "88px",
+      "data" : {
+        "ctitle"    : "128 Roger A. de La Fresnaye, <em>Landscape</em>",
+        "citation"  : "Roger de La Fresnaye (French, 1885–1925). <em>Landscape, No. 2</em>, 1911. Oil on canvas; 60.3 × 73 cm (23 3/4 × 28 3/4 in.)."
+      }
+  },
+  
+  "j"  : {
+      "left"    : "1550px",
+      "top"     : "658px",
+      "width"   : "50px",
+      "height"  : "170px",
+      "data" : {
+        "ctitle"    : "109 Raymond Duchamp-Villon, <em>Torso</em> (Plaster)",
+        "citation"  : "Raymond Duchamp-Villon (French, 1876–1918). <em>Torso of a Young Man</em>, 1910–11, cast 1912. Plaster; 60.4 × 33.1 × 31.1 cm (23 3/4 × 13 × 12 1/4 in.). Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, D.C., gift of Joseph H. Hirshhorn, 1966, 66.1460."
+      }
+  },
+  
+  "k"  : {
+      "left"    : "1590px",
+      "top"     : "542px",
+      "width"   : "82px",
+      "height"  : "100px",
+      "data" : {
+        "ctitle"    : "428 Jacques Villon, <em>Study of a Young Woman</em>",
+        "citation"  : "Jacques Villon (French, 1875–1963). <em>Study for Young Woman</em>, 1912. Oil on canvas; 61 × 50.8 cm (24 × 20 in.)."
+      }
+  },
+  
+  "l"  : {
+      "left"    : "1700px",
+      "top"     : "500px",
+      "width"   : "174px",
+      "height"  : "290px",
+      "data" : {
+        "ctitle"    : "153 Albert Gleizes, <em>Man on a balcony</em>",
+        "citation"  : "Albert Gleizes (French, 1881–1953). <em>Man on a Balcony (Portrait of Dr. Théo Morinaud)</em>, 1912. Oil on canvas; 195.6 × 114.9 cm (77 × 45 1/4 in.). Philadelphia Museum of Art, The Louise and Walter Arensberg Collection, 1950, 1950-134-91."
+      }
+  },
+  
+  "m"  : {
+      "left"    : "1886px",
+      "top"     : "556px",
+      "width"   : "113px",
+      "height"  : "87px",
+      "data" : {
+        "owned"       : true,
+        "thumbnail"   : "leap-of-rabbit_cardoso_200.jpg",
+        "artist"      : "Amadeo de Souza Cardoso",
+        "period"      : "Portuguese, 1887–1918",
+        "title"       : "<em>The Leap of the Rabbit</em>, 1911",
+        "medium"      : "Oil on canvas; 49.9 x 60.8 cm (19 5/8 x 23 15/16 in.)",
+        "collection"  : "Arthur Jerome Eddy Memorial Collection, 1931.514",
+        "description" : "Portuguese painter Amadeo de Souza Cardoso worked in Paris from 1906 to 1914, his style quickly changing to reflect the many avant-garde movements he witnessed in that city. With it bright colors and decorative forms, <em>Leap of the Rabbit</em> shows the influence of Art Nouveau and Léon Bakst's designs for the Ballets Russes.<br /><br />Eight canvases by Souza Cardoso were included in the Chicago presentation of the Armory Show. Arthur Jerome Eddy, who helped instigate the exhibition for the city, purchased this work while it was on show, comparing it to Persian pottery.",
+        "link"      : "http://www.artic.edu/aic/collections/artwork/8999?search_no=4&index=0",
+        "ctitle"    : "386 Amadeo de Sousa Cardoza, <em>Rabbit Jump</em>",
+        "citation"  : "Amadeo de Souza Cardoso (Portuguese, 1887–1918). <em>The Leap of the Rabbit</em>, 1911. Oil on canvas; 49.9 × 60.8 cm (19 5/8 × 23 15/16 in.). The Art Institute of Chicago, Arthur Jerome Eddy Memorial Collection, 1931.514."
+      }
+  },
+  
+  "n"  : {
+      "left"    : "1886px",
+      "top"     : "645px",
+      "width"   : "113px",
+      "height"  : "155px",
+      "data" : {
+        "owned"       : true,
+        "thumbnail"   : "stronghold_cardoso_200.jpg",
+        "artist"      : "Amadeo de Souza Cardoso",
+        "period"      : "Portuguese, 1887–1918",
+        "title"       : "<em>The Stronghold</em>, c. 1912",
+        "medium"      : "Oil on canvas; 92.4 x 61 cm (36 3/8 x 24 in.)",
+        "collection"  : "Arthur Jerome Eddy Memorial Collection, 1931.512",
+        "description" : "Souza Cardoso was among the most commercially successful artists at the Armory Show, selling seven of the eight works he had on display there. Here he combines Cubist and Futurist form with the medieval subject matter of a fortified castle. The work was purchased by Arthur Jerome Eddy, the author of <em>Cubists and Post-Impressionists</em>, the first book written in the United States on modern art, who categorized this painting as \"<em>romantic</em> Post-Impressionism as distinguished from the more <em>abstract</em> conceptions of the Cubists; [it has] no more relation to life than a fairy tale.\"",
+        "link"      : "http://www.artic.edu/aic/collections/artwork/8993?search_no=3&index=3",
+        "ctitle"    : "382 Amadeo de Sousa Cardoza, <em>The stronghold</em>",
+        "citation"  : "Amadeo de Souza Cardoso (Portuguese, 1887–1918). <em>The Stronghold</em>, c. 1912. Oil on canvas; 92.4 × 61 cm (36 3/8 × 24 in.). The Art Institute of Chicago, Arthur Jerome Eddy Memorial Collection, 1931.512."
+      }
+  },
+
+  "eee"  : {
+      "left"    : "76px",
+      "top"     : "570px",
+      "width"   : "215px",
+      "height"  : "286px",
+      "data" : {
+        "ctitle"    : "108 Marcel Duchamps, <em>Sketch of a Nude</em>",
+        "citation"  : "Marcel Duchamp (French, 1887-1968). <em>Sad Young Man on a Train</em>, 1911-12. Oil on cardboard, mounted on Masonite; 100 x 73 cm (39 3/8 x 28 3/4 in.). The Solomon R. Guggenheim Foundation. Peggy Guggenheim Collection, Venice, 1976, 76.2553.9."
+      }
+  },
+
+  "fff"  : {
+      "left"    : "941px",
+      "top"     : "448px",
+      "width"   : "115px",
+      "height"  : "205px",
+      "data" : {
+        "ctitle"    : "291 Paul Picasso, <em>Mrs. Soler</em>",
+        "citation"  : "Pablo Picasso (Spanish, 1881-1973). <em>Madame Soler</em>, 1903. Oil on canvas; 100 x 70 cm (39 3/8 x 27 1/2 in.). Pinakothek der Moderne, Munich. Inventory no. 13672, acquired 1964."
+      }
+  }
+
+}
+}

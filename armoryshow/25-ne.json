@@ -1,0 +1,97 @@
+{
+"map"       : "25-ne_2000.jpg",
+"mapwidth"  : "2000px", 
+"mapheight" : "1348px",
+"areas"     : {
+  "a"  : {
+      "left"    : "614px",
+      "top"     : "623px",
+      "width"   : "72px",
+      "height"  : "91px",
+      "data" : {
+        "ctitle"    : "380 John Sloan (New York), <em>Sunday&mdash;girls drying their hair</em>",
+        "citation"  : "John Sloan (American, 1871–1951). <em>Sunday, Women Drying Their Hair</em>, 1912. Oil on canvas; 66.36 × 81.6 cm (26 1/8 x 32 1/8 in.). Addison Gallery of American Art, Phillips Academy, Andover, Massachusetts."
+      }
+  },
+  "b"  : {
+      "left"    : "751px",
+      "top"     : "593px",
+      "width"   : "99px",
+      "height"  : "124px",
+      "data" : {
+        "ctitle"    : "201 Walt Kuhn (Fort Lee, N. J.), <em>Morning</em>",
+        "citation"  : "Walt Kuhn (American, 1880–1949). <em>Morning</em>, 1912. Oil on canvas; 83.2 × 101.6 cm (33 × 40 in.). Norton Gallery and School of Art, West Palm Beach, Florida."
+      }
+  },
+  "c"  : {
+      "left"    : "1151px",
+      "top"     : "513px",
+      "width"   : "170px",
+      "height"  : "225px",
+      "data" : {
+        "ctitle"    : "31 D. Putnam Brinley (New York), <em>The emerald pool</em>",
+        "citation"  : "Daniel Putnam Brinley (American, 1879–1963). <em>The Emerald Pool</em>. Oil on canvas; 106.7 × 137.2 cm (42 × 54 in.)."
+      }
+  },
+  "d"  : {
+      "left"    : "1324px",
+      "top"     : "591px",
+      "width"   : "174px",
+      "height"  : "154px",
+      "data" : {
+        "ctitle"    : "222 Elmer L. MacRae (Cos Cob, Conn.), <em>Battleships</em>",
+        "citation"  : "Elmer Livingston MacRae (American, 1875–1955). <em>Battleships at Newport</em>, 1912. Oil on canvas. Sewell C. Biggs Museum of American Art, Dover, Delaware."
+      }
+  },
+  "e"  : {
+      "left"    : "519px",
+      "top"     : "575px",
+      "width"   : "59px",
+      "height"  : "145px",
+      "data" : {
+        "joyride-stop" : true,
+        "owned"       : true,
+        "thumbnail"   : "25-sw-wave.jpg",
+        "artist"      : "Chester Beach",
+        "period"      : "American, 1881–1956",
+        "title"       : "<em>The Wave</em>, c. 1912",
+        "medium"      : "Bronze; 78.7 x 37.5 x 31.8 cm (31 x 14 3/4 x 12 1/2 in.)",
+        "collection"  : "Gift of Dr. Daniel D. Van De Grift, 1922.86",
+        "description" : "As a sculptor of allegorical and mythological figures, Chester Beach’s aesthetic was rooted in classical tradition. <em>The Wave</em>, however, with its more contemporary treatment of the figure’s hairstyle and posture, reveals that the artist could also portray figures in a less traditional manner. Beach exhibited four works at the Armory Show in New York, but because the Chicago presentation was physically limited, as an American he was allowed only one submission. He chose to present himself as a more modern artist in Chicago: <em>The Wave</em> was the only work of the four that did not depict a mythological subject.",
+        "link"      : "http://www.artic.edu/aic/collections/artwork/81042?search_no=36&index=0",
+        "ctitle"    : "8 Chester Beach (New York), <em>The Big Wave</em>",
+        "citation"  : "Chester Beach (American, 1881–1956). <em>The Wave</em>, c. 1912. Bronze; 78.7 × 37.5 × 31.8 cm (31 × 14 3/4 × 12 1/2 in.). The Art Institute of Chicago, gift of Dr. Daniel D. Van De Grift, 1922.86."
+      }
+  },
+  "aaa"  : {
+      "left"    : "685px",
+      "top"     : "602px",
+      "width"   : "62px",
+      "height"  : "120px",
+      "data" : {
+        "ctitle"    : "31 M. Manigault (New York), <em>The Clown</em>",
+        "citation"  : "Edward Middleton Manigault (American, 1887-1922). <em>The Clown</em>, 1912. Oil on canvas; 86.4 x 63.2 cm (34 x 24 7/8 in.). The Columbus Museum of Art. Museum purchase, Howald Fund."
+      }
+  },
+  "bbb"  : {
+      "left"    : "853px",
+      "top"     : "617px",
+      "width"   : "82px",
+      "height"  : "115px",
+      "data" : {
+        "ctitle"    : "396 or 397 William L. Taylor (New York), <em>Spring (Decorative Panel)</em>",
+        "citation"  : "William L. Taylor (American, 1854-1926). <em>Decorative Panel: Spring</em>. Oil."
+      }
+  },
+  "ccc"  : {
+      "left"    : "1740px",
+      "top"     : "530px",
+      "width"   : "175px",
+      "height"  : "245px",
+      "data" : {
+        "ctitle"    : "264 Frank A. Nankivell, <em>Pink and Green</em>",
+        "citation"  : "Frank Arthur Nankivell (Australian, 1869-1959). <em>Pink and Green</em>. Oil."
+      }
+  }
+}
+}

@@ -1,0 +1,342 @@
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_dc952678747d0a84ad7f50acc99e6c8f) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_f3199cc055815547e54af6cd91834925) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Case 6: At Work: | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-26823.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/browserDetect.js"></script>
+<script type="text/javascript" src="../js/jquery.hoverintent.minified.js"></script>
+<script type="text/javascript" src="../js/infiniteScroll.js"></script>
+<script type="text/javascript" src="../js/filterMenu.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+
+   <script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page-node.tpl.php-->
+</head>
+<body class="not-front not-logged-in ntype-resource-listing sidebar-right">
+  <div id="header">
+    <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/Ryerson_aic_0_2_0_0.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Ryerson_hdr_0_2_0_0.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+<div id="pagewrapper">
+
+<div id="page">
+<div id="column_container">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2015">Ryerson & Burnham Library Exhibitions, 2015</a> > <a href="../Tools-of-the-Trade-19th-20th-Century-Architectural-Trade-Catalogs">Tools of the Trade: 19th- and 20th-Century Architectural Trade Catalogs</a> > <span class="sel">Case 6: At Work:</span></div></div>
+      </div>
+    
+    <div id="page-title-wrapper">
+              <h1 class="title">Case 6: At Work:</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <div class="content">
+    <div class="bodycopy">
+        <p>Originating from the intellectual and cultural centers of medieval monastic life, the office has achieved a level of spatial primacy in our contemporary lives rivaled only by that of the home. The modern office developed out of the increase in business size and complexity following the Civil War, and the attendant need for a new level of bureaucracy: so-called &ldquo;middle&rdquo; management.<sup><a href="6#fn27" id="ref27">27</a></sup>  In fact, from 1860 to 1910 the number of persons engaged in professional, managerial and &ldquo;commercial&rdquo; positions doubled from 2.39% to 4.79% of the U.S. population.<sup><a href="6#fn28" id="ref28">28</a></sup>  Even more striking was the increase in the number of women in the labor force. Buoyed by the invention of the telegraph, telephone and typewriter—which created a new class of office jobs—the percentage of female clerical workers jumped from 2 to 12 percent.<sup><a href="6#fn29" id="ref29">29</a></sup></p>
+<p>Many of the characteristics associated with modern offices—open spaces, natural light and specialized furniture—were first employed by Frank Lloyd Wright in his Larkin and Johnson Wax office buildings (1904 and 1939, respectively), the former of which is considered the first to &ldquo;integrate innovations in architecture with progressive management philosophy, mechanical systems [and] spatial distribution.&rdquo;<sup><a href="6#fn30" id="ref30">30</a></sup>  By mid-century, a movement advocating change in workplace design had begun to coalesce in Germany. The &ldquo;Bürolandschaft&rdquo; or &ldquo;office landscape&rdquo; concept—defined by plans encouraging communication<br />
+  collaboration, transparency, the exchange of ideas and a flat hierarchy—revolutionized office design and anticipated contemporary open office systems.<sup><a href="6#fn31" id="ref31">31</a></sup> Perhaps the only constant is that as technology and business changes, office design changes with it.</p>
+<ol>
+<li>&ldquo;Managing the Work Environment.&rdquo; Herman Miller, Inc.; Zeeland, MI; 1979.</li>
+<li> &ldquo;Arnot Introduces &lsquo;A New Way of Life&rsquo; in the Office.&rdquo; Swan Equipment Company; Buffalo, NY; 1954.</li>
+<li>[Cubicle curtains sample]. General Cubicle Company; Ambler, PA; c.1960s.</li>
+<li> &ldquo;Wovin.&rdquo; 3form, Inc.; Salt Lake City, UT; 2008.</li>
+<li> &ldquo;Kartell Office.&rdquo; Kartell; Milan, Italy; 2004.</li>
+<li> &ldquo;My Studio Environments.&rdquo; Herman Miller, Inc.; Zeeland, MI; 2006.</li>
+<li> &ldquo;Pittsburgh Color Dynamics.&rdquo; Pittsburgh Plate Glass Company; c.1950s.</li>
+</ol>
+<p><br><br />
+<br></p>
+<p><sup id="fn27">27. Donald Albrecht and Chrysanthe B. Broikos. <em>On the Job: Design and the American Office</em>, (New York: Princeton Architectural Press, 2000), 18. <a href="6#ref27" title="Jump back to footnote 27 in the text.">↩</a></p>
+<p><sup id="fn28">28.  Ibid, 17.<a href="6#ref28" title="Jump back to footnote 28 in the text.">↩</a></p>
+<p><sup id="fn29">29.  Ibid.<a href="6#ref29" title="Jump back to footnote 29 in the text.">↩</a>
+<p><sup id="fn30">30.  Ibid, 21.<a href="6#ref30" title="Jump back to footnote 30 in the text.">↩</a></p>
+<p><sup id="fn31">31.  Sydney G. Rodgers, &ldquo;Modularity Versus Free-Form Clustering,&rdquo; <em>New Concepts in Office Design</em>, (Elmhurst, Ill. : Business Press, 1968), 28.<a href="6#ref31" title="Jump back to footnote 31 in the text.">↩</a></p>
+    </div>
+    <div class="floatClear"></div>
+    <div id="galleryHolder">
+        <div id="filterMenu" style="height:35px;">
+                    <h3>View resources</h3>
+                    <ul id="filters">
+                      	            </ul>
+          <div id="filterControls">
+        	  <div id="results">Showing <span id="count">7</span> results</div>
+        	  <div id="reset">
+        		  <a href="6#" id="filter-name">Reset</a>
+        		  <a href="6#" id="resetBox"><span>X</span></a>
+        	  </div>
+          </div>
+        </div>
+        <div class="floatClear"></div>
+        <div id="galleryContent">
+                        <div class="floatClear"></div>
+        </div>
+    </div>
+</div>
+<script language="javascript">
+    
+    //Utils
+    Array.prototype.unique = function() {
+        var o = {}, i, l = this.length, r = [];
+        for(i=0; i<l;i+=1) o[this[i]] = this[i];
+        for(i in o) r.push(o[i]);
+        return r;
+    };
+    
+    (function($){
+      //Doing this because image attributes don't get properly read until everything is loaded.
+      $(window).load(function() {
+          $(".galleryImage img.scaled").each( function (index) {
+              var img = $(this);
+              var max = 112;
+              // fix dimensions
+              if ( img.height() > img.width() ){
+                  img.css( { "height":max, "width":"auto"} );
+              }
+              else { img.css( { "height":"auto", "width":max} ); }
+          });
+      });
+    })(jQuery);
+    
+    var galleryObjects = {"resource_3535":{"resource_link":"..\/3535","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_003535.jpg","resource_title":"01. \"Managing the Work Environment.\" Herman Miller, Inc.; Zeeland, MI; 1979.","resource_description":"As one of the first furniture companies to embrace modernism, Herman Miller is recognized as being one of the great office furnishings innovators of the 20th century. In 1930 Gilbert Rohde, an illustrator in the advertising industry, proposed a modular office furniture and storage system to the company.<a href=&quot;#fn32\&quot; id=\"ref32\">32<\/a> This system, which debuted in 1942 as the Executive Office Group, had over a dozen components that could be arranged in almost 400 different combinations.<a href=&quot;#fn33\&quot; id=\"ref33\">33<\/a><br \/>\nSuch flexibility augured what would become de rigueur by the 1970s: open-plan, reconfigurable office components. This brochure for Herman Miller&rsquo;s Action Office system is a later iteration of what is considered to be the world&rsquo;s first cubicle system, both designed by Robert Propst. Contrary to Propst&rsquo;s original plans which conceived of the cubicle as both open and private, the tiny boxes pumped out in the millions, so mocked and reviled by contemporary culture, were shrunk and cubed by designers in response to pressure from employers who were not interested in &ldquo;[giving] employees a holistic experience&rdquo; but rather just &ldquo;a cheap way to pack workers in.&rdquo;<a href=&quot;#fn24\&quot; id=\"ref34\">34<\/a><br \/>\n<br \/>\n<br \/>\n 32. Sara O. Marberry, <em>Color in the Office: Design Trends from 1950-1990 and Beyond<\/em><strong>, <\/strong>(New York: Van Nostrand Reinhold, [1994]), 12. <a href=&quot;#ref32\&quot; title=\"Jump back to footnote 32 in the text.\">\u21a9<\/a>33. Ibid.<a href=&quot;#ref33\&quot; title=\"Jump back to footnote 33 in the text.\">\u21a9<\/a>34. Julie Schlosser, &ldquo;Cubicles: The great mistake,&rdquo; <em>Fortune<\/em>, 03\/22\/2006, http:\/\/archive.fortune.com\/2006\/03\/09\/magazines\/fortune\/cubicle_howiwork_fortune\/index.htm<a href=&quot;#ref34\&quot; title=\"Jump back to footnote 34 in the text.\">\u21a9<\/a>","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_003535.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"212.642578125","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Tools of the Trade: 19th- and 20th-Century Architectural Trade Catalogs,\" Case 6, Ryerson &amp; Burnham Libraries, August 4, 2015-October 12, 2015.<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/cdm\/ref\/collection\/mqc\/id\/68796&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture"},"resource_3536":{"resource_link":"..\/3536","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_003536.jpg","resource_title":"02. \"Arnot Introduces 'A New Way of Life' in the Office.\" Swan Equipment Company; Buffalo, NY; 1954.","resource_description":"The significant rise in the number of technical and professional staff employed by modern businesses demanded offices with greater privacy and improved acoustics, lighting and climate control, while increased competitiveness necessitated efficient, flexible and simple products that could be reused with little cost. These proto-cubicles by Arnot were marketed as a &ldquo;private office-ettes.&rdquo;","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_003536.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"194.478515625","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Tools of the Trade: 19th- and 20th-Century Architectural Trade Catalogs,\" Case 6, Ryerson &amp; Burnham Libraries, August 4, 2015-October 12, 2015.<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/cdm\/ref\/collection\/mqc\/id\/68790&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture"},"resource_3537":{"resource_link":"..\/3537","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_003537.jpg","resource_title":"03. [Cubicle curtains sample]. General Cubicle Company; Ambler, PA; c.1960s.","resource_description":"Popular 1960s office colors included the primaries, avocado, gold, turquoise, orange and brown. The use of bolder colors was &ldquo;perhaps a reflection of the tumultuous times.&rdquo;<a href=&quot;#fn35\&quot; id=\"ref35\">35<\/a><br \/>\n<br \/>\n<br \/>\n35. Sara O. Marberry, <em>Color in the Office: Design Trends from 1950-1990 and Beyond<\/em><strong>, <\/strong>(New York: Van Nostrand Reinhold, [1994]), 35. <a href=&quot;#ref35\&quot; title=\"Jump back to footnote 35 in the text.\">\u21a9<\/a>","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_003537.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"155.7109375","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Tools of the Trade: 19th- and 20th-Century Architectural Trade Catalogs,\" Case 6, Ryerson &amp; Burnham Libraries, August 4, 2015-October 12, 2015.<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/cdm\/ref\/collection\/mqc\/id\/68784&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture"},"resource_3538":{"resource_link":"..\/3538","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_003538.jpg","resource_title":"04. \"Wovin.\" 3form, Inc.; Salt Lake City, UT; 2008.","resource_description":"3form is a manufacturer of sustainable building materials and architectural hardware, including Wovin Wall, a modular 3-dimensional wall system.","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_003538.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"172.6259765625","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Tools of the Trade: 19th- and 20th-Century Architectural Trade Catalogs,\" Case 6, Ryerson &amp; Burnham Libraries, August 4, 2015-October 12, 2015.<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/cdm\/ref\/collection\/mqc\/id\/68846&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture"},"resource_3539":{"resource_link":"..\/3539","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_003539.jpg","resource_title":"05. \"Kartell Office.\" Kartell; Milan, Italy; 2004.","resource_description":"Founded by Giulio Castelli in 1949, Kartell is a well-known Italian manufacturer of design objects. This spread, showcasing a variety of Kartell\u2019s office furniture, includes the Eros Chair designed by French designer Philippe Starck, which debuted in 1998.","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_003539.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"130.8779296875","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Tools of the Trade: 19th- and 20th-Century Architectural Trade Catalogs,\" Case 6, Ryerson &amp; Burnham Libraries, August 4, 2015-October 12, 2015.<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/cdm\/ref\/collection\/mqc\/id\/68813&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture"},"resource_3540":{"resource_link":"..\/3540","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_003540.jpg","resource_title":"06. \"My Studio Environments.\" Herman Miller, Inc.; Zeeland, MI; 2006.","resource_description":"","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_003540.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"85.1240234375","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Tools of the Trade: 19th- and 20th-Century Architectural Trade Catalogs,\" Case 6, Ryerson &amp; Burnham Libraries, August 4, 2015-October 12, 2015.<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/cdm\/ref\/collection\/mqc\/id\/68816&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture"},"resource_3541":{"resource_link":"..\/3541","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_003541.jpg","resource_title":"07. \"Pittsburgh Color Dynamics.\" Pittsburgh Plate Glass Company; c.1950s.","resource_description":"According to the recommendations of color theorist Faber Birren in a 1968 essay on color and worker productivity, &ldquo;It is fallacious to assume that because color is appealing and attractive, it is conducive to enjoyable labor. Indeed, for the very reason of its strong impact, it may, when not properly applied, distract from work, interfere with tasks, and actually make seeing difficult and fatiguing.&rdquo;<a href=&quot;#fn36\&quot; id=\"ref36\">36<\/a>  Just as dangerous, however, was an office devoid of color, which &ldquo;might well impair human efficiency and break down morale by causing irrelevant daydreams.&rdquo;<a href=&quot;#fn37\&quot; id=\"ref37\">37<\/a><br \/>\nThough color theory has existed for millennia, &ldquo;color psychology&rdquo; has only come to the fore over the last century, largely through the work of Birren, Carolyn Bloomer, and Max L\u00fcscher. Seeking inexpensive methods of improving efficiency and productivity in the workplace, corporations sought the advice of such experts to help improve office design while manufacturers, seeking income, coopted this new science for their own benefit (note the paint color &ldquo;eye rest green&rdquo; in the upper left panel of this spread).<br \/>\nThough bright colors had become favored again in the home during the 1930s, office designers remained color-averse until the mid 1950s when the &ldquo;business-like look [gave] way to colorful interiors with almost a home-like atmosphere.&rdquo;<a href=&quot;#fn38\&quot; id=\"ref38\">38<\/a><br \/>\n<br \/>\n<br \/>\n 36. Faber Birren, &ldquo;Impact of Color on Employee Morale and Productivity,&rdquo; <em>New Concepts in Office Design<\/em>, (Elmhurst, Ill. : Business Press, 1968), 86. <a href=&quot;#ref36\&quot; title=\"Jump back to footnote 36 in the text.\">\u21a9<\/a>37. Ibid, 87.<a href=&quot;#ref37\&quot; title=\"Jump back to footnote 37 in the text.\">\u21a9<\/a>38. Sara O. Marberry, <em>Color in the Office: Design Trends from 1950-1990 and Beyond<\/em><strong>, <\/strong>(New York: Van Nostrand Reinhold, [1994]), 16.<a href=&quot;#ref38\&quot; title=\"Jump back to footnote 38 in the text.\">\u21a9<\/a>","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_003541.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"171.3642578125","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Tools of the Trade: 19th- and 20th-Century Architectural Trade Catalogs,\" Case 6, Ryerson &amp; Burnham Libraries, August 4, 2015-October 12, 2015.<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/cdm\/ref\/collection\/mqc\/id\/68807&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture"}};
+        
+    (function($){
+		$(document).ready(function(){
+		    $("#reset").hide();
+		    var galleryContent = $("#galleryContent"), gCEnd = galleryContent.children(".floatClear");
+		    var types = new Array();
+		    		    
+		    $.each(galleryObjects, function(i, gObj) {
+		        (function() {
+		            types.push(gObj.resource_types_for_resource_id);
+    				// build DOM objects and nest them through appends
+    				var g = $('<div>', { 'class': 'galleryImage' } );
+    				var gLink = $( '<a>', { 'href': gObj.resource_link } );
+    				var gThumbnail = $( '<img src="' + gObj.resource_image_thumbnail + '" class="scaled" />' );
+    				var gTooltip = $( "<div>", { "class": "tooltip", "html": '<img src="' + gObj.resource_image_thumbnail +'" alt="'+ gObj.resource_title +'" /><div id="artworkData"><strong>'+ gObj.resource_title +'</strong></div>' } );
+    				gLink.append(gThumbnail);
+    				gLink.append(gTooltip);
+    				g.append(gLink);
+			
+    				// associate object to DOM object
+    				g.artData = gObj;
+				
+    				// bind filtering events
+    				g.bind( "filterByType", function(event,type) {
+    					if ( $.inArray( type, $.map(g.artData.resource_types_for_resource_id.split(","), function(n){ return $.trim(n); }) ) == -1 ) { g.hide(); }
+    					else { g.fadeIn(); }
+    				});
+    				
+    				g.bind( "filterByTag", function(event,tag) {
+    					if ( $.inArray( tag, $.map(g.artData.resource_tags_for_resource_id.split(","), function(n){ return $.trim(n); }) ) == -1 ) { g.hide(); }
+    					else { g.fadeIn(); }
+    				});
+    				
+    				g.bind( "filterReset", function(event){
+    				    g.fadeIn();
+    				});
+			
+    				// stolen from tooltip js
+    				gTooltip.hide();		
+    				// do rollovers for this link -- you can change the fadeIn and fadeOut to just show() and hide() if you don't like the fading effect
+    				gLink.hover(
+    				    function () {
+        				    gTooltip.show();
+        				    // position tooltip
+            				gTooltip.css( { "bottom": gThumbnail.height()/2 + ( g.height() - gThumbnail.height() ) + "px", "left": gThumbnail.width()/2 + "px" } );
+            			},
+        			
+        				function () { gTooltip.hide(); }
+    				);
+    				// end steal
+			
+    				// insert this gallery node before end of list
+    				gCEnd.before(g);
+			    })();
+            });
+            
+            			
+						
+			//event resetting all filters
+			$( "#reset a").click( function () {
+			    $(".galleryImage").trigger( "filterReset" );
+			    $("#count").text($('.galleryImage :visible').size());
+			    $(".active").removeClass("active");
+			    $("#reset").hide();
+				return false;
+			});
+			
+			$(".galleryImage img.scaled").each( function (index) {
+                var img = $(this);
+                var max = 112;
+                // fix dimensions
+                if ( img.height() > img.width() ){
+                    img.css( { "height":max, "width":"auto"} );
+                }
+                else { img.css( { "height":"auto", "width":max} ); }
+            });
+		});
+	})(jQuery);
+</script> </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+             
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+			      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+       <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Ryerson &amp; Burnham Library Exhibitions, 2015 </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2016/index">2016</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2015/index">2015</a></li>
+<li class="collapsed"><a href="../frank-lloyd-wright-and-wendingen">Our Most Distinguished Outcast: Frank Lloyd Wright and "Wendingen"</a></li>
+<li class="collapsed"><a href="../Picturesque-Ideal-Art-Landscape-Garden-Design">A Picturesque Ideal: The Art of Landscape and Garden Design</a></li>
+<li class="collapsed"><a href="../books-for-working-artists">"There Is Hardly a Book That Has Not Seen Hard Use": Books for Working Artists</a></li>
+<li class="collapsed"><a href="../Decidedly-Surreal-Bindings-Mary-Louise-Reynolds">Decidedly Surreal: The Bindings of Mary Louise Reynolds</a></li>
+<li class="expanded"><a href="../Tools-of-the-Trade-19th-20th-Century-Architectural-Trade-Catalogs">Tools of the Trade: 19th- and 20th-Century Architectural Trade Catalogs</a>
+<ul class="menu">
+<li class="leaf first"><a href="../Tools-of-the-Trade-19th-20th-Century-Architectural-Trade-Catalogs/1">Case 1: Introduction</a></li>
+<li class="leaf"><a href="../Tools-of-the-Trade-19th-20th-Century-Architectural-Trade-Catalogs/2">Case 2: Manufacturing in Chicago:</a></li>
+<li class="leaf"><a href="../Tools-of-the-Trade-19th-20th-Century-Architectural-Trade-Catalogs/3">Case 3: Technology in Architecture, Part 1:</a></li>
+<li class="leaf"><a href="../Tools-of-the-Trade-19th-20th-Century-Architectural-Trade-Catalogs/4">Case 4: Technology in Architecture, Part 2:</a></li>
+<li class="leaf"><a href="../Tools-of-the-Trade-19th-20th-Century-Architectural-Trade-Catalogs/5">Case 5: Domestic Life:</a></li>
+<li class="leaf active"><a href="6" class="active">Case 6: At Work:</a></li>
+<li class="leaf"><a href="../Tools-of-the-Trade-19th-20th-Century-Architectural-Trade-Catalogs/7">Case 7: Reflections of Culture</a></li>
+<li class="leaf last"><a href="../Tools-of-the-Trade-19th-20th-Century-Architectural-Trade-Catalogs/8">Case 8: Strains of Modernism</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2014/index">2014</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2013/index">2013</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2012/index">2012</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2011/index">2011</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2010/index">2010</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2009/index">2009</a></li>
+<li class="leaf last"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2008/index">2008</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+   <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+  </div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>
+

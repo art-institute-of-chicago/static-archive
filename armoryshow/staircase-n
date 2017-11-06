@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>Top of the Grand Staircase (north)</title>
+
+  
+    <meta property="og:title" content="Top of the Grand Staircase (north)" itemprop="name">
+  <meta name="twitter:title" content="Top of the Grand Staircase (north)">
+
+
+
+    <meta property="og:url" content="/armoryshow/staircase-n">
+  <meta name="twitter:url" content="/armoryshow/staircase-n">
+
+    <meta property="og:type" content="website"> 
+  
+
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery.js" type="text/javascript"></script>
+    
+  <script src="modernizr.foundation.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.navigation.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.tooltips.js" type="text/javascript"></script>
+    
+  <script src="gallery.js" type="text/javascript"></script>
+    
+  <script src="jquery.fleximap.js" type="text/javascript"></script>
+    
+  <script src="armoryshow.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.joyride.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+  
+
+  <style type="text/css">
+
+    html { 
+    
+    background-position:top center;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+    }
+
+  </style>
+
+  <header>
+    <table width="100%">
+      <tr>
+        <td width="42%">
+
+          <a href="http://www.artic.edu">
+            <img src="armoryshow-logo.png" id="main-logo"/>
+          </a>
+
+        </td>
+        <td width="16%" style="vertical-align:middle">
+
+          <h2>Top of the Grand Staircase (north)</h2>
+
+        </td>
+        <td width="42%">
+
+          <nav id="main-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+                <a href="staircase-n#">Explore</a><a href="staircase-n#" class="flyout-toggle"><span> </span></a>
+                <ul class="flyout small right">
+                  <li ><a href="/armoryshow">Introduction</a></li>
+                  <li ><a href="/armoryshow/setting-the-stage">Setting the Stage</a></li>
+                  <li ><a href="/armoryshow/cast">The Cast</a></li>
+                  <li ><a href="/armoryshow/show">The Show</a></li>
+                  <li ><a href="/armoryshow/program-notes">The Program Notes</a></li>
+                  <li ><a href="/armoryshow/audience">The Audience</a></li>
+                  <li ><a href="/armoryshow/finale">The Finale</a></li>
+                  <li ><a href="/armoryshow/legacy">The Legacy</a></li>
+                  <li ><a href="/armoryshow/bibliography">Bibliography</a></li>
+                  <li ><a href="/armoryshow/credits">Credits</a></li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+          <nav id="gallery-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+              <a id="gallery-map-link" class="gallery-map-link" href="staircase-n#">Gallery</a><a href="staircase-n#" class="flyout-toggle gallery-map-link"><span> </span></a>
+                <ul class="flyout right gallery-map">
+                  <li><div id="floor-plan-map"></div></li> 
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+        </td>
+      </tr>
+    </table>
+
+    <div style="clear:both;"></div>
+  </header>
+
+  
+
+    <div id="gallery-image-map"></div>
+
+<script type="text/javascript">
+
+  $.ajax({
+    url: "staircase-n.json",
+    dataType: "json",
+    success: function(data) {
+      // if mobile, make clicks fire hovers for tooltips
+      var mobile = false;
+
+      $('#gallery-image-map').flexiMap(data, function() {
+        setupTooltips('#gallery-image-map');
+      });
+
+      if(mobile) mobileTapToHover();
+
+      createAllModals(data);
+      if(mobile) removeTooltipsFromOwned();
+    },
+    error: function(xhr, status, error) {
+      console.error(status + ': ' + error.message);
+    }
+  });
+
+  $(window).resize(function() {
+    $('#gallery-image-map').flexiMap('resize');
+  });
+
+</script>
+
+  <ol id="joyride-schedule">
+    <li data-id="gallery-nav" data-button="next"><p>Use the map to explore other galleries.</p></li>
+  </ol>
+
+  <script type="text/javascript">
+    $(window).load(function() {
+      createLastJoyrideStopAndBegin('#gallery-image-map');
+    });
+  </script>
+
+
+  
+
+  <script type="text/javascript">
+    $.ajax({
+      url: "floor-plan.json",
+      dataType: "json",
+      success: function(data) {
+        floor_plan_data = data;
+
+        // load floor plan fleximap
+        $('#floor-plan-map').flexiMap(floor_plan_data, function() {
+          setupTooltips('#floor-plan-map');
+        });
+
+        // resize it when nav accessed
+        $('.gallery-map-link').bind('touchstart mouseover', function() {
+          $('#floor-plan-map').flexiMap('resize', '540px', '369px');
+        });
+      },
+      error: function(xhr, status, error) {
+        console.error(status + ': ' + error.message);
+      }
+    });
+
+    $(document).foundationNavigation();
+  </script>
+
+  <!-- "AIC_US_Spark" c/o "Audience On Demand",  segment: 'AIC_REM_Armory Show Site_Unsecure' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+  <script src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment&returnType=js"></script>
+  <noscript>
+  <img src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment" width="1" height="1" />
+  </noscript>
+  <!-- End of pixel tag -->
+
+
+</body>
+</html>

@@ -1,0 +1,266 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_058e3d514501a7fbc3695dad6b11f8f8) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_b92bdf3d2884baafd665790aaf094f17) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_b92bdf3d2884baafd665790aaf094f17) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_32f3a408299ccb4297abd4373bec88f0) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_058e3d514501a7fbc3695dad6b11f8f8) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_7a5317f6dd953d4d8ba37213607e7957) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_b92bdf3d2884baafd665790aaf094f17) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_b92bdf3d2884baafd665790aaf094f17) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Ancient American Art and Geometry | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8938.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_indartofamers.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_amerindian.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/AncientIndian">Art Access: Indian Art of the Americas</a> > <a href="../lesson">Lesson Plans</a> > <span class="sel">Ancient American Art and Geometry</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Ancient American Art and Geometry</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Ancient American Art and Geometry</strong><br />       <div class="content">
+<p>Geometry is often thought of as a formal system of logic involving shapes, lines, and planes. Students, however, rarely consider where and how the discipline originated, why it was created, or how it extends to other areas of human interest.</p>
+<p>The word geometry is derived from Greek roots that mean "earth measure," a term that links the physical world ("earth") to an intellectual concept ("measure"). Thinking about the geometric properties of works of art–such as the triangular shape of a face or square shape of a building–can lead to increased understanding of the physical objects as well as the cultures in which they were made.</p>
+<p>For example, to <a href="1019#mesoamerica">Mesoamericans</a>, a spiral on a stone <a href="1019#relief">relief</a>, pottery vessel, or tapestry often represented a long ritual journey. When fashioned as a snake, the geometric shape of a spiral could also refer to water. This lesson is designed to help students learn geometric properties by looking at how ancient American artists utilized them.</p><br />
+<p><strong>Suggested Grade Level:</strong> 7-8<br />
+<strong>Estimated Time:</strong> One class period</p>
+<div class="image wrap"><img src="../images/G26202.jpg" border="0" class="inline" /></div>
+<div class="image wrap"><img src="../images/E17114.jpg" border="0" class="inline" /></div>
+<div class="image wrap"><img src="../images/E21658.jpg" border="0" class="inline" /></div>
+<h3>Lesson Objectives</h3>
+<ul>
+<li>Explore the relationship between geometry and ancient American art</li>
+<li>Learn to recognize geometric properties in specific works and understand how these properties contribute to their meaning and artistic merit</li>
+</ul>
+<h3>Key Terms</h3>
+<ul>
+<li>geometry</li>
+<li><a href="1019#ballgame">ballgame</a></li>
+<li><a href="1019#chimu">Chimú</a></li>
+<li><a href="1019#moche">Moche</a></li>
+<li><a href="1019#tumi"><em>tumi</em></a></li>
+</ul>
+<h3>Instructional Materials</h3>
+<ul>
+<li>Slides, postcards, posters, and other examples of Ancient Indian Art of the Americas available in the <a href="http://www.artic.edu/aic/education/trc/index.html" target="_blank">Crown Family Educator Resource Center</a>.</li>
+<li>Chalkboard</li>
+</ul>
+<h3>Procedures</h3>
+<ul>
+<li>Ask students to think about which geometric properties they have seen in art (for example: shape, horizontal, vertical, and diagonal lines, abstraction, rhythm, symmetry). Have students discuss these concepts in depth. Write their ideas on the chalkboard.</li>
+<li>Encourage students to look at reproductions of ancient American works, such as the <a href="../Messenger#portrait"><em>Portrait Vessel of a Ruler</em></a>, and <a href="../Beaker#lambayeque"><em>Ceremonial Knife (Tumi)</em></a>, and <a href="../Stone"><em>Coronation Stone of Motecuhzoma II (Stone of the Five Suns)</em></a>, discussing them in relation to the list of geometric properties on the chalkboard. Encourage students to think of additional characteristics while they are looking at the works.</li>
+<li>Ask students to pick an art object illustrated on this Web site. Ask them to sketch the object and analyze it in terms of its geometric properties, relating the properties to the meaning and function of the object as described in the accompanying interpretive text.</li>
+</ul>
+<h3>Evaluation</h3>
+<p>Base evaluation on students’ participation in class discussion and quality of their drawing assignments.</p>
+<p><strong>Follow-Up at The Art Institute of Chicago:</strong></p>
+<ul>
+<li>On a visit to the Art Institute, ask students to bring their lists of geometric properties to the <a href="http://www.artic.edu/aic/collections/amerindian">Indian Art of the Americas</a> galleries.</li>
+<li>Ask students to look at the ancient American works and analyze them according to these properties.</li>
+</ul> 
+<h3>Glossary</h3>
+<p><strong><a name="ballgame" id="ballgame"></a>ballgame</strong> (<em>n</em>)<br />
+ballgames were played by Native Americans who lived throughout the Americas, from the southern United States to Paraguay. The rules of the game seem to have varied from site to site over time. Ballgames were not only played for sport but were also used as a means of solving disputes and prognosticating important events. The ball was made of solid rubber and weighed about seven pounds (three kg). Players wore protective padding.</p>
+<p><strong><a name="chimu" id="chimu"></a>Chimú</strong> (<em>n</em>)<br />
+an extinct American Indian kingdom that flourished on the northern coast of Peru after the ninth century A.D. until the Inca conquest in the late fifteenth century. Distinctive Chimú art, including pottery, gold pieces, and textiles, helps date this Andean civilization.<br />The Chimú capital of Chan Chan, located on the northern seacoast of Peru, remains one of the world's grandest archaeological sites, with miles of streets, great walls, reservoirs, and pyramid temples, all constructed out of sun-baked, adobe bricks. At the city’s height, the population of Chan Chan is estimated to have numbered in the many thousands. The Inca conquerors of Chimú absorbed much of its old high culture into their own imperial society, including elements of Chimú political organization, irrigation systems, and road engineering. </p>
+<p><strong><a name="mesoamerica" id="mesoamerica"></a>Mesoamerica</strong> (<em>n</em>)<br />
+geographical area between North and Central America comprised of the modern nations of Mexico, Guatemala, Honduras, Belize, and El Salvador as well as the ancient cultures of the Olmec, Teotihuacanos, Maya, and Aztec. The term is used to define the cultural and historical context of the people who have inhabited this area for millennia. </p>
+<p><strong><a name="moche" id="moche"></a>Moche</strong> (<em>n</em>)<br />
+the dominant society from the first to the eighth century A.D on the northern coast of present-day Peru. The name comes from the archaeological site known as Moche and located in the river valley of the same name. Two giant structures known as the Temple of the Sun (<em>Huaca del Sol</em>) and the Temple of the Moon (Huaca de la Luna) define the site. Dozens of other Moche pyramid-platform sites exist in the coastal valleys of northern Peru. Although many have been looted, others remain unexcavated.<br />Like other ancient American cultures, the Moche survived off of agriculture. They guided rivers flowing down from the high Andes into a system of irrigation canals, which allowed for the growth of maize, potatoes, lima beans, and other staple crops. This system of agriculture supported a dense population.<br />The Moche produced sophisticated art, including mold-made pottery admired for its highly naturalistic forms. These vessels–especially the fine-quality water jars with characteristic stirrup spouts–bear portrait heads of individuals, animals, plants, buildings, and fantastic beings representing supernatural forces. Painted scenes on some vessels provide visual descriptions of the complex ceremonies and daily activities of the Moche. </p>
+<p><strong><a name="relief" id="relief"></a>relief</strong> (<em>n</em>)<br />
+a piece of sculpture that features a molded, carved, or stamped design that stands out three-dimensionally from the surface </p>
+<p><strong><a name="tumi" id="tumi"></a><em>tumi</em></strong> (<em>n</em>)<br />
+a Chimù, Lambayeque, or Incan ceremonial knife with a characteristic half-moon-shaped blade</p><br />
+<p><a href="http://www.isbe.state.il.us/ils/" target="_blank">Illinois Learning Standards</a><br />
+English Language Arts: 1, 4<br />
+Math: 9<br />
+Fine Arts: 25-27</p>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001019.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001019.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Indian Art of the Americas </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Cache">Artworks</a></li>
+<li class="expanded"><a href="../lesson">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf active first"><a href="1019" class="active">Ancient American Art and Geometry</a></li>
+<li class="leaf"><a href="../resource/1020">Ancient Gold Working</a></li>
+<li class="leaf last"><a href="../resource/1021">Sport as Social Ritual</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="../family">Family Activities</a></li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1871">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AncientIndian/artwork/75644">Coronation Stone of Motecuhzoma II (Stone of the Five Suns)</a></span>, 1503</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AncientIndian/artwork/18757">Ceremonial Knife (Tumi)</a></span>, A.D. 1100/1470</li><li class="last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AncientIndian/artwork/91620">Portrait Vessel of a Ruler</a></span>, 100 B.C./A.D. 500</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

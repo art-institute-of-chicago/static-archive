@@ -1,0 +1,137 @@
+{
+"map"       : "25-sw_2000.jpg",
+"mapwidth"  : "2000px", 
+"mapheight" : "1287px",
+"areas"     : {
+  "e"  : {
+      "left"    : "907px",
+      "top"     : "644px",
+      "width"   : "55px",
+      "height"  : "150px",
+      "data" : {
+        "owned"       : true,
+        "thumbnail"   : "25-sw-wave.jpg",
+        "artist"      : "Chester Beach",
+        "period"      : "American, 1881–1956",
+        "title"       : "<em>The Wave</em>, c. 1912",
+        "medium"      : "Bronze; 78.7 x 37.5 x 31.8 cm (31 x 14 3/4 x 12 1/2 in.)",
+        "collection"  : "Gift of Dr. Daniel D. Van De Grift, 1922.86",
+        "description" : "As a sculptor of allegorical and mythological figures, Chester Beach’s aesthetic was rooted in classical tradition. <em>The Wave</em>, however, with its more contemporary treatment of the figure’s hairstyle and posture, reveals that the artist could also portray figures in a less traditional manner. Beach exhibited four works at the Armory Show in New York, but because the Chicago presentation was physically limited, as an American he was allowed only one submission. He chose to present himself as a more modern artist in Chicago: <em>The Wave</em> was the only work of the four that did not depict a mythological subject.",
+        "link"      : "http://www.artic.edu/aic/collections/artwork/81042?search_no=36&index=0",
+        "ctitle"    : "8 Chester Beach (New York), <em>The Big Wave</em>",
+        "citation"  : "Chester Beach (American, 1881–1956). <em>The Wave</em>, c. 1912. Bronze; 78.7 × 37.5 × 31.8 cm (31 × 14 3/4 × 12 1/2 in.). The Art Institute of Chicago, gift of Dr. Daniel D. Van De Grift, 1922.86."
+      }
+  },
+  "f"  : {
+      "left"    : "121px",
+      "top"     : "648px",
+      "width"   : "141px",
+      "height"  : "146px",
+      "data" : {
+        "ctitle"    : "404 Allen Tucker, <em>Mount Aberdeen</em>",
+        "citation"  : "Allen Tucker (American, 1866–1939). <em>Mount Aberdeen, Sunny Afternoon</em>, 1912. Oil on canvas; 91.4 × 76.2 cm (36 × 30 in.). Memphis Brooks Museum of Art, Memphis, Tennessee."
+      }
+  },
+  "g"  : {
+      "left"    : "570px",
+      "top"     : "675px",
+      "width"   : "85px",
+      "height"  : "105px",
+      "data" : {
+        "joyride-stop" : true,
+        "ctitle"    : "220 George Luks, <em>A philosopher</em>",
+        "citation"  : "George Luks (American, 1867–1933). <em>A Philosopher</em>. Oil."
+      }
+  },
+  "h"  : {
+      "left"    : "740px",
+      "top"     : "631px",
+      "width"   : "132px",
+      "height"  : "143px",
+      "data" : {
+        "ctitle"    : "200 Leon Kroll (New York), <em>Terminal yards</em>",
+        "citation"  : "Leon Kroll (American, 1884–1974). <em>Terminal Yards</em>, 1913. Oil on canvas; 116.8 × 132.4 cm (46 × 52 1/8 in.). Flint Institute of Arts, gift of Mrs. Arthur Jerome Eddy, 1931.4."
+      }
+  },
+  "i"  : {
+      "left"    : "992px",
+      "top"     : "639px",
+      "width"   : "78px",
+      "height"  : "218px",
+      "data" : {
+        "ctitle"    : "157 Robert Henri (New York), <em>Figure in motion</em>",
+        "citation"  : "Robert Henri (American, 1865–1929). <em>Figure in Motion</em>, 1913. Oil on canvas; 196.2 × 94.6 cm (77 1/4 × 37 1/4 in.). Terra Foundation for American Art, Chicago, Daniel J. Terra Collection, 1999.69."
+      }
+  },
+  "j"  : {
+      "left"    : "1003px",
+      "top"     : "599px",
+      "width"   : "74px",
+      "height"  : "31px",
+      "data" : {
+        "ctitle"    : "Grace M. Johnson (New York), <em>Chimpanzees</em> (Bronze)",
+        "citation"  : "Grace Mott Johnson (American, 1882–1967). <em>Chimpanzees</em>. Bronze."
+      }
+  },
+  "k"  : {
+      "left"    : "1208px",
+      "top"     : "691px",
+      "width"   : "62px",
+      "height"  : "107px",
+      "data" : {
+        "ctitle"    : "364 Albert P. Ryder (New York), <em>Diana</em>",
+        "citation"  : "Albert Pinkham Ryder (American, 1847–1917). <em>Diana</em>, c. 1900. Oil on gilded leather mounted on canvas; 73 × 49.5 cm (28 3/4 × 19 1/2 in.). Chrysler Museum, Norfolk, Virginia, 71.611."
+      }
+  },
+  "l"  : {
+      "left"    : "1276px",
+      "top"     : "711px",
+      "width"   : "104px",
+      "height"  : "94px",
+      "data" : {
+        "ctitle"    : "366 Albert P. Ryder (New York), <em>Interior of a stable</em>",
+        "citation"  : "Albert Pinkham Ryder (American, 1847–1917). <em>In the Stable</em>, before 1911. Oil on canvas mounted on fiberboard; 53.3 × 81.3 cm (21 × 32 in.). Smithsonian American Art Museum, Washington, D.C., gift of John Gellatly, 1929.6.97."
+      }
+  },
+  "m"  : {
+      "left"    : "1300px",
+      "top"     : "641px",
+      "width"   : "50px",
+      "height"  : "63px",
+      "data" : {
+        "ctitle"    : "363 Albert P. Ryder (New York), <em>Pegasus</em> (Lent by J. R. Andrews)",
+        "citation"  : "Albert Pinkham Ryder (American, 1847–1917), <em>Image of The Poet on Pegasus Entering the Realm of the Muses</em>, 1887. Oil on canvas. Worcester Art Museum, Massachusetts."
+      }
+  },
+  "n"  : {
+      "left"    : "1504px",
+      "top"     : "730px",
+      "width"   : "63px",
+      "height"  : "82px",
+      "data" : {
+        "ctitle"    : "103 Guy Pene Du Bois (New York), <em>Cascade, Bois de Boulogne</em>",
+        "citation"  : "Guy Pène du Bois (American, 1884–1958). <em>Cascade, Bois de Boulogne</em>. Oil on canvas; 41.9 × 31.8 cm (16 1/2 × 12 1/2 in.)."
+      }
+  },
+  "o"  : {
+      "left"    : "1579px",
+      "top"     : "735px",
+      "width"   : "69px",
+      "height"  : "84px",
+      "data" : {
+        "ctitle"    : "374 C. R. Sheeler Jr. (Philadelphia), <em>The water-fall</em>",
+        "citation"  : "Charles Sheeler (American, 1883–1965). <em>The Waterfall</em>. Oil on canvas; 35.6 × 30.5 cm (14 × 12 in.)."
+      }
+  },
+  "p"  : {
+      "left"    : "1658px",
+      "top"     : "734px",
+      "width"   : "102px",
+      "height"  : "92px",
+      "data" : {
+        "ctitle"    : "270 Walter Pach, <em>Cacentino mountains</em>",
+        "citation"  : "Walter Pach (American, 1883–1958). <em>Cacentino Mountains</em>, 1912. Oil on canvas. Collection of Mrs. Nikifora N. Iliopoulus."
+      }
+  }
+}
+}

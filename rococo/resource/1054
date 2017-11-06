@@ -1,0 +1,251 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_c6cdda0aedb21a506b0d70fda46f3bdf) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_117e66fbcea6e2b706eaece0675f810e) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_117e66fbcea6e2b706eaece0675f810e) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_dd6d4e31644d50af3b9480ae4b3b9b99) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_d85920929e18f763b5df450851d9c976) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_c6cdda0aedb21a506b0d70fda46f3bdf) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_3a6107ef5566dfca72f89c2bc970f679) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_117e66fbcea6e2b706eaece0675f810e) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_117e66fbcea6e2b706eaece0675f810e) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Looking Glasses | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8940.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_rococo.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_rococo.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Rococo">Art Access: Rococo to Realist Art</a> > <a href="../family">Family Activities</a> > <span class="sel">Looking Glasses</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Looking Glasses</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Family Activity: Looking Glasses</strong><br />       <div class="content">
+<p>Examine John Constable's painting <a href="../Stoke"><em>Stoke-by-Nayland</em></a>, 1836 and see the English countryside come to life.  Includes discussion questions and an art-making activity.<p><br />
+<h3>Introduction:</h3>
+<p>John Constable’s <a href="../Stoke"><em>Stoke-by-Nayland</em></a> depicts a beautiful day in the English countryside. Many aspects of daily life fill the scene: oxen pull a cart as a woman casually leans against a fence. In the distance, the buildings of a small village are clustered together beneath a sky filled with billowing clouds. Constable created this image based on sketches and memories of visits to his aunt’s home in a small farming village. His painting allows us to peek into this landscape and experience the sights and sounds of life in the English countryside.</p>
+<div class="image wrap">
+<p><img src="../images/C49971.jpg" border="0" class="inline" /></p>
+</div>
+<h3>Discussion Questions:</h3>
+<ul>
+<li>How many cows can you find?</li>
+<li>What other types of animals do you see, and what are they doing?</li>
+<li>What smells and sounds do you imagine fill this landscape?</li>
+<li>Can you imagine the conversation between the two people in the foreground? What are they talking about? </li>
+</ul><br />
+<h3>Activity:</h3>
+<p>Make a pair of binoculars to discover the details in your town or neighborhood.</p> 
+<h3>Materials Needed:</h3>
+<ul>
+<li>2 empty toilet-paper tubes</li>
+<li>markers and/or crayons</li>
+<li>glitter or sequins</li>
+<li>glue</li>
+<li>double-sided tape</li>
+<li>hole punch</li>
+<li>2’ piece of yarn</li>
+</ul>
+<h3>Steps:</h3>
+<ol>
+<li>Decorate the toilet-paper tubes with markers, crayons, glitter, and sequins. Let the tubes dry completely.</li>
+<li>Using the tape, attach the tubes along the long sides to form a pair of binoculars.</li>
+<li>Punch a hole at one end of the outside edge of each tube.</li>
+<li>Feed one end of the yarn through the punched hole and tie to a knot over the edge of the tube. Repeat on the other side of binoculars with the other end of yarn.</li>
+<li>Use your new binoculars to go on a visual treasure hunt.</li>
+<li>Can you find any animals?</li>
+<li>What kind, and what are they doing?</li>
+<li>Can you find some trees?</li>
+<li>A tall building?</li>
+<li>Can you find two people talking?</li>
+<li>What do you imagine they are talking about?</li>
+<li>Discover the sights, smells, and sounds of your own neighborhood!</li>
+</ol>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001054.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001054.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Rococo to Realist Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Fete">Artworks</a></li>
+<li class="collapsed"><a href="../lesson">Lesson Plans</a></li>
+<li class="expanded"><a href="../family">Family Activities</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/1055">Make a Mighty Portrait</a></li>
+<li class="leaf active"><a href="1054" class="active">Looking Glasses</a></li>
+<li class="leaf last"><a href="../resource/1056">Picture Books</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1347">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/artwork/4758">Stoke-by-Nayland</a></span>, 1836</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

@@ -1,0 +1,1320 @@
+/*
+Art Institute of Chicago Museum site master stylesheet 
+Last updated mbingaman 12/10/08
+*/
+
+body {
+	margin: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333333;
+	text-align: left;
+	line-height: normal;
+	font-size: 68.8%;
+}
+td {
+	margin: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+    font-size: 100%;
+    color: #333333;
+}
+.footer_text {
+	line-height: 135%;
+}
+.header_search {
+	border:0px solid #AAAAAA;
+	width:99px;
+	height:19px;
+	background-color:#FFFFFF;
+	margin: 0px;
+	padding: 0px 0px 0px 2px;
+	line-height: 19px;
+}
+form {
+	margin: 0px;
+}
+.header_search_table {
+	margin-top: 5px;
+	margin-bottom: 13px;
+}
+.footer_text a:link {
+	text-decoration: none;
+}
+.footer_text a:visited {
+	text-decoration: none;
+}
+.orange_search {
+	color: #FFFFFF;
+	background-color: #D6D6D6;
+	border: 1px solid #CCCCCC;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 145px;
+	margin: 0px;
+	padding: 0px;
+}
+.caption_text {
+	line-height: 120%;
+	background-color: #333333;
+	color: #FFF;
+	padding-top: 4px;
+	padding-bottom: 5px;
+	padding-left: 7px;
+	padding-right: 5px;
+	font-weight: bold;
+}
+.caption_text a:link, .caption_text a:visited {
+	color: #FFF;
+	font-weight: bold;
+}
+.main_text {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 140%;
+	color: #333333;
+	padding: 7px 10px 12px;
+	background-color: #cccccc;
+}
+
+.main_text_landing {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 140%;
+	color: #333333;
+	padding: 7px 10px 12px;
+	background-color: #cccc99;
+}
+
+/*COLLEEN added 6-14-06 for provenance templates*/
+.main_text_provenance {
+	line-height: 140%;
+	color: #555555;
+	padding: 7px 10px 12px;	
+}
+
+/*COLLEEN added 7-21-06 for enewsletter fields*/
+.form_fields{
+	line-height: 140%;
+	color: #555555;
+	padding: 0px 0px 6px;
+}
+
+/*colleen added 6-14-06 for provenance templates*/
+.provenance_orangeh1 {
+	font-weight: bold;
+	line-height: 140%;
+	color: #CC4E29;
+	padding: 0px 10px 0px;
+}
+/*End colleen's additions*/
+
+.main_text hr {
+	height: 1px;
+	color: #666666;
+	background: #666666;
+	border: none;
+	line-height: 1px;
+	margin: 0px;
+	padding: 0px;
+}
+.nav_table {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.nav_table td {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+/*Colleen added this in for provenance navigation 6-8-06*/
+
+.nav_table a:link {
+	color: #555555;
+	text-decoration: none;
+}
+.nav_table a:visited {
+	color: #555555;
+	text-decoration: none;
+}
+.main_text td {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 140%;
+}
+
+.title_text {
+	font-size: 190%;
+	line-height: 115%;
+	color: #FFFFFF;
+	letter-spacing: 0.05em;
+	padding-left: 8px;
+}
+
+.footer_text a:hover {
+	text-decoration: underline;
+	color: #333333;
+}
+a:link {
+	color: #333333;
+}
+a:visited {
+	color: #333333;
+}
+.events_table_text select {
+	color: #FFFFFF;
+	margin-top: 5px;
+}
+.caption_text_reverse {
+	line-height: 120%;
+	color: #FFFFFF;
+	padding: 4px 5px 5px 7px;
+}
+.caption_text_reverse_blk {
+	line-height: 120%;
+	color: #333333;
+	padding: 4px 5px 5px 7px;
+
+}
+
+.caption_text_reverse a:link {
+	color: #FFFFFF;
+}
+
+.caption_text_reverse a:visited {
+	color: #FFFFFF;
+}
+.main_text_reverse {
+	line-height: 140%;
+	color: #FFFFFF;
+	padding: 7px 10px 12px;
+	background-color: #779EAB;
+}
+.main_text_reverse hr {
+	height: 1px;
+	color: #BBCFD5;
+	background: #BBCFD5;
+	border: none;
+	margin-bottom: 0px;
+}
+.main_text_reverse td {
+	line-height: 140%;
+	color: #FFFFFF;
+}
+.caption_text_white {
+	line-height: 120%;
+	color: #FFFFFF;
+	padding-top: 4px;
+	padding-bottom: 5px;
+	padding-left: 7px;
+	padding-right: 5px;
+}
+
+.caption_text_white a:link {
+	color: #FFFFFF;
+}
+.caption_text_white a:visited {
+	color: #FFFFFF;
+}
+.search_box {
+	border:1px solid #666666;
+	width:255px;
+	height:16px;
+	background-color:#CCCCCC;
+	margin: 0px;
+	padding: 0px;
+	color: #333333;
+}
+.search_box_table {
+	margin-top: 10px;
+}
+.main_text_reverse a:link {
+	color: #FFFFFF;
+}
+.main_text_reverse a:visited {
+	color: #FFFFFF;
+}
+.nav_table_header {
+	padding: 3px 7px 3px 6px;
+	font-size: 90%;
+	font-weight: bold;
+	color: #CC4E29;
+
+}
+.nav_table_header a:link {
+	color: #CC4E29;
+	text-decoration: none;
+}
+.nav_table_header a:visited {
+	color: #CC4E29;
+	text-decoration: none;
+}
+.contact_text {
+	line-height: 140%;
+	color: #FFFFFF;
+	padding: 4px 10px 5px 7px;
+}
+.contact_text a:link {
+	color: #FFFFFF;
+}
+.contact_text a:visited {
+	color: #FFFFFF;
+}
+.contact_form {
+	border:1px solid #FFFFFF;
+	background-color:#FFFFFF;
+	margin: 7px 0px 10px;
+	padding: 1px;
+}
+table.dot-leader {
+	width: 490px;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	padding: 0px;
+	margin-bottom: 5px;
+}
+
+table.dot-leader td {
+	vertical-align: bottom;
+	background-image : url("dot_line.gif");
+	background-repeat: repeat-x;
+	background-position: bottom;
+	margin-top: 5px;
+	color: #FFFFFF;
+}
+table.dot-leader td.right {
+	text-align: right;
+}
+table.dot-leader td span {
+	background-color: #779EAB;
+}
+table.dot-leader td.left span {
+	padding-right: 6px;
+}
+table.dot-leader td.right span
+	{
+	padding-left: 6px;
+	}
+.orangelt_search {
+	color: #333333;
+	background-color: #D6D6D6;
+	border: 1px solid #333333;
+	width: 122px;
+	height: 14px;
+}
+.nav_table_text {
+	padding: 3px 7px 3px 6px;
+	font-weight: bold;
+	color: #646464;
+}
+
+.nav_table_text a:link {
+	color: #646464;
+	text-decoration: none;
+}
+.cal_header {
+	padding: 5px 4px 5px 7px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.nav_table_text a:visited {
+	color: #646464;
+	text-decoration: none;
+}
+.main_text_linecell {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #C0C0C0;
+}
+.main_text_header {
+	line-height: 120%;
+	padding-bottom: 22px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #666666;
+	padding-right: 15px;
+}
+.main_text_reverse_header {
+	line-height: 130%;
+	padding-bottom: 22px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #666666; /* MB 8/29/08 */
+	padding-right: 15px;
+}
+.main_text_reverse_header_print {
+	line-height: 130%;
+	padding-bottom: 22px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #666666; /* MB 8/29/08 */
+	padding-right: 15px;
+}
+.orange_event_search {
+	color: #333333;
+	background-color: #CCCC99;
+	border: 1px solid #333333;
+	width: 187px;
+}
+.orangelt_event_search {
+	color: #333333;
+	background-color: #CCCC99;
+	border: 1px solid #333333;
+	width: 165px;
+	height: 14px;
+}
+.orange_search_text {
+	color: #333333;
+	background-color: #CCCC99;
+	border: 1px solid #CCCC99;
+	width: 140px;
+	margin: 0px;
+	padding: 0px 0px 0px 5px;
+	height: 14px;
+}
+.orange_search_table {
+	margin: 2px;
+}
+.search_box_grey {
+	border:1px solid #7B7B7B;
+	width:255px;
+	height:16px;
+	background-color:#EBEBEB;
+	margin: 0px;
+	padding: 0px;
+
+}
+.search_menu_grey {
+	border:1px solid #7B7B7B;
+	width:278px;
+	height:16px;
+	background-color:#EBEBEB;
+	margin: 0px;
+	padding: 0px;
+}
+.main_text_nav {
+	line-height: 120%;
+}
+.main_text_nav a:link {
+	color: #333333;
+}
+.main_text_nav a:visited {
+	color: #333333;
+}
+.main_text_caption {
+	padding-top: 5px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999999;
+}
+.main_content {
+	padding-top: 6px;
+}
+
+
+
+
+.main_content img {
+	float: right;
+	/*add padding to left of image in books info page*/
+	padding-left:10px;
+	
+}
+
+
+
+.main_text img {
+	padding-top: 2px;
+	border: none;
+}
+.main_text_reverse img {
+	padding-top: 2px;
+}
+h1 {
+	font-weight: bold;
+	color: #990000;
+	margin-top: 0px;
+	padding-top: 0px;
+	font-size: 100%;
+}
+table.nav_prov {
+	padding: 3px 7px 3px 6px;
+}
+table.nav_prov td {
+	font-weight: bold;
+	color: #646464;
+}
+table.nav_prov a:hover {
+	color: #CC4E29;
+	text-decoration: none;
+}
+table.nav_prov td.sel {
+	font-weight: bold;
+	color: #CC4E29;
+	text-decoration: none;
+}
+table.nav_prov td.sel a:link {
+	font-weight: bold;
+	color: #CC4E29;
+	text-decoration: none;
+}
+table.nav_prov td.sel a:visited {
+	font-weight: bold;
+	color: #CC4E29;
+	text-decoration: none;
+}
+table.events td {
+	padding: 4px 2px 17px 7px;
+}
+table.events td.line {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #666666;
+}
+table.events td.header {
+	font-weight: bold;
+	padding-right: 0px;
+	padding-left: 7px;
+	padding-top: 4px;
+	padding-bottom: 5px;
+	color: #FFF;
+}
+table.events td.headerright a:link, table.events td.header a:link, table.events td.headerright a:visited, table.events td.header a:visited {
+	color: #FFFFFF;
+}
+table.feature td {
+	/*color: #FFFFFF;*/
+	color: #333333;
+	padding: 4px 5px 5px 7px;
+}
+
+table.feature strong {
+	color: #FFFFFF;	
+	padding: 4px 5px 5px 0px;
+}
+
+table.feature p strong {
+	color: #333333;
+	
+	padding: 4px 5px 5px 0px;
+}
+
+table.feature ul strong {
+	color: #333333;
+	
+	
+}
+
+table.feature a:link {
+	/*color: #FFFFFF;*/
+	color: #333333;
+}
+table.feature a:visited {
+	/*color: #FFFFFF;*/
+	color: #333333;
+}
+table.feature td.nospace {
+	padding: 0px;
+}
+table.minical td {
+	padding: 4px 1px 4px 4px;
+	border-top: 1px solid #CCCC99;
+	border-bottom: none;
+	font-weight: bold;
+	color: #333;
+}
+
+table.minical td.header {
+	padding: 5px 4px;
+	font-weight: bold;
+	color: #FFFFFF;
+	border: none;
+}
+table.minical td.nospace {
+	padding: 0px;
+	border: none;
+}
+table.minical td.sel {
+	padding: 4px 1px 4px 4px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	font-weight: bold;
+	color: #000000;
+}
+table.minical td a:link, table.minical td a:visited {
+	color: #333;
+	text-decoration: none;
+}
+table.minical td.sel a:link {
+	color: #000000;
+}
+table.minical td.sel a:visited {
+	color: #000000;
+}
+table.gallery td {
+	line-height: 120%;
+	color: #555555;
+}
+
+table.gallery td.image {
+	padding-top: 9px;
+	padding-left: 9px;
+	padding-right: 10px;
+}
+table.gallery td.text {
+	padding-top: 7px;
+	padding-left: 8px;
+	padding-right: 30px;
+}
+table.gallery td.topimg {
+	padding-left: 10px;
+	padding-right: 8px;
+}
+table.books td {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999999;
+	padding-top: 7px;
+	padding-bottom: 23px;
+	padding-right: 20px;
+}
+table.books td.noline {
+	border-bottom-style: none;
+}
+table.books td.img {
+	padding-top: 9px;
+	padding-bottom: 9px;
+}
+table.books td.imgnoline {
+	border-bottom-style: none;
+	padding-top: 9px;
+	padding-bottom: 9px;
+}
+table.orange_search_table {
+	margin: 2px;
+}
+table.orange_search_table td {
+	margin: 0px;
+	padding: 0px;
+}
+table.calsearch td {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #666666; /* MB 12/10/08 */
+	padding-top: 7px;
+	padding-bottom: 7px;
+	line-height: 140%;
+	padding-right: 20px;
+}
+table.calsearch td.img {
+	padding-top: 9px;
+	padding-bottom: 9px;
+}
+table.calsearch td.imgnoline {
+	border-bottom-style: none;
+	padding-top: 9px;
+	padding-bottom: 9px;
+}
+table.calsearch td.noline {
+	border-bottom-style: none;
+}
+.rightpad {
+	padding-right: 10px;
+}
+p {
+	margin-bottom: 16px;
+	margin-top: 0px;
+}
+.email_form {
+	background-color:#FFFFFF;
+	margin: 7px 0px 10px;
+	padding: 1px;
+	/*color: #000000;*/
+	width: 270px; /*MDB: 9/12/08*/
+	border: 1px solid #FFFFFF;
+}
+.email_form_text {
+	border:1px solid #FFFFFF;
+	background-color:#FFFFFF;
+	/*color: #000000;*/
+	width: 272px;
+}
+
+.contact_table_text {
+	line-height: 140%;
+}
+table.events td.headerright {
+	font-weight: bold;
+	padding-right: 5px;
+	padding-left: 7px;
+	padding-top: 4px;
+	padding-bottom: 5px;
+	text-align: right;
+}
+table.events td.headertable {
+	margin: 0px;
+	padding: 0px;
+}
+table.feature td.form {
+	line-height: 120%;
+	color: #FFFFFF;
+	padding: 8px 5px 0px 7px;
+}
+.orange_search_exhibitions {
+	color: #333;
+	background-color: #CCCCCC;
+	border: 1px solid #333;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 265px;
+	margin: 0px;
+	padding: 0px;
+}
+.main_text_header h1 {
+	font-weight: bold;
+	color: #CC4E29;
+	margin: 0px;
+	padding: 0px;
+}
+table.calendar td {
+	line-height: 120%;
+	padding: 4px 2px 17px 7px;
+}
+table.calendar a:link {
+	color: #333333;
+}
+table.calendar a:visited {
+	color: #333333;
+}
+table.calendar td.line {
+}
+table.calendar td.header {
+	font-weight: bold;
+	padding-right: 0px;
+	padding-left: 7px;
+	padding-top: 4px;
+	padding-bottom: 5px;
+	color: #FFFFFF;
+}
+.footer_text p {
+	margin-top: 16px;
+}
+table.tour_form td {
+	line-height: 140%;
+	color: #000000;
+	padding: 4px 10px 5px 7px;
+	background-color: #A0BBC4;
+}
+table.tour_form td.header {
+	line-height: 140%;
+	color: #FFFFFF;
+	padding: 4px 10px 5px 7px;
+	background-color: #779FAB;
+}
+.main_text_email {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 130%;
+	color: #000000;
+	padding: 7px 10px 12px;
+	background-color: #cccccc;
+}
+
+.main_text_email td {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 140%;
+	color: #000000;
+}
+.main_text_email hr {
+	height: 1px;
+	color: #666666;
+	background: #666666;
+	border: none;
+	line-height: 1px;
+	margin: 0px;
+	padding: 0px;
+}
+.contact_form_nospace {
+	border:1px solid #FFFFFF;
+	background-color:#FFFFFF;
+	padding: 1px;
+	color: #000000;
+}
+
+/* Styles modified for new design June 2006 */
+
+.header_search {
+	border:0px solid #AAAAAA;
+	width:134px;
+	height:19px;
+	background-color:#FFFFFF;
+	margin: 0px 1px;
+	padding: 0px;
+	line-height: 19px;
+}	
+.header_search_table {
+	margin-top: 1px;
+	margin-bottom: 6px;
+	margin-left: 1px;
+}
+
+/* Styles created for new design Mar 2007 to be more flexible */
+#header_nav {
+	font-family: Arial, Helvetica, sans-serif;
+	float:left;
+	display: block;
+}
+#header_nav ul {
+	float: left;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	width: 740px;
+	background-color: #EBEBEB;
+	border-top: 1px solid #ACADB0;
+	/*border-right: 1px solid #ACADB0;*/
+	background-image:url("header_nav_buttonbac.gif");
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+#header_nav li {
+	float: left;
+}
+#header_nav li a {
+	display: block;
+	border-bottom: 1px solid #ACADB0;
+	border-right: 1px solid #ACADB0;
+
+	font-weight: bold;
+	text-align: left;
+	vertical-align: bottom;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-right:4px;
+	padding-left:4px;
+}
+
+
+#header_nav #collection_nav a, #header_nav #exhibitions_nav a, #header_nav #calendar_nav  a {
+	background-color: #c7c8ca;
+}
+
+#header_nav #visit_nav a, #header_nav #kids_nav a, #header_nav #students_nav a, #header_nav #libraries_nav a, #header_nav #about_nav a, #header_nav #members_nav a {
+	background-color: #EBEBEB;
+}
+ 
+#header_nav #shop_nav a {
+	background-color: #EBEBEB;
+	border-right: 0px solid #ACADB0;
+}
+
+#header_nav #home_nav a {
+	background-color: #EBEBEB;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #ACADB0;
+	border-bottom-color: #ACADB0;
+}
+#header_nav a {
+	text-decoration: none;
+	color: #666666;
+}
+#header_nav #collection_nav a:hover, #header_nav #exhibitions_nav a:hover, #header_nav #calendar_nav a:hover, #header_nav #visit_nav a:hover, #header_nav #kids_nav a:hover, #header_nav #students_nav a:hover, #header_nav #libraries_nav a:hover, #header_nav #about_nav a:hover, #header_nav #members_nav a:hover, #header_nav #shop_nav a:hover, #header_nav #home_nav a:hover
+ {
+	color: #CC6633;
+}
+#header_nav  .sel a {
+	color: #CC6633;
+}
+
+#header_nav #collection_nav.sel a, #header_nav #exhibitions_nav.sel a, #header_nav #calendar_nav.sel a , #header_nav #visit_nav.sel a, #header_nav #kids_nav.sel a, #header_nav #students_nav.sel a, #header_nav #libraries_nav.sel a, #header_nav #about_nav.sel a, #header_nav #members_nav.sel a, #header_nav #shop_nav.sel a {
+	border-bottom-color: #FFFFFF;
+	background-color: #FFFFFF;
+}
+#header_nav #home_nav.sel a {
+	background-color: #FFFFFF;
+}
+#home_cal a {
+	color: #FFFFFF;
+}
+#home_cal p {
+	padding: 0px;
+	margin: 6px 6px 8px 8px;
+}
+#home_cal td {
+	color: #FFFFFF;
+}
+#home_cal {
+	color: #FFFFFF;
+	vertical-align: top;
+}
+#home_cal table {
+	height: 280px;
+}
+#home_cal p.event {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFFFFF;
+	margin-top: 4px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 20px;
+	padding-left: 0px;
+}
+#nav_breadcrumbs {
+	padding-top: 6px;
+	padding-left: 9px;
+	margin: 0px;
+	color: #999999;
+}
+#nav_breadcrumbs a {
+	color: #333333;
+}
+#nav_breadcrumbs .sel {
+	font-weight: bold;
+	color: #333333;
+}
+.orange_search_submit {
+	color: #333;
+	background-color: #CCCC99;
+	border: 1px solid #333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	font-weight: bold;
+	margin: 0px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+}
+.header_search_button {
+	border:1px solid #AAAAAA;
+	height:21px;
+	background-color:#FFFFFF;
+	margin: 0px 0px 0px 10px;
+	padding: 0px 2px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-weight: bold;
+}
+table.home_table td.home_cal {
+	padding-right: 10px;
+}
+table.home_table td.home_caption {
+	padding-top: 2px;
+}
+
+
+/*Dec 2006 footer design*/
+#footer_nav {
+	font-family: Arial, Helvetica, sans-serif;
+	border-top: 1px solid #ACADB0;
+	border-bottom: 1px solid #ACADB0;
+	border-right: 1px solid #ACADB0;
+	float:left;
+	width: 580px;
+	display: block;
+}
+
+#footer_nav #footer_link a:hover, #footer_nav .footer_link a:hover {
+	color: #666666;
+}
+#footer_nav a {
+	text-decoration: none;
+	color: #333333;
+}
+
+#footer_nav #footer_link a, #footer_nav .footer_link a {
+	background-color: #EBEBEB;
+	text-align: left;
+	padding: 2px 4px;
+}
+
+#footer_nav .first a{
+	border-left: 1px solid #ACADB0;
+	}
+
+#footer_nav li a {
+	display: block;
+	border-right: 1px solid #ACADB0;
+	text-align: center;
+	vertical-align: bottom;
+	padding-top: 2px;
+	padding-bottom: 2px;
+
+}
+#footer_nav .last li a {
+	list-style: none;
+	display: block;
+	border-right: 1px solid #ACADB0;
+	text-align: center;
+	vertical-align: bottom;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+#footer_nav ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	
+}
+#footer_nav li {
+	float: left;
+}
+
+/*join now Membership-donate form styles from webitects Dec 2006*/
+.alert { color: #990000; }
+.alt { background: #d9d9d9; }
+
+h2 {
+ 	font-weight:bold;
+ 	color: #990000;
+	line-height: 140%;
+    font-size: 100%;
+}
+
+h3 {
+	font-weight: bold;
+	font-size: 100%;
+	margin: 0;
+}
+
+/*hides payment table on screen*/
+.credit { display: none; }
+
+/*gift and payment fieldset border*/
+ fieldset { border: 1px solid #bbb; border-width: 0 0 1px; clear:both; margin-bottom: 0.5em; }
+
+/*--- Membership Levels Table ---*/
+ .c2l, .c3l, .c3m { float: left !important; }
+.c2r, .c3r { float: right !important; }
+.c2l, .c2r { width: 47%; }
+.c3l, .c3m, .c3r { width: 31%; }
+.c3l { padding-right: 1em; }
+.form .c2l, .form .c2r, .form .c3l, .form .c3m, .form .c3r { margin: 0; }
+
+/*--- Forms ---*/
+.btn { overflow: visible; line-height: 1; padding: 0.3em 0.5em 0.4em; }
+.form { width: 100%; }
+.form td { padding: 0 0 0.7em 1em; }
+.form th { border: 0; font-weight: normal; text-align: right; padding: 0 1em 0 0; width: 25%; }
+.form ul { list-style: none; margin-left: 0; }
+.form li { float: left; margin: 0 1em 0 0; }
+.c2l, .form .c2r, .form .c3l, .form .c3m, .form .c3r { margin: 0; }
+.form li img { vertical-align: middle; }
+.opt-list li { float: none; }
+.txt { width: 98%; }
+/* .txt, .txt-num { padding: 0.4em 0.1em 0.3em; }*/
+.txt-num { 
+	background-color:#FFFFFF;
+	margin: 7px 0px 10px;
+	padding: 1px;
+	color: #000000;
+	width: 100px;
+	border: 1px solid #FFFFFF;
+}
+/*width: 5em; border: 1px solid #FFFFFF; height:1em;}*/
+select.txt { padding: 0.3em 0.1em 0.2em; border: 1px solid #FFFFFF;}
+/*8/28/08: MB*/
+#tributeFields {
+	margin:0;
+	padding:0;
+}	 
+/*Find and Search Buttons Jan 2007*/
+.submit_button{
+	border:1px solid #FFFFFF;
+	height:21px;
+	background-color:#CC6633;
+	margin: 0px 0px 0px 10px;
+	padding: 0px 2px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-weight: normal;
+}
+/*new homepg design 2007*/
+#teaserwrapper {
+	margin:0px 0px 0px 0px;
+	padding:10px 0px 0px 0px;
+}
+
+#col1, #col2 {
+	float: left;
+	float: left;
+	width:285px;
+	margin:0;
+	padding:0;
+	color: #fff;
+}
+#col1 a, #col2 a{
+	color: #fff;
+}
+.graphic2rows h3, .graphictext h3 {
+	color:#fff;
+	display:block;
+	margin:0;
+	padding:5px;
+}
+#col1 {
+	margin:0px 5px 0px 0px;
+	padding:0;
+	/*background-color:#ccc;*/
+}
+#col2 {
+	margin:0px 0px 0px 5px;
+	padding:0;
+	/*background-color:#FF3399;*/
+}
+#col1 p, #col2 p {
+	margin: 0;
+	padding: 0;
+}
+#col1 img, #col2 img {
+	margin: 0px; 
+	padding: 0;
+	}
+.teaserpadding{
+	margin: 0px 0px 10px 0px;
+	padding: 0;
+}
+.p_padding {
+	margin: 5px;
+	padding: 0;
+	display: block; /*this is very important to formatting text in collage*/
+}
+.graphic2rows {
+	height:220px;
+	width: 100%;
+	margin:0;
+	padding:0;
+}
+
+.graphictext{ /*image must be smaller than 105 here*/
+	height:105px;
+	width: 100%;
+	margin:0;
+	padding:0;
+}
+.none{
+	height:105px;
+	width: 100%;
+	margin:0;
+	padding:0;
+}
+/*modern wing styles*/
+.mwh1 {
+	font-weight: bold;
+	color: #025EB3;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+/* Leftnav styles for text-based navigation */
+/* Added by mgirgis 10/30/07 */
+ul.leftnav {
+	margin: 0px;
+	padding: 3px 0 0 0;
+	height: 277px;
+	background-color: #FFFFFF;
+	color: #333333;
+	list-style-type: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	letter-spacing: 0.03em;        /* font-weight: 300; */
+}
+
+/* MDB 9/12/08 moved padding to left nav anchor and set it as block-level element - bigger hit area */
+ul.leftnav li {
+	margin: 0px 8px 0px 8px;
+	border-bottom: 1px solid #666666;
+	line-height: 1.25em;
+	background-color: #FFFFFF;        /* font-weight: normal; */ /* this doesn't do anything in IE */
+}
+ul.leftnav li a {
+        display: block;
+	padding: 3px 0px;
+	text-decoration: none;
+}
+.leftnav_orange { /* for orange items in left nav */
+	color: #333333;
+}
+/* MDB 9/12/08 */
+.membership_block { 
+padding: 5px 0;
+}
+
+/* SP 10/22/08. Controls tables in Library Exhibition Histories */
+table.libexhibitions {
+	width: 100%;
+	border-collapse: collapse;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #333333;
+}
+
+table.libexhibitions td {
+	padding: 5px;
+	vertical-align: top;
+	border-collapse: collapse;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #333333;
+}
+
+/* MB 12/29/08.  For the home page */
+a.undecorate {
+text-decoration: none;
+}
+
+
+/* library cobb page*/
+.container {
+	width: 560px;
+	background-color: #cccccc;
+	
+}
+.listtopnav {
+	padding-top: 20px;
+}
+.listtophead {
+	clear:both;
+	padding-top: 20px;
+}
+.listtopcolumns {
+	width: 140px;
+	float: left;
+}
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+
+.listitem {
+	clear: both;
+}
+.listhead {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.listimage {
+	height: 167px;
+	width: 150px;
+	float: right;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.listcaption {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	width: 400px;
+}
+/*removes address book from share dropdown email*/
+
+#at_use_addr { display: none !important; }
+#at16pit { display:none !important; }
+
+/*enews signup box on interact page*/
+.teaser_signup_table {
+margin-bottom:6px;
+
+margin-top:1px;
+}
+
+
+.teaser_signup {
+	background-color:#FFFFFF;
+
+	border:1px solid #AAAAAA;
+	line-height:19px;
+	margin:0 1px;
+	padding:3px;
+	width:134px;
+	
+	color:#666666;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+
+
+.teaser_signup_button {
+	background-color:#FFFFFF;
+	border:1px solid #AAAAAA;
+	color:#666666;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	height:21px;
+	margin:0 0 0 10px;
+	padding:0 2px;
+	
+}
+
+<!--begin museum studies-->
+
+.mstudiespage {
+	width:550px;
+	color:#333333;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:80%;
+	text-align: left;
+}
+
+.mustudies {
+}
+.mstudies ul {
+	list-style-type:none;
+	margin-left: 0px;
+	padding-left: 0px;
+	
+}
+
+.mstudies li {
+	
+	padding-left: 10px;
+}
+	
+	.alphanav {
+		text-align: left;
+	}
+	
+	.alphanav ul {
+	list-style-type:none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+.alphanav li {
+
+	padding-right: 10px;
+	float:left;
+	font-weight: bold;
+}
+
+.clear {
+	padding-bottom:10px;
+padding-top:10px;
+	clear: both;
+}	
+
+<!--end museum studies-->
+
+<!--style for snap gala to secure image-->
+#cover{
+	
+	width:200px;
+	height:144px;
+	z-index:2;
+	margin:10px;
+
+	background-image: url("Struth.jpg");
+
+	float: right;
+	}
+	
+	/*div#cover2{
+	
+	width:400px;
+	height:280px;
+	z-index:2;
+
+	background-image: url("Struth_03851sm.jpg");
+
+	float: right;
+	}
+	*/
+	<!--END style for snap gala to secure image-->

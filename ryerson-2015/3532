@@ -1,0 +1,185 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_b137a6b1428cb099616998cb98a43879) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_a22b81d7c51af85c7f2cf15157f0658d) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_b137a6b1428cb099616998cb98a43879) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_556f9b06121dc0373b6dedb3bf14949d) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Resource details | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="css/roll.css" />
+<link rel="shortcut icon" href="images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "css/aicportal.css";</style>
+<style type="text/css" media="all">@import "css/node.css";</style>
+<style type="text/css" media="all">@import "css/user.css";</style>
+<style type="text/css" media="all">@import "css/content.css";</style>
+<style type="text/css" media="all">@import "css/gallery.css";</style>
+<style type="text/css" media="all">@import "css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "css/exhibition-26823.css";</style>
+<style type="text/css" media="all">@import "css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "css/devel.css";</style>
+<style type="text/css" media="all">@import "css/style.css";</style>
+<style type="text/css" media="all">@import "css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "css/system-menus.css";</style>
+<style type="text/css" media="all">@import "css/system.css";</style>
+<style type="text/css" media="all">@import "css/main.css";</style>
+<style type="text/css" media="all">@import "css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "css/print.css";</style>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/drupal.js"></script>
+<script type="text/javascript" src="js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="js/extlink.js"></script>
+<script type="text/javascript" src="js/devel.js"></script>
+<script type="text/javascript" src="js/autocomplete.js"></script>
+<script type="text/javascript" src="js/jqModal.js"></script>
+<script type="text/javascript" src="js/redirect.js"></script>
+<script type="text/javascript" src="js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "/aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "/aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="images/Ryerson_aic_0_2_0_0.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="images/Ryerson_hdr_0_2_0_0.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2015/resource">Interpretive Resources</a> > <span class="sel">Resource details</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Resource details</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>05. "Fresher, More Delicious Meals Begin at Sub-Zero." Sub-Zero Freezer Company, Inc.; Madison, WI; 2006.</strong><br />       <p>According to historians, no other room in the modern home has been more &ldquo;radically altered by the technological, social, and aesthetic revolutions of the twentieth century&rdquo; than the kitchen.<a href="3532#_ftn1" name="_ftnref1" title="" id="_ftnref1"> </a> As what had been, historically, a purely functional space transformed into a &ldquo;space central to daily life and social encounters between family and friends,&rdquo;<a href="3532#_ftn2" name="_ftnref2" title="" id="_ftnref2"> </a> consumers sought more than just a place to prepare meals.</p>
+<p>The post-war age of affluence was largely the result of a rapid increase in automation, which &ldquo;loosened a fresh windfall of inexpensive goods… to bring more comfort and enjoyment into daily life.&rdquo;<a href="3532#_ftn3" name="_ftnref3" title="" id="_ftnref3"> </a> As the new center of home life, the kitchen benefited from this windfall perhaps more than any other domestic space. </p>
+<div>
+  <div id="ftn1"><br />
+    <a href="3532#_ftnref1" name="_ftn1" title="" id="_ftn1"> </a> Juliet Kinchin with Aidan O&rsquo;Connor, <em>Counter Space: Design and the Modern Kitchen</em>. (New York : Museum of Modern Art, [2011]), 5. </div>
+  <div id="ftn2">
+    <p><a href="3532#_ftnref2" name="_ftn2" title="" id="_ftn2"> </a> Ibid.</p>
+  </div>
+  <div id="ftn3">
+    <p><a href="3532#_ftnref3" name="_ftn3" title="" id="_ftn3"> </a> &ldquo;Cause of Breakthrough Toward Life of Plenty,&rdquo; <em>Life</em>, 12/28/1959, 36.</p>
+  </div>
+</div><br /><br />
+    	 "Tools of the Trade: 19th- and 20th-Century Architectural Trade Catalogs," Case 5, Ryerson &amp; Burnham Libraries, August 4, 2015-October 12, 2015.<br />
+<br />
+<a href="http://digital-libraries.saic.edu/cdm/ref/collection/mqc/id/68781">Link to R&amp;B Archives Digital Collections record</a><br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<img src="images/Rsrc_003532.jpg" alt="" />		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar">  <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

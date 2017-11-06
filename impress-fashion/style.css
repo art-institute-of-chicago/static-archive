@@ -1,0 +1,397 @@
+/***************************** IFM Styles Landing Page ************
+******************************************************************/
+
+/*****************************
+1. Elements
+2. General
+3. Foundation Tweaks
+4. Video Share Pages
+5. Media Queries?
+
+weo3
+*****************************/
+
+/***************************
+	Elements
+***************************/
+
+body {
+	font-family: "Times", "Times New Roman", serif;
+	font-weight: normal;
+	line-height: 1em;
+	color: #999;
+	overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: "Times", "Times New Roman", serif;
+	font-weight: normal;
+	color: #565656;
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	list-style-type: none;
+}
+
+p {
+	margin: 0;
+	line-height: 1.3em;
+	letter-spacing: 0.07em;
+}
+
+dl {
+	color: #999;
+	margin: 0;
+}
+
+dl dt {
+	line-height: 1.4em;
+	margin-bottom: 0;
+}
+
+dd p {
+	margin: 0;
+}
+
+a {
+	color: #565656;
+	text-decoration: underline;
+	line-height: 1.5em;
+}
+
+a:hover {
+	color: #9D1B31;
+}
+
+h2 p, h3 p {
+	margin-left: 2em;
+}
+
+blockquote {
+	display: block;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.6em;
+	line-height: 1.2em;
+	color: #888;
+	font-weight: normal;
+	font-style: italic;
+	quotes: "\201c" "\201d";
+	text-align: center;
+	margin: 1em;
+	margin-bottom: 1.5em;
+	padding: 0;
+	border: none;
+}
+
+blockquote::before {
+	display: inline-block;
+	font-size: 1.8em;
+	line-height: 0.3em;
+	content: open-quote;
+}
+
+
+
+blockquote::after {
+	display: inline-block;
+	font-size: 1.8em;
+	line-height: 0.2em;
+	content: close-quote;
+}
+
+/***************************
+	General
+***************************/
+
+.extended-ribbon {
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	top: 0;
+	right: 0;
+	z-index: 1000;
+	background: url('extended-through-red-b.png') 0 0 no-repeat;
+}
+
+.header {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.footnotes p {
+	font-size: 0.7em;
+	color:#9D9D9D;
+	margin-bottom: 0.7em;
+}
+
+.bq {
+	display: block;
+	margin-top: -2em;
+	text-align: center;
+}
+
+#gsc {
+	padding-top: 1em;
+}
+
+#gsc li {
+	opacity: 0;
+	position: absolute;
+}
+
+#gsc li img {
+	max-width: 300%;
+}
+
+.gscnav {
+	overflow: hidden;
+	position: absolute;
+	top: 10em;
+	left: -2em;
+	z-index: 10;
+}
+
+.gscnav li {
+	display: block;
+	width: 18px;
+	height: 18px;
+	background: #FFF;
+	margin-bottom: 0.5em;
+	border: solid 1px #666;
+	-webkit-border-radius: 1000px;
+	border-radius: 1000px;
+	cursor: pointer;
+}
+
+	.gscnav li:nth-child(even) {
+		margin-bottom: 1em;
+	}
+
+	.gscnav li.active {
+		background: #999;
+	}
+
+
+/***************************
+	Foundation Tweaks
+***************************/
+
+.small-5.header {
+	width: 42%;
+}
+
+.small-7.header {
+	width: 57.4%;
+}
+
+
+/***************************
+	Video Share Pages
+***************************/
+.postcard-container {
+	position: relative;
+	padding: 0;
+	cursor: pointer;
+}
+
+.postcard-container li {
+	list-style: none;
+	display: none;
+}
+
+.postcard-container li.confirmed {
+  display: block;
+  cursor: default;
+}
+
+.postcard-container li img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-radius: 0.5em;
+	box-shadow: 0 0.2em 0.9em rgba(102, 93, 74, 0.5);
+}
+
+.postcard-container li .postcard-content {
+	text-align: left;
+	color: #28292B;
+	text-shadow: 0px 1px 0px rgba(255, 255, 195, 0.5);
+}
+
+.postcard-container li .post-content p {
+  font-family: 'cursive';
+  font-size: 1.4em;
+  margin-top: 0.3em;
+  line-height: 1.4em;
+}
+
+.postcard-container li.confirmed .postcard-content {
+  margin: 19em 0em 0em 8em;
+}
+
+.video-share-content, .video-share-content h2, .video-share-content h3 {
+  font-family:arial, helvetica, sans-serif;
+}
+
+.video-share-content h3 {
+	color: #333;
+	font-weight: bold;
+}
+
+.video-supercontainer {
+  margin: 30px 0;
+}
+
+.video-container-limiter {
+  width: 960px;
+  max-width:100%;
+  margin:0 auto;
+}
+
+.video-container {
+  position:relative;
+  padding: 30px 0 56.25% 0;
+  margin:0;
+  height:0;
+  overflow:hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+}
+
+.video-wrapper {
+	width: 640px;
+	max-width: 99%;
+	-webkit-transition: all 0.25s ease;
+  -moz-transition: all 0.25s ease;
+  -o-transition: all 0.25s ease;
+  -ms-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+}
+
+.sub-section {
+  margin-bottom:30px;
+}
+
+#share-form-container {
+  background-color:#cccccc;
+  padding:15px;
+}
+
+.share-form-title {
+  font-size:16px;
+  font-weight:bold;
+  color:#9d1b31;
+  padding-bottom:15px;
+}
+
+.share-form-section-title {
+  display:block;
+  font-weight:bold;
+  color:#4D4D4D;
+  padding-bottom:5px;
+  margin-bottom:15px;
+  border-bottom:1px solid #4D4D4D;
+}
+
+.postcard-content-confirm {
+	margin: 30px 0;
+	color: #333;
+}
+
+.postcard-content-confirm img {
+  position: relative;
+  z-index: -1;
+  border-radius: 0.5em;
+  box-shadow: 0 0.2em 0.9em rgba(102, 93, 74, 0.5);
+}
+
+.postcard-content-confirm a {
+  color: #800000;
+}
+
+.confirm-content {
+	position: absolute;
+	z-index: 1;
+	top: 35%;
+	left: 10%;
+	font-size: 1.2em;
+	color: #333333;
+	width: 100% !important;
+	padding-right: 8em !important;
+}
+
+#social-share-container {
+  text-align:right;
+}
+
+#social-share-container img {
+  width:100%;
+}
+
+#ifm-video-share-logo {
+  width:100%;
+}
+
+#other-postcards-container {
+  display:block;
+  margin:20px 0 0 0;
+}
+
+#other-postcards-select {
+  background-color:#CCCCCC;
+  color:#333333;
+}
+
+@media screen and (max-width: 400px) {
+
+	.confirm-content {
+		left: 4%;
+		font-size: 0.5em;
+		padding-right: 1em !important;
+		-webkit-transition: all 0.25s ease;
+		-moz-transition: all 0.25s ease;
+		-o-transition: all 0.25s ease;
+		-ms-transition: all 0.25s ease;
+		transition: all 0.25s ease;
+	}
+}
+
+@media screen and (min-width:401px) and (max-width: 600px) {
+	.confirm-content {
+		left: 6%;
+		font-size: 0.7em;
+		padding-right: 6em !important;
+	}
+}
+
+@media screen and (min-width:601px) and (max-width: 800px) {
+	.confirm-content {
+		left: 8%;
+		font-size: 1em;
+		padding-right: 8em !important;
+	}
+}
+
+.wait-to-show {
+  display:none;
+}
+
+#preload-image {
+  text-align:center;
+  padding-top:250px;
+}
+
+#preload-image img {
+  margin:0 auto;
+}
+

@@ -1,0 +1,311 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_bd4f5e77533d94fa7fce0a33547230ff) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_7a53512b7bc1cfcb098c377698d0b09c) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_7a53512b7bc1cfcb098c377698d0b09c) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_0a24de9ef7f8dee67d5db520980aa566) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_8e829646a0b54f0b7a4d543b65beeee4) -->
+<!-- From the cache. (d3d5e458996b1fa09e0038ef60ea62ba_bd4f5e77533d94fa7fce0a33547230ff) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_8ef130f34d72a43800797b0f295710c8) -->
+<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_7a53512b7bc1cfcb098c377698d0b09c) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_7a53512b7bc1cfcb098c377698d0b09c) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Art and Geology | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8932.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_american.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_amerart.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/American">Art Access: American Art to 1900</a> > <a href="../lesson">Lesson Plans</a> > <span class="sel">Art and Geology</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Art and Geology</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Art and Geology</strong><br />       <div class="content">
+<p>In this lesson, students will research volcanoes after examining and discussing <em>View of Cotopaxi</em>. They will return to the painting to explore how Frederic Edwin Church enhanced his view, and then create their own drawing of Cotopaxi erupting that reflects the current information they have gathered about Cotopaxi and volcanoes in general.</p>
+<p><strong>Suggested Grade Level:</strong> 6-8<br />
+<strong>Estimated Time:</strong> three to four class periods</p>
+<div class="image wrap"><img src="../images/E28012.jpg" border="0" class="inline" /></div>
+<h3>Introduction</h3>
+<p>Frederic Edwin Church traveled to Ecuador in 1853 and 1857, training his artistic eye on the region's mountains and its volcano, Cotopaxi. He asked some of the same questions that scientists of the period were debating: how were mountains and volcanoes formed? Do they grow? During the 19th century, volcanoes were seen as isolated marvels, but modern geology teaches that volcanic forces operate across the entire surface of the globe. Although Church was aware of the existing science about Cotopaxi and the regions surrounding it, he rendered the volcano and its terrain in an idealized fashion, creating an image that resembles the world shortly after God's creation of it according to Christian beliefs.</p>
+<p>After examining Church's <a href="../Cotopaxi"><em>View of Cotopaxi</em></a>, students search on the Web to learn more about volcanoes. They return to the painting to explore how Church enhanced his view, then they create their own drawing of Cotopaxi erupting that reflects the current information they have gathered about the site and volcanoes in general.</p>
+<h3>Lesson Objectives</h3>
+<ul>
+<li>Critically analyze a work of art</li>
+<li>Learn to use Web resources to conduct research</li>
+<li>Understand how volcanoes are formed</li>
+<li>Based on research, create an image of Cotopaxi and a journalistic account of it erupting</li>
+</ul>
+<h3>Key Terms</h3>
+<ul>
+<li>volcano</li>
+<li>Strombolian activity</li>
+<li>stratovolcano</li>
+<li>Ecuador</li>
+<li>idealized</li>
+<li><a href="1241#atmosphere">atmospheric perspective</a></li>
+</ul>
+<h3>Instructional Materials</h3>
+<ul>
+<li>Background for teachers: Katherine Manthorne. <em>Creation and Renewal: Views of Cotopaxi by Frederic Edwin Church.</em> Exh. cat. Washington, D.C., National Museum of American Art, 1985.</li>
+<li>Web site for student research: <a href="http://www.volcano.si.edu/index.cfm" target="_blank">Global Volcanism Program</a></li>
+<li>Pencils</li>
+<li>Watercolor paper</li>
+<li>Watercolors</li>
+<li>Water</li>
+<li>Paintbrushes</li>
+<li>Notebook paper</li>
+</ul>
+<h3>Procedures</h3>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>Examine <em>View of Cotopaxi</em> with students. Ask:</li>
+<ul>
+<li>Can you describe the painting in detail?</li>
+<li>How did Church suggest distance? <em>(through atmospheric perspective and differences in scale)</em>. </li>
+</ul>
+<li>Have students look at <a href="http://www.artic.edu/aic/collections/artwork/79310">another landscape</a> from the Ming dynasty in China for comparison. In that work, the artist, Zhi, suggested greater distance through both the height of the scenery and the use of layers of mist.</li>
+<ul>
+<li>Are there humans in this painting? Where? What is the relationship between humans and nature in this scene?</li>
+</ul></ul>
+<p><strong>Activity</strong></p>
+<ul>
+<li>Have students divide into groups and use a <a href="http://www.artic.edu/aic/collections/citi/resources/_erfimages/cotopaxi.pdf">worksheet</a> to conduct research Cotopaxi on the Web. Questions include:</li>
+<ul>
+<li>Where is Cotopaxi? <em>(North-central Ecuador in the Cordillera mountains, Central of the Andes)</em></li>
+<li>How high is it? <em>(19,650 feet (5,911 m))</em></li>
+<li>Describe the land around it.<em>(a barren, grassy plain)</em></li>
+<li>How was this volcano formed? <em>(The earth's surface is divided into huge plates, and two of these plates, the Nazca and the South American, are colliding along the west coast of South America. As the South America plate rides over the Nazca plate, rocks near the surface are carried to great depths. There, they melt. This molten material works its way upward, eventually leaking to the surface and forming volcanoes.)</em></li>
+<li>What type of volcano is Cotopaxi? <em>(stratovolcano)</em></li>
+<li>What does this mean? <em>(steep volcanic cone that may erupt many thousands of times over millions of years)</em></li>
+<li>What group of volcanoes is Cotopaxi a part of? <em>(the Circum-Pacific system, sometimes called the "Ring of Fire," the chain of hundreds of active volcanoes surrounding the Pacific Ocean.)</em></li>
+</ul>
+<li>Locate and print out or photocopy a map and mark the locations of both the"Ring of Fire" and Cotopaxi.</li>
+<ul>
+<li>About how many times has Cotopaxi erupted?<em>(50)</em></li>
+<li>When was the most recent eruption? <em>(1905)</em></li>
+</ul>
+<li>Have student groups compare their answers. If they are different, have them identify the sources for their information. </li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>Go back to Church's <em>View of Cotopaxi</em> and ask students to consider the accuracy of the image given their knowledge of the volcano. Explain that although Church did study contemporary geology and botany, he used artistic license in his painting.</li>
+<li>Encourage students to decide how he did this, supplementing the dialogue with known information:</li>
+<li>Church wrote that he exaggerated the volcano's steep slope to present it as a perfect cone.</li>
+<li>He also altered the terrain surrounding the volcano. The real Cotopaxi is on a barren, treeless plain. Although the plants in the foreground are botanically accurate, they are not found in this region. The palm, for example, is not found near Cotapaxi, but instead in Colombia to the north.</li>
+<li>Church was influenced by writings of the German naturalist Alexander von Humbolt. In his 1849 book Cosmos, von Humbolt described the wonders of the natural world as evidence of God's role as creator. The palm tree, as well as the lush plants and waterfall, make the scene look more like a scene from the Garden of Eden. Ask students to consider why Church might have altered the scene in this way.</li>
+<li>Ask students to think of images in modern culture that are manipulated to express certain messages. How are they altered? Why?</li>
+</ul> 
+<p><strong>Activity</strong></p>
+<ul>
+<li>Have students complete a pencil sketch of Cotopaxi erupting that reflects the research they have gathered. Then encourage them to add watercolor to it. They should consider the following questions as they work:</li>
+<ul>
+<li>How will the landscape appear?</li>
+<li>What moment in the eruption will they portray?</li>
+<li>Will there be humans in the image?</li>
+<li>How will they create a sense of distance in the scene?</li>
+</ul>
+</ul>
+<h3>Evaluation</h3>
+<p>Base students' evaluations on their participation in class discussion and their understanding of the new words and concepts introduced in this lesson as reflected in their research and paintings.</p>
+<p><strong>Follow-up:</strong></p>
+<ul>
+<li>Because of bad timing, poor weather, and inadequate communications, Church barely missed one of Cotopaxi's most spectacular eruptions. On September 13, 1853, the volcano began what geologists call Strombolian activity—the explosive ejection of chunks of lava—that eventually turned into a heavily flowing lava eruption that descended the western slopes of the volcano for about two miles. An estimated 27 million cubic meters of lava flowed during the eruption, an amount that would have buried the Mall in Washington, D.C. to a depth of more than 200 feet!</li>
+<li>Have students write a short newspaper article for the town of Latacunga (Lah-tah-KOON-gah), Ecuador, which was completely destroyed in 1798 by an eruption and then rebuilt. Have them describe the 1853 eruption of Cotopaxi. Require them to include at least five new terms they learned in the lesson.</li>
+</ul><br />
+<h3>Glossary</h3>
+<p><strong><a name="atmospheric" id="atmospheric"></a>atmospheric perspective</strong> (<em>n</em>)<br />
+a method used by artists to suggest depth, usually in landscapes; objects are usually made to look paler and bluer so they appear to be further away</p><br />
+<p><a href="http://www.isbe.state.il.us/ils/" target="_blank">Illinois Learning Standards</a><br />
+Science: 11-13<br />
+Social Science: 17<br />
+Language Arts: 3-5<br />
+Fine Arts: 25-27</p>
+</div><br /><br />
+    	 American Art Teacher Manual; Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001241.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001241.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: American Art to 1900 </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../MrsHubbard">Artworks</a></li>
+<li class="expanded"><a href="../lesson">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf active first"><a href="1241" class="active">Art and Geology</a></li>
+<li class="leaf"><a href="../resource/1013">Colonial Identity</a></li>
+<li class="leaf last"><a href="../resource/1014">Freed from Slavery</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="../family">Family Activities</a></li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1870">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/American/artwork/76571"><img src="../images/187445_3071594.jpg" alt="View of Cotopaxi" title="Frederic Edwin Church
+American, 1826-1900, View of Cotopaxi"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/American/artwork/76571">View of Cotopaxi</a></span>, 1857</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

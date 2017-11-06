@@ -1,0 +1,962 @@
+"data": [
+	{
+		"id": 1,
+		"title": "Chicago Architecture: Ten Visions",
+		"year": "2004",
+		"link": "http://archive.artic.edu/10visions/",
+		"description": "Chicago Architecture: Ten Visions presents diverse views of the future of Chicago’s built environment from 10 internationally renowned architects. The architects were selected from an invited competition juried by architects Stanley Tigerman and Harry Cobb, in collaboration with curators from the Art Institute’s Department of Architecture. The 10 architects reflect a cross section of Chicago’s vibrant architectural scene—from large and small firms as well as the academic community—bringing to this exhibition diverse experiences and insights. Each architect was asked to define an important issue for the future of Chicago and create a “spatial commentary” on that particular theme. Within a lively plan designed by Stanley Tigerman, each of the participants has curated and designed his or her own mini-exhibition in a space of approximately 21 feet square. Tigerman’s setting creates a linear sequence in which visitors pass through the architects’ spaces to an interactive area where the architects’ commentaries can be heard by picking up a telephone. Visitors are encouraged to record their comments on any and all of the “ten visions.”",
+		"exhibition_ids": [2839],
+		"agent_ids": [84551, 103040, 89769, 31646, 31760, 72565, 31995, 97351],
+		"artwork_ids": []
+	},
+	{
+		"id": 2,
+		"title": "American Perspectives: A yearlong celebration of American artistic vision",
+		"year": "2007",
+		"link": "http://archive.artic.edu/americanperspectives/",
+		"description": "You are invited to experience the rich diversity of artistic expression that defines the American experience. Following the highly successful citywide collaboration, Silk Road Chicago, American Perspectives brings together the Art Institute, the Chicago Symphony Orchestra, and the Poetry Foundation to celebrate the myriad artistic traditions that make us who we are as Americans. American Perspectives offers visitors the extraordinary opportunity to view groundbreaking exhibitions of American masters Jasper Johns, Edward Hopper, and Winslow Homer from a new vantage point. A lively assortment of performances, lectures, poetry readings, and gallery talks—featuring the work of some of the country's most prominent artists, writers, performers, and composers—examines the many and varied threads that create our historical and cultural fabric.",
+		"exhibition_ids": [610, 246, 619],
+		"agent_ids": [43768, 104542, 35139],
+		"artwork_ids": []
+	},
+	{
+		"id": 3,
+		"title": "Curious Corner",
+		"year": "2009",
+		"link": "http://archive.artic.edu/cc/",
+		"description": "Curious Corner is an Art Institute of Chicago Web site designed for children (ages 3–12), their friends, and families. Explore and learn about art from around the world. Look closely and investigate artworks. Connect personal experience with artworks through playful, creative activities. Parents and educators of all kinds can also explore related online resources that help foster learning in the home, classroom, and museum. Curious Corner is also available on computer stations in the Vitale Family Room of the Ryan Education Center and in Gallery 10 at the foot of the Grand Staircase.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": [148369, 561, 6565, 14574, 14655, 15468, 18751, 18754, 20686, 27307, 27949, 27962, 27992, 28096, 31233, 34461, 35692, 59787, 60812, 61112, 62371, 64312, 78507, 80607, 91194, 94126, 95998, 99539, 99789, 105800, 111317, 111442, 125652, 140644, 142534, 143564, 146995, 150054, 189595, 20887, 86780, 192692]
+	},
+	{
+		"id": 4,
+		"title": "Beyond the Easel: Decorative Painting by Bonnard, Vuillard, Denis, and Roussel, 1890–1930",
+		"year": "2001",
+		"link": "http://archive.artic.edu/easel/",
+		"description": "Beyond the Easel: Decorative Painting by Bonnard, Vuillard, Denis, and Roussel, 1890–1930 is an exhibition of unusually formatted and sometimes very large paintings and screens. Featuring 85 works from around the world, the exhibition explores the importance of decorative paintings from the 1890s to the early decades of the 20th century, focusing on four artists most closely associated with the genre and also most successful with it: Pierre Bonnard, Edouard Vuillard, Maurice Denis, and Ker Xavier Roussel.",
+		"exhibition_ids": [],
+		"agent_ids": [33692, 27657, 34236, 36478],
+		"artwork_ids": [144361, 153705]
+	},
+	{
+		"id": 5,
+		"title": "Faces, Places & Inner spaces",
+		"year": "2004",
+		"link": "http://archive.artic.edu/faces/",
+		"description": "Faces, Places, and Inner Spaces, a new interactive exhibition in the Hammerman Gallery of the Kraft Education Center, introduces you to a selection of art from Asia, Europe, and the Americas. Here, you can explore 5 of the 11 works of art in the exhibition and take a virtual tour of the gallery space. Play games, look, read, and have fun!",
+		"exhibition_ids": [],
+		"agent_ids": [42445, 37327, 79635, 15033, 30129, 30175, 36681, 43617],
+		"artwork_ids": [21839]
+	},
+	{
+		"id": 6,
+		"title": "The Gates of Paradise: Lorenzo Ghiberti's Renaissance Masterpiece",
+		"year": "2007",
+		"link": "http://archive.artic.edu/ghiberti/",
+		"description": "In 1425 Lorenzo Ghiberti was commissioned to design a pair of bronze doors for Florence's Baptistery. He labored on the task for 27 years, fashioning a masterpiece that Michelangelo called \"truly worthy to be the Gates of Paradise\" for its remarkable beauty and grandeur. For the past 25 years, Ghiberti's gates have undergone extensive conservation, which is now nearing completion. To celebrate the conclusion of this arduous project, three relief panels from the Gates of Paradise and sections of the doors' frieze have traveled to North America. This exhibition affords viewers a once-in-a-lifetime opportunity to observe Ghiberti's work up close before the individual elements are reintegrated with the rest of the doorframe and put on permanent display in a hermetically sealed room in the museum of the Florence Cathedral (Museo dell'Opera del Duomo), never to travel again.",
+		"exhibition_ids": [3066],
+		"agent_ids": [34640],
+		"artwork_ids": []
+	},
+	{
+		"id": 7,
+		"title": "Girodet: Romantic Rebel",
+		"year": "2006",
+		"link": "http://archive.artic.edu/girodet/",
+		"description": "Girodet: Romantic Rebel is the first retrospective in the United States devoted to the works of gifted French painter Anne-Louis Girodet de Roussy-Trioson (1767–1824). The exhibition assembles more than 100 seminal works (about 60 paintings and 40 drawings) that demonstrate the artist’s impressive range as a painter as well as a draftsman.",
+		"exhibition_ids": [],
+		"agent_ids": [40605],
+		"artwork_ids": [147061]
+	},
+	{
+		"id": 8,
+		"title": "Hero, Hawk, and Open Hand",
+		"year": "2004",
+		"link": "http://archive.artic.edu/herohawk/",
+		"description": "Hero, Hawk, and Open Hand: American Indian Art of the Ancient Midwest and South explores the themes of a major branch of early civilization in the Americas that is virtually unknown to the public—that of the midwestern and southern United States. The exhibition assembles some 300 masterpieces of stone, ceramic, wood, shell, and copper created between 2000 B.C. and A.D. 1600 and presents them in the context of large-scale plans and reconstruction drawings of major archaeological sites. Sculptural forms embrace a wide range of human, animal, and vegetal motifs, as well as composite imaginary creatures, abstract shapes, and embellished vessels, implements, and items of ritual paraphernalia.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": [208227]
+	},
+	{
+		"id": 9,
+		"title": "Jasper Johns: Gray",
+		"year": "2007",
+		"link": "http://archive.artic.edu/jasperjohns/",
+		"description": "As one of the most acclaimed and influential living artists, Jasper Johns has been the subject of numerous exhibitions, many of which have explored his signature use of flags, numbers, and other emblems. This exhibition emerges from broader studies of Johns's approach to form, examining for the first time the artist's use of gray in his paintings, sculptures, prints, and drawings from 1955 to the present. Featuring more than 130 works and including major new works that have never been exhibited publicly, the exhibition tracks Johns's application of gray for more than five decades—an investigation that provides a framework for understanding the development of the artist's entire oeuvre.",
+		"exhibition_ids": [],
+		"agent_ids": [35139],
+		"artwork_ids": [184095]
+	},
+	{
+		"id": 10,
+		"title": "Jeff Wall",
+		"year": "2007",
+		"link": "http://archive.artic.edu/jeff_wall/",
+		"description": "Epic and luminous, the work of Jeff Wall has overturned nearly every convention of photography. Meticulously staged and theatrical in scale, Wall’s images have more in common with the grandest history painting of the 18th century and the flickering mesmerism of cinema than with the fleeting, documentary style of much of modern photography. Forty-one works of the Vancouver-based artist, who pioneered the use of the light box as a vehicle for displaying photographs, are included in this major retrospective exhibition, previously installed in the Museum of Modern Art in New York.",
+		"exhibition_ids": [],
+		"agent_ids": [59979],
+		"artwork_ids": [157160]
+	},
+	{
+		"id": 11,
+		"title": "Marion Mahony Griffin: The Magic of America",
+		"year": "2007",
+		"link": "http://archive.artic.edu/magicofamerica/",
+		"description": "\"The Magic of America,\" a typescript of over 1,400 pages with approximately 650 accompanying illustrations, was written and compiled by Marion Mahony Griffin (1871-1961), architect, designer, delineator, and artist. In 1911 she married Walter Burley Griffin (1876-1937), architect, landscape designer, and city planner. Their architectural practice spanned almost four decades on three continents, and \"The Magic of America\" was meant, in part, to be a testament to their life and work together. \"The Magic of America: Electronic Edition\" collates in a digital format all the texts and illustrations from the three known copies of the work. The electronic edition thus represents the most complete and accessible version currently available of this important architectural document.",
+		"exhibition_ids": [],
+		"agent_ids": [34742],
+		"artwork_ids": []
+	},
+	{
+		"id": 12,
+		"title": "Manet and the Sea",
+		"year": "2003",
+		"link": "http://archive.artic.edu/manet/",
+		"description": "This landmark exhibition is devoted to the marine paintings of Edouard Manet (1832–1883), a little-studied but highly significant aspect of the career of the artist who is sometimes referred to as the father of Impressionism. Taking Manet’s seascapes—ranging from 1864 to shortly before his death in 1883—as a point of departure, the exhibition traces the complex interactions that link the artist to his immediate predecessors and contemporaries, including Gustave Courbet, Eugène Delacroix, Claude Monet, Berthe Morisot, and James McNeill Whistler, among others. Manet and the Sea brings together innovative works on sea-related themes by a variety of artists with differing ambitions. At the same time, it addresses emergent sociohistorical phenomena, especially the increase of tourism, which made the sea newly attractive to artists in the second half of the 19th century.",
+		"exhibition_ids": [],
+		"agent_ids": [35577],
+		"artwork_ids": []
+	},
+	{
+		"id": 13,
+		"title": "Matisse: Radical Invention 1913—1917",
+		"year": "2010",
+		"link": "http://archive.artic.edu/matisse/",
+		"description": "Matisse: Radical Invention, 1913–1917 examines what is without question the most innovative, momentous, and yet little-studied time in the artist’s long career. Nearly 120 of his most ambitious and experimental paintings, sculptures, drawings, and prints from the period are on view. Matisse himself acknowledged the significance of these years when he identified two paintings, Bathers by a River and The Moroccans, as among his most pivotal. These monumental canvases from the collections of the Art Institute of Chicago and the Museum of Modern Art, New York, inspired the collaborative work of this exhibition and serve as major touchstones within it. This is the first exhibition to offer an in-depth investigation of Matisse’s art from this time, revealing information uncovered through extensive new art-historical, archival, and technical research.",
+		"exhibition_ids": [],
+		"agent_ids": [35670],
+		"artwork_ids": [79307]
+	},
+	{
+		"id": 14,
+		"title": "The Medici, Michelangelo, and the Art of Late Renaissance Florence",
+		"year": "2002",
+		"link": "http://archive.artic.edu/medici/",
+		"description": "This major international exhibition provides a detailed survey of the art of Florence during the years that Michelangelo and artists employed by the first Medici grand dukes—such as Cellini, Bronzino, and Pontormo—produced celebrated masterpieces. Works by these artists bolstered the wordly power and status of the ruling family and reflected the sophistication and refinement of Florentine court circles, in which high value was placed upon classical aesthetics and scientific learning. Many of the 200 objects in the exhibition—including sculpture, painting, armor, medals, porcelain, and tapestries—have never before traveled out of Florence. Among the objects on view for the first time in the United States are three sculptures by Michelangelo, some of the greatest paintings of the Uffizi and Pitti Galleries, and works from the famed Studiolo (treasure room) of Francesco I in the Palazzo Vecchio.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 15,
+		"title": "Chicago: The City in Art",
+		"year": "2000",
+		"link": "http://archive.artic.edu/mural_project/",
+		"description": "Chicago: The City in Art is a collaborative project between The Art Institute of Chicago and the Chicago Public Schools. The program is designed to introduce teachers and students to recently restored murals in their schools. It began in 1995 with Lane Technical High School and was expanded in 1998-2000 to include ten additional elementary schools. The goals of the program are to broaden awareness of the rich cultural educational resources in our public schools and to integrate the arts into classroom curriculum. Teachers and students works in the permanent collection of the Art Institute as a foundation for the study of artists, movements, and styles. A final and extremely important goal is to encourage the continued preservation of the Chicago Public Schools' cultural treasures.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 16,
+		"title": "Aerospace Design: The Art of Engineering from NASA’s Aeronautical Research",
+		"year": "2003",
+		"link": "http://archive.artic.edu/nasa/",
+		"description": "Aerospace Design: The Art of Engineering from NASA’s Aeronautical Research explores the architecture and engineering of wind tunnels by displaying approximately 90 objects from NASA’s collection, including wind tunnel models and flight artifacts, past and present. The exhibition commemorates the centennial of powered, controlled flight that began with the landmark take off of the Wright brothers on December 17, 1903. Objects included in the exhibition date back to NASA’s predecessor, the National Advisory Committee for Aeronautics (NACA), founded in 1915. Created out of that agency at the beginning of the space race in 1958, NASA has a wealth of often unexhibited and unpublished artifacts that not only document technological advances in flight over the past century but are also aesthetically striking. Beyond the historic dimension, the exhibition showcases some of the latest research being done for aircrafts with \"morphing\" wings, self-healing vehicle \"skins\" and biologically inspired sensors—elements that NASA hopes will make future air travel accident free, environmentally friendly, and affordable and accessible. In all, the project presents the history of aeronautically engineered forms in relation to architecture and design, much as previous Art Institute exhibitions have analyzed architecture and design for commercial aviation, space travel, and contemporary railroad travel. Visitors are shown another example of how aviation design is as beautiful as it can be functional.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 17,
+		"title": "Cézanne to Picasso: Ambroise Vollard, Patron of the Avant-Garde",
+		"year": "2007",
+		"link": "http://archive.artic.edu/picasso/",
+		"description": "In 1887 Ambroise Vollard (1866–1939) arrived in Paris with few contacts and no credentials to pursue a career as an art dealer. He began representing artists that were undervalued, exhibiting them at a time when many galleries were not willing to take the risk. In 1895 Vollard hosted Cézanne’s first solo exhibition, and in doing so he made the artist’s reputation as well as his own. By the early 20th century, Vollard had become the principal dealer of artists such as Paul Cézanne, Paul Gauguin, and a number of Fauve artists, and lent early support to artists who are well known today—Pierre Bonnard, Aristide Maillol, Henri Matisse, Pablo Picasso, and Edouard Vuillard—as well as many who remain relatively unknown. His shrewd mind for business and artistic sense made him the leading contemporary art dealer of his generation. Cézanne to Picasso: Ambroise Vollard, Patron of the Avant-Garde draws upon the dealer’s archives—handwritten sale and purchase records, stockbooks, photography, and correspondence—to shed new light not only on Vollard’s business strategies but also on the heretofore unexplored story of his relationships with artists whose work he exhibited and sold. The exhibition underscores Vollard’s achievement in promoting careers and styles to collectors, art critics, and artists, who used his gallery as a meeting place to discuss and buy modern art. Special galleries devoted to individual artists feature works from Vollard’s most important exhibitions, including paintings from his groundbreaking 1895 Cézanne show, a never-before reassembled triptych from Vollard’s 1896 Van Gogh retrospective, and, from Gauguin’s important 1898 exhibition of Tahitian works, the masterpiece Where Do We Come From? What Are We? Where Are We Going? lent by the Museum of Fine Arts, Boston, and on view for the first time ever in Chicago.",
+		"exhibition_ids": [],
+		"agent_ids": [33692, 40482, 40543, 34236, 34241, 34611, 40610, 40682, 35670, 36198, 36336, 36351, 36472, 27657],
+		"artwork_ids": [22725, 28067]
+	},
+	{
+		"id": 18,
+		"title": "Without Bounds or Limits: An Online Exhibition of the Plan of Chicago",
+		"year": "2009",
+		"link": "http://archive.artic.edu/planofchicago/",
+		"description": "On July 4, 1909, Daniel H. Burnham and the Commercial Club of Chicago unveiled the culmination of three years of work and a decade of preparation.  The Plan of Chicago, considered a fundamental urban planning document, presented one group’s radical vision for a more beautiful, orderly, and unified city.  And with its lush illustrations and rousing prose, it dared its readers to not only imagine a different Chicago, but to strive to create it themselves. The Plan is remarkable for several reasons.  For one, in the wake of industrialization and an influx of population (including many immigrants), it refined the meaning of prosperity in a growing city, probing the quality of urban life there. The Plan also discerned Chicago’s broader interconnectivity with cities across the Midwest, considering the city’s impact on the surrounding plains and encouraging a more regional approach. But perhaps the most striking—and uniquely American—aspect of the Plan was its idealistic belief in Chicago as a city without limits.  The planners believed their city could become the most beautiful and prosperous in the world, and they inspired its citizens to undertake the challenge. This exhibition presents a selection of original drafts, letters, meeting minutes, and images related to the Plan of Chicago, from the collections at the Ryerson & Burnham Archives at the Art Institute of Chicago.",
+		"exhibition_ids": [],
+		"agent_ids": [50668, 2102],
+		"artwork_ids": []
+	},
+	{
+		"id": 19,
+		"title": "Perpetual Glory: Medieval Islamic Ceramics from the Harvey B. Plotnick Collection",
+		"year": "2007",
+		"link": "http://archive.artic.edu/plotnick/",
+		"description": "Chicago collector Harvey B. Plotnick has assembled what is generally regarded as the finest private collection of early Islamic ceramics in the world. From these truly outstanding objects—much admired by specialists in the field of Islamic art and connoisseurs alike—a selection of approximately 100 treasures ranging in date from the early Abbasid caliphate in Iraq (9th–10th century) and the Mongol Ilkhanid dynasty in Iran (mid-13th–mid-14th century) to the Timurid dynasty in eastern central Asia (14th–15th century) is on view in the exhibition Perpetual Glory.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 20,
+		"title": "Rembrandt’s Journey: Painter, Draftsman, Etcher",
+		"year": "2004",
+		"link": "http://archive.artic.edu/rembrandt/",
+		"description": "Rembrandt van Rijn (1606–1669) is one of the most celebrated artists in history. With more than 200 works from all periods of his long career—20 paintings, 33 drawings, 153 prints, and 7 copper plates taken from major collections here and abroad—this is the first American exhibition to explore Rembrandt’s astonishing range and variety of activity as a brilliant etcher seen in the context of his paintings and drawings. Rembrandt’s Journey highlights the parallel relationships among the master’s paintings, drawings, and prints—closely examining imagery, narrative content, and the marks of the artist’s hand, as well as his approach to religious illustration in all of the media he mastered and reinvented. A closer study of the expressions, gestures, and body language of his figures will provide deeper insight into the inventive, subtle, and complex way he interpreted biblical texts and imaginatively projected himself into them. The exhibition will focus on several of the subjects to which Rembrandt returned—portraits and self-portraits, everyday life, landscape, the nude—at various stages of his career.",
+		"exhibition_ids": [],
+		"agent_ids": [40769],
+		"artwork_ids": []
+	},
+	{
+		"id": 21,
+		"title": "Science, Art, and Technology",
+		"year": "2003",
+		"link": "http://archive.artic.edu/rembrandt/",
+		"description": "Science, Art, and Technology began as a year-long course offered by The Art Institute of Chicago to Chicago Public School science teachers interested in exploring the relationship between science and art within a museum setting. Throughout the year art historians, museum educators, conservators, artists, and scientists spoke to teachers on wide-ranging topics, from the physics of light and color to careers in science, art, and technology. Teachers used the information provided to create written guides for museum visits with their students and lesson plans for in-class instruction. The program's overarching goal was to show science teachers that an art museum may be used as a visual library to augment and to enrich established high-school science curricula in chemistry, earth science, or physics. With primary emphasis on the theme of light and color, the sessions, conceptually integrated with Illinois State Goals and Chicago Academic Standards, revealed how the scientific method is applied to the making, conserving, and exhibiting of art. This Web site is designed for all teachers, who are invited to make use of its contents as points of departure for their own explorations with their students of science, art, or technology.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 22,
+		"title": "Seurat and the Making of \"La Grande Jatte\"",
+		"year": "2004",
+		"link": "http://archive.artic.edu/seurat/",
+		"description": "A Sunday on La Grande Jatte—1884 is one of the most beloved, famous, and frequently reproduced paintings in the world. Seen by tens of millions of viewers since it entered the Art Institute's collection in 1924, the painting is an icon and a destination in itself for visitors. This exhibition of approximately 130 paintings and works on paper at once celebrates and sheds new light on Georges Seurat’s masterpiece by bringing together approximately 45 of the artist’s paintings and drawings related to the picture—from rich, yet delicate, conté crayon studies to oil sketches on small wood panels to nearly full-size paintings. The exhibition presents some of Seurat’s early works and shows the remarkable transformation of his colors and subject matter around 1883–85, when he started to explore the modern-life subjects, high-keyed colors, and broken brushwork of Impressionism. The exhibition features paintings by Claude Monet, Pierre Auguste Renoir, and Camille Pissarro, all painters whom Seurat greatly admired. These artists’ depictions of figures at the seaside, boating, or promenading through fields would resonate in Seurat’s unabashed tribute to modern leisure. Also included are works by Paul Signac and Lucien Pissarro, artists who shared similar interest in the pointillist technique and whose works were featured in the same exhibition that launched La Grande Jatte to a Parisian public.",
+		"exhibition_ids": [],
+		"agent_ids": [40810],
+		"artwork_ids": [27992]
+	},
+	{
+		"id": 23,
+		"title": "Charles Sheeler: Across Media",
+		"year": "2006",
+		"link": "http://archive.artic.edu/sheeler/",
+		"description": "Charles Sheeler (1883–1965) is recognized as one of the founders of American modernism and one of the master photographers of the twentieth century. His work is synonymous with precisionism, a crisp, clean, hard-edged style that reconciled cubist abstraction and the machine aesthetic of Marcel Duchamp with American subject matter. Trained in industrial drawing, decorative painting, and applied art at the School of Industrial Art in Philadelphia, and having studied at the Pennsylvania Academy of Fine Arts, Sheeler fully absorbed the lessons of each discipline and forged his own singular approach. Equally gifted as a photographer and painter, Sheeler analyzed the relationships between photography and traditional artistic methods such as painting and drawing with more rigor and intellectual discipline than perhaps any other American artist of his generation. Like a well-conceived scientific experiment, his practice of using fully realized photographs explicitly as the basis for paintings and drawings led to results that crystallized both the differences and similarities between them. The brilliance and scope of Sheeler’s approach is evident in the way his works in one medium often manage to function as autonomous objects while being inextricably linked to works in other media. Charles Sheeler: Across Media is the first exhibition to focus upon the complex, often paradoxical relationships between photography, film, drawing, and painting that were central to Sheeler’s art. A celebration of the formal clarity and beauty of the artist’s works, this exhibition draws upon a core of 50 masterpieces, including the magnificent painting Classic Landscape (1931), masterful drawings such as New York (1920) and Counterpoint (1949), and striking examples of the artist’s photographs. The works in this exhibition display Sheeler’s fascination with the visual effects of various media, evident not only in his photographs but also in his works created after them in other media.",
+		"exhibition_ids": [],
+		"agent_ids": [36631],
+		"artwork_ids": []
+	},
+	{
+		"id": 24,
+		"title": "The Silk Road and Beyond: Travel, Trade, and Transformation",
+		"year": "2006",
+		"link": "http://archive.artic.edu/silkroad/",
+		"description": "Silk Road Chicago is an unprecedented collaboration among the Art Institute of Chicago, the Chicago Symphony Orchestra, the City of Chicago Department of Cultural Affairs, and the Silk Road Project that explores the cross-cultural artistic legacy of the historic network of overland and maritime trade routes between China and the Mediterranean Sea. This collaboration occurs in the heart of Chicago, a city long renowned as a meeting place for people from all across the world.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 25,
+		"title": "So the Story Goes: Photographs by Tina Barney, Philip-Lorca diCorcia, Nan Goldin, Sally Mann, and Larry Sultan",
+		"year": "2006",
+		"link": "http://archive.artic.edu/stsg/",
+		"description": "Photography has always been the perfect medium for recording one's life. Contemporary artists Tina Barney, Philip-Lorca diCorcia, Nan Goldin, Sally Mann, and Larry Sultan use their daily experiences as their inspiration and offer viewers a glimpse into their private realities. Just as no two people keep the same diary, each of these five photographers has created highly personal, shifting, and intriguing visions of his or her life. Tina Barney spent fifteen years photographing her family and friends in their affluent domestic surroundings. Despite their familiarity, however, these photographs are not moments casually observed but rather are carefully orchestrated and executed under Barney’s direction. Philip-Lorca diCorcia selected various photographs he made over a period of more than twenty years, sequencing them to create a highly personal and idiosyncratic story of his life. For more than three decades, Nan Goldin’s photographs have unabashedly embraced the intensity of life, depicting all its messy emotions and events. Sally Mann turned to the strange and fantastic world of her children to make her notorious photographs in the late 1980s and early 1990s—now a wonderful contrast to her newest work, which depicts her children’s mature faces. Looking in the other direction generationally, Larry Sultan collaborated with his parents, photographing them in the post-corporate, retirement phase of their life while at the same time appropriating and repurposing old family snapshots and home videos.",
+		"exhibition_ids": [],
+		"agent_ids": [49197, 100238, 43762, 44721, 50210],
+		"artwork_ids": []
+	},
+	{
+		"id": 26,
+		"title": "Toulouse-Lautrec and Montmartre",
+		"year": "2005",
+		"link": "http://archive.artic.edu/toulouse_lautrec/",
+		"description": "Henri de Toulouse-Lautrec (1864–1901), one of the most popular and important painters of late-19th-century Paris, has not been the subject of a major exhibition since the large retrospective presented in London and Paris in 1991 and 1992. The National Gallery of Art and the Art Institute of Chicago have collaborated to organize Toulouse-Lautrec and Montmartre, an exhibition that places the artist's work at the peak of his career between 1888 and 1896 in conjunction with the work of other artists of the period. Toulouse-Lautrec and his contemporaries produced images that evocatively record the social geography of Montmartre, Paris' center of licit and illicit entertainment. Taking Montmartre as a state of mind as well as an environment, the exhibition reevaluates the decadent worldview of fin-de-siècle Paris. The focus is on several Montmartre establishments, including dance halls, the circus, and maisons closes (a French euphemism for brothels), and the installation integrates major avant-garde paintings, topographical canvases, and posters and caricatures of stars such as Aristide Bruant and Loïe Fuller. The aim of the exhibition is to place Toulouse-Lautrec in a wider cultural context and to include for comparison and contrast a selection of works by his contemporaries—including painters, printmakers, and poster artists—to evoke the life and art of fin-de-siècle Montmartre. This supporting cast includes such famous names as Degas, Van Gogh, and Picasso, but also less well-known artists such as Anquetin, Steinlen, and Casas, who also captured the spirit of the age. The inclusion of these works adds a new dimension to our understanding of Toulouse-Lautrec and his time.",
+		"exhibition_ids": [],
+		"agent_ids": [40869],
+		"artwork_ids": []
+	},
+	{
+		"id": 27,
+		"title": "Van Gogh and Gauguin: The Studio of the South",
+		"year": "2002",
+		"link": "http://archive.artic.edu/vangogh/",
+		"description": "The following images are accompanied by excerpts of letters written by Paul Gauguin and Vincent van Gogh between 1887 and 1889. The two artists wrote often to one another, friends, and relatives. Van Gogh's most frequent correspondent was his brother Theo, an art dealer in Paris in the late 1880s. The quotations reveal that both men were avid chroniclers of the subjects they painted: peasants, townspeople, landscapes, and houses. The painters' candid remarks about their own canvases, most of which had either just been completed or were still in progress, offer unique perspectives on the Arles period. They also refer to a number of works painted before and after the artists' time together.",
+		"exhibition_ids": [],
+		"agent_ids": [40610, 34611],
+		"artwork_ids": []
+	},
+	{
+		"id": 28,
+		"title": "Window on the West: Chicago and the Art of the New Frontier, 1890–1940",
+		"year": "2003",
+		"link": "http://archive.artic.edu/window/",
+		"description": "This exhibition combines an outstanding selection of the Art Institute's impressive holdings of American art with both public and private regional collections to examine Chicago’s role in defining the West through the visual arts, beginning at the turn of the century. As the gateway that linked the eastern and western economies and cultures, the city of Chicago came to typify modernity and to serve as an important locus for the industrial, technological, and artistic developments that helped shape 20th-century America. Ambitious businessmen, industrialists, and a hardworking population of laborers made the city the agricultural, livestock, and railroad hub of the nation. Chicago's economic leaders also became its most prominent art patrons, working together to establish powerful institutional networks. These leaders also supported artists who were drawn to subjects celebrating the American West. Without patrons such as Charles Hutchinson, Oscar Mayer, Carter Harrison, and George Harding, and institutions such as the Art Institute, the Newberry Library, the Field Museum, and the Santa Fe Railway, western art would have had little national recognition at the turn of the century. More than 100 works of art—paintings, sculpture, decorative arts, and works on paper—trace the ways in which class, ethnicity, and the city's often infamous politics determined collecting habits and how these, in turn, affected the images that artists used to depict the West, from the rugged cowboys and scouts of Frederic Remington to the abtract desert landscapes and still lifes of Georgia O'Keeffe.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 29,
+		"title": "360 Degrees: Art beyond Borders",
+		"year": "2008",
+		"link": "http://archive.artic.edu/360degrees/",
+		"description": "360 Degrees: Art beyond Borders brings together the Art Institute, the Chicago Symphony Orchestra, the Poetry Foundation, and the Chicago Council on Global Affairs for a globe-spanning array of concerts, lectures, performances, readings, and symposia. In tandem with exhibitions pulled from the Art Institute’s encyclopedic collection, leading museum directors, renowned musicians, international poets, and cultural leaders explore the role of art and culture around our ever-shrinking globe. This season will offer visitors the singular opportunity to see, hear, and consider the riches the world has to offer, all under one roof.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 30,
+		"title": "500 Ways of Looking at Modern",
+		"year": "2009",
+		"link": "http://archive.artic.edu/500ways/",
+		"description": "Poet Wallace Stevens may have had “Thirteen Ways of Looking at a Blackbird,” but this season the Art Institute of Chicago, Chicago Symphony Orchestra, Hubbard Street Dance Chicago, and Poetry Foundation come together to present 500 Ways of Looking at Modern, an yearlong exploration of what modern means. Join us every week for a series of exhibitions, performances, readings, family programs, talks, tours, and lectures as we look at “modern” from the perspective of artists, curators, dancers, museum directors, musicians, poets, and scholars. Each week offers a fresh way of looking. Many events are free of charge and occur on Thursdays at 6:00 in Fullerton Hall at the Art Institute of Chicago, except where noted.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 31,
+		"title": "Art Access: African Art",
+		"year": "2010",
+		"link": "http://archive.artic.edu/african/",
+		"description": "The arts of Africa are diverse and powerful vehicles for creative expression. Artistic traditions reach back 70,000 years to the time of rock art but are also vital, new, and ever-changing in the present world. The Art Institute’s collection, widely recognized for its fine quality, features noteworthy examples of wood sculpture, masks, ceramics, furniture, textiles, and beadwork from western, central, southern, and eastern Africa. (Art made north of the Sahara Desert, as in Egypt, is often kept in other areas of the museum.) While some of the art forms in the collection are no longer produced, others remain vitally important in community life. Although we do not know that names of many of the artists who created these objects, we should not assume they were anonymous.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 32,
+		"title": "Art Access: African American Art",
+		"year": "2010",
+		"link": "http://archive.artic.edu/africanamerican/",
+		"description": "The Art Institute of Chicago's collection of African American art provides a rich introduction to over 100 years of noted achievements in painting, sculpture, and printmaking. Ranging chronologically from the Civil War era to the Harlem Renaissance and from the civil-rights struggles following World War II to the contemporary period, these works constitute a dynamic visual legacy.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 33,
+		"title": "Art Access: American Art to 1900",
+		"year": "2010",
+		"link": "http://archive.artic.edu/american/",
+		"description": "The objects in the Art Institute of Chicago's collection of American art range from skillful portraits and finely crafted furniture of the colonial period to sculptures and landscape and genre paintings of the 19th and early 20th centuries. These objects reflect the changing values of the land and its people over two centuries that saw the establishment of national independence, a civil war, westward expansion, and the United States' development as an international power. Since its founding in the late 19th century, the Art Institute has collected and supported American art in numerous ways. A series of annual exhibitions initiated in 1888 created a showcase for the work of contemporary American artists until the 1980s. The 1893 World's Columbian Exposition in Chicago included an exhibition of American art that featured Winslow Homer's 1885 The Herring Net. This monumental work was then purchased by one of the museum's largest donors and American art advocates, Martin A. Ryerson. Among the Art Institute's donors, the Friends of American Art, a purchasing group founded in 1910 and still active, has worked to continually enhance the American collection.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 34,
+		"title": "Art Access: Indian Art of the Americas",
+		"year": "2010",
+		"link": "http://archive.artic.edu/ancientindian/",
+		"description": "For thousands of years, the southwestern portion of what is now the United States and the Mesoamerican and Andean regions had been inhabited by great civilizations preceded only by the cultures of the ancient Middle East and China. The Art Institute’s holdings of Amerindian art from 2000 B.C. to A.D. 1492 are widely recognized for their exceptional quality. The collection includes sculpture, ceramics, metalwork, and textiles (which are part of the department of textiles) created by Native Americans, the inhabitants of Teotihuacan, and the Olmec, Maya, and Aztecs of ancient Mesoamerica—the geographical area comprising New Mexico, Mexico, Guatemala, Belize, and parts of Honduras and El Salvador. The figurative art of ancient South American Indians, particularly those who lived in the mountainous Andean region of Ecuador, Peru, and Bolivia, is well represented in the collection.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 35,
+		"title": "Apostles of Beauty: Arts and Crafts from Britain to Chicago",
+		"year": "2009",
+		"link": "http://archive.artic.edu/apostlesbeauty/",
+		"description": "One of the most politically progressive and aesthetically compelling artistic movements of modern times, the Arts and Crafts movement sprang from a rebellion against industrial life and mass-produced objects yet eventually united hand and machine in the service of beauty. Through 187 handcrafted, organic works by the movement’s most notable practitioners, Apostles of Beauty traces the movement’s origins in Britain to its blossoming in Chicago’s ripe reform environment. Highlighting a wide range of objects, including ceramics, furniture, metalwork, paintings, photographs, and textiles, the exhibition—the first to explore Arts and Crafts in over three decades—allows visitors the rare opportunity to see the movement unfold in the city where it reached its full manifestation and where many of its treasures still reside.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 36,
+		"title": "Arms and Armor: Highlights from the Permanent Collection",
+		"year": "2010",
+		"link": "http://archive.artic.edu/arms-and-armor/",
+		"description": "Sound the trumpets! Highlights of the Art Institute’s spectacular collection of arms and armor are on special display. Featuring full suits, half suits, pole arms, cannons, and, for the first time at the Art Institute, a knight on horseback, this installation includes tapestries, paintings, and sculpture, bringing the viewer closer to the world where these objects might have been seen gleaming on the parade ground or heard clanging on the battlefield. Both young and old alike can marvel at the artistry and craftsmanship in these remarkable pieces of not-so-ancient history.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 37,
+		"title": "Art Access",
+		"year": "2010",
+		"link": "http://archive.artic.edu/arms-and-armor/",
+		"description": "Art Access examines artworks from the Art Institute's permanent collection to enrich visitors' understanding of their content, style, and historical context. The online resources are of special interest to educators, parents, students, and young people, and include lesson plans for the classroom and art projects for the home.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 38,
+		"title": "The Art of the Visit",
+		"year": "2010",
+		"link": "http://archive.artic.edu/artvisit/",
+		"description": "This summer, there are an infinite number of ways to design your own museum visit, but a trip to Henri Cartier Bresson: The Modern Century should definitely be at the top of the list. Don’t miss the nearly 300 prints from the most influential photographer of the 20th century and the master of both the timely and the timeless. There are more ways to experience the museum this summer; take a look at some of our favorite summer Art Institute visits.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 39,
+		"title": "Avant-Garde Art in Everyday Life",
+		"year": "2011",
+		"link": "http://archive.artic.edu/avant-garde/",
+		"description": "Nearly one century ago, progressive artists in central and eastern Europe demanded that true art revolutionize the objects and habits of daily life. Their new ideas responded to the innovative rhythms and images of the industrial marketplace, the nascent mass media, and urban popular culture. For the first time in the museum's history, this vibrant and critically important moment in east-central European modernism is comprehensively explored in this exhibition of nearly 300 works of photography, photomontage, and photographically illustrated posters and books, as well as rare examples of porcelain and glassware by six of the period's most influential international artists.",
+		"exhibition_ids": [],
+		"agent_ids": [44735, 70823, 15415, 25278, 80303, 85745],
+		"artwork_ids": []
+	},
+	{
+		"id": 40,
+		"title": "Belligerent Encounters: Graphic Chronicles of War and Revolution, 1500–1945",
+		"year": "2011",
+		"link": "http://archive.artic.edu/b-encounters/",
+		"description": "Wars and revolutions have been recorded in words and images for millennia, commemorated in architecture, sculpture, mosaics, frescoes, and tapestries. In Europe the advent of printing and printmaking in the 15th century meant that the chronicling of historical and contemporary conflicts was possible on a scale never before seen. Woodcuts, engravings, etchings, and lithographs depicting wars and revolutions can be seen as ancestors to the kinds of digital technologies that made this year’s “Arab Spring” a global event. Mainly drawn from the permanent collection of the Art Institute of Chicago’s Department of Prints and Drawings, Belligerent Encounters includes European and American prints, posters, and drawings spanning almost 500 years of war and revolution. Some images—by artists Jacques Callot, Albrecht Dürer, and Francisco de Goya— are quite famous; others by Otto Dix and Édouard Manet may be familiar to some viewers; and a number by Frank Brangwyn, Albin Egger-Lienz, Heinrich Hoerle, and Jan Poortenaar will be unknown to many people. While some of the works on display were conceived to stand on their own, a number come from thematic portfolios whose contents were intended to be viewed together. These include Max Beckmann’s Hell (Die Hölle), 1919; Otto Dix’s War (Der Krieg), 1924; and Heinrich Hoerle’s Cripples Portfolio (Die Krüppel), 1920.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 41,
+		"title": "Benin—Kings and Rituals: Court Arts from Nigeria",
+		"year": "2011",
+		"link": "http://archive.artic.edu/benin/",
+		"description": "Spectacular and sophisticated, the royal sculptures and regalia from the West African Kingdom of Benin are among the continent’s most acclaimed works of art. This landmark exhibition, representing six centuries of Benin's rich artistic heritage, brings together more than 220 of these masterworks from collections around the world and makes its sole North American stop at the Art Institute of Chicago. Planned with the most prominent scholars of Benin art, history, and culture, as well as the cooperation of reigning Oba Erediauwa and the National Commission for Museums and Monuments, Nigeria, Benin—Kings and Rituals brings international attention and new perspectives to Benin art and history.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 42,
+		"title": "Beyond Golden Clouds: Japanese Screens from the Art Institute of Chicago and the Saint Louis Art Museum",
+		"year": "2009",
+		"link": "http://archive.artic.edu/beyondgoldenclouds/",
+		"description": "Japanese folding screens have captivated the imagination of the West since the 16th century, when Europeans had their first glimpse. Across their expansive decorative surfaces, the realities and imaginations of artists over hundreds of years have been charted with bright mineral pigments and precious gold and silver. More so than smaller painting formats, the screen is the canvas upon which artists have historically realized their most expansive visions, which is why they are so often career-defining masterpieces. Beyond Golden Clouds celebrates the full range of the screen format, made possible by the collaboration of the Art Institute and the Saint Louis Art Museum. Unique among past shows, this exhibition displays works dating from as early as the 16th century to contemporary screens of the past decade, and features various media, including traditional paper and silk as well as stoneware and varnish. The exhibition, which will be shown at both museums, includes a total of 32 works of art. During the week of August 10–14, several works in the exhibition will be rotated out and replaced by others, offering the chance to experience the exhibition anew.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 43,
+		"title": "Henri Cartier-Bresson: The Modern Century",
+		"year": "2010",
+		"link": "http://archive.artic.edu/cartier-bresson/",
+		"description": "The two most important developments in photography in the first half of the 20th century were the emergence of lasting artistic traditions and the rise of mass-circulation picture magazines. Henri Cartier-Bresson (1908–2004) was a leading figure in both domains. In the early 1930s, he helped to define photographic modernism, using a handheld camera to snatch beguiling images from fleeting moments of everyday life. After World War II, he turned to photojournalism, and the magic and mystery of his early work gave way to an equally uncanny clarity and completeness.",
+		"exhibition_ids": [],
+		"agent_ids": [33885],
+		"artwork_ids": []
+	},
+	{
+		"id": 44,
+		"title": "A Case for Wine: From King Tut to Today",
+		"year": "2009",
+		"link": "http://archive.artic.edu/casewine/",
+		"description": "Continuing the celebratory summer mood initiated by the historic Modern Wing opening, this exhibition marks the first time a fine arts museum has explored art through the vine. Wine has played a role at the Art Institute of Chicago almost since the museum’s inception in 1879. A major European expedition to acquire classical antiquities for the fledgling collection in 1889 resulted in the purchase of several pots originally used for serving and storing wine. In 1890 the Art Institute made its first serious foray into the realm of Old Master paintings with the purchase of 12 Netherlandish works, including Jan Steen’s Family Concert which shows guests drinking out of distinctive Dutch wine flutes while listening to music. In 1927 the Art Institute purchased half of the Jacques Mühsam Collection of European glass with funds provided by Julius and Augusta Rosenwald, providing the museum with superlative examples of wineglasses from the 15th to the 19th century. This cross-departmental exhibition presents nearly 300 wine-themed objects, including selected loans from other institutions and private collectors, tracing this beloved libation’s surprisingly significant role as a stimulus and source of artistic endeavor from ancient times through the modern day.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 45,
+		"title": "Art Access: Chinese Art",
+		"year": "2010",
+		"link": "http://archive.artic.edu/chinese/",
+		"description": "The arts of China are as varied and complicated as its history. What we now refer to as China covers a vast geographical area that has been controlled, conquered, and divided by a succession of different peoples over the centuries. The Art Institute’s collection of Chinese art includes objects that span nearly five millennia, ranging from the earliest evidence of Chinese stonework from the Neolithic period through elegant personal accessories of the late Bronze Age as well as a remarkable collection of ceramic tomb figures that exemplify the highest level of mortuary sculpture from the Han through Tang dynasties. The Art Institute’s collection reflects China’s changing history, religion, and culture. In it one can trace the development of Confucianism, Buddhism, and Taoism in China, changes in imperial rule, and technological advances in the Art Institute’s works.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 46,
+		"title": "Cy Twombly: The Natural World, Selected Works 2000–2007",
+		"year": "2009",
+		"link": "http://archive.artic.edu/cytwombly/",
+		"description": "The distinctive practice of Cy Twombly merges drawing, painting, writing, and symbolic gesture in the pursuit of a direct, intuitive form of expression. His inimitable visual language of scrawls, drips, and denotations is tensely balanced between abstract and pictorial impulses. The more than 30 works in the Modern Wing's Abbott Galleries inaugural exhibition speak from the artist’s enduring concern with the natural world—specifically seascape, landscape, light, and flora—themes that have become increasingly prevalent in recent years. Equal parts commanding and muscular, tentative and languorous, the new work testifies to the ongoing creative vitality of one of the greatest American artists of our time.",
+		"exhibition_ids": [],
+		"agent_ids": [37052],
+		"artwork_ids": []
+	},
+	{
+		"id": 47,
+		"title": "The Divine Art: Four Centuries of European Tapestries",
+		"year": "2008",
+		"link": "http://archive.artic.edu/divineart/",
+		"description": "For the first time in the history of the Art Institute, nearly all of its unparalleled tapestry collection is featured in a spectacular presentation. After decades in storage, these monumental artworks were subject to one of the largest tapestry conservation projects ever undertaken by a private workshop. Freshly conserved to their full splendor, The Divine Art's 70 masterpieces will only be on view for two months and then will return to storage, so be sure to catch these majestic works at their best—dazzling the eye beyond expectation.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 48,
+		"title": "Fashioning the Object: Bless, Boudicca, Sandra Backlund",
+		"year": "2012",
+		"link": "http://archive.artic.edu/fashioning-object/",
+		"description": "Bless, Boudicca, and Sandra Backlund are among the most visionary fashion designers working today. Harnessing a conceptual and intellectual approach to design, their practices are located firmly within the fashion industry, yet their work is not driven purely by market forces. Instead, they are aligned with the avant-garde tradition of designers who sought to transform the landscape of fashion through pieces embedded with visual narratives drawn from daily life, including early 20th-century notables Elsa Schiaparelli and Cristóbal Balenciaga, later luminaries André Courrèges and Mary Quant, and more recent creators such as Martin Margiela and Hussein Chalayan. Like these designers, Bless, Boudicca, and Backlund view fashion as a critical forum for dialogue and exchange, as well as an armature for understanding our place in the world. However, they endeavor to move beyond previous practices by drawing on an even greater spectrum of ideas inspired by disciplines as diverse as fine art, performance, design, and architecture to create work that responds to the social, political, and cultural environment and explores the creative process.",
+		"exhibition_ids": [],
+		"agent_ids": [111997],
+		"artwork_ids": []
+	},
+	{
+		"id": 49,
+		"title": "Bertrand Goldberg: Architecture of Invention",
+		"year": "2011",
+		"link": "http://archive.artic.edu/goldberg/",
+		"description": "Architect Bertrand Goldberg’s dramatic sculptural forms and innovative engineering have long been recognized as seminal contributions to the built environment of Chicago, most notably his groundbreaking design for Marina City (1959–1967). This exhibition, the first comprehensive retrospective of the architect’s work, positions Goldberg’s career within a broad historical framework that extends from his experimental origins at the Bauhaus in Germany and the 1933 Century of Progress Exposition to his visionary plans for the postwar American city.",
+		"exhibition_ids": [],
+		"agent_ids": [31299],
+		"artwork_ids": []
+	},
+	{
+		"id": 50,
+		"title": "Cézanne's Harlequin",
+		"year": "2011",
+		"link": "http://archive.artic.edu/harlequin/",
+		"description": "Harlequin is one of the most recognizable and enduring figures of the Commedia dell'Arte, an improvised form of theater performed by masked actors that originated in the mid-16th century in northern Italy but soon spread to the streets and courts of Europe. Commedia dell'Arte troupes were especially popular at the French court, where their performances were enjoyed for nearly two centuries. These shows involved drama, comic skits, and acrobatic routines not necessarily linked to any one story. Stock characters were identified by specific masks, costumes, and accessories. Although these have changed little today, the personalities of the characters have evolved. Harlequin, for example, was originally an oafish but agile figure from the Italian region of Bergamo, whose poverty was symbolized by a costume of multicolored patches. By the late 18th century, he had developed into a quick-witted trickster. His diamond-patterned suit now referred to his physical agility and to his multifaceted nature, at once cunning and foolish, shrewd and absurd.",
+		"exhibition_ids": [],
+		"agent_ids": [40482],
+		"artwork_ids": []
+	},
+	{
+		"id": 51,
+		"title": "Watercolors by Winslow Homer: The Color of Light",
+		"year": "2008",
+		"link": "http://archive.artic.edu/homer/",
+		"description": "Winslow Homer, who created some of the most breathtaking and influential images in the history of watercolor, was, famously, a man who received almost no formal artistic education. Acknowledged in his own day as America’s most original and independent watercolorist, he had an intuitive relationship with this challenging yet flexible medium. Between 1873 and 1905, he created nearly 700 watercolors. A staple of his livelihood, watercolors were also his classroom, a way for him to learn through experimentation—with color theory, composition, materials, optics, style, subject matter, and technique—far more freely than he could in the more public and tradition-bound arena of oil painting. This exhibition provides an intimate look at how one of America’s most celebrated painters discovered for himself, over a period of more than three decades, the secrets of the watercolor medium. Watercolors by Winslow Homer: The Color of Light—which was organized by the Art Institute and will be shown exclusively in Chicago—is the largest exhibition of Homer’s watercolors to be presented in more than two decades. It features 25 rarely exhibited Homer watercolors from the Art Institute’s collection, set in the context of watercolors, drawings, prints, and oil paintings on loan from other museums and private collections. A total of 130 works tells the story of Winslow Homer’s development as an artist,  presenting an intimate look at his watercolor practice, his techniques and materials, and the way he adapted his approach and his color palette to the many different natural environments in which he painted, from the rocky, deserted coast of Maine to the lush habitats of the Adirondack Mountains and the Caribbean. The exhibition also examines the way Homer’s watercolors relate to his work in oil and other media, revealing the central role the medium played in helping him to achieve the fresh, immediate, light-filled scenes that have become his most enduring legacy to American art.",
+		"exhibition_ids": [],
+		"agent_ids": [34988],
+		"artwork_ids": []
+	},
+	{
+		"id": 52,
+		"title": "Edward Hopper",
+		"year": "2008",
+		"link": "http://archive.artic.edu/hopper/",
+		"description": "Edward Hopper (1882–1967), creator of art that novelist John Updike described as \"calm, silent, stoic, luminous, and classic,\" is one of the most enduring and popular American painters of the 20th century. A pivotal artist who was intensely private, Hopper made solitude and introspection important themes in his paintings, which have been celebrated as a part of the very grain and texture of the American experience.",
+		"exhibition_ids": [],
+		"agent_ids": [34996],
+		"artwork_ids": []
+	},
+	{
+		"id": 53,
+		"title": "Hyperlinks: Architecture and Design",
+		"year": "2010",
+		"link": "http://archive.artic.edu/hyperlinks/",
+		"description": "Our understanding of the world is based on connecting and interpreting ideas according to associations and the juxtaposition of information within a given context. Appropriating the ambidextrous term, hyperlinks, this exhibition of collaborative experimentation suggest a new paradigm shift that we see occurring across the fields of architecture and design based on a fluid exchange between disciplines. The linking or accumulation of data helps us form a complex picture of daily life leading to greater interaction, engagement, and understanding of our place in the world. By fostering rigorous, cross-disciplinary relations, architects and designers are carving out new avenues for experimentation that are helping shape insightful solutions to urgent issues such as our well-being and our health and safety, ultimately enhancing the quality of our daily lives. Not always intended as ends in themselves, however, multi-disciplinary practices can also be used as experiments into under-explored issues meant to motivate reflection on the values, mores, and practices that are often overlooked in society. Discover the innovative ways architects and designers are probing beyond the confines of their fields to explore new directions and innovative solutions to current cultural conditions.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 54,
+		"title": "Art Access: Impressionist and Post-Impressionist Art",
+		"year": "2010",
+		"link": "http://archive.artic.edu/impressionism/",
+		"description": "In the late 19th century, the Impressionists defied academic tradition in French art with their emphasis on modern subjects, sketchlike technique, and practice of painting in the open air with pure, high-keyed color. In the wake of the Impressionist revolution, a new generation of artists pushed the basic pictorial components of color, line, and composition into new psychological and formal territories, influencing many abstract artists of the early 20th century. Thanks to such pioneering donors as Mrs. Potter Palmer and Frederic Clay Bartlett, the Art Institute of Chicago houses one of the largest and most significant collections of Impressionist and Post-Impressionist art in the world.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 55,
+		"title": "Art Access: Indian, Himalayan, and Southeast Asian",
+		"year": "2010",
+		"link": "http://archive.artic.edu/indian/",
+		"description": "The Art Institute's collection of art from India, the Himalayas, and Southeast Asia includes more than 1,900 objects that span nearly five millennia. Indian and Southeast Asian sculpture and Indian and Persian miniature paintings are among the museum's archaeologically and artistically significant works. As objects of worship or accounts of history, these works present a fascinating picture of the region's religions, including Hinduism, Buddhism, and Islam, and its governments and politics.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 56,
+		"title": "The Irving Penn Archives at the Art Institute of Chicago",
+		"year": "2010",
+		"link": "http://archive.artic.edu/irvingpennarchives/",
+		"description": "Irving Penn (1917–2009) was one of the most important and influential photographers of the 20th century. In a career that spanned almost seventy years, Penn worked on professional and artistic projects across multiple genres. He was a master printer of both black-and-white and color photography and published more than nine books of his photographs and two of his drawings during his lifetime. In 1995, Irving Penn donated his archive to the Art Institute of Chicago. With that gift, the museum became one of the world's leading repositories for photographs by Penn and material about his life and work. Housed in two locations—the Ryerson and Burnham Archives and the Department of Photography—the rich, diverse holdings are united for the first time on this website, creating pathways into Penn's multi-faceted career.",
+		"exhibition_ids": [],
+		"agent_ids": [36169],
+		"artwork_ids": []
+	},
+	{
+		"id": 57,
+		"title": "Kings, Queens, and Courtiers: Art in Early Renaissance France",
+		"year": "2011",
+		"link": "http://archive.artic.edu/kings-queens/",
+		"description": "Discover splendid tapestries, painted portraits, altarpieces, stained glass, exquisite illuminated manuscripts, and monumental sculpture made to express the power and prestige of the kings of France and their court. Kings, Queens, and Courtiers: Art in Early Renaissance France highlights a fascinating period in French art in the years around 1500, when late Gothic exuberance encountered the energy and harmony of the Italian Renaissance in an elegant fusion of artistic styles. The Art Institute of Chicago invites you to enter an enchanting world of chivalry, royal symbolism, and the rediscovered glamour of antiquity in this stunning exhibition’s only North American venue.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 58,
+		"title": "Roy Lichtenstein: A Retrospective",
+		"year": "2012",
+		"link": "http://archive.artic.edu/lichtenstein/",
+		"description": "This exhibition on the art of Roy Lichtenstein (American, 1923–1997) included nearly 170 works made between 1950 and 1997, focusing on the artist's achievements in painting, sculpture, and drawing. It was the first major retrospective to broadly examine his art since his death.",
+		"exhibition_ids": [],
+		"agent_ids": [35480],
+		"artwork_ids": []
+	},
+	{
+		"id": 59,
+		"title": "Light Years: Conceptual Art and the Photograph, 1964–1977",
+		"year": "2011",
+		"link": "http://archive.artic.edu/lightyears/",
+		"description": "Among its many accomplishments, the pioneering movement known broadly as Conceptual Art succeeded in bringing photography definitively into the mainstream of contemporary art. Artists such as Ed Ruscha, Bruce Nauman, John Baldessari, Eleanor Antin, and Sigmar Polke took up the production of new photographs—as opposed to using found images from mass media and consumer culture like the Pop artists—and placed photography firmly on an equal basis with avant-garde painting and sculpture. They did this by exploiting the photographic image in every way possible: in books, slides, canvases, films, and room-size installations. The results were liberating for all the arts and made it possible for contemporary art to become a field without a medium. Light Years: Conceptual Art and the Photograph, 1964–1977, the very first museum exhibition to examine the pathbreaking role photography played in these critical years, brings to the fore work from the Italian group Arte Povera as well as artists from Eastern Europe who are rarely shown in the United States, and includes many pieces that have not been seen in decades by such major artists as Mel Bochner, Tony Conrad, Michael Heizer, Gordon Matta-Clark, and Emilio Prini. More than 140 works by 57 artists fill Regenstein Hall in an exhibition that will only be seen in Chicago.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 60,
+		"title": "Looking after Louis Sullivan: Photographs, Drawings, and Fragments",
+		"year": "2010",
+		"link": "http://archive.artic.edu/louissullivan/",
+		"description": "In the 1950s, the photographers John Szarkowski, Aaron Siskind, and Richard Nickel embarked on in-depth photographic explorations of structures designed by the renowned architect Louis Sullivan, whose commercial buildings and theaters of the 1880s and early 1890s broke with historical precedents, displaying a radical, organic fusion of formal and functional elements. Attracted to Sullivan’s renegade American spirit and uncompromising values, Szarkowski, Siskind, and Nickel also found inspiration in the play of light over his ornamented facades and the dynamism of his buildings within the bustling city of Chicago. The interest of these photographers came at a critical moment, when many of Sullivan’s most important structures were being threatened with demolition in the service of urban renewal; their photographs illustrated the fragile existence of his architecture and provided new impetus for its preservation. Looking after Louis Sullivan explores how these photographers employed the camera to document and interpret Sullivan’s architecture and, in the process, helped shape his legacy. The exhibition is drawn from the permanent collections of the Department of Photography and the Department of Architecture and Design at the Art Institute of Chicago. It was planned in concert with the exhibition Louis Sullivan's Idea (June 26–November 28, 2010) at the Chicago Cultural Center, in which Chicago artist Chris Ware and cultural historian Tim Samuelson present an installation of photographs, drawings, documents, and artifacts that portrays Sullivan's life, writings, and architectural works in the context of his time and original creative intent.",
+		"exhibition_ids": [],
+		"agent_ids": [32803],
+		"artwork_ids": []
+	},
+	{
+		"id": 61,
+		"title": "John Marin's Watercolors: A Medium for Modernism",
+		"year": "2011",
+		"link": "http://archive.artic.edu/marin/",
+		"description": "During his lifetime, American modernist John Marin was the country’s most celebrated artist. His improvisational approach to color, paint handling, perspective, and movement situated him as a leading figure in modern art and helped influence the Abstract Expressionist movement. This exhibition—the first to present the Art Institute of Chicago’s phenomenal collection of the artist's work in its entirety—ranges from early images rooted in traditional practice to more personal and experimental compositions, showcasing how Marin, in the process of reinventing watercolor, transformed American painting.",
+		"exhibition_ids": [],
+		"agent_ids": [35606],
+		"artwork_ids": []
+	},
+	{
+		"id": 62,
+		"title": "Matisse: Radical Invention, 1913–1917",
+		"year": "2010",
+		"link": "http://archive.artic.edu/matisse/",
+		"description": "Matisse: Radical Invention, 1913–1917 examines what is without question the most innovative, momentous, and yet little-studied time in the artist’s long career. Nearly 120 of his most ambitious and experimental paintings, sculptures, drawings, and prints from the period are on view. Matisse himself acknowledged the significance of these years when he identified two paintings, Bathers by a River and The Moroccans, as among his most pivotal. These monumental canvases from the collections of the Art Institute of Chicago and the Museum of Modern Art, New York, inspired the collaborative work of this exhibition and serve as major touchstones within it. This is the first exhibition to offer an in-depth investigation of Matisse’s art from this time, revealing information uncovered through extensive new art-historical, archival, and technical research.",
+		"exhibition_ids": [],
+		"agent_ids": [35670],
+		"artwork_ids": []
+	},
+	{
+		"id": 63,
+		"title": "Art Access: Modern and Contemporary Art",
+		"year": "2010",
+		"link": "http://archive.artic.edu/modern/",
+		"description": "The Art Institute's collection of modern and contemporary art is one of the most comprehensive of any museum and includes two icons of 20th-century American art: Grant Wood's American Gothic and Edward Hopper's Nighthawks. The museum has a longstanding commitment to contemporary art, reflected in the 1913 decision to exhibit the Armory Show, the largest modernist, mostly European, art exhibition ever presented in America. The Art Intitute’s extensive galleries present examples of abstraction from the early years of the 20th century by Vasily Kandinsky, Henri Matisse, and Pablo Picasso to challenging contemporary works in a variety of media by artists such as Katharina Fritsch, Bruce Nauman, and Cindy Sherman.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 64,
+		"title": "The Modern Wing",
+		"year": "2009",
+		"link": "http://archive.artic.edu/modernwing/",
+		"description": "Designed by Pritzker Prize–winning architect Renzo Piano, the Modern Wing is the new home for the museum’s collection of 20th- and 21st-century art. A decade in the making, this 264,000 square-foot building makes the Art Institute the second-largest art museum in the United States. The building houses the museum’s world-renowned collections of modern European painting and sculpture, contemporary art, architecture and design, and photography. The extraordinary scope and quality of these collections are a revelation; each displayed more comprehensively than ever before. The Modern Wing allows the Art Institute to take its rightful place as one of the world’s great collections of modern and contemporary art.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 65,
+		"title": "Becoming Edvard Munch: Influence, Anxiety, and Myth",
+		"year": "2009",
+		"link": "http://archive.artic.edu/munch/",
+		"description": "Who was the man behind The Scream and other iconic images of modern anxiety and despair? Two potent myths continue to define our understanding of Norwegian artist Edvard Munch: first, that he was mentally unstable, as these images suggest, and second, that the main influence on his distinctive style were his French and German contemporaries and not his fellow Scandinavians. Becoming Edvard Munch: Influence, Anxiety, and Myth challenges and overturns these myths. By considering Munch’s paintings, prints, and drawings in relation to his European peers—including James Ensor, Vincent van Gogh, and Claude Monet—surprising connections are revealed. See the man behind the myth.",
+		"exhibition_ids": [],
+		"agent_ids": [44014],
+		"artwork_ids": []
+	},
+	{
+		"id": 66,
+		"title": "Art Access: Renaissance and Baroque Art",
+		"year": "2010",
+		"link": "http://archive.artic.edu/renaissance/",
+		"description": "During the Middle Ages, the Catholic Church’s emphasis on the spiritual realm discouraged realistic representation of the physical world in art. The Renaissance saw the reemergence, or rebirth, of realistic portrayals of nature and the human figure by artists inspired by ancient Greek and Roman art and culture. Early Renaissance works of the 14th and 15th centuries show lingering medieval features, while Renaissance masterpieces of the late 15th and early 16th century reveal the harmonious proportions and balanced compositions associated with the ideals of the Classical world. Art of the Baroque period of the 17th century embodied a dynamic energy that mirrored the restless spirit of its age. In painting, dramatic images of faith driven by the Catholic Church’s Counter-Reformation contrast with lively presentations of the everyday, secular world commonly produced in the Protestant north. The Art Institute's collection of Renaissance and Baroque objects dates back to the earliest years of the museum's history. It has been enhanced by the contributions of major collectors such as the Deering family and continues to grow today.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 67,
+		"title": "Rethinking Typologies: Architecture and Design from the Permanent Collection",
+		"year": "2012",
+		"link": "http://archive.artic.edu/rethink-typologies/",
+		"description": "From the development of the modern house to the emergence of information design, each era faces the challenge of adapting conventional ideas to new technology, social needs, and cultural ideals. This exhibition takes a broad historical view of the innovations that have shaped contemporary life and the built environment through suites of work devoted to historical and emerging typologies in architecture and design. Spanning the 20th and 21st centuries, these thematic suites highlight important recent acquisitions and areas of strength in the permanent collection of the Department of Architecture and Design at the Art Institute of Chicago.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 68,
+		"title": "Art Access: Rococo to Realist Art",
+		"year": "2010",
+		"link": "http://archive.artic.edu/rococo/",
+		"description": "From the early 18th to the mid-19th century, dynamic transformations in European art mirrored turbulent political and social changes, including revolutions, imperial conquests, and the emergence of the modern industrial age. The refined, decorative aesthetics of Rococo art mirrored an aristocracy engaged in the pursuit of pleasure prior to the French Revolution of 1789. Neoclassicism, the severe style embraced by the revolutionaries who did away with France’s monarchy, was grounded in ancient Greek and Roman culture and was often used to reinforce political messages. After the fall of the short-lived empire of Napoléon Bonaparte, Romantic artists of the early 19th century focused more keenly on exotic and turbulent themes, often executed with loose and colorfully bold brushwork. Later in the century, proponents of the newer Realist movement turned to sober depictions of working people as the Industrial Revolution swept through Europe. Some Realists turned to nature, using landscape to convey a sense of direct experience of a specific place and time. The movements from Rococo to Realism flourished extensively in France but were international in scope—as demonstrated by artists such as John Constable (England), Francisco Goya (Spain), and Giovanni Tiepolo (Italy). Thanks to the patronage of local collectors of the late 19th and early 20th centuries, including Mr. and Mrs. Martin A. Ryerson and Mr. and Mrs. Henry Field, the Art Institute of Chicago has developed an extensive collection of works from these critical chapters in the history of art.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 69,
+		"title": "Ryerson & Burnham Library Exhibitions, 2008",
+		"year": "2008",
+		"link": "http://archive.artic.edu/ryerson-2008/",
+		"description": "",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 70,
+		"title": "Ryerson & Burnham Library Exhibitions, 2009",
+		"year": "2009",
+		"link": "http://archive.artic.edu/ryerson-2009/",
+		"description": "",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 71,
+		"title": "Ryerson & Burnham Library Exhibitions, 2010",
+		"year": "2010",
+		"link": "http://archive.artic.edu/ryerson-2010/",
+		"description": "",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 72,
+		"title": "Ryerson & Burnham Library Exhibitions, 2011",
+		"year": "2011",
+		"link": "http://archive.artic.edu/ryerson-2011/",
+		"description": "",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 73,
+		"title": "Ryerson & Burnham Library Exhibitions, 2012",
+		"year": "2012",
+		"link": "http://archive.artic.edu/ryerson-2012/",
+		"description": "",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 74,
+		"title": "Ryerson & Burnham Library Exhibitions, 2013",
+		"year": "2013",
+		"link": "http://archive.artic.edu/ryerson-2013/",
+		"description": "",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 75,
+		"title": "Ryerson & Burnham Library Exhibitions, 2014",
+		"year": "2014",
+		"link": "http://archive.artic.edu/ryerson-2014/",
+		"description": "",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 76,
+		"title": "Ryerson & Burnham Library Exhibitions, 2015",
+		"year": "2015",
+		"link": "http://archive.artic.edu/ryerson-2015/",
+		"description": "",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 77,
+		"title": "Silk Road, Resources for Teachers",
+		"year": "2006",
+		"link": "http://archive.artic.edu/silkroad/",
+		"description": "Welcome! This Web site describes a year of exciting programming at the Art Institute of Chicago about the Silk Road, an ancient network of trade routes that extended across Asia, linking powerful civilizations such as Rome and China. The Silk Road is also a metaphor for cultural exchange among people of diverse societies, distant places, and different religions. During the Silk Road Chicago celebration in 2006–07, the Art Institute hosted a series of special exhibitions, performances, and student and teacher programs celebrating the art and music of the Silk Road.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 78,
+		"title": "The Last Harvest: Paintings of Rabindranath Tagore",
+		"year": "2012",
+		"link": "http://archive.artic.edu/tagore/",
+		"description": "There is no bigger cultural icon in India and Bangladesh than Rabindranath Tagore (1861–1941). A renowned novelist, poet, musician, and philosopher—the first non-European to be awarded the Nobel Prize for Literature in 1913—Tagore is responsible for shaping the modern Indian identity. While perhaps lesser known, his paintings also demonstrate his profound cultural impact. Sixty-one of these impressive works, drawn from three collections in India, come together in this exhibition and offer a glimpse into the visionary mind of this influential thinker.",
+		"exhibition_ids": [],
+		"agent_ids": [58800],
+		"artwork_ids": []
+	},
+	{
+		"id": 79,
+		"title": "Windows on the War: Soviet TASS Posters at Home and Abroad, 1941–1945",
+		"year": "2011",
+		"link": "http://archive.artic.edu/tass/",
+		"description": "Seventy years ago, in the immediate aftermath of the German invasion of the Soviet Union, a group of artists and writers in Moscow joined forces under the auspices of the TASS News Agency to help reassure and rouse the Soviet citizenry by producing large-scale posters—TASS Windows. Despite the brutal regime of Joseph Stalin, creativity flourished among these diverse artists and writers as they attempted to find purpose while working in and for a totalitarian state. Producing a poster design for nearly every day of the war with a labor-intensive technical virtuosity previously unheard of in poster production, these artists committed themselves to the defense of the motherland. In collaboration with the Ne boltai! Collection of 20th-century propaganda, Windows on the War marks the first time these enormous handmade posters have been displayed in the United States since World War II, bringing to the fore many Soviet artists little known in this country.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 80,
+		"title": "The Three Graces",
+		"year": "2011",
+		"link": "http://archive.artic.edu/three-graces/",
+		"description": "Beyond their capacity to preserve and evoke memories, snapshots of celebrations, vacations, and gatherings of family and friends are accumulated with the aim of constructing a personal history and preserving it for future generations. When these photographs are discarded or displaced—becoming anonymous—they are transformed into cultural artifacts that collectively trace a history of private image making and evolving habits of self-presentation before the camera. The snapshots presented here are such artifacts, presumably taken by nonprofessionals and saved for a time. Disowned and scattered, they were plucked from flea markets, shops, and galleries by New York collector Peter J. Cohen. Noticing the frequency of photographs featuring trios of women, he named the group after the Three Graces, an iconic motif in Western art.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 81,
+		"title": "Playing with Pictures: The Art of Victorian Photocollage",
+		"year": "2009",
+		"link": "http://archive.artic.edu/victphotocoll/",
+		"description": "Collage is commonly thought of as a modern art form, but the act of “playing with pictures” has a long, rich, and surprising history. Sixty years ahead of the avant-garde—and more than a century before Photoshop—aristocratic Victorian women were already experimenting with photocollage. This world-premiere exhibition is the first to comprehensively examine this little-known phenomenon, presenting many eye-opening works that have rarely—and in many cases never—before been displayed or reproduced. See Playing with Pictures at the Art Institute before it travels to the Metropolitan Museum of Art in New York and the Art Gallery of Ontario in Toronto. It might change the way you look at the Victorian age.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 82,
+		"title": "Making Place: The Architecture of David Adjaye",
+		"year": "2015",
+		"link": "http://archive.artic.edu/adjaye/",
+		"description": "With over 50 built projects across the world, David Adjaye is rapidly emerging as a major international figure in architecture and design. Rather than advancing a signature architectural style, Adjaye’s structures address local concerns and conditions through both a historical understanding of context and a global understanding of modernism. The first comprehensive museum survey devoted to Adjaye, this exhibition offers an in-depth overview of the architect’s distinct approach and visual language with a dynamic installation design conceived by Adjaye Associates.",
+		"exhibition_ids": [],
+		"agent_ids": [114375],
+		"artwork_ids": []
+	},
+	{
+		"id": 83,
+		"title": "Historical Exhibitions: The Armory Show",
+		"year": "2013",
+		"link": "http://archive.artic.edu/armoryshow/",
+		"description": "2013 marks the 100th anniversary of the International Exhibition of Modern Art, better known today as the Armory Show. A landmark event in the history of art, this monumental exhibition showcased the works of the most radical European artists of the day alongside those of their progressive American contemporaries. Presented differently at each of its three venues—New York (69th Regiment Armory, February 17–March 15), Chicago (Art Institute of Chicago, March 24–April 16), and Boston (Copley Society, April 23–May 14)—the exhibition introduced a broad spectrum of the American public to the visual language of European modernism, forever changing the aesthetic landscape for American artists, collectors, critics, and arts institutions.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 84,
+		"title": "Art Throb",
+		"year": "2015",
+		"link": "http://archive.artic.edu/art-throb/",
+		"description": "Who's your #ArtThrob?",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 85,
+		"title": "Art & Appetite: American Painting, Culture, and Cuisine",
+		"year": "2013",
+		"link": "http://archive.artic.edu/artandappetite/",
+		"description": "With our exhibition Art and Appetite, we invite you to feast your eyes on the rich tradition of food and drink in American art with over 100 paintings, sculptures, and decorative arts from the 18th century to the 20th century. Continue the celebration of delectable edibles in your kitchen with our online cookbook featuring vintage American recipes featured in the exhibition as well as some scrumptious new offerings from Chicago's top culinary talent.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 86,
+		"title": "The City Lost & Found: Capturing New York, Chicago, and Los Angeles, 1960–1980",
+		"year": "2014",
+		"link": "http://archive.artic.edu/city-lost-found/",
+		"description": "The American city of the 1960s and ’70s witnessed seismic physical changes and social transformations, from shifting demographics and political protests to the aftermath of decades of urban renewal. In this climate of upheaval and uncertainty, a range of makers—including photographers, filmmakers, urban planners, architects, and performance artists—countered the image of the city in crisis by focusing on the potential and the complexity of urban places. Moving away from the representation of cities through aerial views, maps, and sweeping panoramas, new photographic and planning practices in New York, Chicago, and Los Angeles explored real streets, neighborhoods, and important urban events, from the Watts Rebellion to the protests surrounding the Democratic National Convention in Chicago. These ideas and images defined not only cities’ social and political stakes in the eyes of the American public, but they also led a new generation of architects, urban planners, and sociologists to challenge long-held attitudes about the future of inner-city neighborhoods. Works throughout the exhibition describe this new ideal of urban experience following three main lines of inquiry—preservation, demonstration, and renewal. The first reflects the widespread interest in preserving urban neighborhoods and communities, including the rise of the historic preservation movement in the United States. The second captures the idea of demonstration in the broadest sense, encompassing political protests during the 1960s, as well as temporary appropriations of streets and urban neighborhoods through performance art, film, and murals. The third, renewal, presents new and alternative visions for the future of American cities created by artists, filmmakers, architects, and planners. Together these works blur the lines between artists, activists, and journalists, and demonstrate the deep connections between art practices and the political, social, and geographic realities of American cities in a tumultuous era.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 87,
+		"title": "Impressionism, Fashion, and Modernity",
+		"year": "2013",
+		"link": "http://archive.artic.edu/impress-fashion/",
+		"description": "Immerse yourself in the enchanting—and ever-fashionable—world of 19th-century Paris. Experience 75 masterworks by artists such as Degas, Manet, Monet, and Renoir alongside the glamorous dresses, très chic hats, and dapper suits that inspired them, and discover how truly à la mode the Impressionists were.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 88,
+		"title": "JourneyMaker",
+		"year": "2013",
+		"link": "http://archive.artic.edu/journeymaker/",
+		"description": "JourneyMaker is a digital tool that allows your family to create your very own tour of the museum. Choose one of eight storylines—like Superheroes, Time Travelers, or Strange and Wild Creatures—and then select works from the museum’s collection within that story. After you’ve made your selections, print out your personalized Journey Guide, which includes information, activities, and wayfinding directions. Then head into the museum for an art-filled adventure!",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 89,
+		"title": "Magritte: Time Transfixed",
+		"year": "2014",
+		"link": "http://archive.artic.edu/magritte/",
+		"description": "Magritte: The Mystery of the Ordinary, 1926—1938 focuses on René Magritte’s breakthrough Surrealist years, peeling back the layers of this inventive and experimental period in the artist’s career to reveal the development of the themes and motifs that make his art so unforgettable. Each of Magritte’s enigmatic works encourages viewers to think and search deeply, and in the case of the Art Institute’s iconic Time Transfixed, that kind of probing investigation revealed surprising twists and turns in the making of painting.",
+		"exhibition_ids": [],
+		"agent_ids": [15965],
+		"artwork_ids": [34181]
+	},
+	{
+		"id": 90,
+		"title": "Steve McQueen",
+		"year": "2012",
+		"link": "http://archive.artic.edu/mcqueen/",
+		"description": "Steve McQueen is an internationally acclaimed artist whose work is primarily engaged with moving images. Born in London in 1969, he has, over the last twenty years, made a series of film and video installations designed for gallery-based presentation, along with two feature films made for cinematic release. His efforts in these two distinct, but interrelated, arenas have earned him a reputation as one of the most important and influential artists of his generation working with these media, and beyond. McQueen's earliest works are silent, and mostly black-and-white, often with a focus on the body, very often the artist’s own. Subsequent pieces incorporate, as a general rule, sound and color, and often emerge from more elaborate investigations.",
+		"exhibition_ids": [],
+		"agent_ids": [100363],
+		"artwork_ids": []
+	},
+	{
+		"id": 91,
+		"title": "The New Mobile Experience",
+		"year": "2016",
+		"link": "http://archive.artic.edu/new-mobile/",
+		"description": "Find the art that speaks to you with our location-aware map. Take an audio tour and immerse yourself in stories of culture and creativity. The Art Institute offers nearly a million square feet to explore—the New Mobile Experience will be your guide.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 92,
+		"title": "Photography Is ____________.",
+		"year": "2015",
+		"link": "http://archive.artic.edu/photography-is/",
+		"description": "Modernism—a historical period extending roughly from the later 19th through the later 20th centuries—was a focus of collecting in Photography at this museum from the foundational gift of the Alfred Stieglitz collection in 1949, augmented by purchases and gifts from Julien Levy beginning in 1975. In the past five years—since the opening of the Modern Wing—the period has been given renewed emphasis, but with shifts in priority as well. Past focus on the United States and France has been broadened to achievements in Germany, Russia, and lands in between, particularly Czechoslovakia and Poland, as well as Japan, a country that produced works of remarkable originality in the postwar decades. Surrealism’s international presence in the 1930s—and, against all odds, during World War II—can now be better appreciated (Hans Bellmer and Václav Zykmund alongside André Kertész and Henri Cartier-Bresson), as can the work of key participants in Dada and Constructivism (John Heartfield, El Lissitzky), the two other great historical avant-garde movements of the early to mid-20th century. Modernism invaded many domains, and recent acquisitions have accordingly included books and posters as well as classic prints. Photography became a key modernist art form, furthermore, by opening the door to vernacular imagery, especially snapshots and the illustrated press. Most importantly, modernism meant “contaminating” the arts, mixing them up and involving them in the messy business of living bodies and lively politics.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 93,
+		"title": "Picasso and Chicago",
+		"year": "2013",
+		"link": "http://archive.artic.edu/picasso/",
+		"description": "A century ago, in 1913, the Art Institute of Chicago became the first art museum in the country to present the work of a young Spaniard who would become the preeminent artist of the 20th century, Pablo Picasso. This February the museum celebrates the special 100-year relationship between Picasso and Chicago by bringing together over 250 of the finest examples of the artist’s paintings, sculpture, prints, drawings, and ceramics from private collections in the city, as well as from the museum’s collection, for the first large-scale Picasso exhibition organized by the museum in almost 30 years.",
+		"exhibition_ids": [],
+		"agent_ids": [36198],
+		"artwork_ids": []
+	},
+	{
+		"id": 94,
+		"title": "Building: Inside Studio Gang Architects",
+		"year": "2012",
+		"link": "http://archive.artic.edu/studiogang/",
+		"description": "Inventive. Collaborative. Research-driven. Led by principal and founder Jeanne Gang, Chicago-based Studio Gang Architects has established itself as one of the premier architectural firms working today. Inside Studio Gang Architects presents an engaging workshop-like environment that showcases and reveals the practice's creative process as they seek architectural solutions to pressing contemporary issues. During the course of this exhibition, two Archi-Salons will engage a host of architects, journalists, and critics in discourse surrounding the contemporary practice of architecture. Held within the gallery space, the two salons will focus on different perspectives that influence current practices. These conversations will be inspired by Studio Gangâ€™s work, but ultimately will address larger issues in the field of contemporary architecture.",
+		"exhibition_ids": [],
+		"agent_ids": [103040, 104629],
+		"artwork_ids": []
+	},
+	{
+		"id": 95,
+		"title": "Game of Thornes: A Maze of Miniature Proportions",
+		"year": "2011",
+		"link": "http://archive.artic.edu/thorne-game/",
+		"description": "This fantasy world comes in delightfully pint-sized pieces—the Thorne Miniature Rooms. Your mission: navigate you escape from this mystifying realm of riddled rooms.",
+		"exhibition_ids": [],
+		"agent_ids": [],
+		"artwork_ids": []
+	},
+	{
+		"id": 96,
+		"title": "Van Gogh's Bedroooms",
+		"year": "2016",
+		"link": "http://archive.artic.edu/van-gogh-bedrooms/",
+		"description": "Vincent van Gogh’s bedroom in Arles is arguably the most famous chambre in the history of art. It also held special significance for the artist, who created three distinct paintings of this intimate space from 1888 to 1889. This exhibition—presented only at the Art Institute of Chicago—brings together all three versions of The Bedroom for the first time in North America, offering a pioneering and in-depth study of their making and meaning to Van Gogh in his relentless quest for home.",
+		"exhibition_ids": [],
+		"agent_ids": [40610],
+		"artwork_ids": [28560]
+	}
+]

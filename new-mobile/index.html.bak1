@@ -1,0 +1,217 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Mobile - The Art Insitute of Chciago</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="http://artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+    <link href="http://artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+    <link href="http://artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+    <link href="http://artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+    <link href="http://artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+    <link href="http://artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+    <link href="http://artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+    <link href="http://artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+    <link href="http://artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+    <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/612324/6864352/css/fonts.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <style>
+      body {
+        padding-top: 50px;
+        padding-bottom: 80px;
+      }
+    </style>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+  </head>
+  <body data-spy="scroll" data-target="#affix-nav">
+    <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <nav class="navbar navbar-inverse navbar-fixed-top semi-bold" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+
+          <div class="mobile-brand hidden-sm hidden-md hidden-lg">
+            <a href="#top" class="no-decorate "><img class="sm-logo" src="img/logo.svg"></a>
+          </div>
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+
+
+        <div class="collapse navbar-collapse white" id="navbar">
+          <ul class="nav navbar-nav">
+            <li class="top-logo  hidden-xs">
+              <a href="#top" class="no-decorate "><img class="sm-logo" src="img/logo.svg"><div class="sm-logo">Mobile</div></a>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#video">Video</a></li>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#audio-tours">Audio Tours</a></li>
+            <li class="hidden-xs"><a class="apple-btn" target="_blank" href="https://itunes.apple.com/app/apple-store/id1130366814?pt=633288&ct=Landing%20Page%20Click&mt=8" role="button"><img src="img/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt=""></a></li>
+          </ul>
+        </div>
+
+      </div>
+    </nav>
+
+    <section id="top">
+      <div class="container-fluid hero">
+        <h1 class="semi-bold">The New Mobile Experience</h1>
+        <h3>The Art Institute of Chicago's</h3>
+        <h2>Official Mobile App</h2>
+      </div>
+      <div id="float-logo-wrapper" class="hidden-xs">
+        <img src="img/bloomberg-logo.svg" alt="Bloomberg logo" id="float-logo">
+      </div>
+    </section>
+    <section id="video">
+      <div class="container">
+        <h2>The New Voice of the Art Institute</h2>
+        <div class="video-wrapper">
+
+          <iframe src="https://player.vimeo.com/video/177405825/2fc24025e7" width="665" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+        </div>
+        <p>Your personal guide, pocket sized. The New Mobile Experience merges location-aware technology with audio storytelling to let you explore behind the scenes audio tours and listen as art speaks to you.</p>
+      </div>
+    </section>
+    <section id="features">
+      <div class="container bg1">
+        <h2>Features</h2>
+        <div class="row">
+          <div class="col-sm-4 col-sm-offset-1 feature-img">
+            <img src="img/features-1.gif" alt="...">
+          </div>
+          <div class="col-sm-5 col-sm-offset-1">
+            <h3>Take an Audio Tour</h3>
+            <p>The Art Institute of Chicago is home to thou- sands of works of art, each with its own story to tell. Experience the collection in a whole new way with a fresh selection of audio tours. Each tour offers behind-the-scenes anecdotes, a diversity of expert voices, and music to transport you into the artworks. With new tours added all the time, each visit is sure to be unique.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-4 col-sm-offset-1 feature-img">
+            <img src="img/features-2.gif" alt="...">
+          </div>
+          <div class="col-sm-5 col-sm-offset-1">
+            <h3>Access your Member Card</h3>
+            <p>Members can access a digital version of their member card to enjoy all the museum’s on-site benefits, including access to the museum’s Member Lounge, previews of special exhibitions, exclusive lectures, and more.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-4 col-sm-offset-1 feature-img">
+            <img src="img/features-3.gif" alt="...">
+          </div>
+          <div class="col-sm-5 col-sm-offset-1">
+            <h3>See What's on View</h3>
+            <p>Preview the latest exhibitions at the Art Institute. Learn about current and upcoming shows to help plan your next visit.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-4 col-sm-offset-1 feature-img">
+            <img src="img/features-4.png" alt="...">
+          </div>
+          <div class="col-sm-5 col-sm-offset-1">
+            <h3>Learn More about the Artwork in front of You</h3>
+            <p>See an artwork and only have your phone? No problem! Use the “Look It Up” feature on the New Mobile Experience to learn about the art all around you.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-4 col-sm-offset-1 feature-img">
+            <img src="img/features-5.png" alt="...">
+          </div>
+          <div class="col-sm-5 col-sm-offset-1"5>
+            <h3>Explore the Map</h3>
+            <p>Orient yourself in the galleries and discover nearby artworks with the location-aware interac- tive map. Find familiar works or uncover new favorites while you explore the museum. The mobile map lets you peruse the galleries any- time, anywhere.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="audio-tours">
+      <div class="container">
+        <div class="center header">
+          <h2>Binge-Worthy Audio Tours</h2>
+          <p>Hear brand-new audio tours and enjoy revamps of old favorites.</p>
+        </div>
+        <div class="row">
+          <div class="col-sm-4">
+            <img src="img/audio-1.png" alt="">
+            <h4>The Essentials Tour</h4>
+            <p>Discover stories behind some of the museum’s most iconic artworks&mdash;with a soundtrack that features Andrew Bird, another Chicago essential.</p>
+            <p>Listen to the stop below:<br><em>Nighthawks</em> by Edward Hopper.</p>
+            <div>
+              <iframe width="100%"  scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/275441253%3Fsecret_token%3Ds-6C6g9&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=false"></iframe>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <img src="img/audio-2.png" alt="">
+            <h4>Magic of the Miniaturer</h4>
+            <p>Travel back in time through the magic of the Thorne Rooms, the product of one woman’s fabulous obsession with the smaller things in life.</p>
+            <p>Listen to the stop below:<br><em>A:37 California Hallway</em> by Ms. James Ward Thorne</p>
+            <div>
+              <iframe width="100%"  scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/274905512%3Fsecret_token%3Ds-sSglk&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=false"></iframe>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <img src="img/audio-3.png" alt="">
+            <h4>&ldquo;City Within a City&rdquo; &mdash; The Architecture Tour </h4>
+            <p>Experience the museum in a new way as you uncover the history, significance, and secrets of the museum&rsquo;s storied architecture. </p>
+            <p>Listen to the stop below: <br><em>Chicago Stock Exchange Room</em> </p>
+            <div>
+              <iframe class="b" width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268909478%3Fsecret_token%3Ds-LEJQ2&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=false"></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="hidden-xs">
+      <div class="container">
+        <img src="img/bloomberg-logo.png" alt="Bloomberg logo">
+      </div>
+    </footer>
+    <section id="fixed-footer" class="hidden-sm hidden-md hidden-lg ">
+      <div class="container">
+      <div class="row">
+      	<div class="col-xs-6">
+          <img src="img/bloomberg-logo.svg" alt="Bloomberg logo" id="float-logo">
+        </div>
+        <div class="col-xs-6">
+      <a class="apple-btn " target="_blank" href="https://itunes.apple.com/app/apple-store/id1130366814?pt=633288&ct=Landing%20Page%20Click&mt=8" role="button"><img src="img/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt=""></a>
+      </div>
+      </div>
+      </div>
+    </section>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+
+      <script src="js/vendor/bootstrap.min.js"></script>
+      <script src="js/vendor/audio.js"></script>
+
+      <script src="js/main.js"></script>
+
+      <!-- Google Tag Manager -->
+      <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQBCFS"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-MQBCFS');</script>
+    <!-- End Google Tag Manager -->
+
+  </body>
+</html>

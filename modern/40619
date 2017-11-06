@@ -1,0 +1,317 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_0a22989f3879e861506eda59cd185845) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_0a22989f3879e861506eda59cd185845) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_b8f360129ef9e92ad67aca361dea0c64) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_9ea0a79109f6763af922f71c8278ba4c) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_a5f5d7a5fc80600513c623db108873af) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_a33bdbdff47548655d9bd9c05ea3930a) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_a33bdbdff47548655d9bd9c05ea3930a) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_a5f5d7a5fc80600513c623db108873af) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_0a22989f3879e861506eda59cd185845) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_0a22989f3879e861506eda59cd185845) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_b8f360129ef9e92ad67aca361dea0c64) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_0a22989f3879e861506eda59cd185845) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_0a22989f3879e861506eda59cd185845) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Zapata | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="css/roll.css" />
+<link rel="shortcut icon" href="images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "css/aicportal.css";</style>
+<style type="text/css" media="all">@import "css/node.css";</style>
+<style type="text/css" media="all">@import "css/user.css";</style>
+<style type="text/css" media="all">@import "css/content.css";</style>
+<style type="text/css" media="all">@import "css/gallery.css";</style>
+<style type="text/css" media="all">@import "css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "css/exhibition-8985.css";</style>
+<style type="text/css" media="all">@import "css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "css/devel.css";</style>
+<style type="text/css" media="all">@import "css/style.css";</style>
+<style type="text/css" media="all">@import "css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "css/system-menus.css";</style>
+<style type="text/css" media="all">@import "css/system.css";</style>
+<style type="text/css" media="all">@import "css/main.css";</style>
+<style type="text/css" media="all">@import "css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "css/print.css";</style>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/drupal.js"></script>
+<script type="text/javascript" src="js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="js/extlink.js"></script>
+<script type="text/javascript" src="js/devel.js"></script>
+<script type="text/javascript" src="js/autocomplete.js"></script>
+<script type="text/javascript" src="js/jqModal.js"></script>
+<script type="text/javascript" src="js/redirect.js"></script>
+<script type="text/javascript" src="js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "citi": { "enlargements": { "..\/images\/137307_4236644.jpg": { "enlargement_image": "..\/images\/137307_4236644.jpg", "object_artist_culture_display": "José Clemente Orozco\x3cbr /\x3e\nMexican, 1883-1949", "object_title": "Zapata", "object_date_display": "1930", "object_id": "40619", "object_copyright_notice": "© 2016 Artists Rights Society (ARS), New York / SOMAAP, Mexico City" } } } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "/aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "/aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="images/AIC_modern.gif" alt="" title="The Art Institute of Chicago" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="images/Mod-Contemp-header.png" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Modern">Art Access: Modern and Contemporary Art</a> > <span class="sel">Zapata</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Zapata</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <a href="..\/images\/137307_4236644.jpg" class="enlargement-link enlargement-link-40619"><img src="images/137307_4236646.jpg" alt="Zapata" title="José Clemente Orozco
+Mexican, 1883-1949, Zapata"  /></a>          </div>
+
+    <p class="tools">
+              <a href="..\/images\/137307_4236644.jpg" class="enlargement-link enlargement-link-40619"><strong>View</strong> enlargement</a><br />
+                          <a href="http://www.artic.edu/aic/collections/exhibitions/Modern/artwork/40619/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="http://www.artic.edu/aic/collections/exhibitions/Modern/artwork/40619/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    José Clemente Orozco<br />
+Mexican, 1883-1949<br />
+    </p>
+    <h3><em>Zapata</em>, 1930</h3>
+
+    <p>
+    Oil on canvas<br />    198.8 x 122.6 cm (78 1/4 x 48 1/4 in.)<br />    Signed lower left: J. C. Orozco<br />
+Inscribed lower left: S. F. JULIO, 1930<br />    Gift of Joseph Winterbotham Collection, 1941.35</p>
+        © 2016 Artists Rights Society (ARS), New York / SOMAAP, Mexico City
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p><p>This dramatic canvas was painted during José Clemente Orozco’s self-imposed exile in the United States, where he moved in 1927, in part to escape political unrest, but also because he felt that it was increasingly difficult to get commissions in his native land. A leader of the Mexican mural movement of the 1920s and 1930s, Orozco claimed to have painted <em>Zapata</em> to finance his trip back to New York after completing a mural commission in California. For liberal Mexicans, Emiliano Zapata became a symbol of the Mexican Revolution (1910–20) after his assassination in 1919. The charismatic Zapata crusaded to return the enormous holdings of wealthy landowners to Mexico’s peasant population. Here his specterlike figure appears in the open door of a peasant hut. Despite the drama before him, the revolutionary hero seems solemn and unmoved. The painting is filled with menacing details—the bullets, the dagger, and especially the sword aimed at Zapata’s eye—and the somber palette of dark reds, browns, and blacks further underscores the danger of the revolutionary conflict.</p>
+<p>— Entry, <em>Essential Guide</em>, 2013, p. 51.</p></p>
+                <div id="abbrev">
+      <p><a href="http://www.artic.edu//aic/collections/exhibitions/Modern/artwork/more" class="more">Exhibition, Publication and Ownership Histories</a></p>
+      <!--content hidden-->
+    </div>
+    <div id="extended">
+      <p><a href="http://www.artic.edu//aic/collections/exhibitions/Modern/artwork/less" class="less">Exhibition, Publication and Ownership Histories</a></p>
+            <h2>Exhibition History</h2>
+      <p>New York, American Federation of Arts (organizer), Mexican Arts, cat. 412, exhibited at Metropolitan Museum of Art, October 13-November 9, 1930, Boston, Museum of Fine Arts, November 25-December 16, 1930, Pittsburgh, Carnegie Institute, January 7-February 4, 1931, Cleveland Museum of Art, February 18-March 11, 1931, Washington, Corcoran Gallery, April 1-22, 1931, Milwaukee Art Institute, May 13-June 3, 1931, Louisville, J.B. Speed Memorial Museum, June 24-July 15, 1931, and San Antonio, Pan-American  Round Table, August 12-September 2, 1931. <br />
+<br />
+New York, Delphic Studios and Alma Reed (organizer), Exhibition of Lithographs, Mural Studies, Photographs of Frescoes, Paintings, Drawings by José Clemente Orozco, cat. 23, exhibited at La Porte, Indiana, Civic Auditorium, April 6-29, 1934.  <br />
+<br />
+Chicago, Arts Club of Chicago, Exhibition of Paintings by José Clemente Orozco, May 23-June 15, 1934, cat. 10.<br />
+<br />
+New York, Museum of Modern Art, Modern Works of Art; Fifth Anniversary Edition, November 20, 1934-January 20, 1935, cat. 121, ill.<br />
+<br />
+Pittsburgh, PA, Carnegie Institute, The 1935 International Exhibition of Paintings, October 7-December 8, 1935, cat. 241, pl. 30.<br />
+<br />
+New York, Hudson D. Walker Gallery, J. C. Orozco: Paintings and Drawings, October 2-21, 1939, cat. 11.  <br />
+<br />
+New York, Museum of Modern Art, Twenty Centuries of Mexican Art, February-November 1940, no cat.<br />
+<br />
+Washington, DC, Pan American Union, Contemporary Art in Latin America, April 1942, n.pag., ill.<br />
+<br />
+Rocky Mountain Council on Inter-American Affairs (organizer), Exhibition [Contemporary Latin American Painters], exhibited in Fort Collins, Colo., Colorado State University, March 6-24, 1943, no cat. located.<br />
+<br />
+Chicago, Art Institute of Chicago, The Winterbotham Collection, 1947, pp. 6, 32-33.<br />
+<br />
+Chicago, Renaissance Society of the University of Chicago, José Clemente Orozco, 1883-1949, April 2-30, 1951, cat. 6.<br />
+<br />
+Mexican government (organizer), exhibited in Paris, Musée national d'art moderne, under Art Mexicain du précolumbien a nos jours, May-July 1952, cat. 968, pl. 88, as Le Caudillo Zapata; Stockholm, Sweden, Liljevalchs Konsthall, under Mexikansk Konst från forntid till nutid, October 1952, cat. 953, pl. 52, as Hövdingen Zapata; and London, Tate Gallery, under  Exhibition of Mexican Art from Pre-Columbian Times to the Present Day, March 4 to April 26, 1953, cat. 968, pl. 55 (in supplement), as The Caudillo (Leader) Zapata.<br />
+<br />
+Pittsburgh, Pa., Carnegie Institute, Retrospective Exhibition of Paintings from Previous Internationals, 1896-1955, December 5, 1958-February 8, 1959, cat. 65.<br />
+<br />
+Chicago, Mexican Fine Arts Center Museum, Mexicanidad: Our Past Is Present, April 27, 2001-May 5, 2002, no cat.<br />
+<br />
+Art Institute of Chicago, They Seek a City: Chicago and the Art of Migration, 1910-1950, March 3-June 3, 2013, cat. 41.</p>
+                  <h2>Publication History</h2>
+      <p>José Clemente Orozco, introduction by Alma Reed (New York: Delphic Studios, 1932), ill. n.pag.<br />
+<br />
+"Modern Art: 1821-1940; Twenty Centuries of Mexican Art," Bulletin of the Museum of Modern Art, 7, 2-3 (May 1940), p. 11.<br />
+<br />
+Frederick A. Sweet, "The Leader, Zapata," Bulletin of the Art Institute of Chicago 35, 6 (November 1941), pp. 90-91, ill. p. 89.<br />
+<br />
+Fernando Gamboa, José Clemente Orozco (Mexico: Ediciones de Arte, 1948), ill. p. 25.<br />
+<br />
+Justino Fernandez, "Orozco's Zapata." Art Institute of Chicago Quarterly, 45, 4, (November 15, 1951), pp. 62-65.<br />
+<br />
+MacKinley Helm, Man of Fire: J. C. Orozco: An Interpretative Memoir (Boston Institute of Contemporary Art/Harcourt, Brace and Company, 1953), ill. p. 149, pl. 15.<br />
+<br />
+Alma Reed, Orozco (New York: Oxford University Press, 1956), pp. 192-94, 198, 200, 201-02.  <br />
+<br />
+Art Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Art Institute of Chicago, 1961), pp. 346-47, ill. p. 472.<br />
+<br />
+José Clemente Orozco, An Autobiography, trans. by Robert C. Stephenson, intro. by John Palmer Leeper (Austin: University of Texas Press, 1962), pp. 139-140. <br />
+<br />
+John Hutton, "'If I am to die tomorrow'--Roots and Meanings of Orozco's Zapata Entering a Peasant's Hut," Art Institute of Chicago Museum Studies 11, 1 (Fall 1984), pp. 38-51, ill.<br />
+<br />
+Laurance P. Hurlburt, The Mexican Muralists in the United States (University of New Mexico Press, 1989), p. 42, p. 266 n. 85.<br />
+<br />
+Art Institute of Chicago, The Art Institute of Chicago: Twentieth-Century Painting and Sculpture, selected by James N. Wood and Teri J. Edelstein (Art Institute of Chicago, 1996), p. 65, ill.<br />
+<br />
+Victoria Price, Vincent Price: A Daughter's Biography (New York: St. Martin's Press, 1999), pp. 83-84.<br />
+<br />
+Judith A. Barter et al., "American Modernism at the Art Institute of Chicago, From World War I to 1955," (Art Institute of Chicago/Yale University Press, 2009), cat. 85.<br />
+<br />
+"Paintings at the Art Institute of Chicago, Highlights of the Collection," (Art Institute of Chicago/Yale University Press, 2017) p. 115.</p>
+                  <h2>Ownership History</h2>
+      <p>José Clemente Orozco; sold to Alma Reed/Delphic Studios, New York, by Oct. 1930 [exh. in American Federation of Art, Mexican Arts, 1930]; sold to Vincent Price, Hollywood, Calif., in 1938 [letter from Price in file]; sold to the Art Institute, 1941.</p>
+          </div>
+        <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Modern and Contemporary Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="Guitarist">Artworks</a></li>
+<li class="collapsed"><a href="lesson">Lesson Plans</a></li>
+<li class="collapsed"><a href="family">Family Activities</a></li>
+<li class="leaf"><a href="books-media">Books and Media</a></li>
+<li class="leaf"><a href="resource/1862">Map</a></li>
+<li class="leaf"><a href="glossary">Glossary</a></li>
+<li class="leaf last"><a href="selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/artwork">Back to previous page</a></span>
+  
+  </div>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_related_resources" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Learn More </h2>
+    <div class="content">
+      <div class="item-list"><ul><li class="first"><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/1475">01. Alma Reed, <em>Jose Clemente Orozco</em>. New York: William Edwin Rudge, 1932.</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/1252">Lesson Plan: Picturing War and Devastation</a></li><li><a href="resource/1862">Map: Modern and Contemporary Art</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/3059">Related Story: VIEW Latin American Modern Artists at the Museum</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/1087">Teacher Manual: American Art </a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/1629">Teacher Manual: Chicago: The City in Art: A Curriculum Guide for Teachers</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/1411">Teacher Manual: Many Faces: Modern Portraits & Identities</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/1586">Teacher Manual: Mexicanidad</a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/1924">Website: Art Access: Modern and Contemporary Art</a></li></ul></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

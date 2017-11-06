@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>City Lost and Found</title>
+
+  
+    <meta property="og:title" content="City Lost and Found" itemprop="name">
+  <meta name="twitter:title" content="City Lost and Found">
+
+
+
+    <meta property="og:url" content="/city-lost-found/new-york">
+  <meta name="twitter:url" content="/city-lost-found/new-york">
+
+    <meta property="og:type" content="website"> 
+  
+
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery-1.9.1.min.js" type="text/javascript"></script>
+    
+  <script src="modernizr.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="script.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+  <meta name="viewport" content="initial-scale=1.0,width=device-width" />
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+<div class="page-new-york">
+
+  <nav class="top-bar" data-topbar role="navigation"> 
+  <ul class="title-area"> 
+    <li class="name"> </li>  
+    <li class="toggle-topbar menu-icon"><a href="new-york#"><span>Menu</span></a></li>
+  </ul> 
+  <section class="top-bar-section">
+    <ul class="right city-pages">
+      <li class="new-york"><a href="new-york">N<span>ew </span>Y<span>ork</span></a></li>
+      <li class="chicago"><a href="/city-lost-found/chicago">Chi<span>cago</span></a></li>
+      <li class="los-angeles"><a href="/city-lost-found/los-angeles">L<span>os </span>A<span>ngeles</span></a></li>
+    </ul>
+    <ul class="left">
+      <li class="twitter"><a target="_blank" href="https://twitter.com/citylostfound"><img src="share-twitter.png"/></a></li>
+      <li><a target="_blank" href="http://www.artic.edu/tickets">Buy Tickets</a></li>
+      <li><a target="_blank" href="http://www.artic.edu/joinnow">Become a Member</a></li>
+      <li><a href="/city-lost-found/related-events">Related Events</a></li>
+      <li><a href="/city-lost-found/credits">Special Thanks</a></li>
+    </ul>
+  </section>
+</nav>
+
+
+  <div class="header">
+  <div class="row">
+    <div class="small-12 columns clearfix">
+      <a target="_blank" href="http://artic.edu"><img class="left logo" src="aic-logo-100-outline-white.png" /></a>
+      
+        <div class="left">
+          <a href="/city-lost-found"><img class="exhibition-title" src="CLF-secondary.png"/></a>
+          <p class="exhibition-dates">
+            October 26&ndash;January 11<br/>
+            Member Preview: October 25
+          </p>
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+  <div class="row main-content">
+    <div class="small-12 columns">
+      <h1>New York</h1>
+      <p>The election of Mayor John Lindsay in 1965 represented a watershed for New York, as the city moved away from administrator Robert Moses&rsquo;s highly centralized push for new infrastructure and construction in previous decades. Lindsay&rsquo;s efforts to create a more open and participatory city government were often in dialogue with ideas advanced by critic Jane Jacobs, who argued for the value of streets, neighborhoods, and small-scale change. This new focus on local and self-directed interventions had a wide influence, leading to the development of pocket parks to replace vacant lots and the groundbreaking <em>Plan for New York City</em>&rsquo;s use of photo essays and graphic design to express goals of diversity and community. In turn, many artists of the period, including Hans Haacke and Mierle Laderman Ukeles, created work that directly engaged with important social and political issues in the city, such as slum housing and labor strikes.</p>
+      <p>A multifaceted theme of preservation comes to the fore in work by the many artists and architects in New York who documented, staged, and inhabited areas where buildings were left vacant and in disrepair following postwar shifts in population and industry. The historic streets of Lower Manhattan became an integral part of projects by artist Gordon Matta-Clark and architect Paul Rudolph, for example, while low-income, yet vibrant neighborhoods like Harlem gave rise to important bodies of work by Romare Bearden, Bruce Davidson, and Martha Rosler. James Nares&rsquo;s elegiac film <em>Pendulum </em>and Danny Lyon&rsquo;s remarkable photographs in <em>The Destruction of Lower Manhattan </em>are examples of a growing awareness of the struggle to preserve the existing urban fabric and cultures of New York during the 1960s and &rsquo;70s.</p>
+
+      <div class="image-row text-center">
+        <img data-interchange="[newyork_1.jpg, (default)], [newyork_1_2x.jpg, (large)]">
+        <noscript><img src="newyork_1.jpg" /></noscript>
+        <p class="caption">Romare Bearden. <em>The Block II</em> (detail), 1972. Collection of Walter O. and Linda J. Evans. <a href="new-york#" class="more-info-link" data-more-info="newyork_1">More [+]</a></p>
+        <p class="more-info newyork_1">This monumental collage depicts both a specific, identifiable block in Harlem and also the importance of everyday routines to the city. From the 1960s Romare Bearden used collage to convey the texture and dynamism of urban life, combining paint and pencil with found photographs and images from newspapers, magazines, product labels, and fabric and wallpaper samples. Here Bearden showed the diverse inhabitants of Harlem apartment buildings perched in windows and on fire escapes, sitting on front stoops and street benches. The scene highlights the innumerable ways city dwellers &ldquo;make do&rdquo; so that their environments are more functional and livable, from transforming front steps into a living room to turning sidewalks into playgrounds. While Bearden&rsquo;s work has strong connections to avant-garde art and American and African histories, his collage technique can also be seen as a form of making do, just like the practices of his neighbors in New York.</p>
+      </div>
+
+      <div class="image-row text-center">
+        <img data-interchange="[newyork_2.jpg, (default)], [newyork_2_2x.jpg, (large)]">
+        <noscript><img src="newyork_2.jpg" /></noscript>
+        <p class="caption">Thomas Struth. <em>Crosby Street, New York, Soho</em>, 1978. &copy; Thomas Struth. <a href="new-york#" class="more-info-link" data-more-info="newyork_2">More [+]</a></p>
+        <p class="more-info newyork_2">Thomas Struth&rsquo;s 1978 photographs in the series <em>Streets of New York City </em>are remarkable representations of a city undergoing dramatic change, from the derelict streets of Lower Manhattan and public-housing buildings in Harlem to the dazzling, mirage-like towers of the newly built World Trade Center. Struth produced these photographs during a residency at the New York Institute for Art and Urban Resources, Inc. (now MoMA&rsquo;s PS1) from December 1977 until September 1978. As he would later write, &ldquo;I was interested in the possibility of the photographic image revealing the different character or the &lsquo;sound&rsquo; of the place. I learned that certain areas of the city have an emblematic character; they express the city&rsquo;s structure.&rdquo; Although these photographs adopt the symmetrical framing and deadpan documentary style of his mentors Bernd and Hilla Becher, they led Struth to ask, &ldquo;Who has the responsibility for the way a city is?&rdquo;</p>
+      </div>
+
+      <div class="image-row text-center">
+        <img data-interchange="[newyork_3.jpg, (default)], [newyork_3_2x.jpg, (large)]">
+        <noscript><img src="newyork_3.jpg" /></noscript>
+        <p class="caption">Paul Rudolph. <em>Lower Manhattan Expressway, New York City, perspective section</em>, ca. 1970. The Paul Rudolph Archive, Library of Congress. <a href="new-york#" class="more-info-link" data-more-info="newyork_3">More [+]</a></p>
+        <p class="more-info newyork_3">
+        Known for high-tech buildings in concrete, architect Paul Rudolph began working on a project for Lower Manhattan Expressway in 1965, funded by the Ford Foundation as research and design exploring &ldquo;New Forms of the Evolving City.&rdquo; Rudolph diverged from Robert Moses&rsquo;s strategy for infrastructural projects through a sensitive engagement with the scale and texture of the dense urban fabric of Lower Manhattan. He proposed a below-grade road surmounted by a large, continuous residential structure of varying heights that would protect the surrounding neighborhood from the pollution and noise of the highway. In many places this terraced megastructure was precisely scaled to the height of the surrounding loft buildings, with entrances and gardens on existing streets, a contextual quality emphasized in his detailed drawings. Rudolph also designed the expressway complex to resonate with established functions and symbols of the city, with tall buildings flanking the Manhattan and Williamsburg Bridges like monumental gates to the city.</p>
+      </div>
+
+      <div class="image-row text-center">
+        <div class="flex-video">
+          <iframe src="http://player.vimeo.com/video/80406252?title=0&amp;byline=0&amp;portrait=0" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        </div>
+        <p class="caption">James Nares. <em>Pendulum</em>, 1976. Courtesy of Paul Kasmin Gallery, New York. <a href="new-york#" class="more-info-link" data-more-info="newyork_4">More [+]</a></p>
+        <p class="more-info newyork_4">James Nares&rsquo;s film <em>Pendulum </em>illustrates the extraordinary status of Lower Manhattan during the 1970s, where disuse and decay created both the threat of demolition and the freedom to produce ambitious public art projects. The film shows a large pendulum swinging languidly in largely abandoned streets, suggesting the passage of time as well as the menace of the wrecking ball. Nares created this project by suspending a cast-concrete ball from an elevated pedestrian bridge on Staple Street on the Lower West Side adjacent to his loft. Unlike many neighborhoods, urban renewal plans never came to fruition for this area, which still retains a connection to this precarious, yet liberating time in New York.</p>
+      </div>
+
+      <div class="image-row text-center">
+        <img data-interchange="[newyork_5.jpg, (default)], [newyork_5_2x.jpg, (large)]">
+        <noscript><img src="newyork_5.jpg" /></noscript>
+        <p class="caption">Mierle Laderman Ukeles. <em>Touch Sanitation Performance</em>, 1977&ndash;80. Courtesy of Ronald Feldman Fine Arts, New York <a href="new-york#" class="more-info-link" data-more-info="newyork_5">More [+]</a></p>
+        <p class="more-info newyork_5">In 1977 Mierle Laderman Ukeles embarked on the multiyear performance piece <em>Touch Sanitation</em>, in which she shook the hand of every one of the 8,500 sanitation workers, or &ldquo;sanmen,&rdquo; employed by the city of New York, in keeping with her practice&rsquo;s focus on labor. After the vilification of sanitation workers during the strikes of 1968, Ukeles&rsquo;s personal and political camaraderie with the workers took on particular importance; every handshake was accompanied by the words &ldquo;Thank you for keeping the city alive.&rdquo; She worked the same hours as the sanmen and followed their paths through the streets of New York. <em>Touch Sanitation </em>was also distinguished by the importance Ukeles placed on the participation of the workers, as she explained in the brochure for the project: &ldquo;I&rsquo;m creating a huge artwork called TOUCH SANITATION about and with you, the men of the Department. All of you.&rdquo;</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

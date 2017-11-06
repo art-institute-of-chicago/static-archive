@@ -1,0 +1,358 @@
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_a7099463c1119be482c503fc5d4d64ee) -->
+<!-- From CITI. (20b229a62e443434817344d9edc0eb40_9f3b3051cb1f9cefdb555fc1ae78fe54) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Art History | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-17634.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/jqModal.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/browserDetect.js"></script>
+<script type="text/javascript" src="../js/jquery.hoverintent.minified.js"></script>
+<script type="text/javascript" src="../js/infiniteScroll.js"></script>
+<script type="text/javascript" src="../js/filterMenu.js"></script>
+<script type="text/javascript" src="../js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+
+   <script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page-node.tpl.php-->
+</head>
+<body class="not-front not-logged-in ntype-artwork-listing sidebar-right">
+  <div id="header">
+    <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/Lichtenstein_AIC.png" alt="The Art Institute of Chicago" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Lichtenstein-hdr.png" alt="Roy Lichtenstein: A Retrospective" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+<div id="pagewrapper">
+
+<div id="page">
+<div id="column_container">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Lichtenstein">Roy Lichtenstein: A Retrospective</a> > <a href="../themes">Themes</a> > <span class="sel">Art History</span></div></div>
+      </div>
+    
+    <div id="page-title-wrapper">
+              <h1 class="title">Art History</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <div class="content">
+    <div class="bodycopy">
+        <h3>1951&ndash;90</h3>
+
+<div class="image wrap"><a href="http://www.artic.edu/aic/collections/exhibitions/Lichtenstein/artwork/205040" rel="nofollow"><img alt=" A Retrospective" src="../images/205040.png"></a></div>
+
+<p>Through appropriation, repetition, stylization, and parody, Lichtenstein was the first artist to critically and systematically dismantle the history of modern art, though not without deference and respect. As he admitted early on, "The things that I have apparently parodied I actually admire." As this was an abiding topic for him, this is one of only two galleries in the exhibition in which the works span the breadth of his career.</p>
+
+<p>Lichtenstein never worked from originals, but from reproductions. Indeed, his style of replication could not be mistaken for the original: he always rephrased a source in his own language. <em>Washington Crossing the Delaware I</em> (c. 1951), the earliest work on display, translates Emanuel Gottlieb Leutze's well-known oil painting from 1851 into the faux-naive, Cubist-inspired style Lichtenstein employed in the 1950s. During the heyday of his comic-inspired Pop works, the artist was simultaneously producing compositions that appropriated the imagery of Pablo Picasso and Piet Mondrian. The muted earth tones and expressive brushwork in Picasso's <em>Femme d'Alger</em>, for example, are transformed in Lichtenstein's version by primary colors, hard outlines, and enlarged halftone dots. The result is not so much a Lichtenstein that looks like a Picasso, but rather a Picasso that looks like a Lichtenstein.</p>
+
+<p>Throughout his career, Lichtenstein applied his comic style to create ersatz versions of Impressionist, Cubist, Futurist, Surrealist, and German Expressionist works, among others. In some cases, he worked from a particular painting; in other cases, as in <em>Grapes</em> (1972) or <em>Still Life with Glass and Peeled Lemon</em> (1972), he worked with generalized conventions of a style or genre. He targeted the works of modern masters like Claude Monet, Henri Matisse, and Willem de Kooning, as well as lesser-known artists and images, such as the Purist paintings of Amédée Ozenfant, the pour paintings of Morris Louis, and Native American motifs. Lichtenstein's dedication to this strategy has proven to be hugely influential to a number of successive artists, including Jeff Koons and Sherrie Levine.</p>
+
+<p><hr /></p>
+<p><sub>Roy Lichtenstein. <em>Haystack</em>, 1969. © Estate of Roy Lichtenstein. The Ruben Family.</sub></p>    </div>
+    <div class="floatClear"></div>
+    <div id="galleryHolder">
+        <div id="filterMenu" style="height:35px;">
+                    <h3>View artworks</h3>
+                    <ul id="filters">
+                                                </ul>
+          <div id="filterControls">
+            <div id="results">Showing <span id="count">23</span> results</div>
+            <div id="reset">
+              <a href="Art-History#" id="filter-name">Reset</a>
+              <a href="Art-History#" id="resetBox"><span>X</span></a>
+            </div>
+          </div>
+        </div>
+        <div class="floatClear"></div>
+        <div id="galleryContent">
+                        <div class="floatClear"></div>
+        </div>
+    </div>
+</div>
+<script language="javascript">
+
+    //Utils
+    Array.prototype.unique = function() {
+        var o = {}, i, l = this.length, r = [];
+        for(i=0; i<l;i+=1) o[this[i]] = this[i];
+        for(i in o) r.push(o[i]);
+        return r;
+    };
+
+    function sortUnorderedList(ul, sortDescending) {
+      if(typeof ul == "string")
+        ul = document.getElementById(ul);
+
+      // Get the list items and setup an array for sorting
+      var lis = ul.getElementsByTagName("LI");
+      var vals = [];
+
+      // Populate the array
+      for(var i = 0, l = lis.length; i < l; i++)
+        vals.push(lis[i].innerHTML);
+
+      // Sort it
+      vals.sort();
+
+      // Sometimes you gotta DESC
+      if(sortDescending)
+        vals.reverse();
+
+      // Change the list on the page
+      for(var i = 0, l = lis.length; i < l; i++)
+        lis[i].innerHTML = vals[i];
+    }
+
+    var galleryObjects = {"artwork_208500":{"artwork_link":"..\/208500","object_title":"Washington Crossing the Delaware I","object_date_begin":"1\/1\/1946","object_date_end":"12\/31\/1956","object_image_thumbnail":"..\/images\/182126_2982500.jpg","object_image_medium":"..\/images\/182126_2982499.jpg","object_date_display":"c. 1951","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_212464":{"artwork_link":"..\/212464","object_title":"Amerind Figure","object_date_begin":"1\/1\/1961","object_date_end":"12\/31\/1961","object_image_thumbnail":"..\/images\/182136_2982644.jpg","object_image_medium":"..\/images\/182136_2982643.jpg","object_date_display":"1961","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_200098":{"artwork_link":"..\/200098","object_title":"George Washington","object_date_begin":"1\/1\/1962","object_date_end":"12\/31\/1962","object_image_thumbnail":"..\/images\/158862_2789284.jpg","object_image_medium":"..\/images\/158862_2789283.jpg","object_date_display":"1962","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican, 1923\u20131997","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205039":{"artwork_link":"..\/205039","object_title":"Portrait of Madame C\u00e9zanne","object_date_begin":"1\/1\/1962","object_date_end":"12\/31\/1962","object_image_thumbnail":"..\/images\/182071_2981812.jpg","object_image_medium":"..\/images\/182071_2981811.jpg","object_date_display":"1962","object_artist_culture_display":"Roy Lichtenstein <br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_203845":{"artwork_link":"..\/203845","object_title":"Femme d'Alger","object_date_begin":"1\/1\/1963","object_date_end":"12\/31\/1963","object_image_thumbnail":"..\/images\/182151_2982916.jpg","object_image_medium":"..\/images\/182151_2982915.jpg","object_date_display":"1963","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923 - 1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205067":{"artwork_link":"..\/205067","object_title":"Non-objective I","object_date_begin":"1\/1\/1964","object_date_end":"12\/31\/1964","object_image_thumbnail":"..\/images\/182079_2981940.jpg","object_image_medium":"..\/images\/182079_2981939.jpg","object_date_display":"1964","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205040":{"artwork_link":"..\/205040","object_title":"Haystack","object_date_begin":"1\/1\/1969","object_date_end":"12\/31\/1969","object_image_thumbnail":"..\/images\/178294_2963700.jpg","object_image_medium":"..\/images\/178294_2963699.jpg","object_date_display":"1969","object_artist_culture_display":"Roy Lichtenstein <br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205041":{"artwork_link":"..\/205041","object_title":"Haystacks","object_date_begin":"1\/1\/1969","object_date_end":"12\/31\/1969","object_image_thumbnail":"..\/images\/178295_2963716.jpg","object_image_medium":"..\/images\/178295_2963715.jpg","object_date_display":"1969","object_artist_culture_display":"Roy Lichtenstein <br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205052":{"artwork_link":"..\/205052","object_title":"Rouen Cathedral, Set 5","object_date_begin":"1\/1\/1969","object_date_end":"12\/31\/1969","object_image_thumbnail":"..\/images\/182072_2981828.jpg","object_image_medium":"..\/images\/182072_2981827.jpg","object_date_display":"1969","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_207061":{"artwork_link":"..\/207061","object_title":"Grapes","object_date_begin":"1\/1\/1972","object_date_end":"12\/31\/1972","object_image_thumbnail":"..\/images\/182158_2983012.jpg","object_image_medium":"..\/images\/182158_2983011.jpg","object_date_display":"1972","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205505":{"artwork_link":"..\/205505","object_title":"Still Life with Glass and Peeled Lemon","object_date_begin":"1\/1\/1972","object_date_end":"12\/31\/1972","object_image_thumbnail":"..\/images\/182108_2982212.jpg","object_image_medium":"..\/images\/182108_2982211.jpg","object_date_display":"1972","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923 - 1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205069":{"artwork_link":"..\/205069","object_title":"Still Life with Goldfish","object_date_begin":"1\/1\/1972","object_date_end":"12\/31\/1972","object_image_thumbnail":"..\/images\/182080_2981956.jpg","object_image_medium":"..\/images\/182080_2981955.jpg","object_date_display":"1972","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205054":{"artwork_link":"..\/205054","object_title":"Unfurled (after Morris Louis)","object_date_begin":"1\/1\/1973","object_date_end":"12\/31\/1973","object_image_thumbnail":"..\/images\/182073_2981844.jpg","object_image_medium":"..\/images\/182073_2981843.jpg","object_date_display":"1973","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205057":{"artwork_link":"..\/205057","object_title":"Cubist Still Life","object_date_begin":"1\/1\/1974","object_date_end":"12\/31\/1974","object_image_thumbnail":"..\/images\/182074_2981860.jpg","object_image_medium":"..\/images\/182074_2981859.jpg","object_date_display":"1974","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205060":{"artwork_link":"..\/205060","object_title":"Purist Painting with Pitcher, Glass and Classical Column","object_date_begin":"1\/1\/1975","object_date_end":"12\/31\/1975","object_image_thumbnail":"..\/images\/182075_2981876.jpg","object_image_medium":"..\/images\/182075_2981875.jpg","object_date_display":"1975","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205062":{"artwork_link":"..\/205062","object_title":"Frolic","object_date_begin":"1\/1\/1977","object_date_end":"12\/31\/1977","object_image_thumbnail":"..\/images\/182076_2981892.jpg","object_image_medium":"..\/images\/182076_2981891.jpg","object_date_display":"1977","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205063":{"artwork_link":"..\/205063","object_title":"Little Landscape","object_date_begin":"1\/1\/1979","object_date_end":"12\/31\/1979","object_image_thumbnail":"..\/images\/182077_2981908.jpg","object_image_medium":"..\/images\/182077_2981907.jpg","object_date_display":"1979","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_203840":{"artwork_link":"..\/203840","object_title":"Landscape with Figures and Rainbow","object_date_begin":"1\/1\/1980","object_date_end":"12\/31\/1980","object_image_thumbnail":"..\/images\/182033_2981540.jpg","object_image_medium":"..\/images\/182033_2981539.jpg","object_date_display":"1980","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923 - 1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_208316":{"artwork_link":"..\/208316","object_title":"Sleeping Muse","object_date_begin":"1\/1\/1983","object_date_end":"12\/31\/1983","object_image_thumbnail":"..\/images\/182121_2982420.jpg","object_image_medium":"..\/images\/182121_2982419.jpg","object_date_display":"1983","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_212465":{"artwork_link":"..\/212465","object_title":"Archaic Head VI","object_date_begin":"1\/1\/1988","object_date_end":"12\/31\/1988","object_image_thumbnail":"..\/images\/182137_2982676.jpg","object_image_medium":"..\/images\/182137_2982675.jpg","object_date_display":"1988","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_205065":{"artwork_link":"..\/205065","object_title":"Laocoon","object_date_begin":"1\/1\/1988","object_date_end":"12\/31\/1988","object_image_thumbnail":"..\/images\/178286_2963572.jpg","object_image_medium":"..\/images\/178286_2963571.jpg","object_date_display":"1988","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_208323":{"artwork_link":"..\/208323","object_title":"Plus and Minus VI","object_date_begin":"1\/1\/1988","object_date_end":"12\/31\/1988","object_image_thumbnail":"..\/images\/182125_2982484.jpg","object_image_medium":"..\/images\/182125_2982483.jpg","object_date_display":"1988","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""},"artwork_210817":{"artwork_link":"..\/210817","object_title":"Reflections on \u201cInterior with Girl Drawing\u201d","object_date_begin":"1\/1\/1990","object_date_end":"12\/31\/1990","object_image_thumbnail":"..\/images\/182132_2982580.jpg","object_image_medium":"..\/images\/182132_2982579.jpg","object_date_display":"1990","object_artist_culture_display":"Roy Lichtenstein<br \/>\nAmerican (1923-1997)","object_artist_sort_name":"Lichtenstein, Roy","object_tag_list":""}};
+    
+    (function($){
+    $(document).ready(function(){
+        //Hide reset box
+        $("#reset").hide();
+        var galleryContent = $("#galleryContent"), gCEnd = galleryContent.children(".floatClear");
+        var dates = new Array();
+        
+        $.each(galleryObjects, function(i, gObj) {
+            (function() {
+                dates.push([gObj.object_date_begin, gObj.object_date_end]);
+            // build DOM objects and nest them through appends
+            var g = $('<div>', { 'class': 'galleryImage' } );
+            var gLink = $( '<a>', { 'href': gObj.artwork_link } );
+            var gThumbnail = $( '<img original="' + gObj.object_image_thumbnail + '" class="lazyLoad"/>' );
+            var gTooltip = $( "<div>", { "class": "tooltip", "html": '<img original="' + gObj.object_image_medium +'" alt="" class="lazyLoad"/><div id="artworkData"><em><strong>'+ gObj.object_title +'</strong></em>, '+ gObj.object_date_display +'<br/>' + gObj.object_artist_culture_display + '</div>' } );
+            gLink.append(gThumbnail);
+            gLink.append(gTooltip);
+            g.append(gLink);
+
+            
+            // associate object to DOM object
+            g.artData = gObj;
+
+            // bind filtering events
+            g.bind( "filterByName", function(event,name) {
+              if (g.artData.object_artist_sort_name !== name) { g.hide(); }
+              else { g.fadeIn(); }
+            });
+
+            g.bind( "filterByTag", function(event,tag) {
+              if ( $.inArray( tag, $.map(g.artData.object_tag_list.split(","), function(n){ return $.trim(n); }) ) == -1 ) { g.hide(); }
+              else { g.fadeIn(); }
+            });
+
+            g.bind( "filterByDate", function(event,d1,d2) {
+                 var dt = new Array(g.artData.object_date_begin, g.artData.object_date_end);
+
+                 dt = $.map(dt, function(_a) { var d = new Date(Date.parse(_a)); return d.getFullYear(); });
+
+                 if(dt.filter(Boolean).length !== 0){
+                           if (d1 <= dt[0] && d2 >= dt[1]) { g.fadeIn(); }
+                   else { g.hide(); }
+                 }
+                 else { g.hide(); }
+            });
+
+            g.bind( "filterReset", function(event){
+                g.fadeIn();
+            });
+
+            gTooltip.hide();
+            // do rollovers for this link -- you can change the fadeIn and fadeOut to just show() and hide() if you don't like the fading effect
+            gLink.hover(
+                function () {
+                    gTooltip.show();
+                    // position tooltip
+                    gTooltip.css( { "bottom": gThumbnail.height()/2 + ( g.height() - gThumbnail.height() ) + "px", "left": gThumbnail.width()/2 + "px" } );
+                  },
+
+                function () { gTooltip.hide(); }
+            );
+            // insert this gallery node before end of list
+            gCEnd.before(g);
+          })();
+            });
+
+                          //event resetting all filters
+      $( "#resetBox").click( function () {
+          $(".galleryImage").trigger( "filterReset" );
+          $("#count").text($('.galleryImage').size());
+          $(".active").removeClass("active");
+          $("#reset").hide();
+          if(typeof slider != 'undefined'){
+            slider.slider("values", 0, slider.slider("option", "min"));
+            slider.slider("values", 1, slider.slider("option", "max"));
+            refreshRange();
+            refreshTicks();
+          }
+        return false;
+      });
+    });
+  })(jQuery);
+
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+</script>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+             
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+			      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+       <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Roy Lichtenstein: A Retrospective </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/Lichtenstein/index">Overview</a></li>
+<li class="expanded"><a href="../themes">Themes</a>
+<ul class="menu">
+<li class="leaf first"><a href="../themes/Look-Mickey">Look Mickey</a></li>
+<li class="leaf"><a href="../themes/Early-Abstractions">Early Abstractions/Late Brushstrokes </a></li>
+<li class="leaf"><a href="../themes/Early-Pop">Early Pop</a></li>
+<li class="leaf"><a href="../themes/Black-White">Black and White</a></li>
+<li class="leaf"><a href="../themes/War-Romance">War and Romance</a></li>
+<li class="leaf"><a href="../themes/Brushstrokes">Brushstrokes/Explosions</a></li>
+<li class="leaf"><a href="../themes/Landscapes">Landscapes</a></li>
+<li class="leaf active"><a href="Art-History" class="active">Art History</a></li>
+<li class="leaf"><a href="../themes/Modern">Modern</a></li>
+<li class="leaf"><a href="../themes/Mirrors">Mirrors</a></li>
+<li class="leaf"><a href="../themes/Entablatures">Entablatures</a></li>
+<li class="leaf"><a href="../themes/Artists-Studios">Artist’s Studios</a></li>
+<li class="leaf"><a href="../themes/Perfect-Imperfect">Perfect/Imperfect</a></li>
+<li class="leaf"><a href="../themes/Nudes">Nudes</a></li>
+<li class="leaf"><a href="../themes/Landscapes-Chinese">Landscapes in the Chinese Style</a></li>
+<li class="leaf last"><a href="../themes/Works-Paper">Works on Paper</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="http://extras.artic.edu/timelines/lichtenstein/">Timeline</a></li>
+<li class="leaf"><a href="../videos">Videos</a></li>
+<li class="leaf"><a href="../selectedworks">Selected Works</a></li>
+<li class="leaf last"><a href="../search-artworks">Search Artworks</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+   <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+  </div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>
+

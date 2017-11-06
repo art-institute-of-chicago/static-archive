@@ -1,0 +1,266 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_7d6a92bf93e18e02a4696482de0e5240) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_29b8a9862d39a7f6a8b6cfa9a6139ac9) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_29b8a9862d39a7f6a8b6cfa9a6139ac9) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_9e99bf8951109a64aa0f5b04da8a7e4e) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_984f9b3d7997d38575862de8033e7612) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_7d6a92bf93e18e02a4696482de0e5240) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_3a6107ef5566dfca72f89c2bc970f679) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_29b8a9862d39a7f6a8b6cfa9a6139ac9) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_29b8a9862d39a7f6a8b6cfa9a6139ac9) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Picture Books | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8940.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_rococo.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_rococo.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Rococo">Art Access: Rococo to Realist Art</a> > <a href="../family">Family Activities</a> > <span class="sel">Picture Books</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Picture Books</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Family Activity: Picture Books</strong><br />       <div class="content">
+<p>Learn how Rococo painters like Tiepolo illustrated stories with their works of art. Includes discussion questions and an art-making activity.</p>
+<br />
+<h3>Introduction:</h3>
+<p>In the 1700s, <a href="1056#rococo">Rococo</a> artists like Giovanni Battista Tiepolo sometimes looked to poems and stories for inspiration. In his <a href="../Rinaldo">paintings of Rinaldo and Armida</a>, Tiepolo illustrates different moments in <em>Jerusalem Liberated</em>, a fictitious tale by Tasso about the <a href="1056#first crusade">First Crusade</a>.</p>
+<p>Together, four paintings tell the story of the knight Rinaldo, who is tricked by a beautiful sorceress, Armida, on his way to combat in the <a href="1056#holy land">Holy Land</a>. At the Art Institute, the paintings are hung so that they read from left to right, like a book. Tiepolo chose to illustrate scenes that he believed were important for telling the story. In the first painting, Armida finds Rinaldo sleeping by a pond. Unseen by the knight, she hovers on a cloud above him, admiring his beauty. The next three scenes tell of their relationship.</p>
+<div class="image wrap">
+<p><img src="../images/E32890.jpg" border="0" class="inline" /></p>
+</div>
+<div class="image wrap">
+<p><img src="../images/E29518.jpg" border="0" class="inline" /></p>
+</div>
+<div class="image wrap">
+<p><img src="../images/E30817.jpg" border="0" class="inline" /></p>
+</div>
+<div class="image wrap">
+<p><img src="../images/E30805.jpg" border="0" class="inline" /></p>
+</div>
+<h3>Discussion Questions:</h3>
+<ul>
+<li>Can you guess what is happening in the next three scenes? (Click <a href="../Rinaldo">here</a> for a description.)</li>
+<li>Can you find colors or other features that are the same or similar in two or more of the scenes?</li>
+<li>Can you find features that are different?</li>
+</ul>
+<h3>Look closely:</h3>
+<p>Tiepolo uses certain colors and a landscape setting to connect the scenes together.</p><br />
+<h3>Activity:</h3>
+<p>Create your own series of paintings based on your favorite story.</p>
+<h3>Materials Needed:</h3>
+<ul>
+<li>8 1/2” x 11” sheet of drawing paper, cut into quarters</li>
+<li>8 1/2” x 11” sheet of construction paper</li>
+<li>colored pencils, crayons, and/or markers</li>
+<li>tape or glue</li>
+<li>scissors</li>
+</ul>
+<h3>Steps:</h3>
+<ol>
+<li>Choose a poem or story you would like to illustrate.</li>
+<li>Discuss the most important parts of the story and choose four scenes to draw.</li>
+<li>Draw one scene on each quarter of drawing paper.</li>
+<li>Cut the piece of construction paper in half lengthwise. Tape or glue the two pieces end to end to form one long rectangle.</li>
+<li>Tape or glue your scenes to the construction paper to tell your story.</li>
+<li>Have a family member or friend do the activity based on the same story you used. Compare your stories. Did you pick the same scenes to illustrate? How did you each choose to tell the story?</li>
+</ol>
+<br />
+<h3>Glossary</h3>
+<p><strong><a name="first crusade" id="first crusade"></a>First Crusade</strong> (<em>n</em>) <br />
+first of a series of wars waged by European Christians between 1096 and 1099 to wrest control of the city of Jerusalem and specific sites of importance in the life of Christ from Muslim powers. During the First Crusade, Jerusalem was captured and a government ruled by a religious authority was installed.</p>
+<p><strong><a name="holy land" id="holy land"></a>Holy Land</strong> (<em>n</em>) <br />
+in the Bible, area of the eastern Mediterranean, including Jordan and Israel, held sacred by Jews, Christians, and Muslims</p>
+<p><strong><a name="rococo" id="rococo"></a>Rococo</strong> (<em>adj</em> or <em>n</em>) <br />
+of or relating to a period that emerged at the end of the Baroque characterized in art by decoration; lightness in tone, in both color and mood; and the use of organic forms and asymmetry in design. Centered in France, the Rococo style was international, flourishing especially in Austria, Germany, and Italy.</p>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001056.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001056.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Rococo to Realist Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Fete">Artworks</a></li>
+<li class="collapsed"><a href="../lesson">Lesson Plans</a></li>
+<li class="expanded"><a href="../family">Family Activities</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/1055">Make a Mighty Portrait</a></li>
+<li class="leaf"><a href="../resource/1054">Looking Glasses</a></li>
+<li class="leaf active last"><a href="1056" class="active">Picture Books</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1347">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first"><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/artwork/16492"><img src="../images/9573_3061158.jpg" alt="Armida Abandoned by Rinaldo" title="Giovanni Battista Tiepolo
+Italian, 1696–1770, Armida Abandoned by Rinaldo"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/artwork/16492">Armida Abandoned by Rinaldo</a></span>, 1742/45</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/artwork/16488">Armida Encounters the Sleeping Rinaldo</a></span>, 1742/45</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/artwork/16485">Rinaldo and Armida in Her Garden</a></span>, 1742/45</li></ul><p><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/resource/morerelatedartworks" class="morerelatedartworks">More related artworks&hellip;</a></p></div><div id="relatedArtworksMore"><ul><li class="first"><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/artwork/16492"><img src="../images/9573_3061158.jpg" alt="Armida Abandoned by Rinaldo" title="Giovanni Battista Tiepolo
+Italian, 1696–1770, Armida Abandoned by Rinaldo"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/artwork/16492">Armida Abandoned by Rinaldo</a></span>, 1742/45</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/artwork/16488">Armida Encounters the Sleeping Rinaldo</a></span>, 1742/45</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/artwork/16485">Rinaldo and Armida in Her Garden</a></span>, 1742/45</li><li class="last"><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/artwork/16495"><img src="../images/9493_3061150.jpg" alt="Rinaldo and the Magus of Ascalon" title="Giovanni Battista Tiepolo
+Italian, 1696–1770, Rinaldo and the Magus of Ascalon"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/artwork/16495">Rinaldo and the Magus of Ascalon</a></span>, 1742/45</li></ul><p><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/resource/lessrelatedartworks" class="lessrelatedartworks">&hellip;Fewer related artworks</a></p></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

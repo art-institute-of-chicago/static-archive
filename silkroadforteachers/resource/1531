@@ -1,0 +1,283 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_972a08341749d384f90903aa1d82574e) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a0398090c77cce2d6cb2ccdb1c72b64e) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_a0398090c77cce2d6cb2ccdb1c72b64e) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_641edc1bccbcf73db3b851a5eb14c290) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_972a08341749d384f90903aa1d82574e) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a0398090c77cce2d6cb2ccdb1c72b64e) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_a0398090c77cce2d6cb2ccdb1c72b64e) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Introducing Chinese Culture and Art | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-1829.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/aic_silkroad.gif" alt="The Art Institute of chicago" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/silkroad_header.gif" alt="Silkroad" title="" width="550" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/silkroad">Silk Road, Resources for Teachers</a> > <a href="../Lessons">Lesson Plans</a> > <span class="sel">Introducing Chinese Culture and Art</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Introducing Chinese Culture and Art</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Introducing Chinese Culture and Art</strong><br />       <div class="meta">
+  
+    </div>
+
+  <div class="content">
+    <div class="image wrap"><img src="../images/E15090.jpg" alt="../images/E15090.jpg" title="../images/E15090.jpg" width="202" height="256" class="inline" /></div>
+
+<p><strong>Name:</strong> Laura Rovelo-Meyran
+<br /><Strong>School:</Strong> Whittier Kindergarten Center
+
+<br /><strong>Subject Area:</strong> Art
+<br /><strong>Grade Level:</strong> Kindergarten</p>
+
+<h3>State Goals</h3>
+<ul><li>State Goal 26: Through creating and performing, understand how works of art are produced.</li>
+<li>State goal 27: Understand the role of the arts in civilizations, past and present.</li></ul>
+
+<h3>Objectives</h3>
+<ul><li>Expose students to expressions of the Chinese culture through media such as silk, paper, origami, music, and porcelain.</li>
+<li>Promote multicultural education.<br />
+(Note: This unit was planned and realized with bilingual Kindergarten students with established and emergent reading skills.  The whole unit, with 6 lessons, was completed in 2 weeks.)</li></ul>
+
+<h3>Materials/Resources/Gallery Objects</h3>
+<ul><li><em>The Empress and the Silkworm</em> by Lily Toy Hong</li>
+<li>Crayons</li>
+<li>Glue</li>
+<li>Craft sticks</li>
+<li>"Fuhng Yahng Flower Drum Song" from the CD, <em>Children’s Songs Around the World</em>, by Catherine Slonecki, Educational Activities, Inc.</li>
+<li>Crepe paper</li>
+<li>Paper plates</li>
+<li>Construction paper (multiple colors, including white)</li>
+<li>Tops</li>
+<li>Receptacle with water (to hold paper-making project)</li>
+<li>Blender </li>
+<li>Strainer</li>
+<li>Plastic bag</li>
+<li>Confetti, leaves, flowers</li></ul>
+<h3>Procedures</h3><p><strong>Day 1</strong></p>
+<strong><em>Introduction</em></strong>
+<ol>
+<li>Ask the students answer these questions:</li><ul>
+<li>What is China?</li><li>Where is China?</li><li>What do you know about China?</li>
+</ul><li>After finishing, the students watch a PowerPoint presentation about China and make connections about what they see with the questions above.</li>
+</ol><p><strong>Day 2</strong></p>
+<strong><em> Silkworm Story and Stick Puppet</em></strong>
+<ol>
+<li>The students view the cover of the book <em>The Empress and the Silkworm</em> by Lily Toy Hong and make guesses about what they think the book is about. During the reading, the teacher monitors comprehension, defining vocabulary and making connections as neeed.</li><li>The students reenact the passage of the silkworm falling into the cup of tea, and how the empress discovered silk.</li><li>The students will color, paste, and cut a stick puppet representing Si Ling-Chi, the empress that discovered silk.</li>
+</ol><p><strong>Day 3</strong></p>
+<strong><em>Chinese Dance (The students perform Chinese dance to Fuhng YahngFlower Drum Song from the Children’s Songs Around the World CD.)</em></strong>
+<ol>
+<li>The students line up by 6 in 4 rows and move their right arms in a circular motion, holding a ribbon.</li><li>They turn to the right, change the ribbons to the left hands, and move their left arms in a circle.</li><li>They turn to the right, change the ribbons to the right hand, and move their hands over their heads, in circles.</li><li>They turn to the right, change the ribbons to their left hands and move their left hands over their heads in circles. They repeat this pattern until the music ends.</li><li>The “ribbons” are made of crepe paper and wooden sticks.</li>
+</ol><p><strong>Day 4</strong></p>
+<strong><em>White and Blue Mosaics</em></strong>
+<ol>
+<li>The students observe images on the internet that show china (plates) in dichromatic tones and different patterns.<li>The students create their own shape, using mosaic techniques.</li>
+</ol>
+<p><strong>Day 5</strong></p>
+<strong><em>Tops with Designs</em></strong>
+<ol>
+<li>The students observe and compare Chinese and Mexican patterns to “copy” their favorites and draw them in a small white circle. This circle will have a small hole at the center.</li><li>The students will place this circle in the handle of a top and make it turn, to see how it changes.</li>
+</ol>
+<p><strong>Day 6</strong></p>
+<strong><em>Making paper</em></strong>
+<ol>
+<li>The students cut paper in small pieces and put it in a receptacle with water.</li><li>The class waits one weekend to get the paper soft.</li><li>In small amounts, put the mix of water and paper into a blender.</li><li>With a strainer, try to eliminate as much water as possible. The resulting paste may be put over a plastic bag, and needs to be flattened as much as possible. At this time, confetti, different pieces of paper, leaves, or flowers may be added and them flattened again.</li><li>Let it dry.</li><li>When it is totally dry, remove it from the plastic.</li><li>he students order the sequence of events in a worksheet.</li>
+</ol>
+<p><strong>Day 7</strong></p>
+<strong><em>Origami</em></strong>
+<ol><li>The students learn how to make different objects by folding paper. They get a pre-folded sheet of paper and in small groups (4 to 8), the teacher gives directions and supervises he students in following the right sequence.</li><li>The students create a boat and an airplane. They may color and write names for these vehicles.</li><li>The students can then race their boars and airplanes.</li>
+</ol>
+</div><br /><br />
+    	     	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001531.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001531.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Silk Road, Resources for Teachers </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../about">About the Silk Road</a></li>
+<li class="expanded"><a href="../Lessons">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/930">Create a Chinese Dragon </a></li>
+<li class="leaf"><a href="../resource/1527">Cultural Celebrations and Storytelling</a></li>
+<li class="leaf"><a href="../resource/1528">Discovering Silk Road Stories</a></li>
+<li class="leaf"><a href="../resource/1530">From China to Mexico: Silk Road Ceramics</a></li>
+<li class="leaf active"><a href="1531" class="active">Introducing Chinese Culture and Art</a></li>
+<li class="leaf"><a href="../resource/1532">Music of the Silk Road</a></li>
+<li class="leaf"><a href="../resource/1533">Silk Road Envelope Book Project</a></li>
+<li class="leaf"><a href="../resource/1534">Silk Road History Lab</a></li>
+<li class="leaf"><a href="../resource/1535">Silk Road Journeys: Analyzing Poetry</a></li>
+<li class="leaf last"><a href="../resource/1536">World Languages and Cultural Exchange</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="../bibliography">Bibliography</a></li>
+<li class="collapsed"><a href="../imagegal">Image Gallery</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="leaf last"><a href="../credits">Credits</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"><div class="relatedimage"><a href="../artwork/35381"><img src="../images/9247_3061126.jpg" alt="Seated Woman Holding Mirror" title="China, Seated Woman Holding Mirror"  /></a></div> <span class="italic"><a href="../artwork/35381">Seated Woman Holding Mirror</a></span>, Tang dynasty (A.D. 618–907), first half of 8th century</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

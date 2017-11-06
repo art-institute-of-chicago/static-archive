@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>City Lost and Found</title>
+
+  
+    <meta property="og:title" content="City Lost and Found" itemprop="name">
+  <meta name="twitter:title" content="City Lost and Found">
+
+
+
+    <meta property="og:url" content="/city-lost-found/cities">
+  <meta name="twitter:url" content="/city-lost-found/cities">
+
+    <meta property="og:type" content="website"> 
+  
+
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery-1.9.1.min.js" type="text/javascript"></script>
+    
+  <script src="modernizr.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="script.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+  <meta name="viewport" content="initial-scale=1.0,width=device-width" />
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+<div class="page-cities">
+  <div class="show-for-small-only">
+    <nav class="top-bar" data-topbar role="navigation"> 
+  <ul class="title-area"> 
+    <li class="name"> </li>  
+    <li class="toggle-topbar menu-icon"><a href="cities#"><span>Menu</span></a></li>
+  </ul> 
+  <section class="top-bar-section">
+    <ul class="right city-pages">
+      <li class="new-york"><a href="/city-lost-found/new-york">N<span>ew </span>Y<span>ork</span></a></li>
+      <li class="chicago"><a href="/city-lost-found/chicago">Chi<span>cago</span></a></li>
+      <li class="los-angeles"><a href="/city-lost-found/los-angeles">L<span>os </span>A<span>ngeles</span></a></li>
+    </ul>
+    <ul class="left">
+      <li class="twitter"><a target="_blank" href="https://twitter.com/citylostfound"><img src="share-twitter.png"/></a></li>
+      <li><a target="_blank" href="http://www.artic.edu/tickets">Buy Tickets</a></li>
+      <li><a target="_blank" href="http://www.artic.edu/joinnow">Become a Member</a></li>
+      <li><a href="/city-lost-found/related-events">Related Events</a></li>
+      <li><a href="/city-lost-found/credits">Special Thanks</a></li>
+    </ul>
+  </section>
+</nav>
+
+
+    <div class="header">
+  <div class="row">
+    <div class="small-12 columns clearfix">
+      <a target="_blank" href="http://artic.edu"><img class="left logo" src="aic-logo-100-outline-white.png" /></a>
+      
+        <p class="right"><a href="cities">Continue &gt;</a></p> 
+        <a href="/city-lost-found"><img class="exhibition-title left" src="CLF-home.png"/></a>
+        <div class="clearfix"></div>
+        <p class="exhibition-dates">
+          October 26&ndash;January 11<br/>
+          Member Preview: October 25
+        </p>
+      
+    </div>
+  </div>
+</div>
+
+  </div>
+  <div class="city-stripes clearfix">
+    <div class="new-york-stripe" data-city="new-york">
+      <h2 class="show-for-small-only"><a href="/city-lost-found/new-york">New York</a></h2>
+    </div>
+    <div class="chicago-stripe" data-city="chicago">
+      <h2 class="show-for-small-only"><a href="/city-lost-found/chicago">Chicago</a></h2>
+    </div>
+    <div class="los-angeles-stripe" data-city="los-angeles">
+      <h2 class="show-for-small-only"><a href="/city-lost-found/los-angeles">Los Angeles</a></h2>
+    </div>
+  </div>
+  <div class="footer show-for-medium-up">
+
+    <nav class="top-bar" data-topbar role="navigation"> 
+  <ul class="title-area"> 
+    <li class="name"> </li>  
+    <li class="toggle-topbar menu-icon"><a href="cities#"><span>Menu</span></a></li>
+  </ul> 
+  <section class="top-bar-section">
+    <ul class="right city-pages">
+      <li class="new-york"><a href="/city-lost-found/new-york">N<span>ew </span>Y<span>ork</span></a></li>
+      <li class="chicago"><a href="/city-lost-found/chicago">Chi<span>cago</span></a></li>
+      <li class="los-angeles"><a href="/city-lost-found/los-angeles">L<span>os </span>A<span>ngeles</span></a></li>
+    </ul>
+    <ul class="left">
+      <li class="twitter"><a target="_blank" href="https://twitter.com/citylostfound"><img src="share-twitter.png"/></a></li>
+      <li><a target="_blank" href="http://www.artic.edu/tickets">Buy Tickets</a></li>
+      <li><a target="_blank" href="http://www.artic.edu/joinnow">Become a Member</a></li>
+      <li><a href="/city-lost-found/related-events">Related Events</a></li>
+      <li><a href="/city-lost-found/credits">Special Thanks</a></li>
+    </ul>
+  </section>
+</nav>
+
+
+
+    <div class="header">
+      <div class="row">
+        <div class="small-12 columns clearfix">
+
+          <p class="exhibition-dates left show-for-medium-up">
+            October 26&ndash;January 11<br/>
+            Member Preview: October 25
+          </p>
+
+          <a target="_blank" href="http://artic.edu">
+            <img class="left logo" src="aic-logo-100-outline-white.png" />
+          </a>
+
+          <a href="/city-lost-found">
+            <img class="exhibition-title left" src="CLF-home.png"/>
+          </a>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

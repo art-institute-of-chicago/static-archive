@@ -1,0 +1,331 @@
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_af9f044cb63f154ee8f18dd46d8d3c9c) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_5dd88c3d2347bb23b371188cf66b4102) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Case 8: Urban Planning | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-13038.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/browserDetect.js"></script>
+<script type="text/javascript" src="../js/jquery.hoverintent.minified.js"></script>
+<script type="text/javascript" src="../js/infiniteScroll.js"></script>
+<script type="text/javascript" src="../js/filterMenu.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+
+   <script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page-node.tpl.php-->
+</head>
+<body class="not-front not-logged-in ntype-resource-listing sidebar-right">
+  <div id="header">
+    <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/Ryerson_aic.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Ryerson_hdr.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+<div id="pagewrapper">
+
+<div id="page">
+<div id="column_container">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2011">Ryerson & Burnham Library Exhibitions, 2011</a> > <a href="../Goldberg">Selections from the Bertrand Goldberg Archive</a> > <span class="sel">Case 8: Urban Planning</span></div></div>
+      </div>
+    
+    <div id="page-title-wrapper">
+              <h1 class="title">Case 8: Urban Planning</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <div class="content">
+    <div class="bodycopy">
+        <p>Rather than a distinct temporal phase or project type in Goldberg's oeuvre, urbanism can be regarded as a constant theme in his career. As Goldberg once said, "urbanism for me is simply a description of the way people come together." Seeking both to improve the conditions of exist-ing urban areas and to create new ones, Goldberg employed a number of heterogeneous design solutions over the years. What unites these disparate projects is Goldberg's belief that "urban life will only be improved by increasing... population density [which can] make it possible to finance public transportation... to offer an intense cultural life, and to economize energy resources."<br />
+
+<ol><li>Calumet New Town, Calumet, IN, 1948-1949. "Air View of the Town" rendering, brochure, p.6, [1949].</li>
+<li>Untitled manuscript outline, n.d.</li>
+<li>Bertrand Goldberg to Joseph A. Califano, Special Assistant to the President, March 28, 1967.</li>
+<li>Point Squanto Development (Point Neponset Project), Quincy, MA, 1964-1967. Rendering, n.d.</li>
+<li>Burns-Jackson Project, Dayton, OH, 1966-1970. "Proposed Burns Jackson" plan, n.d.</li>
+<li>"The Crescent Corridor and The Lake Calumet Airport," City Innovation, January 1992. Brochure.</li>
+<li>Bertrand Goldberg to Robert C. Wood, Undersecretary Department of Housing and Urban Development (HUD), May 7, 1968.</li></ol></p>    </div>
+    <div class="floatClear"></div>
+    <div id="galleryHolder">
+        <div id="filterMenu" style="height:35px;">
+                    <h3>View resources</h3>
+                    <ul id="filters">
+                      	            </ul>
+          <div id="filterControls">
+        	  <div id="results">Showing <span id="count">7</span> results</div>
+        	  <div id="reset">
+        		  <a href="8#" id="filter-name">Reset</a>
+        		  <a href="8#" id="resetBox"><span>X</span></a>
+        	  </div>
+          </div>
+        </div>
+        <div class="floatClear"></div>
+        <div id="galleryContent">
+                        <div class="floatClear"></div>
+        </div>
+    </div>
+</div>
+<script language="javascript">
+    
+    //Utils
+    Array.prototype.unique = function() {
+        var o = {}, i, l = this.length, r = [];
+        for(i=0; i<l;i+=1) o[this[i]] = this[i];
+        for(i in o) r.push(o[i]);
+        return r;
+    };
+    
+    (function($){
+      //Doing this because image attributes don't get properly read until everything is loaded.
+      $(window).load(function() {
+          $(".galleryImage img.scaled").each( function (index) {
+              var img = $(this);
+              var max = 112;
+              // fix dimensions
+              if ( img.height() > img.width() ){
+                  img.css( { "height":max, "width":"auto"} );
+              }
+              else { img.css( { "height":"auto", "width":max} ); }
+          });
+      });
+    })(jQuery);
+    
+    var galleryObjects = {"resource_2290":{"resource_link":"..\/2290","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002290.jpg","resource_title":"01. Calumet New Town, Calumet, IN. \"Air View of the Town\" rendering, brochure, p.6, [1949].","resource_description":"1948-1949.<br \/>\n<br \/>\nThe Calumet New Town plan, sponsored by General American Transportation Corporation CEO, Lester Selig, was conceived with the intent of creating a new, company town\u2014in the spirit of Pullman, but \"renewed\"\u2014from scratch. Selig's unorthodox plan was to retain ownership of the workingmen's houses by the company, yet with the explicit promise of a new home every worker, every 25 years.<br \/>\n<br \/>\nIn this aerial plan of the town, the separation of zones by function\u2014a hallmark of the planner Ludwig Hilberseimer, with whom Goldberg studied at the Bauhaus\u2014is readily apparent. Hilberseimer's influence is also clear in the communities of residential \"superblocks,\" buffered on two sides by open land. But rather than adopting Hilberseimer's process of \"community formation through living patterns caused by sun, wind, or traffic,\" Goldberg sought out Le Corbisier's model of \"community formation through humanism.\" The result was a plan that was to dramatically reduce the cost of living, including both food and transportation costs. More importantly, it intended to make a promise to workers that they \"would not be faced with a constantly degenerating pattern of living.\"<br \/>\n<br \/>\nUnfortunately, insurance companies became afraid that such an large grouping of houses in a tightly-knit community could become the \"tool of a rent strike in the event [the worker's] labor relations were unhappy\" and declined to support the project, effectively killing it\u2014though perhaps for good. Goldberg, in a later assessment of such \"monolithic living\" plans, found them less viable and attractive \"for the later twentieth-century American life.\"","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002290.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"41.3916015625","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 8, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14869&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture, city planning, housing"},"resource_2291":{"resource_link":"..\/2291","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002291.jpg","resource_title":"02. Untitled manuscript outline, n.d.","resource_description":"This undated outline traces the rationale behind Goldberg's \"city within a city\" philosophy.","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002291.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"82.2763671875","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 8, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14856&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture, city planning, housing"},"resource_2292":{"resource_link":"..\/2292","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002292.jpg","resource_title":"03. Bertrand Goldberg to Joseph A. Califano, Special Assistant to the President, March 28, 1967.","resource_description":"The Summer Study on Science and Urban Development at Woods Hole was a conference devoted to developing a physical planning program that proposed creating federally-funded, high density urban \"new towns\" within existing urban centers. In this letter to President Johnson's Assistant, Goldberg expresses his frustration that the planning initiatives developed at Woods Hole were only receiving a very limited allocation of funds. Without such funds, Goldberg believed Chicago and other large, American cities would be \"lost within a period as short as the next 10 years\" due to white, middle-class flight and the loss of this tax base.","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002292.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"76.3056640625","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 8, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14865&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"city planning"},"resource_2293":{"resource_link":"..\/2293","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002293.jpg","resource_title":"04. Point Squanto Development (Point Neponset Project), Quincy, MA. Rendering, n.d.","resource_description":"1964-1967.<br \/>\n<br \/>\nPoint Squanto is an unbuilt, 300-acre residential and commercial project planned for a waterfront area two miles south of Boston. Like Goldberg's early plan for River City, this sprawling development would have included high rises, light industry, shopping and office buildings, and cultural facilities.","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002293.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"31.9599609375","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 8, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14860&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture, housing"},"resource_2294":{"resource_link":"..\/2294","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002294.jpg","resource_title":"05. Burns-Jackson Project, Dayton, OH. \"Proposed Burns Jackson\" plan, n.d.","resource_description":"1966-1970.<br \/>\n<br \/>\nGoldberg's proposal to reinvent Burns-Jackson\u2014a neglected, but historic-ally rich neighborhood adjacent to Dayton's commercial center\u2014was not aimed at \"preserving the pastness of the past, but giving the past a future.\"* Because many existing buildings were not worthy of preservation, Goldberg's plan included new high-density residential towers, low-rise apartments and community buildings, as well as the restoration and rearrangement of historical homes. For reasons unknown, the city rejected Goldberg's \"community within a community\" plan, and it was never implemented.<br \/>\n<br \/>\n----------------------------------------------------------------------------------------------------------------- <br \/>\n* Meeker, Hubert. \"Giving the Past a Future,\" Architectural Forum, May 1967, p.58.","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002294.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"58.8779296875","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 8, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14872&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture, city planning"},"resource_2295":{"resource_link":"..\/2295","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002295.jpg","resource_title":"06. \"The Crescent Corridor and The Lake Calumet Airport,\" City Innovation, January 1992. Brochure.","resource_description":"In this proposal, which Goldberg contributed to significantly, City Innovation\u2014an independent, non-profit, city planning organization based in Minneapolis\u2014advances a plan for the revitalization of a 148-square-mile bi-state area along the southern rim of Lake Michigan known as the \"Crescent Corridor.\" This area\u2014stretching from Chicago's Loop through its south side, to the working-class suburbs of Harvey and Calumet City, and over the Indiana border to Hammond, Munster and Gary\u2014had suffered greatly with the closing of many factories and the general decline of manufacturing in the U.S. The success of this plan, however, was predicated on the success of its proposed anchor tenant, the Lake Calumet Airport. Despite support from Mayor Daley, the Lake Calumet site was eventually abandoned due to claims that it would be significantly more expensive to build than an alternate, rural site in Peotone, Illinois.","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002295.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"43.6474609375","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 8, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14851&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"city planning"},"resource_2296":{"resource_link":"..\/2296","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002296.jpg","resource_title":"07. Bertrand Goldberg to Robert C. Wood, Undersecretary Department of Housing and Urban Development (HUD), May 7, 1968.","resource_description":"","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002296.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"71.4501953125","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 8, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14902&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"African American, city planning, housing"}};
+        
+    (function($){
+		$(document).ready(function(){
+		    $("#reset").hide();
+		    var galleryContent = $("#galleryContent"), gCEnd = galleryContent.children(".floatClear");
+		    var types = new Array();
+		    		    
+		    $.each(galleryObjects, function(i, gObj) {
+		        (function() {
+		            types.push(gObj.resource_types_for_resource_id);
+    				// build DOM objects and nest them through appends
+    				var g = $('<div>', { 'class': 'galleryImage' } );
+    				var gLink = $( '<a>', { 'href': gObj.resource_link } );
+    				var gThumbnail = $( '<img src="' + gObj.resource_image_thumbnail + '" class="scaled" />' );
+    				var gTooltip = $( "<div>", { "class": "tooltip", "html": '<img src="' + gObj.resource_image_thumbnail +'" alt="'+ gObj.resource_title +'" /><div id="artworkData"><strong>'+ gObj.resource_title +'</strong></div>' } );
+    				gLink.append(gThumbnail);
+    				gLink.append(gTooltip);
+    				g.append(gLink);
+			
+    				// associate object to DOM object
+    				g.artData = gObj;
+				
+    				// bind filtering events
+    				g.bind( "filterByType", function(event,type) {
+    					if ( $.inArray( type, $.map(g.artData.resource_types_for_resource_id.split(","), function(n){ return $.trim(n); }) ) == -1 ) { g.hide(); }
+    					else { g.fadeIn(); }
+    				});
+    				
+    				g.bind( "filterByTag", function(event,tag) {
+    					if ( $.inArray( tag, $.map(g.artData.resource_tags_for_resource_id.split(","), function(n){ return $.trim(n); }) ) == -1 ) { g.hide(); }
+    					else { g.fadeIn(); }
+    				});
+    				
+    				g.bind( "filterReset", function(event){
+    				    g.fadeIn();
+    				});
+			
+    				// stolen from tooltip js
+    				gTooltip.hide();		
+    				// do rollovers for this link -- you can change the fadeIn and fadeOut to just show() and hide() if you don't like the fading effect
+    				gLink.hover(
+    				    function () {
+        				    gTooltip.show();
+        				    // position tooltip
+            				gTooltip.css( { "bottom": gThumbnail.height()/2 + ( g.height() - gThumbnail.height() ) + "px", "left": gThumbnail.width()/2 + "px" } );
+            			},
+        			
+        				function () { gTooltip.hide(); }
+    				);
+    				// end steal
+			
+    				// insert this gallery node before end of list
+    				gCEnd.before(g);
+			    })();
+            });
+            
+            			
+						
+			//event resetting all filters
+			$( "#reset a").click( function () {
+			    $(".galleryImage").trigger( "filterReset" );
+			    $("#count").text($('.galleryImage :visible').size());
+			    $(".active").removeClass("active");
+			    $("#reset").hide();
+				return false;
+			});
+			
+			$(".galleryImage img.scaled").each( function (index) {
+                var img = $(this);
+                var max = 112;
+                // fix dimensions
+                if ( img.height() > img.width() ){
+                    img.css( { "height":max, "width":"auto"} );
+                }
+                else { img.css( { "height":"auto", "width":max} ); }
+            });
+		});
+	})(jQuery);
+</script> </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+             
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+			      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+       <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Ryerson &amp; Burnham Library Exhibitions, 2011 </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2016/index">2016</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2015/index">2015</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2014/index">2014</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2013">2013</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2012">2012</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2011/index">2011</a></li>
+<li class="expanded"><a href="../Goldberg">Selections from the Bertrand Goldberg Archive</a>
+<ul class="menu">
+<li class="leaf first"><a href="../Goldberg/1">Case 1: Early Life and Work</a></li>
+<li class="leaf"><a href="../Goldberg/2">Case 2: Prefabrication</a></li>
+<li class="leaf"><a href="../Goldberg/3">Case 3: 1950s-1960s</a></li>
+<li class="leaf"><a href="../Goldberg/4">Case 4: Marina City, 1959-1967</a></li>
+<li class="leaf"><a href="../Goldberg/5">Case 5: 1970s-1990s</a></li>
+<li class="leaf"><a href="../Goldberg/6">Case 6: River City, 1972-1987</a></li>
+<li class="leaf"><a href="../Goldberg/7">Case 7: Hospitals and Health Care</a></li>
+<li class="leaf active last"><a href="8" class="active">Case 8: Urban Planning</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="../Design-Inspiration">19th-Century American Builders' Manuals and Pattern Books </a></li>
+<li class="collapsed"><a href="../Making-History">Women of the Art Institute</a></li>
+<li class="collapsed"><a href="../Caricatures">Caricatures from the World's Columbian Exposition</a></li>
+<li class="collapsed"><a href="../Paper-Architecture">Paper Architecture: Visionary Structures on the Printed Page</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2010">2010</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2009">2009</a></li>
+<li class="leaf last"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2008">2008</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+   <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+  </div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>
+

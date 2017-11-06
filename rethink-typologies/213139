@@ -1,0 +1,237 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a4b37e4ab3f2476b107a266a8418620c) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_a4b37e4ab3f2476b107a266a8418620c) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_7a3d6738921fbd5d48318433a5c8d318) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_b1d9e57d2b496eb4f5af56b937840f13) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a4b37e4ab3f2476b107a266a8418620c) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_a4b37e4ab3f2476b107a266a8418620c) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_7a3d6738921fbd5d48318433a5c8d318) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a4b37e4ab3f2476b107a266a8418620c) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_a4b37e4ab3f2476b107a266a8418620c) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Flight Patterns | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="css/roll.css" />
+<link rel="shortcut icon" href="images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "css/aicportal.css";</style>
+<style type="text/css" media="all">@import "css/node.css";</style>
+<style type="text/css" media="all">@import "css/user.css";</style>
+<style type="text/css" media="all">@import "css/content.css";</style>
+<style type="text/css" media="all">@import "css/gallery.css";</style>
+<style type="text/css" media="all">@import "css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "css/exhibition-16499.css";</style>
+<style type="text/css" media="all">@import "css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "css/devel.css";</style>
+<style type="text/css" media="all">@import "css/style.css";</style>
+<style type="text/css" media="all">@import "css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "css/system-menus.css";</style>
+<style type="text/css" media="all">@import "css/system.css";</style>
+<style type="text/css" media="all">@import "css/main.css";</style>
+<style type="text/css" media="all">@import "css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "css/print.css";</style>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/drupal.js"></script>
+<script type="text/javascript" src="js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="js/extlink.js"></script>
+<script type="text/javascript" src="js/devel.js"></script>
+<script type="text/javascript" src="js/autocomplete.js"></script>
+<script type="text/javascript" src="js/jqModal.js"></script>
+<script type="text/javascript" src="js/redirect.js"></script>
+<script type="text/javascript" src="js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "citi": { "enlargements": { "..\/images\/176392_2958994.jpg": { "enlargement_image": "..\/images\/176392_2958994.jpg", "object_artist_culture_display": "Aaron Koblin\x3cbr /\x3e\nAmerican, born 1982", "object_title": "Flight Patterns", "object_date_display": "2011", "object_id": "213139", "object_copyright_notice": "© Aaron Koblin." } } } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "/aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "/aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="images/rethinking-aic.gif" alt="The Art Institute of Chicago" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="images/rethinking-hdr.png" alt="Rethinking Typologies" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Rethink-Typologies">Rethinking Typologies: Architecture and Design from the Permanent Collection</a> > <span class="sel">Flight Patterns</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Flight Patterns</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <a href="..\/images\/176392_2958994.jpg" class="enlargement-link enlargement-link-213139"><img src="images/176392_2958996.jpg" alt="Flight Patterns" title="Aaron Koblin
+American, born 1982, Flight Patterns"  /></a>          </div>
+
+    <p class="tools">
+              <a href="..\/images\/176392_2958994.jpg" class="enlargement-link enlargement-link-213139"><strong>View</strong> enlargement</a><br />
+                          <a href="http://www.artic.edu/aic/collections/exhibitions/Rethink-Typologies/artwork/213139/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="http://www.artic.edu/aic/collections/exhibitions/Rethink-Typologies/artwork/213139/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    Aaron Koblin<br />
+American, born 1982<br />
+    </p>
+    <h3><em>Flight Patterns</em>, 2011</h3>
+
+    <p>
+    Animation<br />    N/A<br />        Funds provided by the Architecture &amp; Design Society, 2011.275</p>
+        © Aaron Koblin.
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p><p><em>Flight Patterns</em> is a time-lapse animation that employs data visualization and Processing, an open-source computer programming environment, in order to display American air-traffic patterns and densities over a twenty-four-hour period. Begun as a larger project at UCLA with designers Scott Hessels and Gabriel Dunne, Aaron Koblin's animations follow the routes of 140,000 airplanes crossing the United States beginning at 5:00 pm Eastern time. Koblin uses variations of color and pattern to illustrate a wide range of data and events, including aircraft type, alterations to routes, changes in flight traffic over certain geographical areas, varying weather patterns, and no-fly zones. As the animation reveals multiple iterations of flight patterns during the cycle, the viewer experiences a changing, phantom geography of the country with airline
+hubs appearing as bright points of diffusion in a complex web.</p>
+<p>— Entry, <em>Essential Guide</em>, 2013, p. 94.</p></p>
+                <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Rethinking Typologies: Architecture and Design from the Permanent Collection </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="artworks">Selected Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="http://www.artic.edu/aic/collections/exhibitions/Rethink-Typologies/artwork">Back to previous page</a></span>
+  
+  </div>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_related_resources" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Learn More </h2>
+    <div class="content">
+      <div class="item-list"><ul><li class="first last"><a href="http://www.artic.edu/aic/collections/exhibitions/Rethink-Typologies/resource/2391">Video: Flight Patterns (2011) by Aaron Koblin</a></li></ul></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

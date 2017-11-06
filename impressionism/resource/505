@@ -1,0 +1,288 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_2320a7ed4689aaaad025d87f97a335cf) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_7f9a5c5646fbf1e070a4413de6b4f464) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_7f9a5c5646fbf1e070a4413de6b4f464) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_93c6099d3747e6f55f834907cdb33bea) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_c76c5ce3233cc97c0c82591a46506eab) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_2320a7ed4689aaaad025d87f97a335cf) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_e30b25f19d01ffe1bc074eff8ea84128) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_7f9a5c5646fbf1e070a4413de6b4f464) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_7f9a5c5646fbf1e070a4413de6b4f464) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Urban Space | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8926.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_impress.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_impre.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism">Art Access: Impressionist and Post-Impressionist Art</a> > <a href="../lesson">Lesson Plans</a> > <span class="sel">Urban Space</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Urban Space</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Urban Space</strong><br />       <div class="content">
+<p>To create a unique view of modern <em>Paris in Paris Street; Rainy Day</em>, Gustave Caillebotte experimented with plunging perspective. By examining the painting, students will learn the conventions of perspective used to create a sense of depth in art.</p>
+<p><strong>Suggested Grade Level:</strong> 5-8<br />
+<strong>Estimated Time:</strong> One class period</p>
+<div class="image wrap"><img src="../images/C50991.jpg" border="0" class="inline" /></div>
+<h3>Lesson Objectives</h3>
+<ul>
+<li>Learn to describe and analyze works of art</li>
+<li>Address perspective and scale in art</li>
+</ul>
+<h3>Key Terms</h3>
+<ul>
+<li><a href="505#composition">composition</a></li>
+<li><a href="505#horizonline">horizon line</a></li>
+<li><a href="505#scale">scale</a></li>
+<li><a href="505#perspective">perspective</a></li>
+<li><a href="505#vanishingpoint">vanishing point</a></li>
+<li><a href="505#orthogonal">orthogonal line</a></li>
+<li><a href="505#foreground">foreground</a></li>
+<li><a href="505#middleground">middle ground</a></li>
+<li><a href="505#background">background</a></li>
+</ul>
+<h3>Instructional Materials</h3>
+<ul>
+<li>Photocopies of <em>Paris Street; Rainy Day</em></li>
+<li>11" x 17" white paper</li>
+<li>Colored pencils</li>
+<li>Rulers</li>
+<li>Magazines and newspapers</li>
+<li>Scissors</li>
+<li>Glue</li>
+</ul>
+<h3>Procedures</h3>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>Examine the composition of <a href="../Caillebotte"><em>Paris Street; Rainy Day</em></a> with students. Start by asking:</li>
+<ul>
+<li>What dominates the right side of the painting?</li>
+<li>What dominates the left?</li>
+<li>How did the artist distinguish the left side from the right? (lamppost)</li>
+<li>How do we know that some figures are close and others far away? (by their size or scale).</li>
+</ul>
+<li>Explain that the points on the horizon line where people become smaller and buildings seem to disappear are called vanishing points. Ask:</li>
+<ul>
+<li>How many vanishing points can you see in the painting?</li>
+<li>What visual elements of the painting draw your eye back to these vanishing points?</li>
+</ul>
+<li>Pass out a photocopy of <em>Paris Street; Rainy Day</em> and ask students to use rulers and colored pencils to mark the horizon line, vanishing points, and major orthogonal lines.</li>
+</ul>
+<p><strong>Activity:</strong></p>
+<ul>
+<li>Ask students to make a collage of a contemporary urban scene. Start by giving students a blank sheet of white paper and asking them to draw a horizon line, a single vanishing point, and at least two orthogonal lines above and below the horizon line.</li>
+<li>Have students look through magazines and newspapers to find pictures of figures, buildings and other city elements in a range of sizes. Encourage them to cut these out and place them in a collage, experimenting with scale along the orthogonal lines before gluing the final composition. Have them try to create a sense of foreground, middle ground, and background through the scale of objects.</li>
+</ul>
+<h3>Evaluation</h3>
+<p>In a class "critique," have students discuss their unique urban views and explain how scale and perspective contribute to them. Evaluate students’ participation in class discussion and their creative work.</p><br />
+<h3>Glossary</h3>
+<p><strong><a name="background" id="background"></a>background</strong> (<em>n</em>)<br />
+the part of a painting or drawing representing the space behind the figures or objects close to the viewer (in the foreground)</p>
+<p><strong><a name="composition" id="composition"></a>composition</strong> (<em>n</em>)<br />
+the arrangement of elements such as shape, space, and color in a work of art</p>
+<p><strong><a name="foreground" id="foreground"></a>foreground</strong> (<em>n</em>)<br />
+the objects or figures situated in the front of a composition, intended to exist close to the viewer (as opposed to background)</p>
+<p><strong><a name="horizonline" id="horizonline"></a>horizon line</strong> (<em>n</em>)<br />
+the horizontal line in a work of art that forms the apparent boundary between earth and sky</p>
+<p><strong><a name="middleground" id="middleground"></a>middle ground</strong> (<em>n</em>)<br />
+the portion of picture space that is behind the foreground but in front of the background</p>
+<p><strong><a name="orthogonal" id="orthogonal"></a>orthogonal line</strong> (<em>n</em>)<br />
+in linear perspective, a diagonal line drawn to a vanishing point</p>
+<p><strong><a name="perspective" id="perspective"></a>perspective</strong> (<em>n</em>)<br />
+scientific method used by artists to represent three-dimensional objects on two-dimensional surfaces. Linear perspective uses vanishing points and orthogonals to make objects seem as if they are receding in space. Some maintain that a crude form of linear perspective was introduced by the Romans, refined by Islamic artists in the middle ages, and rediscovered by Italian architect Filippo Brunelleschi in the 15th century.</p>
+<p><strong><a name="scale" id="scale"></a>scale</strong> (<em>n</em>)<br />
+the relative size of one object in relation to another object</p>
+<p><strong><a name="vanishingpoint" id="vanishingpoint"></a>vanishing point</strong> (<em>n</em>)<br />
+in perspective, the point at which receding parallel lines appear to converge. The vanishing point is often on the horizon line</p><br />
+<p><a href="http://www.isbe.state.il.us/ils/" target="_blank">Illinois Learning Standards</a><br />
+Fine Arts: 25-26</p>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_000505.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_000505.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Impressionist and Post-Impressionist Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Manet">Artworks</a></li>
+<li class="expanded"><a href="../lesson">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/503">Color Combinations</a></li>
+<li class="leaf"><a href="../resource/504">Act it Out</a></li>
+<li class="leaf"><a href="../resource/1345">Send a Postcard</a></li>
+<li class="leaf active last"><a href="505" class="active">Urban Space</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="../family">Family Activities</a></li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1074">Map</a></li>
+<li class="leaf"><a href="../Glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/artwork/20684">Paris Street; Rainy Day</a></span>, 1877</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

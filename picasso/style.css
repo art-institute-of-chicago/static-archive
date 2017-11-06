@@ -1,0 +1,75 @@
+body {
+background:#414042;
+margin:0;
+padding:30px;
+}
+
+body, p {
+font-family:"Times New Roman", serif;
+font-size:16px;
+color:#FFFFFF;
+}
+
+a, a:hover {
+color:#FFFFFF;
+text-decoration:underline;
+font-weight:bold;
+}
+
+.row {
+min-width:500px;
+}
+
+/* header */
+
+#picasso-logo {
+margin:0 0 20px 0;
+}
+
+/* article */
+
+hr {
+margin:0 0 5px 0;
+border-width:1px;
+border-color:#FFFFFF;
+}
+
+#article-header {
+margin:0 0 30px 0;
+padding:0;
+}
+
+#article-body p {
+margin:0 0 8px 0;
+}
+
+#picasso-artwork-image {
+margin:0 0 8px 0;
+width:100%;
+}
+
+#article-footer p {
+font-size:13px;
+margin:0 0 5px 0;
+color:#cccccc;
+}
+
+hr.narrow-rule {
+border-width:1px 0 0 0;
+}
+
+#bmo-logo {
+display:inline-block;
+margin:0 0 -6px 0;
+}
+
+/* nav */
+
+.block-grid li {
+text-align:center;
+}
+
+img.nav-button {
+width:90%;
+max-width:90px;
+}

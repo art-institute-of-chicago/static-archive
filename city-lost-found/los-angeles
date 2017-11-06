@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>City Lost and Found</title>
+
+  
+    <meta property="og:title" content="City Lost and Found" itemprop="name">
+  <meta name="twitter:title" content="City Lost and Found">
+
+
+
+    <meta property="og:url" content="/city-lost-found/los-angeles">
+  <meta name="twitter:url" content="/city-lost-found/los-angeles">
+
+    <meta property="og:type" content="website"> 
+  
+
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery-1.9.1.min.js" type="text/javascript"></script>
+    
+  <script src="modernizr.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="script.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+  <meta name="viewport" content="initial-scale=1.0,width=device-width" />
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+<div class="page-los-angeles">
+
+  <nav class="top-bar" data-topbar role="navigation"> 
+  <ul class="title-area"> 
+    <li class="name"> </li>  
+    <li class="toggle-topbar menu-icon"><a href="los-angeles#"><span>Menu</span></a></li>
+  </ul> 
+  <section class="top-bar-section">
+    <ul class="right city-pages">
+      <li class="new-york"><a href="/city-lost-found/new-york">N<span>ew </span>Y<span>ork</span></a></li>
+      <li class="chicago"><a href="/city-lost-found/chicago">Chi<span>cago</span></a></li>
+      <li class="los-angeles"><a href="los-angeles">L<span>os </span>A<span>ngeles</span></a></li>
+    </ul>
+    <ul class="left">
+      <li class="twitter"><a target="_blank" href="https://twitter.com/citylostfound"><img src="share-twitter.png"/></a></li>
+      <li><a target="_blank" href="http://www.artic.edu/tickets">Buy Tickets</a></li>
+      <li><a target="_blank" href="http://www.artic.edu/joinnow">Become a Member</a></li>
+      <li><a href="/city-lost-found/related-events">Related Events</a></li>
+      <li><a href="/city-lost-found/credits">Special Thanks</a></li>
+    </ul>
+  </section>
+</nav>
+
+
+  <div class="header">
+  <div class="row">
+    <div class="small-12 columns clearfix">
+      <a target="_blank" href="http://artic.edu"><img class="left logo" src="aic-logo-100-outline-white.png" /></a>
+      
+        <div class="left">
+          <a href="/city-lost-found"><img class="exhibition-title" src="CLF-secondary.png"/></a>
+          <p class="exhibition-dates">
+            October 26&ndash;January 11<br/>
+            Member Preview: October 25
+          </p>
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+  <div class="row main-content">
+    <div class="small-12 columns">
+      <h1>Los Angeles</h1>
+
+      <p>Los Angeles has always been known for its exceptionalism, as a city of horizontal rather than vertical growth and a place where categories of private and public space prove complex and intertwined. During the 1960s and &rsquo;70s these qualities inspired visual responses by seminal artists like Ed Ruscha as well as critics like Reyner Banham, one of the most attentive observers of the city during this period. In many other respects, however, Los Angeles experienced events and issues similar to those of New York and Chicago, including problems of racial segregation, a sense of crisis about the decay of its historical downtown, and large-scale demonstrations, with responses ranging from photography and sculpture to provocative new forms of performance art by the collective Asco.</p>
+      <p>Concerns about the future forms of urbanism in Los Angeles and a renewal of the idea of the city were major preoccupations for artists, architects, and filmmakers. Many photographers focused on the everyday banality and auto-centric nature of the city, such as Robbert Flick&rsquo;s <em>Sequential Views </em>project and Anthony Hernandez&rsquo;s <em>Public Transit Areas </em>series. The historic downtown core continued to hold a special place in popular memory as many of these areas&mdash;including the former neighborhood of Bunker Hill&mdash;were razed and rebuilt. Julius Shulman&rsquo;s photographs of new development in the 1960s&mdash;including Bunker Hill and Century City&mdash;focus on the spectacular quality of recent buildings as well their physical and cultural vacancy. Architects played a strong role in creating new visions for the future city, including an unrealized, yet bold and influential plan for redeveloping Grand Avenue as a mixed-use district shaped by ideals of diversity and pedestrian-friendly New Urbanism.</p>
+
+      <div class="image-row text-center">
+        <img data-interchange="[losangeles_1.jpg, (default)], [losangeles_1_2x.jpg, (large)]">
+        <noscript><img src="losangeles_1.jpg" /></noscript>
+        <p class="caption">Julius Shulman. <em>The Castle, 325 S. Bunker Hill Avenue, Los Angeles, California, (Demolished 1969)</em>, ca. 1968. Julius Shulman Photography Archive, Research Library at the Getty Research Institute, Los Angeles (2004.R.10). &copy; J. Paul Getty Trust. Used with permission.</p>
+      </div>
+
+      <div class="image-row text-center">
+        <img data-interchange="[losangeles_3.jpg, (default)], [losangeles_3_2x.jpg, (large)]">
+        <noscript><img src="losangeles_3.jpg" /></noscript>
+        <p class="caption">Asco. <em>Decoy Gang War Victim</em>, 1974 (printed later). Photograph by Harry Gamboa Jr. Courtesy of Harry Gamboa Jr. <a href="los-angeles#" class="more-info-link" data-more-info="losangeles_3">More [+]</a></p>
+        <p class="more-info losangeles_3">The Chicano art collective Asco was famous for their No Movies&mdash;works that appropriate certain stylistic qualities of the movies while maintaining a nonchalance that allows them to critique the media industry&rsquo;s role in Los Angeles. Asco&rsquo;s performances, therefore, function on different registers to engage with current events and issues facing the Chicano community as well as acknowledge the mainstream media&rsquo;s distorted image of the city. For <em>Decoy Gang War Victim</em>, Asco&rsquo;s members staged a fake gang shooting then circulated the images to local television stations, simultaneously feeding and deriding the media&rsquo;s hunger for sensationalist imagery of urban neighborhoods.</p>
+      </div>
+
+      <div class="image-row text-center">
+        <img data-interchange="[losangeles_2.jpg, (default)], [losangeles_2_2x.jpg, (large)]">
+        <noscript><img src="losangeles_2.jpg" /></noscript>
+        <p class="caption">William Reagh. <em>Bunker Hill to soon be developed</em>, 1971 (printed later). Los Angeles Public Library.</p>
+      </div>
+
+      <div class="image-row text-center">
+        <img data-interchange="[losangeles_4.jpg, (default)], [losangeles_4_2x.jpg, (large)]">
+        <noscript><img src="losangeles_4.jpg" /></noscript>
+        <p class="caption">John Humble. <em>300 Block of Broadway, Los Angeles, October 3, 1980, </em>1980. Courtesy of Craig Krull Gallery, Santa Monica.</p>
+      </div>
+
+      <div class="image-row text-center">
+        <img data-interchange="[losangeles_5.jpg, (default)], [losangeles_5_2x.jpg, (large)]">
+        <noscript><img src="losangeles_5.jpg" /></noscript>
+        <p class="caption">Carlos Diniz for Maguire Partners with Harry Perloff, Barton Myers, Edgardo Contini, Charles Moore, Lawrence Halprin, Cesar Pelli, Hardy Holzman Pfeiffer, Ricardo Legoretta, Frank Gehry, Sussman Prejza, and Robert Kennard. <em>Renderings for a Grand Avenue: The Maguire Partners Proposal, Bunker Hill, Los Angeles</em>, 1980. Archive of Carlos Diniz / Family of Carlos Diniz. <a href="los-angeles#" class="more-info-link" data-more-info="losangeles_5">More [+]</a></p>
+        <p class="more-info losangeles_5">In 1979 the Los Angeles Community Redevelopment Agency launched a design competition for an office and residential development on the last four empty blocks of Bunker Hill. This competition involved many prominent teams of architects and developers, including as the Maguire Partners&rsquo; so-called All-Stars, which included landscape architect Lawrence Halprin, the UCLA sociologist Harvey Perloff, and the architects Cesar Pelli, Charles Moore, and Frank Gehry. This ambitious, unrealized plan invited different architects to design individual towers and urban plazas to mimic vernacular urbanism and give the impression of a city that had grown up over time with no overarching guidelines. The team&rsquo;s presentation stressed the pedestrian&rsquo;s experience of urban space, as illustrated through a series of sequential vignettes, or a &ldquo;walking tour,&rdquo; by delineator Carlos Diniz, featuring the development&rsquo;s lively arcades and squares, recalling snapshot-style photographs of American cities popular in planning documents of the late 1960s and early 1970s.</p>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+ <html>
+ <head>
+ <title></title>
+ </head>
+ <script language="JavaScript">
+ var arrLinks = new Array('lagoulue.html','moulin_rouge.html') 
+
+ function redir() { 
+ var rand = Math.floor(Math.random() * arrLinks.length); 
+ top.location.href=arrLinks[rand]; 
+ }
+
+
+ </script>
+ <body onload="redir()">
+
+ </body>
+ </html>

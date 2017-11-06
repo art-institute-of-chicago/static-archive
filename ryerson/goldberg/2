@@ -1,0 +1,333 @@
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_b4f5ef7a7ac014875d8d0b5bfda1a7aa) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_2f09c06b7ac42ea17f3fb6777a1eca43) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Case 2: Prefabrication | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-13038.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/browserDetect.js"></script>
+<script type="text/javascript" src="../js/jquery.hoverintent.minified.js"></script>
+<script type="text/javascript" src="../js/infiniteScroll.js"></script>
+<script type="text/javascript" src="../js/filterMenu.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+
+   <script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page-node.tpl.php-->
+</head>
+<body class="not-front not-logged-in ntype-resource-listing sidebar-right">
+  <div id="header">
+    <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/Ryerson_aic.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Ryerson_hdr.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+<div id="pagewrapper">
+
+<div id="page">
+<div id="column_container">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2011">Ryerson & Burnham Library Exhibitions, 2011</a> > <a href="../Goldberg">Selections from the Bertrand Goldberg Archive</a> > <span class="sel">Case 2: Prefabrication</span></div></div>
+      </div>
+    
+    <div id="page-title-wrapper">
+              <h1 class="title">Case 2: Prefabrication</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <div class="content">
+    <div class="bodycopy">
+        <p>Following the austerity of the Great Depression and in the midst of the materials shortages of World War II, prefabrication emerged as a novel paradigm for a "new world... reduced to fundamentals." The genesis of this model, however, may be traced even further back to the Bauhaus's attempt to "introduce to people a new industrialized world and the benefits of such a world and the rejuvenation that the economic world could have as a result of a new technology." Through the introduction of industrial processes, architects could now "contribute a socialized architecture" to this new, modern world.</p>
+<p>Beginning in 1937, with a plywood house in Lafayette, Indiana, Goldberg began to experiment with prefabricated designs. Additional prefabricated design commissions were received from the United States government, including a convertible Bofors 90mm gun crate for the Army and a Mobile Delousing Unit and Mobile Penicillin Laboratory both for the Office of Strategic Services, all circa 1943. From 1949 to 1953 Goldberg served as a consulting architect for the Pressed Steel Car Company, which resulted in innovative products such as the Unicel Prefabricated Freight Boxcar, whose shell was constructed entirely of laminated plywood, and the Unishelter Prefabricated Housing Unit. Despite the efforts of many, prefabricated design had difficulty catching on in the U.S. This was due largely to the great variation in city building codes across the country, but also to the aesthetic tastes of American homebuyers.<br />
+
+<ol><li>Standard Houses Corporation, c.1940-1943. Brochure, c.1940-1942.</li>
+<li>Standard Houses, Suitland, MD, 1942-1943 (with Gilmer V. Black, associate architect). Interior view, c.1942-1942.</li>
+<li>"Meeting of Manufacturers Of Prefabricated Housing With Division of Defense Housing," November 10-11, 1941. Transcript, p.141.</li>
+<li>Standard Fabrication Prefabricated Bathroom Units, ("Stanfab"), 1946-1947. Brochure, c.1947.</li>
+<li>Pressed Steel Car Company, Unicel Freight Cars, Hegewisch, Chicago, IL, 1950-51. Sections and details of corner curve connections, September 20, 1950.</li>
+<li>Pressed Steel Car Company, Unicel Freight Cars. Exterior view, c.1950-1951.</li>
+<li>Pressed Steel Car Company, Unishelter Prefabricated Housing Units, Hegewisch, Chicago, IL, 1952. Advertisement (units), [1952].</li>
+<li>Pressed Steel Car Company, Unishelter Prefabricated Housing Units, Hegewisch, Chicago, IL, 1952. Advertisement ("Unishelter Town"), [1952].</li></ol></p>    </div>
+    <div class="floatClear"></div>
+    <div id="galleryHolder">
+        <div id="filterMenu" style="height:35px;">
+                    <h3>View resources</h3>
+                    <ul id="filters">
+                      	            </ul>
+          <div id="filterControls">
+        	  <div id="results">Showing <span id="count">8</span> results</div>
+        	  <div id="reset">
+        		  <a href="2#" id="filter-name">Reset</a>
+        		  <a href="2#" id="resetBox"><span>X</span></a>
+        	  </div>
+          </div>
+        </div>
+        <div class="floatClear"></div>
+        <div id="galleryContent">
+                        <div class="floatClear"></div>
+        </div>
+    </div>
+</div>
+<script language="javascript">
+    
+    //Utils
+    Array.prototype.unique = function() {
+        var o = {}, i, l = this.length, r = [];
+        for(i=0; i<l;i+=1) o[this[i]] = this[i];
+        for(i in o) r.push(o[i]);
+        return r;
+    };
+    
+    (function($){
+      //Doing this because image attributes don't get properly read until everything is loaded.
+      $(window).load(function() {
+          $(".galleryImage img.scaled").each( function (index) {
+              var img = $(this);
+              var max = 112;
+              // fix dimensions
+              if ( img.height() > img.width() ){
+                  img.css( { "height":max, "width":"auto"} );
+              }
+              else { img.css( { "height":"auto", "width":max} ); }
+          });
+      });
+    })(jQuery);
+    
+    var galleryObjects = {"resource_2230":{"resource_link":"..\/2230","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002230.jpg","resource_title":"01. Standard Houses Corporation. Brochure, c.1940-1942.","resource_description":"c.1940-1943.<br \/>\n<br \/>\nThe Standard Houses Corporation was formed by Goldberg in 1939 and, with FHA-insured mortgages and a price of only $3000, the first five Standard Houses built in Melrose Park, Illinois sold out in just a single day. Despite this success, Goldberg was \"more interested in demonstrating an idea than... starting a business.\" Other Standard Houses were later constructed for private sale in Maywood, Illinois, and for the government in Suitland and Indian Head, Maryland. Homes in this brochure started at $3,985 ($50,000 in 2010 dollars), with payments of $25 per month, and could be ordered for construction on a lot of the buyer's choice. The brochure also makes sure to note to prospective buyers that, despite the low cost, \"quality of materials and labor [have] been main-tained [and] in fact established on a new high plane.\"","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002230.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"72.296875","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 2, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14896&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture"},"resource_2231":{"resource_link":"..\/2231","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002231.jpg","resource_title":"02. Standard Houses, Suitland, MD. Interior view, c.1942-1942.","resource_description":"1942-1943 (with Gilmer V. Black, associate architect). Rodney McKay Morgan, photographer.","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002231.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"48.908203125","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 2, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14888&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture, housing"},"resource_2232":{"resource_link":"..\/2232","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002232.jpg","resource_title":"03. \"Meeting of Manufacturers Of Prefabricated Housing With Division of Defense Housing.\"","resource_description":"November 10-11, 1941. Transcript, p.141.<br \/>\n<br \/>\nIn contrast to manufacturers of automobiles and other mass-produced household devices&#151;who were often commercially successful in introducing products that were stylistically avant-garde&#151;designers and builders of prefabricated housing encountered significant resistance to progressive designs. In this transcript, Mr. Wegg (otherwise unidentified) contends that this is because \"we have been following what we thought would sell rather than attempting to lead the public to better tastes.\"","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002232.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"67.3154296875","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 2, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14855&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture, housing"},"resource_2233":{"resource_link":"..\/2233","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002233.jpg","resource_title":"04. Standard Fabrication Prefabricated Bathroom Units, (\"Stanfab\"). Brochure, c.1947.","resource_description":"1946-1947.<br \/>\n<br \/>\nBorn out of Goldberg's work for the Standard Houses\u2014which included prefabricated plumbing units and, eventually at Suitland, \"total bathrooms with the fixtures all in place and everything piped\"\u2014this appliance was 7 feet long, 4 feet high and 30 inches wide, and contained a full-size bathtub, washbasin, toilet, medicine cabinet and linen storage space. Seeing an opportunity in the vast shortage of houses with indoor plumbing at the time\u2014especially in the urban U.S. \u2014Goldberg designed and marketed these units to a burgeoning middle class. Only 4 plumbing connections were needed (sewer, vent, hot and cold water), and the unit could be installed without a double plumbing wall and special floor framing. Only 2,000-2,500 units were ever built in total owing to problems with \"[unionized] distribution\" and disparities in local plumbing codes that limited the availability and usefulness of the Stanfab.","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002233.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"23.4765625","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 2, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14911&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"bathing"},"resource_2234":{"resource_link":"..\/2234","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002234.jpg","resource_title":"05. Pressed Steel Car Company, Unicel Freight Cars. Sections and details of corner curve connections, September 20, 1950.","resource_description":"Hegewisch, Chicago, IL, 1950-51.<br \/>\n<br \/>\nDesigned in response to the steel shortages following World War II, the Unicel (from \"unit-cellular\") Freight Car was a tubular assembly of layered, laminated plywood sheets. These cars were engineered to hold up to 130,000 pounds each and, due to its superior structural attributes\u2014\"the monolithic quality of stress distribution as compared with... a box\"\u2014the Unicel cars outperformed traditional steel cars in collision tests. <br \/>\n<br \/>\nDespite their high performance and low cost, only 500 were sold to Aramco of Saudi Arabia and a handful to the U.S. Army. Wider adoption in the U.S necessitated the approval of the American Railroad Association, which instead blocked the design despite approval from its technical committee because, according to Goldberg, \"a large majority of them [came] from the steel industry\" and feared competition from a cheaper, superior product in the marketplace. Despite its commercial failure, the Unicel was a significant milestone in Goldberg's design evolution as it indicates his first attempt at working with non-rectilinear spaces. Though aesthetically box-like, the Unicel is structurally a tube, which is \"simply a cylinder lying [sic] on its side.\"","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002234.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"26.275390625","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 2, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14886&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"Chicago, trains"},"resource_2235":{"resource_link":"..\/2235","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002235.jpg","resource_title":"06. Pressed Steel Car Company, Unicel Freight Cars. Exterior view, c.1950-1951.","resource_description":"Hegewisch, Chicago, IL, 1950-51. Hedrich-Blessing, photographer.","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002235.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"62.212890625","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 2, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012","resource_tags_for_resource_id":"Chicago, trains"},"resource_2236":{"resource_link":"..\/2236","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002236.jpg","resource_title":"07. Pressed Steel Car Company, Unishelter Prefabricated Housing Units. Advertisement (units), [1952].","resource_description":"Hegewisch, Chicago, IL, 1952. <br \/>\n<br \/>\nWith the successful design of the Unicel freight cars (see items 9 and 10, this case), Goldberg began exploring alternate uses for these prefabricated laminate plywood units. Unishelter, which according to its brochure was \"the boldest tool ever given to the housing planner,\" was a lightweight and flexible yet strong, prefabricated housing unit suitable for residential, commercial, civic and educational uses. These units were shipped pre-assembled and \"factory equipped for maximum living,\" complete with kitchen, bathroom and all necessary appliances. Besides the efficiencies inherent in prefabricated construction, further reductions in production cost were achieved by the fact that the Unishelter was able to serve as its own shipping container.","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002236.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"27.9228515625","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 2, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,14890&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture, Chicago"},"resource_2237":{"resource_link":"..\/2237","resource_url":"http:\/\/www.artic.edu\/aic\/collections\/citi\/resources\/Rsrc_002237.jpg","resource_title":"08. Pressed Steel Car Company, Unishelter Prefabricated Housing Units. Advertisement (\"Unishelter Town\"), [1952].","resource_description":"Hegewisch, Chicago, IL, 1952. <br \/>\n<br \/>\nMultiple Unishelter units could be strung together and connected, producing a multitude of possible configurations.","resource_full_text":"","resource_types_for_resource_id":"Archival Material","resource_asset_type":"10","resource_image_thumbnail":"..\/images\/Rsrc_TN_002237.jpg","resource_asset_type_label":"","resource_file_size":"0.0 kB","resource_file_size_unformatted":"52.0263671875","resource_grade_level":"","resource_curriculum":"","resource_tour":"","resource_file_time":"00m 00s","resource_file_time_unformatted":"0","resource_source_detail":"\"Architecture for Urbanism: Selections from the Bertrand Goldberg Archive,\" Case 2, Ryerson &amp; Burnham Libraries, November 1, 2011\u2013January 2, 2012<br \/>\n<br \/>\n<a href=&quot;http:\/\/digital-libraries.saic.edu\/u?\/mqc,1987&quot;>Link to R&amp;B Archives Digital Collections record<\/a>","resource_tags_for_resource_id":"architecture, Chicago"}};
+        
+    (function($){
+		$(document).ready(function(){
+		    $("#reset").hide();
+		    var galleryContent = $("#galleryContent"), gCEnd = galleryContent.children(".floatClear");
+		    var types = new Array();
+		    		    
+		    $.each(galleryObjects, function(i, gObj) {
+		        (function() {
+		            types.push(gObj.resource_types_for_resource_id);
+    				// build DOM objects and nest them through appends
+    				var g = $('<div>', { 'class': 'galleryImage' } );
+    				var gLink = $( '<a>', { 'href': gObj.resource_link } );
+    				var gThumbnail = $( '<img src="' + gObj.resource_image_thumbnail + '" class="scaled" />' );
+    				var gTooltip = $( "<div>", { "class": "tooltip", "html": '<img src="' + gObj.resource_image_thumbnail +'" alt="'+ gObj.resource_title +'" /><div id="artworkData"><strong>'+ gObj.resource_title +'</strong></div>' } );
+    				gLink.append(gThumbnail);
+    				gLink.append(gTooltip);
+    				g.append(gLink);
+			
+    				// associate object to DOM object
+    				g.artData = gObj;
+				
+    				// bind filtering events
+    				g.bind( "filterByType", function(event,type) {
+    					if ( $.inArray( type, $.map(g.artData.resource_types_for_resource_id.split(","), function(n){ return $.trim(n); }) ) == -1 ) { g.hide(); }
+    					else { g.fadeIn(); }
+    				});
+    				
+    				g.bind( "filterByTag", function(event,tag) {
+    					if ( $.inArray( tag, $.map(g.artData.resource_tags_for_resource_id.split(","), function(n){ return $.trim(n); }) ) == -1 ) { g.hide(); }
+    					else { g.fadeIn(); }
+    				});
+    				
+    				g.bind( "filterReset", function(event){
+    				    g.fadeIn();
+    				});
+			
+    				// stolen from tooltip js
+    				gTooltip.hide();		
+    				// do rollovers for this link -- you can change the fadeIn and fadeOut to just show() and hide() if you don't like the fading effect
+    				gLink.hover(
+    				    function () {
+        				    gTooltip.show();
+        				    // position tooltip
+            				gTooltip.css( { "bottom": gThumbnail.height()/2 + ( g.height() - gThumbnail.height() ) + "px", "left": gThumbnail.width()/2 + "px" } );
+            			},
+        			
+        				function () { gTooltip.hide(); }
+    				);
+    				// end steal
+			
+    				// insert this gallery node before end of list
+    				gCEnd.before(g);
+			    })();
+            });
+            
+            			
+						
+			//event resetting all filters
+			$( "#reset a").click( function () {
+			    $(".galleryImage").trigger( "filterReset" );
+			    $("#count").text($('.galleryImage :visible').size());
+			    $(".active").removeClass("active");
+			    $("#reset").hide();
+				return false;
+			});
+			
+			$(".galleryImage img.scaled").each( function (index) {
+                var img = $(this);
+                var max = 112;
+                // fix dimensions
+                if ( img.height() > img.width() ){
+                    img.css( { "height":max, "width":"auto"} );
+                }
+                else { img.css( { "height":"auto", "width":max} ); }
+            });
+		});
+	})(jQuery);
+</script> </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+             
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+			      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+       <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Ryerson &amp; Burnham Library Exhibitions, 2011 </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2016/index">2016</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2015/index">2015</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2014/index">2014</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2013">2013</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2012">2012</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2011/index">2011</a></li>
+<li class="expanded"><a href="../Goldberg">Selections from the Bertrand Goldberg Archive</a>
+<ul class="menu">
+<li class="leaf first"><a href="../Goldberg/1">Case 1: Early Life and Work</a></li>
+<li class="leaf active"><a href="2" class="active">Case 2: Prefabrication</a></li>
+<li class="leaf"><a href="../Goldberg/3">Case 3: 1950s-1960s</a></li>
+<li class="leaf"><a href="../Goldberg/4">Case 4: Marina City, 1959-1967</a></li>
+<li class="leaf"><a href="../Goldberg/5">Case 5: 1970s-1990s</a></li>
+<li class="leaf"><a href="../Goldberg/6">Case 6: River City, 1972-1987</a></li>
+<li class="leaf"><a href="../Goldberg/7">Case 7: Hospitals and Health Care</a></li>
+<li class="leaf last"><a href="../Goldberg/8">Case 8: Urban Planning</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="../Design-Inspiration">19th-Century American Builders' Manuals and Pattern Books </a></li>
+<li class="collapsed"><a href="../Making-History">Women of the Art Institute</a></li>
+<li class="collapsed"><a href="../Caricatures">Caricatures from the World's Columbian Exposition</a></li>
+<li class="collapsed"><a href="../Paper-Architecture">Paper Architecture: Visionary Structures on the Printed Page</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2010">2010</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2009">2009</a></li>
+<li class="leaf last"><a href="http://www.artic.edu/aic/collections/exhibitions/Ryerson-2008">2008</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+   <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+  </div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>
+

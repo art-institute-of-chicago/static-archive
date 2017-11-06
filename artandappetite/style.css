@@ -1,0 +1,539 @@
+/* 
+ * Colors
+ * 
+ * green: #3F774D;
+ * light gray: #e0dede;
+ * dark gray: #666;
+ */
+
+/*
+ * web font loading
+ * This CSS resource incorporates links to font software which is the valuable copyrighted
+ * property of Monotype Imaging and/or its suppliers. You may not attempt to copy, install,
+ * redistribute, convert, modify or reverse engineer this font software. Please contact Monotype
+ * Imaging with any questions regarding Web Fonts:  http://webfonts.fonts.com
+ */
+
+@font-face{
+font-family:"Bauer Bodoni W01 Black";
+src:url("Bauer-Bodoni-Black.eot?");
+src:url("Bauer-Bodoni-Black.eot?") format("eot"),url("Bauer-Bodoni-Black.woff") format("woff"),url("Bauer-Bodoni-Black.ttf") format("truetype"),url("Bauer-Bodoni-Black.svg") format("svg");
+}
+@font-face{
+font-family:"Futura W01 Book";
+src:url("Futura-Book.eot?");
+src:url("Futura-Book.eot?") format("eot"),url("Futura-Book.woff") format("woff"),url("Futura-Book.ttf") format("truetype"),url("Futura-Book.svg") format("svg");
+}
+@font-face{
+font-family:"Futura W01 Book Oblique";
+src:url("Futura-Book-Oblique.eot?");
+src:url("Futura-Book-Oblique.eot?") format("eot"),url("Futura-Book-Oblique.woff") format("woff"),url("Futura-Book-Oblique.ttf") format("truetype"),url("Futura-Book-Oblique.svg") format("svg");
+}
+@font-face{
+font-family:"FuturaW01-MediumCondens";
+src:url("Futura-Medium-Condensed.eot?");
+src:url("Futura-Medium-Condensed.eot?") format("eot"),url("Futura-Medium-Condensed.woff") format("woff"),url("Futura-Medium-Condensed.ttf") format("truetype"),url("Futura-Medium-Condensed.svg") format("svg");
+}
+
+
+/*
+ * General styles
+ */
+
+body {
+background-color:#3F774D;
+}
+
+body, h5, h6, .subscribe-message h3 {
+font-family: "Futura W01 Book", Futura, "Trebuchet MS", Arial, sans-serif;
+font-weight:normal;
+}
+
+a {
+color:#3F774D;
+}
+
+a:hover {
+color:#32934a;
+}
+
+ul, ol {
+list-style-type: none;
+}
+
+h1, h2, h3, h4, .action-button, .prev-next-btns, .main-nav li, .chef-bio h5 {
+font-family: "FuturaW01-MediumCondens", Futura, "Trebuchet MS", Arial, sans-serif;
+font-weight:normal;
+}
+
+p em, h6 em {
+font-family:"Futura W01 Book Oblique", Futura, "Trebuchet MS", Arial, sans-serif;
+font-style:normal;
+}
+
+/*
+ * Header region
+ */
+
+header .logo {
+margin-top:10px;
+}
+
+header h1, header h1 a, header h1 a:hover, header h2, header h3, header p {
+color:#fff;
+}
+
+header h1, .recipe-copy h1, .message-container h1 {
+font-family:"Bauer Bodoni W01 Black","Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+text-transform:uppercase;
+font-weight:normal;
+}
+.main-content .message-container h1 {
+text-transform:none;
+margin-top:1em;
+}
+.subscribe-message h3 {
+font-size:1.2em;
+color:#666;
+}
+.subscribe-message h3 a {
+text-decoration:underline;
+}
+
+header h1 {
+padding-top:5px;
+font-size:35px;
+line-height:35px;
+letter-spacing:3px;
+margin-bottom:10px;
+border-bottom:1px solid #fff;
+padding:20px 0 5px;
+}
+
+header h2 {
+font-size:1.2em;
+letter-spacing:1px;
+border-bottom: 1px solid #fff;
+padding-bottom:10px;
+}
+
+header p {
+margin-top:15px;
+}
+
+.action-button {
+font-size:22px;
+padding: 0;
+background-color: #fff;
+color: #3F774D;
+text-transform: uppercase;
+text-align: center;
+border-right: 1px solid #3F774D;
+display:inline-block;
+}
+
+.action-button span {
+display:inline-block;
+margin:10px;
+}
+
+.action-button.buy-tickets span {
+margin: 10px 20px;
+}
+
+.action-button:hover {
+background-color:#e0dede;
+color:#666;
+}
+
+.exhibit-description-main {
+margin-bottom:5px;
+}
+
+.exhibit-description-link {
+margin-top:0;
+margin-bottom:15px;
+}
+
+.exhibit-description-link a {
+color:#FFF;
+text-decoration:underline;
+}
+
+/*
+ * Left-hand navigation
+ */
+
+.main-nav, .main-nav ul {
+list-style-type: none;
+position:relative;
+}
+
+.main-nav li {
+color:#fff;
+border:1px solid #fff;
+border-bottom:0 none;
+border-right:0 none;
+font-size: 1.5em;
+line-height: 1.2em;
+height:75px;
+position:relative;
+text-transform:uppercase;
+font-weight:normal;
+}
+
+.main-nav li:last-child {
+border-bottom:1px solid #fff;
+}
+
+.main-nav li a {
+display:inline-block;
+padding-top:24px;
+height:100%;
+width:100%;
+text-align: center;
+color:#fff;
+}
+
+/*.main-nav li a.single {
+padding-top:24px;
+}*/
+
+.main-nav li.active a {
+background-color:#fff;
+color:#3F774D;
+}
+
+.main-nav li a:hover,
+.main-nav li.hovering a {
+background-color:#e0dede;
+color:#666;
+}
+
+.main-nav .expandable-sub-nav {
+position:absolute;
+left:0;
+top:0;
+margin-left:0;
+padding-left:0;
+z-index:50;
+background-color:#e0dede;
+display:none;
+}
+
+.main-nav .expandable-sub-nav li {
+float:left;
+margin-left:0;
+height:auto;
+font-size:0.8em;
+width:100%;
+text-transform: none;
+border-top:1px solid #666;
+border-left:0 none;
+}
+.main-nav .expandable-sub-nav li:first-child {
+border-top:0 none;
+}
+
+.main-nav .expandable-sub-nav li a:hover {
+color:#000;
+}
+
+.main-nav .expandable-sub-nav li a {
+text-align:left;
+white-space:nowrap;
+padding:0.25em 0.35em;
+background-color:#e0dede;
+color:#666;
+}
+
+.main-nav .expandable-sub-nav .contributor {
+color:#000;
+}
+
+/* mobile nav */
+
+.main-nav.mobile .expandable-sub-nav {
+display:none;
+}
+.main-nav.mobile .active .expandable-sub-nav {
+display:block;
+}
+
+/*
+ * Main Content Section
+ */
+
+.main-content {
+background-color:#fff;
+padding:10px 50px 20px;
+}
+
+.main-content h1 {
+text-transform: uppercase;
+color:#666;
+font-size:1.7em;
+}
+
+.main-content .prev-next-btns {
+font-size:1.7em;
+text-align:right;
+text-transform:uppercase;
+color:#3F774D;
+}
+
+/*
+ * Recipe pages
+ */
+.share-icons img {
+margin-bottom:7px;
+}
+
+.main-image {
+text-align:center;
+margin-bottom:2em;
+}
+
+.main-video.flex-video {
+margin-bottom:2em;
+}
+
+.recipe-copy h1 {
+border-top:1px solid #666;
+border-bottom:1px solid #666;
+padding:10px 0 0;
+margin-bottom:30px;
+text-align:center;
+margin-top:0;
+}
+
+.recipe-copy h6 {
+font-weight:normal;
+font-size:.75em;
+margin-bottom:20px;
+}
+
+.recipe-copy p {
+text-align:left;
+}
+
+.recipe-copy p strong {
+font-family: "FuturaW01-MediumCondens", Futura, "Trebuchet MS", Arial, sans-serif;
+font-weight:normal;
+font-size:1.125em;
+}
+
+.recipe-copy ul, .recipe-copy ol,
+.chef ul, .chef ol {
+margin-left:20px;
+padding-left:10px;
+}
+
+.recipe-copy ul li {
+line-height:1.35em;
+margin-bottom:4px;
+}
+
+.print-recipe,
+.recipe-copy p.print-recipe {
+border-top:1px solid #666;
+text-align:right;
+}
+
+/* Vintage-specific design */
+
+.vintage .recipe-copy {
+border: 1px solid #666;
+text-align:center;
+background-color:#e0dede;
+padding:20px 50px;
+}
+
+.vintage .recipe-copy ul {
+list-style-type: none;
+display:inline-block;
+margin:0 auto 1em;
+text-align:left;
+padding-left:0;
+}
+
+.vintage .recipe-wrapper {
+text-align:center;
+}
+
+.vintage .recipe-wrapper img {
+margin-bottom:35px;
+}
+
+.vintage .recipe-caption p,
+p.video-caption,
+p.recipe-image-caption,
+.recipe-copy h5 {
+text-align: left;
+color:#666;
+margin-top:5px;
+font-size:.75em;
+}
+
+/* Modern-specific design */
+
+.chef-bio h3 {
+color:#3F774D;
+margin-bottom:0;
+line-height:1.3em;
+}
+
+.modern .chef-bio p {
+	margin-bottom:0;
+}
+
+/*
+ * Chefs page
+ */ 
+
+.row .row.chef {
+	border-bottom:1px solid #666;
+	margin-bottom:1em;
+	padding-bottom:1em;
+}
+.row .row.chef:last-child {
+	border-bottom:0 none;
+}
+.chef h3,
+.chef h4 {
+	margin:0;
+}
+.chef h3 {
+	line-height: 1.1em;
+}
+.chef-image {
+	text-align:center;
+}
+
+.chef .recipe-image-caption {
+	text-align:center;
+}
+
+.contributed-recipes h5 {
+	margin-bottom:0;
+}
+.contributed-recipes ul {
+	list-style-type: none;
+	margin-left:0;
+	padding-left:0;
+}
+
+/*
+ * Share form modal
+ */
+
+/* parsley error handling */
+
+input.parsley-error,
+textarea.parsley-error {
+border-color:#c60f13;
+background-color:rgba(198, 15, 19, 0.1);
+margin-bottom:0;
+}
+
+.parsley-error-list {
+color:#c60f13;
+list-style-type:none;
+}
+
+/*
+ * share message pages
+ */
+
+.message-container {
+min-height:400px;
+}
+
+/* hidden text field for spam filtering */
+.catch-me {
+  display:none;
+  visibility:hidden;
+}
+
+/*
+ * responsive fixes
+ */
+
+@media only screen and (min-width: 768px) and (max-width: 945px) {
+	.action-button {
+		font-size:16px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.main-nav-column {
+		padding-left:0;
+		padding-right:0;
+	}
+	.main-nav li {
+		height:auto;
+		border-left:0 none;
+	}
+	.main-nav li a {
+		padding-top:3px;
+	}
+	.modern .chef-bio,
+	.chef-bio h3,
+	.chef-bio h4 {
+		text-align:center;
+	}
+	.main-nav .expandable-sub-nav {
+		position:relative;
+		display:block;
+	}
+
+	.main-nav .expandable-sub-nav li {
+		margin-left:0;
+		height:auto;
+		font-size:.75em;
+		width:100%;
+		text-transform: none;
+		border-top:1px solid #666;
+		border-left:0 none;
+	}
+	.main-nav .expandable-sub-nav li:first-child {
+		border-top:0 none;
+	}
+
+	.main-nav .expandable-sub-nav li a:hover {
+		font-weight:bold;
+	}
+
+	.main-nav .expandable-sub-nav li a {
+		text-align:center;
+		white-space:nowrap;
+		padding:0.35em;
+		background-color:#e0dede;
+		color:#666;
+	}
+	.main-nav .expandable-sub-nav li a .contributor {
+		/*display:none;*/
+	}
+	.main-content .prev-next-btns {
+		font-size:1.5em;
+		margin-bottom:5px;
+	}
+	.recipe-copy {
+		margin-bottom:20px;
+	}
+}
+
+@media only screen and (min-width:376px) and (max-width: 477px) {
+	.action-button {
+		font-size:16px;
+	}
+}
+@media only screen and (min-width: 768px) {
+	.main-nav-column {
+		padding-right:0;
+	}
+	header .exhibit-title {
+		padding-left:0;
+	}
+}
+

@@ -1,0 +1,168 @@
+{
+"map"       : "26_2000.jpg",
+"mapwidth"  : "2000px", 
+"mapheight" : "1272px",
+"areas"     : {
+  "a"  : {
+      "left"    : "1px",
+      "top"     : "533px",
+      "width"   : "75px",
+      "height"  : "270px",
+      "data" : {
+        "ctitle"    : "303 Odilon Redon, <em>Pegasus on a rock</em>",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Pegasus on a Rock</em>, n.d. Oil on cardboard laid on panel; 93 × 60 cm (36 5/8 × 23 5/8 in.). Private collection."
+      }
+  },
+  "b"  : {
+      "left"    : "91px",
+      "top"     : "606px",
+      "width"   : "74px",
+      "height"  : "180px",
+      "data" : {
+        "ctitle"    : "318 Odilon Redon, <em>Flowers in a vase</em> (Lent by Joseph Hessel)",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Large Bouquet with Poppies and Wild Flowers</em>, n.d. Oil on paper laid on carboard; 67.1 × 51.5 cm (27 × 21.1 in.)."
+      }
+  },
+  "c"  : {
+      "left"    : "174px",
+      "top"     : "610px",
+      "width"   : "43px",
+      "height"  : "128px",
+      "data" : {
+        "ctitle"    : "336 Odilon Redon, <em>Head of Orpheus</em>",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Head of Orpheus</em>, 1911. Oil on board; 53 × 51 cm (20 7/8 × 20 1/16 in.). Musée Fabre, Montpellier."
+      }
+  },
+  "d"  : {
+      "left"    : "242px",
+      "top"     : "613px",
+      "width"   : "40px",
+      "height"  : "137px",
+      "data" : {
+        "ctitle"    : "324 Odilon Redon, <em>Poppies</em>",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Poppies and Daisies</em>, n.d. Oil on canvas; 64.8 × 48.3 cm (25 1/2 × 19 in.). Private collection."
+      }
+  },
+  "e"  : {
+      "left"    : "555px",
+      "top"     : "650px",
+      "width"   : "83px",
+      "height"  : "94px",
+      "data" : {
+        "joyride-stop" : true,
+        "ctitle"    : "307 Odilon Redon, <em>Roses</em>",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Two Roses in a Vase</em>, n.d. Oil on canvas; 46 × 38 cm (18 1/8 × 15 in.)."
+      }
+  },
+  "f"  : {
+      "left"    : "660px",
+      "top"     : "600px",
+      "width"   : "111px",
+      "height"  : "140px",
+      "data" : {
+        "ctitle"    : "314 Odilon Redon, <em>Muse on Pegasus</em>",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Muse on Pegasus</em>, No. 110, 1912. Oil on canvas; 73.5 × 54.4 cm (28 15/16 × 21 7/16 in.). Museum of Modern Art, Gunma, Japan."
+      }
+  },
+  "g"  : {
+      "left"    : "789px",
+      "top"     : "621px",
+      "width"   : "120px",
+      "height"  : "115px",
+      "data" : {
+        "ctitle"    : "329 Odilon Redon, <em>Silence</em>",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Silence</em>, c. 1911. Oil on prepared paper; 54.6 × 54 cm (21 1/2 × 21 1/4 in.). Museum of Modern Art, New York, Lillie P. Bliss Collection, 113.1934."
+      }
+  },
+  "h"  : {
+      "left"    : "929px",
+      "top"     : "597px",
+      "width"   : "106px",
+      "height"  : "140px",
+      "data" : {
+        "ctitle"    : "311 Odilon Redon, <em>Phaethon</em> (Lent by Joseph Hessel)",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Phaëton</em>, 1910. Oil on canvas; 73.5 × 54.5 cm (28 7/8 × 21 1/2 in.). Private collection."
+      }
+  },
+  "i"  : {
+      "left"    : "1054px",
+      "top"     : "636px",
+      "width"   : "87px",
+      "height"  : "103px",
+      "data" : {
+        "ctitle"    : "300 Odilon Redon, <em>Geranium</em>",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Pot of Geraniums</em>, n.d. Oil on canvas; 44 × 38 cm (17 5/16 × 14 15/16 in.)."
+      }
+  },
+  "j"  : {
+      "left"    : "1162px",
+      "top"     : "654px",
+      "width"   : "98px",
+      "height"  : "82px",
+      "data" : {
+        "ctitle"    : "333 Odilon Redon, <em>Woman's Head</em> (Pastel) (Lent by Mrs. Chadbourne)",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Head of a Woman</em>, n.d. Pastel on brown paper; 59.7 × 72.4 cm (23 1/2 × 28 1/2 in.). Dallas Museum of Art, gift of Beatrice M. and Patrick E. Haggerty, 1981.197."
+      }
+  },
+  "k"  : {
+      "left"    : "1282px",
+      "top"     : "583px",
+      "width"   : "118px",
+      "height"  : "153px",
+      "data" : {
+        "ctitle"    : "319 Odilon Redon, <em>The Prelude</em>",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Initiation to Study—Two Young Ladies</em>, c. 1905. Oil on canvas; 93.3 × 74.6 cm (36 3/4 × 29 3/8 in.). Dallas Museum of Art, Foundation for the Arts Collection, anonymous gift, 1963.80.FA."
+      }
+  },
+  "l"  : {
+      "left"    : "1425px",
+      "top"     : "608px",
+      "width"   : "69px",
+      "height"  : "148px",
+      "data" : {
+        "ctitle"    : "318 Odilon Redon, <em>Flowers in vase</em> (Lent by Joseph Hessel)",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Poppies and Sweet William in a Blue Vase</em>, n.d. Oil on canvas; 60 × 73 cm (23 5/8 × 28 3/4 in.). Private collection."
+      }
+  },
+  "m"  : {
+      "left"    : "1504px",
+      "top"     : "597px",
+      "width"   : "78px",
+      "height"  : "170px",
+      "data" : {
+        "ctitle"    : "304 Odilon Redon, <em>Study</em> (Lent by Marcel Kapferer)",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Fecundity</em>, n.d. Oil on canvas; 73 × 73 cm (28 3/4 × 28 3/4 in.)."
+      }
+  },
+  "n"  : {
+      "left"    : "1599px",
+      "top"     : "350px",
+      "width"   : "231px",
+      "height"  : "258px",
+      "data" : {
+        "ctitle"    : "317 Odilon Redon, <em>The chariot of Apollo</em>",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>The Chariot of Apollo</em>, c. 1912. Oil on canvas; 89.5 × 162.2 cm (35 1/4 × 63 7/8 in.). Musée du Petit Palais, Paris."
+      }
+  },
+  "o"  : {
+      "left"    : "1621px",
+      "top"     : "620px",
+      "width"   : "69px",
+      "height"  : "171px",
+      "data" : {
+        "ctitle"    : "305 Odilon Redon, <em>Vase of geraniums</em>",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Vase of Flowers</em>, n.d. Oil on canvas; 61 × 46.5 cm (2 × 18 5/16 in.). Private collection."
+      }
+  },
+  "p"  : {
+      "left"    : "1713px",
+      "top"     : "626px",
+      "width"   : "94px",
+      "height"  : "183px",
+      "data" : {
+        "ctitle"    : "302 Odilon Redon, <em>Flowers</em>",
+        "citation"  : "Odilon Redon (French, 1840–1916). <em>Potted Flowers on a Red Background</em>, n.d. Oil on canvas; 55.2 × 46.3 cm (21 3/4 × 18 1/4 in.). Private collection."
+      }
+  }
+}
+}

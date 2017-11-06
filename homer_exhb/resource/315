@@ -1,0 +1,205 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_e489354ca2a48372a3acfbfb5c01ee3e) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_53da6e635e0d7222774844ff8eb5e5e1) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_53da6e635e0d7222774844ff8eb5e5e1) -->
+<!-- From the cache. (666fc1cf98adeca5cf4f61ba96997a4e_e9499002baec2b0a77e86196458577bd) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_bbc55fe9fd5a9924c3c3f7a3d0f4bf69) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_e489354ca2a48372a3acfbfb5c01ee3e) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_53da6e635e0d7222774844ff8eb5e5e1) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_53da6e635e0d7222774844ff8eb5e5e1) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Resource details | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-90.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/aic_logo_Homer_exh.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Header_homer_exhibition3.jpg" alt="The Water Fan (detail) by Winslow Homer" title="Winslow Homer: The Color of Light" width="650" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/homer_exhb">Winslow Homer: The Color of Light</a> > <a href="../resource">Resources</a> > <span class="sel">Resource details</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Resource details</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Overview: Homer's <em>The Herring Net</em></strong><br />       An overview of Homer's dramatic painting of two fishermen during a storm at sea.<br /><br />
+    	 Book: American Arts<br />
+Barter. J. et al. <em>American Arts at the Art Institute of Chicago: From Colonial Times to World War I</em>. Chicago: The Art Institute of Chicago and New York: Hudson Press, 1998, p. 233-34.<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p>Almost two decades separate Winslow Homer’s <em>The Herring Net from Croquet Scene</em> and <em>Mount Washington</em>, and the changes that occurred in the artist’s work over the course of these years are striking. Although his paintings were still based on observations of contemporary life, Homer’s subject matter moved from land to sea, sport to work, and women to men. Formally, his palette became subdued and the scale of his figures and his canvases became monumental. Exactly why and how Homer’s style shifted toward the heroic in the 1880s has been the subject of much discussion. The most persuasive arguments have linked the artist’s style with his trips to the fishing towns of Gloucester, Massachusetts, in 1880 and Cullercoats, England, in 1881–82, and his permanent move to Prout’s Neck on the rocky, desolate coast of Maine in 1883.<br><br>
+Homer visited Prout’s Neck for the first time in July 1875 and by August had published his final engraving, <em>The Family Record</em>, in Harper’s Weekly. By cutting his ties to illustration, Homer freed himself to pursue a variety of subjects unhampered by the necessity of pleasing his employers and working on assignment. By the summer of 1880, when he lived in solitude on Ten Pound Island in Gloucester Harbor, Homer had fully turned his attention to the sea, and to the men and women who depended upon it for their livelihood. In March 1881 he set sail for England to study further the fishing industry and settled in the small coastal village and artists colony of Cullercoats until the fall of 1882.<br><br> 
+Homer continued to explore these themes upon his return to the United States. In 1885 he produced three paintings in rapid succession, <em>The Herring Net, The Fog Warning</em> (1885; Museum of Fine Arts, Boston), and <em>Lost on the Grand Banks</em> (1885; private collection), that pit fishermen against the sea and invoke the timeless conflict between the forces of man and nature. As one early twentieth-century critic suggested, "it was the struggle of men with the sea, of the waves with the land. . . the poise of and buoyancy of boats among threatening billows . . . in general, a world of ceaseless strife and motion that engaged [his] imagination." These paintings are all approximately the same size, and imply a narrative progression even though their protagonists differ. They depict the three principal fish of the New England fishing industry: herring, halibut, and cod. In the first, <em>The Herring Net</em>, two fishermen load a haul of herring onto their small dory. The second painting shows a lone fisherman in a dory weighed down by two large halibut, looking anxiously at the horizon darkening with fog and the schooner that awaits him. In the final picture fog has descended upon two cod fishermen who scan the sea for signs of life. <br><br>
+<em>The Herring Net</em> is by far the most optimistic of the three pictures and was praised for its "seriousness of aim" when it was shown for the first time at the 1885 National Academy of Design autumn exhibition.8 Homer is believed to have painted this scene after observing local fishermen taking advantage of the presence of a large school of herring in the waters off Prout’s Neck in the fall of 1884. He is reported to have hired a local boy, Roswell Googins, to row him out to the fishing fleet in order to make sketches of the fishermen at work.<br><br>
+One of these sketches, also entitled <em>The Herring Net</em>, presents a vivid example of how Homer subtly altered his sedate drawings to compose dramatic paintings. The two fishermen are positioned similarly in both the drawing and the painting: one hauls the net teeming with silver herring into the dory while the other counterbalances the boat. Intent upon their task, both gaze down into the boat. In the painting, however, Homer has changed the location of the buoy and the nets, the size of the waves, and the distance of the dory from the schooners in order to enhance the precariousness of the fishermen’s situation. What is portrayed as a routine commercial fishing outing in the sketch is elevated to the realm of the ideal on canvas. <em>The Herring Net</em> thus becomes an allegory with universal significance about the complex relationship between man and nature.</p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Winslow Homer: The Color of Light </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../overview">Overview</a></li>
+<li class="collapsed"><a href="../exhibthemes">Exhibition Themes</a></li>
+<li class="leaf"><a href="../resource">Resources</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="leaf"><a href="../reading">Recommended Reading</a></li>
+<li class="leaf last"><a href="http://www.artic.edu/aic/collections/exhibitions/homer/behindscenes">Behind the Scenes</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="../artwork/25865">The Herring Net</a></span>, 1885</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

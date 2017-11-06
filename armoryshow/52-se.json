@@ -1,0 +1,154 @@
+{
+"map"       : "52-se_2000.jpg",
+"mapwidth"  : "2000px", 
+"mapheight" : "1361px",
+"areas"     : {
+  "s"  : {
+      "left"    : "0px",
+      "top"     : "610px",
+      "width"   : "195px",
+      "height"  : "255px",
+      "data" : {
+        "ctitle"    : "38 Paul Cezanne, <em>Woman with rosary</em>",
+        "citation"  : "Paul Cézanne (French, 1839–1906). <em>An Old Woman with a Rosary</em>, 1895/96. Oil on canvas; 80.6 × 65.5 cm (31 3/4 × 25 3/4 in.). The National Gallery, London, NG6195."
+      }
+  },
+  "t"  : {
+      "left"    : "0px",
+      "top"     : "420px",
+      "width"   : "160px",
+      "height"  : "182px",
+      "data" : {
+        "ctitle"    : "51 Paul Cezanne, <em>Portrait, Mme. C&eacute;zanne</em>",
+        "citation"  : "Paul Cézanne (French, 1839–1906). <em>Portrait of Madame Cézanne</em>, c. 1885. Oil on canvas; 46 × 38.1 cm (18 1/8 × 15 in.). Private collection."
+      }
+  },
+  "u"  : {
+      "left"    : "694px",
+      "top"     : "595px",
+      "width"   : "140px",
+      "height"  : "230px",
+      "data" : {
+        "joyride-stop" : true,
+        "ctitle"    : "137 Paul Gauguin, <em>Under Palms</em>",
+        "citation"  : "Paul Gauguin (French, 1848–1903). <em>Woman Near Palms</em>, 1891. Oil on canvas; 92.1 × 71.8 cm (36 5/16 × 28 5/16 in.). Private collection."
+      }
+  },
+  "v"  : {
+      "left"    : "830px",
+      "top"     : "586px",
+      "width"   : "158px",
+      "height"  : "244px",
+      "data" : {
+        "ctitle"    : "147 Paul Gauguin, <em>Tahitian Scene</em>",
+        "citation"  : "Paul Gauguin (French, 1848–1903). <em>A Walk by the Sea or Tahitian Family</em>, 1902. Oil on canvas; 92.1 × 73 cm (36 1/4 × 28 3/4 in.). Private collection."
+      }
+  },
+  "w"  : {
+      "left"    : "1046px",
+      "top"     : "454px",
+      "width"   : "228px",
+      "height"  : "226px",
+      "data" : {
+        "ctitle"    : "139 Paul Gauguin, <em>Flowers</em>",
+        "citation"  : "Paul Gauguin (French, 1848–1903). <em>Still Life with a Head-Shaped Vase</em>, 1889. Oil on canvas; 72.4 × 92.7 cm (28 1/2 × 36 1/2 in.). Private collection."
+      }
+  },
+  "x"  : {
+      "left"    : "990px",
+      "top"     : "685px",
+      "width"   : "358px",
+      "height"  : "166px",
+      "data" : {
+        "ctitle"    : "136 Paul Gauguin, <em>Faa iheihe</em>",
+        "citation"  : "Paul Gauguin (French, 1848–1903). <em>Faa Iheihe</em>, 1898. Oil on canvas; 54 × 169.5 cm (21 1/4 × 66 3/4 in.). Tate Museum, London, N03470."
+      }
+  },
+  "y"  : {
+      "left"    : "1350px",
+      "top"     : "570px",
+      "width"   : "228px",
+      "height"  : "292px",
+      "data" : {
+        "ctitle"    : "138 Paul Gauguin, <em>The Spirit of Evil</em>",
+        "citation"  : "Paul Gauguin (French, 1848–1903). <em>Parau na te Varua ino (Words of the Devil)</em>, 1892. Oil on canvas; 36 1/8 × 26 15/16 in. (91.7 × 68.5 cm). The National Gallery of Art, Washington D.C. 1972.9.12."
+      }
+  },
+  "z"  : {
+      "left"    : "1654px",
+      "top"     : "432px",
+      "width"   : "146px",
+      "height"  : "152px",
+      "data" : {
+        "owned"       : true,
+        "thumbnail"   : "head-of-a-tahitian_gauguin_200.jpg",
+        "artist"      : "Paul Gauguin",
+        "period"      : "French, 1848–1903",
+        "title"       : "<em>Head of a Tahitian with a Profile of a Second Head to His Right</em>, 1891–93",
+        "medium"      : "Black and red chalk, selectively stumped and fixed on buff wove paper; 35.2 x 36.9 cm (13 13/16 x 14 1/2 in.)",
+        "collection"  : "Gift of Emily Crane Chadbourne, 1922.4794",
+        "description" : "When Paul Gauguin first arrived in Tahiti, he spent several months drawing as he acclimated to the exotic locale. <em>Head of a Tahitian</em> belongs to a series of charcoal portraits the artist made of individual Tahitians. This drawing is one of the four by Gauguin lent to the Armory Show by Emily Crane Chadbourne, an art collector from Chicago who lived in Europe at the time. There, she amassed a large and eclectic collection, which included several drawings by Gauguin along with works by younger artists, such as Henri Matisse.",
+        "link"      : "http://www.artic.edu/aic/collections/artwork/5511?search_no=18&index=1",
+        "ctitle"    : "140 Paul Gauguin, <em>Head of a Man</em>",
+        "citation"  : "Paul Gauguin (French, 1848–1903). <em>Head of a Tahitian with a Profile of a Second Head to His Right</em>, 1891–93. Black and red chalk, selectively stumped and fixed on buff wove paper; 35.2 × 36.9 cm (13 13/16 × 14 1/2 in.). The Art Institute of Chicago, gift of Emily Crane Chadbourne, 1922.4794."
+      }
+  },
+  "aa"  : {
+      "left"    : "1602px",
+      "top"     : "590px",
+      "width"   : "122px",
+      "height"  : "138px",
+      "data" : {
+        "owned"       : true,
+        "thumbnail"   : "pape-moe_gauguin_200.jpg",
+        "artist"      : "Paul Gauguin",
+        "period"      : "French, 1848–1903",
+        "title"       : "<em>Mysterious Water (Pape moe)</em>, 1893/94",
+        "medium"      : "Pen and ink and brush and watercolor on ivory wove paper; 35.2 x 25.5 cm (13 7/8 x 10 in.)",
+        "collection"  : "Gift of Emily Crane Chadbourne, 1922.4797",
+        "description" : "<em>Pape moe</em> illustrates a passage from <em>Noa Noa</em>, Paul Gauguin’s journal of his time in Tahiti. A collection of excerpts from <em>Noa Noa</em> was among the publications sold at the New York presentation of the Armory Show, where the public was shocked by Gauguin’s writing as much as by his art. Word of the scandalous journal reached Chicago, where Art Institute of Chicago Director William M. R. French received a letter urging him not to ruin the museum’s \"intellectual integrity\" by selling the pamphlet. <em>Noa Noa</em> was banned from the Chicago presentation on grounds of indecency two weeks before the opening.",
+        "link"      : "http://www.artic.edu/aic/collections/artwork/86308?search_no=21&index=0",
+        "ctitle"    : "143 Paul Gauguin, <em>At the Spring</em>",
+        "citation"  : "Paul Gauguin (French, 1848–1903). <em>Mysterious Water (Pape moe)</em>, 1893/94. Pen and ink and brush and watercolor on ivory wove paper; 35.2 × 25.5 cm (13 7/8 × 10 in.). The Art Institute of Chicago, gift of Emily Crane Chadbourne, 1922.4797."
+      }
+  },
+  "bb"  : {
+      "left"    : "1732px",
+      "top"     : "580px",
+      "width"   : "135px",
+      "height"  : "145px",
+      "data" : {
+        "owned"       : true,
+        "thumbnail"   : "two-women_gauguin_200.jpg",
+        "artist"      : "Paul Gauguin",
+        "period"      : "French, 1848–1903",
+        "title"       : "<em>Two Tahitian Women in a Landscape</em>, c. 1892",
+        "medium"      : "Watercolor, gouache and green ink, over traces of graphite, on cream Japanese paper; 32.2 x 23.8 cm (12 11/16 x 9 3/8 in.)",
+        "collection"  : "Gift of Emily Crane Chadbourne, 1922.4795",
+        "description" : "Though Paul Gauguin died ten years before the Armory Show, his work was still considered radical by his critics. In his review of the exhibition, Kenyon Cox referred to Gauguin as \"a decorator tainted with insanity.\" Gauguin’s avant-garde aesthetics are evident in <em>Two Tahitian Women in a Landscape</em>, in which each figure’s form is reduced to areas of pure color defined by thick outlines. Gauguin’s use of strong contours and bright hues would be adopted by many artists of the following generation, particularly the Fauves. Many critics of the Armory Show remarked on the stylistic similarities between Gauguin and one of the most notorious artists at the exhibition, Henri Matisse. ",
+        "link"      : "http://www.artic.edu/aic/collections/artwork/5513?search_no=24&index=0",
+        "ctitle"    : "142 Paul Gauguin, <em>Woman and Child</em>",
+        "citation"  : "Paul Gauguin (French, 1848–1903). <em>Two Tahitian Women in a Landscape</em>, c. 1892. Watercolor, gouache and green ink, over traces of graphite, on cream Japanese paper; 32.2 × 23.8 cm (12 11/16 × 9 3/8 in.). The Art Institute of Chicago, gift of Emily Crane Chadbourne, 1922.4795."
+      }
+  },
+  "cc"  : {
+      "left"    : "1762px",
+      "top"     : "728px",
+      "width"   : "128px",
+      "height"  : "152px",
+      "data" : {
+        "owned"       : true,
+        "thumbnail"   : "seated-tahitian-youth_gauguin_200.jpg",
+        "artist"      : "Paul Gauguin",
+        "period"      : "French, 1848–1903",
+        "title"       : "<em>Seated Tahitian Youth</em>, 1890/1903",
+        "medium"      : "Watercolor and graphite, with brush and blue ink, on tan Japanese paper, laid down on ivory laid paper with brown and blue fibers, laid down on cream wove paper; 23.7 x 15.3 cm (9 5/16 x 6 in.)",
+        "collection"  : "Gift of Emily Crane Chadbourne, 1922.4796",
+        "description" : "Organizers of the Armory Show dedicated an entire wall in Gallery 52 to Paul Gauguin’s art, much of which dated from the time the artist lived in Tahiti. <em>Seated Tahitian Youth</em>, in which the lone figure is given no context or expression, exemplifies the enigmatic character of Gauguin’s Tahitian artworks that polarized reviewers of the Armory Show. Many critics denounced his work, calling it \"as obscene as it is vile.\" Others praised the work’s fascinating and mysterious quality; one critic, Harriet Monroe, identified <em>Seated Tahitian Youth</em> as one of the artist's \"finest examples.\"",
+        "link"     : "http://www.artic.edu/aic/collections/artwork/5515?search_no=27&index=0",
+        "ctitle"    : "141 Paul Gauguin, <em>Woman Stooping</em>",
+        "citation"  : "Paul Gauguin (French, 1848–1903). <em>Seated Tahitian Youth</em>, 1890/1903. Watercolor and graphite, with brush and blue ink, on tan Japanese paper, laid down on ivory laid paper with brown and blue fibers, laid down on cream wove paper; 23.7 × 15.3 cm (9 5/16 × 6 in.). The Art Institute of Chicago, gift of Emily Crane Chadbourne, 1922.4796."
+      }
+  }
+}
+}

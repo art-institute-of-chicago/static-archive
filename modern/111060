@@ -1,0 +1,812 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_2b70bf63f0622e76afde9fa2d25a89de) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_2b70bf63f0622e76afde9fa2d25a89de) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_9a0d3da4fa66ddbed09c7f06111afecc) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_b47c32cbd8b5be0d92048fbb8cc5d932) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_a33bdbdff47548655d9bd9c05ea3930a) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_a33bdbdff47548655d9bd9c05ea3930a) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_c8bde69a9f79ca24059e3807f9a3bcf8) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_c983ccae97f3b17642ecbd11f1d15836) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_2b70bf63f0622e76afde9fa2d25a89de) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_2b70bf63f0622e76afde9fa2d25a89de) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_9a0d3da4fa66ddbed09c7f06111afecc) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_2b70bf63f0622e76afde9fa2d25a89de) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_2b70bf63f0622e76afde9fa2d25a89de) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_ac66724d0bc38b2093ea51493af380b1) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Daniel-Henry Kahnweiler | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="css/roll.css" />
+<link rel="shortcut icon" href="images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "css/aicportal.css";</style>
+<style type="text/css" media="all">@import "css/node.css";</style>
+<style type="text/css" media="all">@import "css/user.css";</style>
+<style type="text/css" media="all">@import "css/content.css";</style>
+<style type="text/css" media="all">@import "css/gallery.css";</style>
+<style type="text/css" media="all">@import "css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "css/exhibition-8985.css";</style>
+<style type="text/css" media="all">@import "css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "css/devel.css";</style>
+<style type="text/css" media="all">@import "css/style.css";</style>
+<style type="text/css" media="all">@import "css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "css/system-menus.css";</style>
+<style type="text/css" media="all">@import "css/system.css";</style>
+<style type="text/css" media="all">@import "css/main.css";</style>
+<style type="text/css" media="all">@import "css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "css/print.css";</style>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/drupal.js"></script>
+<script type="text/javascript" src="js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="js/extlink.js"></script>
+<script type="text/javascript" src="js/devel.js"></script>
+<script type="text/javascript" src="js/autocomplete.js"></script>
+<script type="text/javascript" src="js/jqModal.js"></script>
+<script type="text/javascript" src="js/redirect.js"></script>
+<script type="text/javascript" src="js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "citi": { "enlargements": { "..\/images\/186368_4228525.jpg": { "enlargement_image": "..\/images\/186368_4228525.jpg", "object_artist_culture_display": "Pablo Picasso\x3cbr /\x3e\nSpanish, worked in France, 1881–1973", "object_title": "Daniel-Henry Kahnweiler", "object_date_display": "autumn 1910", "object_id": "111060", "object_copyright_notice": "© 2016 Estate of Pablo Picasso / Artists Rights Society (ARS), New York" } } } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "/aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "/aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="images/AIC_modern.gif" alt="" title="The Art Institute of Chicago" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="images/Mod-Contemp-header.png" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Modern">Art Access: Modern and Contemporary Art</a> > <span class="sel">Daniel-Henry Kahnweiler</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Daniel-Henry Kahnweiler</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <a href="..\/images\/186368_4228525.jpg" class="enlargement-link enlargement-link-111060"><img src="images/186368_4228527.jpg" alt="Daniel-Henry Kahnweiler" title="Pablo Picasso
+Spanish, worked in France, 1881–1973, Daniel-Henry Kahnweiler"  /></a>          </div>
+
+    <p class="tools">
+              <a href="..\/images\/186368_4228525.jpg" class="enlargement-link enlargement-link-111060"><strong>View</strong> enlargement</a><br />
+                          <a href="http://www.artic.edu/aic/collections/exhibitions/Modern/artwork/111060/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="http://www.artic.edu/aic/collections/exhibitions/Modern/artwork/111060/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    Pablo Picasso<br />
+Spanish, worked in France, 1881–1973<br />
+    </p>
+    <h3><em>Daniel-Henry Kahnweiler</em>, autumn 1910</h3>
+
+    <p>
+    Oil on canvas<br />    39 9/16 x 28 9/16 in. (100.4 x 72.4 cm)<br />        Gift of Mrs. Gilbert W. Chapman in memory of Charles B. Goodspeed, 1948.561</p>
+        © 2016 Estate of Pablo Picasso / Artists Rights Society (ARS), New York
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p><p>The subject of this portrait is Daniel-Henry Kahnweiler (1884–1979), a German-born art dealer, writer, and publisher. Kahnweiler opened an art gallery in Paris in 1907and in 1908 began representing Pablo Picasso, whom he introduced to <a href="http://www.artic.edu/aic/collections/artwork/artist/Braque%2C+Georges">Georges Braque</a>. Kahnweiler was a great champion of the artists’ revolutionary experiment with Cubism and purchased the majority of their paintings between 1908 and 1915. He also wrote an important book, <em>The Rise of Cubism</em>, in 1920, which offered a theoretical framework for the movement.</p>
+<p>Kahnweiler sat as many as thirty times for this portrait. No longer seeking to create the illusion of true appearances, Picasso broke down and recombined the forms he saw. He described Kahnweiler with a network of shimmering, semitransparent surfaces that merge with the atmosphere around him. Forms are fractured into various planes and faceted shapes and presented from several points of view. Despite the portrait’s highly abstract character, however, Picasso added attributes to direct the eye and focus the mind: a wave of hair, the knot of a tie, a watch chain. Out of the flickering passages of brown, gray, black, and white emerges a rather traditional portrait pose of a seated man, his hands clasped in his lap.</p>
+
+<p>— Entry, <em>The Essential Guide</em>, 2013, p.251.</p></p>
+                <div id="abbrev">
+      <p><a href="http://www.artic.edu//aic/collections/exhibitions/Modern/artwork/more" class="more">Exhibition, Publication and Ownership Histories</a></p>
+      <!--content hidden-->
+    </div>
+    <div id="extended">
+      <p><a href="http://www.artic.edu//aic/collections/exhibitions/Modern/artwork/less" class="less">Exhibition, Publication and Ownership Histories</a></p>
+            <h2>Exhibition History</h2>
+      <p>Philadelphia, Pennsylvania Museum of Art, The Earl Horter Collection, February 17–March 13, 1934, no cat.; traveled to Chicago, Arts Club, April 3–26, 1934, cat. 53.<br />
+<br />
+Chicago, Arts Club, Loan Exhibition of Modern Paintings and Drawings from Private Collections in Chicago, November 4–25, 1938, cat. 101. <br />
+<br />
+New York, Museum of Modern Art, Picasso: Forty Years of His Art, November 15, 1939–Jan. 17, 1940, p. 75, cat. 96 (ill.); traveled to Chicago, Art Institute, February 1–March 3, 1940; and Boston, Museum of Fine Arts, April 26–May 25, 1940. <br />
+<br />
+New York, Museum of Modern Art, 20th Century Portraits, December 9, 1942–January 24, 1943, p. 141; traveled to Baltimore Museum of Art, February 12–March 7, 1943; and Worcester Art Museum, March 24–April 18, 1943.<br />
+<br />
+Chicago, Art Institute, Gallery of Art Interpretation: Presenting the Art Institute's Picassos, September–December 1955, no cat.<br />
+<br />
+New York, Sidney Janis Gallery, Cubism 1910–1912, January 3–February 4, 1956, cat. 28 (ill.).<br />
+<br />
+New York, Museum of Modern Art, Picasso: 75th Anniversary Exhibition, May 22–September 8, 1957, p. 39 (ill.); traveled to Chicago, Art Institute, October 29–December 8, 1957.<br />
+<br />
+Philadelphia Museum of Art, Picasso, January 8–February 23, 1958, cat. 54 (ill.).<br />
+<br />
+New York, Saidenberg Gallery, Picasso: An American Tribute--Cubism, April 25–May 12, 1962, cat.  2 (ill.).<br />
+<br />
+Paris, Petit Palais, Hommage a Pablo Picasso, November 1966–February 1967, cat. 71 (ill.).<br />
+<br />
+Chicago, Art Institute, Picasso in Chicago, February 3–March 31, 1968, pp. 22 and 113, cat. 16 (ill.).<br />
+<br />
+Los Angeles County Museum of Art, The Cubist Epoch, December 15, 1970–February 21, 1971, pp. 50–51, pl. 32, cat. 234; traveled to New York, Metropolitan Museum of Art, April 7–June 7, 1971.<br />
+<br />
+New York, Museum of Modern Art, Pablo Picasso; A Retrospective, May 22–September 16, 1980, p. 142 (ill.).<br />
+<br />
+Paris, Centre Georges Pompidou, Homage a Daniel-Henry Kahnweiler, November 22, 1984–January 28, 1985, p. 19 (ill.).<br />
+<br />
+New York, Museum of Modern Art, Picasso and Braque: Pioneering Cubism, 1989, p. 181 (ill.).<br />
+<br />
+Basel, Kunstmuseum, Picasso und Braque: Die Geburt des Kubismus, February 25–June 4, 1990, p. 12, cat. 80. <br />
+<br />
+New York, Museum of Modern Art, Picasso and Portraiture: Representation and Transformation, April 28–September 17, 1996, p. 285 (ill.); traveled to Paris, Grand Palais, October 15, 1996–January 20, 1997.  <br />
+<br />
+Philadelphia Museum of Art, Mad for Modernism: Earl Horter and His Collection, March 7–May 16, 1999, p. 95, pl. 18. <br />
+<br />
+New York, Solomon R. Guggenheim Museum of Art, Boccioni’s Materia: A Futurist Masterpiece and the Avant-garde in Milan and Paris, February 6–May 9, 2004, pp. 7 and 98, cat. 11 (ill.).<br />
+<br />
+Paris, Centre national d'art et de culture Georges Pompidou, Le Futurisme et Paris, October 15, 2008–January 26, 2009.</p>
+                  <h2>Publication History</h2>
+      <p>de Zayas, Marius, “Pablo Picasso,” América: Revista mensual illustrada (May 1911), p. 365 (ill.).<br />
+<br />
+Stein, Gertrude, “Pablo Picasso,” Camera Work (August 1912), n.p. (ill.).<br />
+<br />
+de Zayas, Marius, and Paul B. Haviland, A Study of the Modern Evolution of Plastic Expression (New York: Gallery 291, 1913) (ill.).<br />
+<br />
+Apollinaire, Guillaume, Les peintres Cubistes (1913).<br />
+<br />
+Barnes, Albert C., “Cubism: Requiescat in Pace,” Arts and Decoration 6:3 (January 1916), p. 123 (ill.).<br />
+<br />
+Annuaire des Ventes III (October 1920–July 1921), p. 127.<br />
+<br />
+L’Amour de l’Art 2 (1921), p. 228.<br />
+<br />
+Kunstchronik und Kunstmarkt vol. 32, pt. 2, no. 44 (July 29, 1921), p. 814.<br />
+<br />
+Raynal, Maurice, Picasso (Munich, Delphin-Verg, 1921; reprinted, Paris: Crès, 1922), p. 38 (ill.).<br />
+<br />
+Der Querschnitt 9 (1925), p. 784 (ill.).<br />
+<br />
+Tériade, E., “Nos Enquêtes: Entretien avec Henry Kahnweiler,” Supplément á la Revue Cahiers d’Art 2 (1927), p. 1 (ill.).<br />
+<br />
+Mahaut, Henri, Picasso (Paris: Les Éditions G. Crés, 1930), pl. 17.<br />
+<br />
+“Exposition d’oeuvres de Picasso aux Galeries Georges Petit,” Cahiers d’Art 7:3–5 (1932), pp. 110–111 (ill.).<br />
+<br />
+Les Créateurs du Cubisme, exh. cat. (Paris: Beaux-Arts et de La Gazette des Beaux-Arts, 1935), n. p..<br />
+<br />
+Bulliet, C. J., The Significant Moderns and Their Pictures (New York: Covici Friede, 1936), pl. 109.<br />
+<br />
+Chicago, Arts Club, Loan Exhibition of Modern Paintings and Drawings from Private Collections in Chicago, exh. cat. (Chicago: Arts Club, 1938), cat. 101.<br />
+<br />
+Stein, Gertrude, Anciens et Modernes Picasso (Paris: Librairie Floury, 1938; reprinted, London: B. T. Batsford, 1938 and 1948), pl. 73 (ill.).<br />
+<br />
+Barr, Jr., Alfred H., Picasso: Forty Years of His Art, exh. cat. (New York: Museum of Modern Art, 1939), p. 75, cat. 96 (ill.).<br />
+<br />
+Mackenzie, Helen F., Understanding Picasso: A Study of His Styles and Development (Chicago: University of Chicago Press, 1940), pl. VII.<br />
+<br />
+Wilenski, R. H., Modern French Painters (New York: Reynal and Hitchcock, 1940), p. 224.<br />
+Christian Zervos, Pablo Picasso II (Paris: Cahiers d’Art, 1942), p. 113, no. 227 (ill).<br />
+<br />
+Wheeler, Monroe, 20th Century Portraits, exh. cat. (New York: Museum of Modern Art, 1942), p. 141.<br />
+<br />
+Apollinaire, Guillaume, The Cubist Painters: Aesthetic Meditations 1913, trans by Lionel Abel (New York: Wittenborn, Schultz, 1944; reprinted in 1949), p. 41.<br />
+<br />
+Bonfante, Egidion, and Juti Ravenna, Arte Cubista (Venice: Ateneo, 1945), pl. XIV, p. 59.<br />
+<br />
+Barr, Jr., Alfred H., Picasso: Fifty Years of His Art (New York: Museum of Modern Art, 1946), p. 71 (ill.).<br />
+<br />
+Cassou, Jean, Picasso (Paris: Les Éditions Braun, 1947), pl. 22.<br />
+<br />
+Merli, Joan, Picasso (Buenos Aires: Editorial Poseidon, 1948), n.p., fig. 196.<br />
+<br />
+Judkins, Winthrop, “Toward a Reinterpretation of Cubism,” The Art Bulletin, 30:4 (December 1948), p.  277.<br />
+<br />
+Kahnweiler, Daniel-Henry, The Rise of Cubism, trans. by Henry Aronson (New York: Wittenborn, Schultz, 1949), (ill.).<br />
+<br />
+Lassaigne, Jacques, Picasso (Paris: Éditions Aimery Somogy, 1949), pl. 43.<br />
+<br />
+Fels, Florent, L’art vivant, de 1900 à nos jours (Geneva: Pierre Cailler, 1950), p. 230 (ill.).<br />
+<br />
+Kahnweiler, Daniel-Henry, Les années héroiques du Cubisme (Paris: Braun, 1950), fig. 17.<br />
+<br />
+Gieure, Maurice, Initation à l’oeuvre de Picasso (Paris: Éditions des Deux Mondes, 1951), pl. 25.<br />
+<br />
+Gray, Christopher, Cubist Aesthetic Theories (Baltimore, Md.: The Johns Hopkins Press, 1953), pp. 93 and 97.<br />
+<br />
+Boeck, Wilhelm, and Jaime Sabartes, Pablo Picasso (New York: Abrams, 1955), pp. 241 (ill.), and 490, no. 107.<br />
+<br />
+Elgar, Frank, and Robert Maillard, Picasso (Paris: Fernand Hazan, 1955), p. 63 (ill).<br />
+<br />
+Picasso: Fifty-Five Years of His Graphic Work (New York: Harry N. Abrams, 1955), p. XXI.<br />
+<br />
+Aznar, José Camón, Picasso, y el Cubismo (Madrid: Espasa-Calpe, 1956), p. 424b (ill.).<br />
+<br />
+Fosca, François, Bilan du Cubisme (Paris: La Bibliothèque des Arts, 1956), p. 27.<br />
+<br />
+Sidney Janis Gallery, Cubism 1910–1912 (New York: Sidney Janis Gallery, 1956), cat. 28 (ill.).<br />
+<br />
+A Brief Guide to the Collections (Chicago: Art Institute of Chicago, 1956), p. 35 (ill.).<br />
+<br />
+Barr, Jr., Alfred H., Picasso: 75th Anniversary Exhibition, exh. cat. (New York: Museum of Modern Art, 1957), p. 39 (ill.).<br />
+<br />
+Penrose, Roland, Portrait of Picasso (New York: Museum of Modern Art, 1957), p. 39, fig. 86.<br />
+“Picasso: The First Fifty Years,” Vogue CXXIX (June 1957), p. 96 (ill.).<br />
+<br />
+Philadelphia Museum of Art, Picasso, exh. cat. (Philadelphia: Philadelphia Museum of Art, 1958), cat. 54 (ill.).<br />
+<br />
+Penrose, Roland, Picasso: His Life and Work (London: Victor Gollancz, 1958), p. 155, pl. VI, no. 9.<br />
+Jan Runnqvist, Minotauros (Stockholm: Bonniers, 1959), p. 28–29, fig. 24.<br />
+<br />
+Habasque, Guy, Cubism, trans by Stuart Gilbert (New York: Skira, 1959), pp. 42–44 and 49 (ill.).<br />
+John Golding, Cubism: A History and an Analysis, 1907–1914 (New York: George Wittenborn, 1959; reprinted, Paris: Julliard, 1962), pp. 89–90. pl. 10.<br />
+<br />
+Haftmann, Werner, Painting in the Twentieth Century (New York: Frederick A. Praeger, 1960), pp. 120 and 535 (ill.).<br />
+<br />
+Art Institute of Chicago, Paintings in The Art Institute of Chicago (Chicago: Art Institute of Chicago, 1961), p. 357.<br />
+<br />
+Solomon, Alan Robert, “Pablo Picasso: Symbolism in the Synthetic Cubist Still Life, A Study of his Iconography from 1911–1927,” Ph.D. dissertation, Harvard University (1961), p. 80.<br />
+<br />
+Richardson, John, Picasso: An American Tribute—Cubism (New York: Saidenberg Gallery, 1962), cat.  2 (ill.).<br />
+<br />
+Delevoy, Robert, Léger, trans. by Stuart Gilbert (Geneva; Albert Skira, 1962), p. 9.<br />
+<br />
+Zagoroff, Radka, “Space in Abstract Expressionism,” The Journal of Aesthetics and Criticism 23:2 (Winter 1964), p. 243, fig. 1.<br />
+<br />
+Jaffé, Hans L. C., Pablo Picasso (New York: Harry N. Abrams, 1964; reprinted, Paris, 1967), pp. 88–89 (ill.).<br />
+<br />
+Daix, Pierre, Picasso (Paris: Éditions Aimery Somogy, 1964), pp. 74, 90, and 91 (ill.).<br />
+<br />
+Berger, John, The Success and Failure of Picasso (Baltimore: Penguin Books, 1965), p. 58, fig. 31.<br />
+<br />
+Martini, Alberto, Picasso, Part I (I maestri del colore, 56) (Milan: Fratelli Fabbri, 1965), pl. VIII. <br />
+<br />
+Pour Daniel-Henry Kahnweiler (Paris: Gerd Hatje Stuttgart, 1965), p. 19 (ill.).<br />
+<br />
+Petit Palais, Hommage a Pablo Picasso, exh. cat. (Paris: Petit Palais, 1966), cat. 71 (ill.).<br />
+<br />
+Picasso: Graphik, exh. cat. (Dresden: Kupferstich-Kabinettes der Staatlichen Kunstsammlungen, 1966), p. 28.<br />
+<br />
+Fry, Edward F., “Cubism 1907–1908: An Early Eyewitness Account,” The Art Bulletin XLVIII:1 (March 1966), pp. 72 and 73, fig. 6.<br />
+<br />
+---, Cubism (London: Thames and Hudson, 1966), pp. 21–23, fig. 28, pl. III.<br />
+<br />
+Speyer, A. James, “Twentieth-Century European Paintings and Sculpture,” Apollo 84:55 (September 1966), p. 222.<br />
+<br />
+Gosling, Nigel, “A stroll through Picasso’s life,” The Observer (November 20, 1966), p. 25.<br />
+<br />
+Wertenbaker, Lael, The World of Picasso (New York: Time-Life Books, 1967), pp. 60 and 90–91 (ill.).<br />
+<br />
+Penrose, Roland, The Eye of Picasso (New York: The New American Library, 1967), pl. 9.<br />
+<br />
+di San Lazzaro, G., “L’hommage à Picasso,” XXe siècle 28 (June 1967), p. 102 (ill.).<br />
+<br />
+Fermigier, André, Picasso (Paris: Hachette, 1967), pp. 50–51, and 99 (ill.).<br />
+<br />
+---, “Picasso in Paris,” Burlington Magazine 109:769 (April 1967), p. 247.<br />
+<br />
+Art Institute of Chicago, Picasso in Chicago, exh. cat. (Chicago: Art Institute of Chicago, 1968), p. 22, cat. 16 (ill.).<br />
+<br />
+Arnason, H. H., History of Modern Art: Paintings, Sculpture, Architecture (New York: Harry N. Abrams, 1968), p. 127, fig. 210.<br />
+<br />
+Mullins, Edwin, The Art of Georges Braque (New York: Harry N. Abrams, 1968), pp. 62 and 209, pl. 41.<br />
+<br />
+“Picasso,” L’art du monde 17 (Japan, 1968), pl. 18.<br />
+<br />
+Fermigier, André, Picasso (Le Livre de Poche) (Paris: Libraire Générale Française, 1969), pp. 87 and 91, fig. 53.<br />
+<br />
+Picasso (Tokyo: Holp Shuppan, 1970), n.p. (ill.).<br />
+<br />
+Cooper, Douglas, The Cubist Epoch, exh. cat. (Los Angeles: Los Angeles County Museum of Art, 1970), pp. 50–51, pl. 32, cat. 234.<br />
+<br />
+Maxon, John, The Art Institute of Chicago (New York: Harry N. Abrams, 1970; reprinted, London: Thames and Hudson, 1977), p. 110 (ill.).<br />
+<br />
+Greenfeld, Howard, Pablo Picasso: An Introduction (Chicago: Follett Publishing Company, 1971), pp. 36–37 (ill.).<br />
+<br />
+Leymarie, Jean, Picasso: Métamorphoses et unité (Geneva: Éditions d’Art Albert Skira, 1971; reprinted, New York: The Viking Press, 1972), p. 36, 37, and 221 (ill.).<br />
+<br />
+Penrose, Roland, Portrait of Picasso (New York: Museum of Modern Art, 1971), pp. 36, 37, and 221 (ill.).<br />
+<br />
+Grung, Sandra, Supplement to Paintings in The Art Institute of Chicago (Chicago: The Art Institute of Chicago, 1971), p. 86.<br />
+<br />
+Kahnweiler, Daniel-Henry, “Quelques entretiens avec Picasso,” in Hommage à Pablo Picasso (Paris: XXe Siecle, 1971), p. 16 (ill.). <br />
+<br />
+Young, Mahonri Sharp, “The Cubist Epoch,” Apollo XCIII: 107 (January 1971), p. 20, fig. 2.<br />
+<br />
+Krauss, Rosalind, “The Cubist Epoch,” Artforum IX:6 (February 1971), p. 36 (ill.).<br />
+<br />
+Kramer, Hilton, “The Cubist epoch,” Art in America 59:2 (March–April 1971), pp. 52–53, and 55 (ill.).<br />
+<br />
+Rosenberg, Charles, “Cubist Object Treatment: A Perceptual Analysis,” Artforum IX:8 (April 1971), pp. 31, 33, and 36, fig. 1.<br />
+<br />
+Gosling, Nigel, “Kahnweiler in Interview,” Art and Artists VI:4 (July 1971), p. 46 (ill.).<br />
+<br />
+Kahnweiler, Daniel-Henry, and Francis Crémieux, My Galleries and Painters, trans. by Helen Weaver (New York: The Viking Press, 1971), n.p. (ill.).<br />
+<br />
+Warnod, Jeanine, Washboat Days, trans. by Carol Green (New York: Orion Press, 1972), pp. 201–202, and 205 (ill.).<br />
+<br />
+Russoli, Franco, and Fiorella Minervino, L’opera completa di Picasso cubista (Milan: Rizzoli, 1972), p. 105, no. 357, pl. XXI.<br />
+<br />
+Daval, Jean-Luc, Journal de l’art moderne 1884–1914 (Geneva: Skira, 1973), p. 232 and 233 (ill.).<br />
+<br />
+Nishimura, Toshio, Picasso (Tokyo: Japan Art Center, 1973), p. 119, pl. 38. <br />
+<br />
+Mosele, Franz, Die kubistische Bildsprache von Georges Braque, Pablo Picasso und Juan Gris unter besonderer Berücksichtigung der Entwicklung der Farbe (Zurich: Juris Druck, 1973), pp. 160–161, 163, 180, and 283, no. P.148.<br />
+<br />
+Penrose, Roland, “Picasso’s Portrait of Kahnweiler,” The Burlington Magazine 116:852 (March 1974), pp. 124–133, figs. 1 and 10.<br />
+<br />
+Porzio, Domenico, and Marco Valsecchi, Understanding Picasso (New York: Newsweek Books, 1974), pp. 38 and 39 (ill.). <br />
+<br />
+Nakahara, Yusuke, Picasso and Matisse, Grand Collection of World Art 23 (Tokyo: Kodansha, 1974), pl. 8.<br />
+<br />
+Picasso (New York: Felicie, 1974), n.p. (ill.).<br />
+<br />
+Lipton, Eunice, “Picasso Criticism, 1901–1939: The Making of an Artist-Hero,” Ph.D. dissertation, New York University, New York, 1975, p. 86.<br />
+<br />
+Cabanne, Pierre, Le siècle de Picasso: vol. 1 1881–1937 (Paris: Denoël, 1975; reprinted, 1992) (ill.).  <br />
+<br />
+Hilton, Timothy, Picasso (London: Thames and Hudson, 1975), pp. 100, 107, 108, and 112 fig. 74.<br />
+<br />
+Daix, Pierre, “Le Retour de Picasso au Portrait (1914–1921). Une Problématique de Généralisation du Cubisme,” in Le Retour à l’ordre dans les arts plastiques et l’architecture, 1919–1925 (Saint-Étienne: Centre interdisciplinaire d'études et de recherche sur l'expression contemporaine, 1975), p. 90.<br />
+<br />
+O’Brian, Patrick, Pablo Ruiz Picasso (New York: G. P. Putnam’s Sons, 1976), p. 178–179.<br />
+<br />
+Baumann, F. A., Pablo Picasso: Leben und Werk (Stuttgart: Gerd Hatje, 1976), pp. 62–63, fig. 108.<br />
+<br />
+Roskill, Mark, “On the Recognition and Identification of Objects in Paintings,” Critical Inquiry 3:4 (Summer 1977), pp. 687–688 and 695–696, fig. 3.<br />
+<br />
+Homer, William Innes, Alfred Stieglitz and the American Avant-Garde (Boston: New York Graphic Society, 1977), pp. 75 and 76, fig. 36.<br />
+<br />
+Scobie, Stephen, Earthquakes and Explorations: Language and Painting from Cubism to Concrete Poetry (Toronto: University of Toronto Press, 1977), pp. 67 and 187.<br />
+<br />
+10X Picasso, exh. cat. (Düsseldorf: Kunstsammlung Nordhein-Westfalen, 1977), p. 18 (ill.).<br />
+<br />
+Caroli, Flavio, Primitivismo e Cubismo (Milan: Fratelli Fabbri, 1977), pp. 74 and 78, fig. 1.<br />
+<br />
+Art Institute of Chicago: 100 Masterpieces (Chicago: Art Institute of Chicago, 1978), pp. 132 and 133, no. 83 (ill.).<br />
+<br />
+Rizzatti, Maria Luisa, Picasso (Italy: Arnoldo Mondadori, 1978), p. 55, fig. 3.<br />
+<br />
+Centre Georges Pompidou, Paris-Berlin, 1900-1933, exh. cat. (Paris: Centre Georges Pompidou, 1978), p. 47 (ill.).<br />
+<br />
+Fernand Léger; Das figürliche Werk, exh. cat. (Köln; Kunsthalle Köln, 1978), p. 11.<br />
+<br />
+Daix, Pierre, and Joan Rosselet, Le Cubisme de Picasso: Catalogue raisonné de l'oeuvre peint 1907-1916 (Neuchâtel: Ides et Calendes, 1979), pp. 79, 82, 84, and 259–260, no. 368 (ill.).<br />
+<br />
+Lauer, David A., Design Basics (New York: Holt, Rinehart Lauer, David A., Design Basics (New York: Holt, Rinehart and Winston, 1979), pp. 194–195, fig. c.<br />
+<br />
+Speyer, A. James, and Courtney Graham Donnell, Twentieth Century European Painting (Chicago: University of Chicago Press, 1980), p. 63, no. 3D2.<br />
+<br />
+Rubin, William, Pablo Picasso; A Retrospective, exh. cat. (New York: Museum of Modern Art, 1980), p. 142 (ill.).<br />
+<br />
+Gedo, Mary Matthews, Picasso: Art as Autobiography (Chicago: University of Chicago Press, 1980), pp. 86–88 and 90 (ill.).<br />
+<br />
+McFadden, Sarah, and Jeffrey Deitch, “The Midas Brush,” Art in America 68:10 (December 1980), p. 145 (ill.).<br />
+<br />
+Lichtenstern, Christa, Picasso “Tête de Femme:” Zwischen Klassik und Surrealismus, exh. cat. (Frankurt am Main, Germany: Städelsches Kunstinstitut und Städtische Galerie, 1980), p. 74.<br />
+<br />
+McCully, Marilyn, A Picasso Anthology: Documents, Criticism, Reminiscences (London: Thames and Hudson, 1981), pp. 72–73 (ill.).<br />
+<br />
+Murray, Ann H., “Henri Le Fauconnier’s ‘Das Kunstwerk’: An Early Statement of Cubist Aesthetic Theory and Its Understanding in Germany,” Arts Magazine 56:4 (December 1981), pp. 125–126, fig. 2.<br />
+<br />
+Palau i Fabre, Josep, Picasso (Barcelona: Ediciones Polígrafa, 1981), pl. 97.<br />
+<br />
+Pablo Picasso: Ausgewählte Graphik, 1904–1968, exh. cat. (Hannover, Germany: Kunstmuseum Hannover mit Sammlung Sprengel, 1981), p. 23.<br />
+<br />
+Storr, Robert, “For Sale: The Elizabeth Goodspeed Chapman Collection,” The Connoisseur 206:82 (February 1981), pp. 133 and 134 (ill.).<br />
+<br />
+---, The Collection of the Late Elizabeth Fuller Chapman (New York: Phillips, March 3, 1981). <br />
+<br />
+Alibert, Pierre, Albert Gleizes: naissance et avenir du cubisme (Paris: Aubin-Visconti, 1982), p. 56.<br />
+<br />
+Cunningham, Lawrence, and John Reich, Culture and Values: A Survey of the Western Humanities I (New York: Holt, Rinehart and Winsteon, 1982), p. 385, fig. 254.<br />
+<br />
+Fry, Edward F., “Braque, le cubisme et la tradition française,” Georges Braque: les papiers collés, exh. cat. (Paris: Centre Georges Pompidou, Musée national d’art moderne, 1982), p. 16.<br />
+<br />
+Daix, Pierre, “Braque and Picasso at the Time of the Papiers Colles,” Braque: The Papiers Collés, exh. cat. (Washington D. C.: The National Gallery of Art, 1982), p. 29. <br />
+<br />
+Gopnik, Adam, “High and Low: Caricature, Primitivism, and the Cubist Epoch,” Art Journal 43:4 (Winter 1983), pp. 375–376, fig. 9.<br />
+<br />
+Frascina, Francis, Cubism: Picasso and Braque (Great Britain: The Open University, 1983), pp. 59 and 82, pl. 47.<br />
+<br />
+Cooper, Douglas, and Gary Tinterow, The Essential Cubism: Braque, Picasso and their Friends, 1907–1920, exh. cat. (London: The Tate Gallery, 1983), p. 21 (ill.).<br />
+<br />
+Pantheon XLI:III (July–September 1983), p. 276.<br />
+<br />
+de Francia, Peter, Fernand Léger (New Haven, Conn.: Yale University Press, 1983), pp. 7 and 8, fig. 1.7. <br />
+<br />
+Centre Georges Pompidou, Homage a Daniel-Henry Kahnweiler, exh. cat. (Paris: Centre Georges Pompidou, 1984), p. 19 (ill.).<br />
+<br />
+Donation Louise et Michel Leiris: Collection Kahnweiler-Leiris (Paris: Centre Georges Pompidou, Musée national d’art moderne, 1984), p. 165.<br />
+<br />
+Rubin, William, “Picasso,” in “Primitivism” in 20th Century Art: Affinity of the Tribal and the Modern, volume I (New York: Museum of Modern Art, 1984), p. 310 (ill.).<br />
+<br />
+Delaunay und Deutschland, exh. cat. (Cologne, Germany: Dumont Buchverlag, 1985), p. 29.<br />
+<br />
+Roskill, Mark, The Interpretation of Cubism (Philadelphia: The Art Alliance Press, 1985), p. 232 (ill.).<br />
+<br />
+Baxandall, Michael, Patterns of Intention: On the Historical Explanation of Pictures (New Haven, Conn.: Yale University Press, 1985), pp. 8, 41–73, pl. 1, and fig. 30.<br />
+<br />
+Penny, Nicholas, “Patterns of Intention,” (book review) London Review of Books VII:20 (November 21, 1985), p. 22.<br />
+<br />
+Daix, Pierre, “The Interpretation of Cubism,” (book review) Burlington Magazine 127:993 (December 1985), p. 909.<br />
+<br />
+Harrison, Andrew, “Bridges in Time,” (book review) The Times Literary Supplement (December 6, 1985), p. 1384.<br />
+<br />
+Preble, Duane, and Sarah Preble, Artforms: An Introduction to the Visual Arts (New York: Harper &amp; Row, 1985), p. 356, fig. 404.<br />
+<br />
+Daniel-Henry Kahnweiler (Homenaje al marchand, editor, y escritor), exh. cat. (Madrid: Galería Theo, 1986), n.p. (ill.).<br />
+<br />
+Danto, Arthur C., “ Patterns of Intention: On the Historical Explanation of Pictures,” (book review) The Burlington Magazine 128:999 (June 1986), p. 442.<br />
+<br />
+Iverson, Margaret, “Patterns of Intention: On the Historical Explanation of Pictures,” (book review) The Oxford Art Journal 9:2 (1986), p. 71.<br />
+<br />
+Alpers, Svetlana, “The Historian and the Critic,” (book review) The New Republic (July 14 &amp; 21, 1986), p. 35.<br />
+<br />
+Sirridge, Mary, “Patterns of Intention: On the Historical Explanation of Pictures,” (book review) The Journal of Aesthetics and Art Criticism 45:1 (Autumn 1986), p. 94.<br />
+<br />
+Carrier, David, “Artist’s Intentions and Art Historian’s Interpretation of the Artwork,” Leonardo 19:4 (1986), pp. 338–341, fig. 2.<br />
+<br />
+---, “Book Reviews, Michael Baxandall, Patterns of Intention: On the Historical Explanation of Pictures,” Art Journal 46:1 (Spring 1987), p. 75.<br />
+<br />
+Kemal, Salim, and Ivan Gaskell, “Book Reviews, Patterns of Intention: On the Historical Explanation of Pictures,” The British Journal of Aesthetics 27:2 (Spring 1987), pp. 189–190.<br />
+<br />
+Bois, Yve-Alain, “Kahnweiler’s Lesson,” Representations 18 (Spring 1987), pp. 46–47, fig. 9.<br />
+<br />
+Daix, Pierre, Picasso Créateur: La vie intime et l’oeuvre (Paris: Éditions du Seuil, 1987), p. 111.<br />
+<br />
+The Arcimboldo Effect: Transformations of the Face from the 16th to the 20th Century, exh. cat. (New York: Abbeville Press, 1987), pp. 242–243 (ill.).<br />
+<br />
+Wood, James N., and Katherine C. Lee, Master Paintings in The Art Institute of Chicago (Chicago: Art Institute of Chicago, 1988), p. 115 (ill.).<br />
+<br />
+Weisner, Ulrich, Picassos Klassizismus: Werke von 1914–1934, exh. cat. (Bielefeld, Germany: Kunsthalle Bielefeld, 1988), p. 138–139, fig. 9.<br />
+<br />
+Boone, Danièle, Picasso (Paris: Hazan, 1988), pp. 70–71 (ill.).<br />
+<br />
+Assouline, Pierre, L’Homme de l’art: D.-H. Kahnweiler (1884–1979) (Paris: Balland, 1988), n.p. (ill.).<br />
+<br />
+Jensen, Robert, “The Avant-Garde and the Trade in Art,” Art Journal 47:4 (Winter 1988), p. 363.<br />
+<br />
+Rubin, William, Picasso and Braque: Pioneering Cubism, exh. cat. (New York: Museum of Modern Art, 1989), p. 181 (ill.).<br />
+<br />
+Soto, Myrna, “Guernica y el Cubismo,” Guernica 50 años: Una ciudad, un cuadro (Mexico: Universidad Nacional Autónoma de México, 1989), fig. 1.<br />
+<br />
+Auckland City Art Gallery, Pablo Picasso: The Artist Before Nature, exh. cat. (Auckland, New Zealand: Auckland City Art Gallery, 1989), pp. 35 and 43 (ill.).<br />
+<br />
+Palau i Fabre, Josep, Picasso: Cubism (1907–1917) (Barcelona: Ediciones Polígrafa, 1990), pp. 198 and 199, no. 552 (ill.).<br />
+<br />
+Persin, Patrick-Gilles, Daniel-Henry Kahnweiler: L’Aventure d’un Grand Marchand (Paris: Solange Thierry, 1990), n.p. (ill.).<br />
+<br />
+Daix, Pierre, Picasso (Paris: Sté Nouvelle des Editions du Chêne, 1990), pp. 9, 52 and 53 (ill.). <br />
+<br />
+Cortenova, Giorgio, La vita e l’opera Picasso (Milan: Arnoldo Mondadori Editore, 1991), p. 129 (ill.).<br />
+<br />
+Read, Herbert Edward, DuMont’s Künstler-Lexicon (Köln, 1991).<br />
+<br />
+Beardsley, John, Pablo Picasso (New York: Harry N. Abrams, 1991), p.  47 (ill.).<br />
+<br />
+Rossi, Laura Mattioli, Boccioni 1912 Materia, exh. cat. (Milan: Mazzotta, 1991), p. 76 (ill.).<br />
+<br />
+Boggs, Jean Sutherland, Picasso &amp; Things, exh. cat. (Cleveland: Cleveland Museum of Art, 1992), pp. 86–87 (ill.).<br />
+<br />
+Warncke, Carsten-Peter, Pablo Picasso 1881–1973 I (Cologne: Benedikt Taschen, 1992), p. 188 (ill.).<br />
+<br />
+Smith, Edward Lucie, Art and Civilization (Englewood Cliffs, New Jersey: Prentice Hall, 1992), pp. 459 and 461, fig. 26.16.<br />
+<br />
+Deitch, Jeffrey, Post Human, exh. cat. (New York: DAP, 1992), n.p. (ill.).<br />
+<br />
+Picasso (France: ODA Laser Edition, 1992), pp. 24–25, no. 11853 (ill.).<br />
+<br />
+Watson, Peter, From Manet to Manhatten: Rise of the Modern Art Market (New York: Random House, 1992), p. 155, fig. 39.<br />
+<br />
+Hartt, Frederick, Art: A History of Painting, Sculpture, Architecture, fourth edition (New York: Harry N. Abrams, 1993), pp. 975–6, fig. 36–5.<br />
+<br />
+Harrison, Charles, Francis Frascina, and Gill Perry, Primitivisim, Cubism, Abstraction: The Early Twentieth Century (New Haven: Yale University Press, 1993), pp. 135, 139, pl. 117.<br />
+<br />
+Geelhaar, Christian, Picasso: Wegbereiter und Förderer seines Aufstiegs 1899–1939 (Zurich: Palladion, 1993), pp. 27–29, fig. 17.<br />
+<br />
+Picasso: Vollard Suite (Madrid: Turespaña, 1993), p. 63.<br />
+<br />
+Harris, Neil, Chicago’s Dream, a World’s Treasure: The Art Institute of Chicago, 1893–1993 (Chicago: The Art Institute of Chicago, 1993), p. 51, pl. 28.<br />
+<br />
+Karmel, Pepe, Picasso’s Laboratory: The Role of His Drawings in the Development of Cubism, 1910–14, Ph.D. dissertation (New York, New York University, 1993), pp. 3–4, 20, 50. 63, 95, 96, 109, 381, and 382–383, fig. 55.<br />
+<br />
+Picasso &amp; Braque: Kubisme 1907-1914, exh. cat. (Copenhagen: Statens museum for kunst, 1993), p. 30.<br />
+<br />
+Wood, James N., Treasures of 19th-and 20th-Century Painting: The Art Institute of Chicago (New York: Abbeville Press, 1993), p. 201 (ill.).<br />
+<br />
+Mühlberger, Richard, What Makes a Picasso a Picasso? (New York: Metropolitan Museum of Art, 1994), pp. 24-26 (ill.).<br />
+<br />
+Setford, David F., Pablo Picasso, A Vision, exh. cat. (West Palm Beach, Fl.: Norton Gallery of Art, 1994), p. 14, fig. 6.<br />
+<br />
+Butler, Christopher, Early Modernism: Literature, Music, and Painting in Europe, 1900–1916 (Oxford: Clarendon Press, 1994), pp. 63–64, fig. 18.<br />
+<br />
+Prather, Marla, Willem De Kooning: Paintings, exh. cat. (Washington, DC: The National Gallery of Art, 1994), p. 21, fig. 7.<br />
+<br />
+Daix, Pierre, L’Atelier du Cubisme: Picasso au Bateu-Lavoir (Paris: Flammarion, 1994), p. 209, fig. 96.<br />
+<br />
+Baldassari, Anne, Picasso: Photographe 1901–1916, exh. cat. (Paris: Editions de la Réunion de musées nationaux, 1994), pp. 115, 118, and 123, fig. 89.<br />
+<br />
+Cope, Karin, “Painting after Gertrude Stein,” Diacritics 24:2/3 (Summer–Autumn 1994), p. 195.<br />
+<br />
+Rey, Alain, and Brigitte Govignon, La Petit encyclopédie de l’art (Paris: Réunion des musées nationaux, 1995), p. 160 (ill.).<br />
+<br />
+Neill, Alex, and Aaron Ridley, The Philosophy of Art: Readings Ancient and Modern (Boston: McGraw Hill, 1995), pp. 416–418,  (ill.).<br />
+<br />
+Williamson, Jack, “Embodiments of Human Identity: Detecting and Interpreting Hidden Narratives in Twentieth-Century Design History,” Visible Language 29:1 (Winter 1995), pp. 42–43, fig. 2.<br />
+<br />
+Fitzgerald, Michael C., Making Modernism: Picasso and the Creation of the Market for Twentieth-Century Art (New York: Farrar, Straus and Giroux, 1995), pp. 33, 34, 54, and 257, fig. 9.<br />
+<br />
+Walch, Margaret, and Augustine Hope, Living Colors: The Definitive Guide to Color Palettes Through the Ages (San Francisco, 1995), pp. 86–87 (ill.).<br />
+<br />
+Arnason, H. Harvard, Gendai bijustsu no rekishi: kaiga chokoku kenchiku shashin (Tokyo, 1995).<br />
+<br />
+Mailer, Norman, Portrait of Picasso as a Young Man (New York: Atlantic Monthly Press, 1995), pl. 27.<br />
+<br />
+Forestier, Sylvie, Pablo Picasso, La Guerre et la Paix (Paris: Réunion des musées nationaux, 1995), pp. 72 and 84, fig. 12.<br />
+<br />
+Rubin, William, Picasso and Portraiture: Representation and Transformation, exh. cat. (New York: Museum of Modern Art, 1996), p. 285 (ill.).<br />
+<br />
+de Zayas, Marius, edited by Francis M. Naumann, How, When, and Why Modern Art Came to New York (Cambridge, Mass.: The MIT Press, 1996), p. 219 (ill.).<br />
+<br />
+Richardson, John, A Life of Picasso: Volume II 1907–1917 (New York: Random House, 1996), pp. 150, 172, 173 (ill), 175, and 176.<br />
+<br />
+Wood, James N., and Teri J. Edelstein, The Art Institute of Chicago: Twentieth-Century Painting and Sculpture (Chicago: Art Institute of Chicago, 1996), p. 20 (ill.).<br />
+<br />
+L’ABCdaire de Picasso (Paris: Flammarion, 1996), p. 15 (ill.).<br />
+<br />
+Palau i Fabre, Josep, Pablo Picasso: Academic and Anti-Academic (1895–1900), exh. cat. (New York: Yoshii Gallery, 1996), p. 144.<br />
+<br />
+Art Institute of Chicago: Pocketguide (Chicago: Art Institute of Chicago, 1997), p. 39, fig. 67.<br />
+<br />
+Pointon, Marcia, “Kahnweiler’s Picasso; Picasso’s Kahnweiler,” in Portraiture: Facing the Subject (ed. Joanna Woodall) (Manchester, England: Manchester University Press, 1997), pp. 189–202, fig. 67.<br />
+<br />
+Baldassari, Anne, Picasso and Photography: The Dark Mirror (New York: Flammarion, 1997), pp. 87, and 92, fig. 107.<br />
+<br />
+Cramer, Charles A., “Duchamp from Syntax to Bride: sa langue dans sa joue,” Word and Image 13:3 (July-September 1997), p. 288, fig. 5.<br />
+<br />
+DuMont’s Künstlerlexikon (Cologne: DuMont, 1997), p. 503.<br />
+<br />
+Leslie, Richard, Surrealism: The Dream of Revolution (New York: Smithmark, 1997), pp. 32–33 (ill.).<br />
+<br />
+Cowling, Elizabeth, “Picasso and the Portrait, Paris,” Burlington Magazine 139:1126 (January 1997), pp. 60–61, fig. 94.<br />
+<br />
+Franck, Dan, Bohèmes (Paris: Calmann-Lèvy, 1998), p. 186.<br />
+<br />
+Tucker, Paul Hayes, Monet in the 20th Century (New Haven: Yale University Press, 1998), p. 64, fig. 47.<br />
+<br />
+Seiyo kaiga 300-sen (Tokyo, 1998), p. 340 (ill.).<br />
+<br />
+After Mountains and Sea: Frankenthaler 1956–1959, exh. cat. (New York: Solomon R. Gugenheim Museum, 1998), p. 41, fig. 42.<br />
+<br />
+Hattendorff, Claudia, Künstlerhommage: Ein Bildtypus im 19. und 20. Jahrhundert (Berlin: Reimer, 1998), pp. 79–80, fig. 19.<br />
+<br />
+Thistlewaite, David, The Art of God and the Religions of Art (England: Solway, 1998), pp. 113 and 130, pl. 21.<br />
+<br />
+Petit Larousse illustré (Paris, 1998).<br />
+<br />
+Schaffner, Ingrid, The Essential Pablo Picasso (New York: Harry N. Abrams, 1998), pp. 65 and 67 (ill.).<br />
+<br />
+Shoemaker, Innis Howe, Mad for Modernism: Earl Horter and His Collection, exh. cat. (Philadelphia: Philadelphia Museum of Art, 1999), p. 95, pl. 18. <br />
+<br />
+Les chemins du cubisme, exh. cat. (Saint-Tropez, France: Musée de Saint-Tropez, 1999), pp. 17 and 181, fig. 9.<br />
+<br />
+Elkins, James, Pictures of the Body: Pain and Metamorphosis (Stanford, Cal.: Stanford University Press, 1999), pp. 209–211, fig. 81.<br />
+<br />
+Williams, Ellen, Picasso’s Paris: Walking Tours of the Artist’s Life in the City (New York: The Little Bookroom, 1999), p. 52 (ill.).<br />
+<br />
+Centre Georges Pompidou, Les années cubistes: Collections du Centre Georges Pompidou (Paris: Centre Georges Pompidou, 1999), p. 108.<br />
+<br />
+Wood, James N., and Debra N. Mancoff, Treasures from The Art Institute of Chicago (New York: Hudson Hills Press, 2000), p. 243 (ill.).<br />
+<br />
+Cox, Neil, Cubism (London: Phaidon, 2000), pp. 238 and 258, fig. 138.<br />
+<br />
+Schapiro, Meyer, The Unity of Picasso’s Art (New York: George Braziller, 2000), pp. 22–23, fig. 31.<br />
+<br />
+Green, Christopher, Art in France 1900–1940 (New Haven, Conn.: Yale University Press, 2000), p. 96, fig. 106.<br />
+<br />
+Picasso: Figur und Porträt, exh. cat. (Vienna: Kunstforum, 2000), p. 230.<br />
+<br />
+Lien, Sigrid, “Not the proper way, but many proper ways to think about pictures,” Kunst og Kultur 84:2 (2001), pp. 105, 108, 111–116, and 119, fig. III.1.<br />
+<br />
+Loving Picasso: The Private Journal of Fernande Olivier, trans. by Christine Baker and Michael Raeburn (New York: Harry N. Abrams, 2001), p. 261.<br />
+<br />
+Miller, Arthur I., Einstein, Picasso: Space, Time, and the Beauty That Causes Havoc (New York: Basic Books, 2001), pp. 160 and 162, fig. 5.28.<br />
+<br />
+Düchting, Hajo, Pablo Picasso (Munich: Deutscher Taschenbuch, 2001), p. 63, fig. 26.<br />
+<br />
+Cabanne, Pierre, Cubism (Paris: Pierre Terrail, 2001), p. 45.<br />
+<br />
+Kinsey, L. Christine, and Teresa E. Moore, Symmetry, Shape, and Space: An Introduction to Mathematics Through Geometry (New York: Key College, 2002), pp. 204 and 206 (ill.).<br />
+<br />
+Cowling, Elizabeth, Picasso: Style and Meaning (London: Phaidon, 2002), pp. 218–221, 227, 282, and 401, no. 189 (ill.).<br />
+<br />
+Modigliani: The Melancholy Angel, exh. cat. (Paris: Musée du Luxembourg, 2002), p. 39 (ill.).<br />
+<br />
+Karmel, Pepe, Picasso and the Invention of Cubism (New Haven, Conn.: Yale University Press, 2003), pp. 16–17, 77, 80–81, 83, and 86, fig. 8.<br />
+<br />
+The Portable Picasso (New York: Universe, 2003), p. 125 (ill.).<br />
+<br />
+Mallen, Enrique, The Visual Grammar of Pablo Picasso (New York: Peter Lang, 2003), pp. 182, 187, 191, 196, 205, and 312, fig. 136.<br />
+<br />
+Baldassari, Anne, Picasso: Papiers Journaux, exh. cat. (Paris: Musée Picasso, 2003), p. 232.<br />
+<br />
+Portús, Javier, The Spanish Portrait: From El Greco to Picasso, exh. cat. (Madrid: Museo Nacional del Prado, 2004), pp. 304 and 305, fig. 131.<br />
+<br />
+La epoca de Picasso: donaciones a los museos americanos (Santander: Fundación Marcelino Botín, 2004), pp. 43 and 247.<br />
+<br />
+Rossi, Laura Mattioli, and Vivien Greene, Boccioni’s Materia: A Futurist Masterpiece and the Avant-garde in Milan and Paris, exh. cat. (New York, Solomon R. Guggenheim Foundation, 2004), pp. 7 and 98, cat. 11 (ill.).<br />
+<br />
+Cottington, David, Cubism and Its Histories (Manchester, England: Manchester University Press, 2004), pp. 51–52, fig. 2.19.<br />
+<br />
+Picasso and Greece, exh. cat. (Andros, Greece: Basil &amp; Elise Goulandris Foundation, 2004), p. 190.<br />
+<br />
+Klein, Mason (ed.), Modigliani: Beyond the Myth, exh. cat. (New York: The Jewish Museum, 2004), p. 83, fig. 9.<br />
+<br />
+Chiappini, Rudy, Modigliani (Rome: Skira, 2006), pp. 48–49, fig. 9.<br />
+<br />
+Rabinow, Rebecca A. (ed.), Cézanne to Picasso: Ambroise Vollard, Patron of the Avant-Garde, exh. cat. (Chicago: The Art Institute of Chicago, 2006), pp. 111–112.<br />
+<br />
+Fitzgerald, Michael and Julia May Boddewyn, Picasso and American Art, exh. cat. (New York: Whitney Museum of American Art, 2006), pp. 67, 329, 330, 341, 347, 351, 358, 373, and 375.<br />
+<br />
+Mallen, Enrique, The On-Line Picasso Project (http://csdll.cs.tamu.edu), no. 10.01 (ill).<br />
+<br />
+Tom Gunning, “Cinema and the New Spirit in Art within a Culture of Movement,” Picasso, Braque and Early Film in Cubism, Exh. cat. (Pacewildenstein, 2007), p. 57, ill. 64, p. 96.</p>
+                  <h2>Ownership History</h2>
+      <p>Daniel-Henry Kahnweiler (1884–1979), Paris.  Sold, Hôtel Drouot, Paris, June 13–14 1921, 1st Kahnweiler sequestration sale, lot. 84, as Portrait, to Isaac Grünewald (1889–1946), Stockholm and Paris [letter from Daniel-Henry Kahnweiler of September 30, 1975 in curatorial file]; Isaac Grünewald, to at least 1925 [Der Querschnitt 1925].  Earl Horter (1880-1940), Philadelphia, by 1929/1930 [Philadelphia 1999]; sold to Mrs. Charles Goodspeed (née Elizabeth Fuller, later Mrs. Gilbert W. Chapman; 1893–1980), Chicago, 1934 [letter from Mrs. Gilbert W. Chapman of October 27, 1975 in curatorial file and Chicago 1937]; given to the Art Institute, 1948.</p>
+          </div>
+        <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Modern and Contemporary Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="Guitarist">Artworks</a></li>
+<li class="collapsed"><a href="lesson">Lesson Plans</a></li>
+<li class="collapsed"><a href="family">Family Activities</a></li>
+<li class="leaf"><a href="books-media">Books and Media</a></li>
+<li class="leaf"><a href="resource/1862">Map</a></li>
+<li class="leaf"><a href="glossary">Glossary</a></li>
+<li class="leaf last"><a href="selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/artwork">Back to previous page</a></span>
+  
+  </div>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_related_resources" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Learn More </h2>
+    <div class="content">
+      <div class="item-list"><ul><li class="first"><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/1477">01. Maurice Raynal, <em>Picasso</em>. Munich: Delphin-Verlag, 1921</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/1478">02. Maurice Raynal, <em>Picasso</em>. Paris: G. Cres &amp; Cie., 1922</a></li><li><a href="resource/1022">Lesson Plan: Finding Polygons in Cubist Art</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/1629">Teacher Manual: Chicago: The City in Art: A Curriculum Guide for Teachers</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/1411">Teacher Manual: Many Faces: Modern Portraits & Identities</a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/Modern/resource/1924">Website: Art Access: Modern and Contemporary Art</a></li></ul></div>    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_related_categories" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Works </h2>
+    <div class="content">
+      <a href="http://www.artic.edu/aic/collections/exhibitions/Modern/artwork/category/801">Art Resource</a>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

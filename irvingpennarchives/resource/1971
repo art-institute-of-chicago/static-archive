@@ -1,0 +1,223 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_a19b3fb0e2b0d5347a44ff547e5b76af) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_9f168619a974c65a7c76f359c9640811) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_a19b3fb0e2b0d5347a44ff547e5b76af) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>About the Artist and Archive | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-10220.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/aic_Penn.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Penn_hdr.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives">Irving Penn Archives</a> > <span class="sel">About the Artist and Archive</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">About the Artist and Archive</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Artist Biography: Irving Penn</strong><br />           	     	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><p>Irving Penn (1917&ndash;2009) was one of the leading photographers of the 20th century. After studying design under Alexey Brodovitch at the Philadelphia Museum School of Industrial Art (now part of the University of the Arts in Philadelphia), Penn worked as a graphic artist in New York, creating illustrations for <em>Harper&#39;s Bazaar</em>. After purchasing a Rolleiflex camera and experimenting with it for a while, he spent a year dedicated to painting, traveling through the southern United States and living in Mexico in 1942. Back in New York the next year, Penn was hired as Alexander Liberman&#39;s assistant at <em>Vogue</em>, beginning a lifelong association with Liberman and Cond&eacute; Nast Publications. His first cover appeared on the October 1943 issue.</p>
+
+<div class="image wrap">
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144817"><img src="../images/penn1996221.jpg" /></a></div>
+
+<p>In 1944, Penn joined the American Field Service as an ambulance driver. He continued his association with <em>Vogue</em> by submitting articles from abroad that incorporated street photographs as well as portraits taken around the world. After his return to the United States in 1946, he regularly contributed to the magazine, making mainly fashion and portrait photographs. His oeuvre also encompassed ethnographic studies, still lifes, nudes, and advertising work. Many of these subjects were undertaken with the support of Cond&eacute; Nast.</p>
+
+<p>In addition to photographing, Penn explored various printing processes, from gelatin silver and platinum/palladium to chromogenic color and silver dye-bleach. His photographs were first shown in an art museum as part of the exhibition <em>In and Out of Focus</em> (1948) at the Museum of Modern Art in New York; group and solo exhibitions have followed regularly ever since. In addition to his work for advertising and magazines, Penn undertook many personal projects including series of nudes, cigarettes, street trash, and <em>memento mori</em> objects.</p>
+
+<p>In the mid-1980s, Penn returned to his artistic roots in drawing and painting, &#8220;picking up threads dropped forty-some years before&#8221;.<sup>1</sup>  As in his photography, he experimented with form, color, and the physical properties of the media he employed. In 1999 Penn published <em>Drawings</em>, which illustrated studies, some later used to produce photographs, as well as finished paintings.</p>
+
+<p>Penn authored a number of additional publications during his long and varied career. They include <em>Moments Preserved</em> (1960), <em>Worlds in a Small Room</em> (1974), <em>Flowers</em> (1980), <em>Passage: A Work Record</em> (1991), and <em>A Notebook at Random</em> (2004). Other books are collaborative efforts, such as <em>Inventive Paris Clothes</em> (1977) with Diana Vreeland and a series of books with the designer Issey Miyake featuring Miyake's clothes.</p>
+
+<p>&mdash;Jennifer Jankauskas (edited and expanded by Natasha Derrickson)</p>
+
+<p><strong>To learn more about Penn's life and work, explore our <a href="http://www.artic.edu/aic/timeline/penn/" target="_blank">interactive timeline</a>.</strong></p>
+
+<p><hr /></p>
+<p><sup>1</sup> <sub>Irving Penn. <em>Passage: A Work Record</em>. Alfred A. Knopf, New York, 1991, p. 266.</sub></p>
+
+<p><sub>Irving Penn. <em>Irving Penn: In a Cracked Mirror (Self Portrait) (A), New York</em>, 1986. Gift of Irving Penn, 1996.221.</sub></p></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Irving Penn Archives </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../overview">Overview</a></li>
+<li class="collapsed"><a href="../themes">Themes</a></li>
+<li class="collapsed"><a href="../permanent">Images</a></li>
+<li class="collapsed"><a href="../timelines">Timelines</a></li>
+<li class="expanded active"><a href="1971" class="active">About the Artist and Archive</a>
+<ul class="menu">
+<li class="leaf active first"><a href="1971" class="active">Biography</a></li>
+<li class="leaf"><a href="../resource/1976">Bibliography (English language only)</a></li>
+<li class="leaf"><a href="../resource/1975">Bibliography (foreign language)</a></li>
+<li class="leaf"><a href="http://extras.artic.edu/timelines/penn-exhibition/index.html">Exhibition History</a></li>
+<li class="leaf"><a href="../resource/2382">Portrait Subjects</a></li>
+<li class="leaf"><a href="../CollectionAccess">Collection Access</a></li>
+<li class="leaf"><a href="http://digital-libraries.saic.edu/cdm/search/collection/findingaids/searchterm/Penn,%20Irving/field/title/mode/all/conn/and/cosu">Finding Aid</a></li>
+<li class="leaf last"><a href="../copyright">Copyright</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/cameras-techniques">Cameras and Techniques</a></li>
+<li class="collapsed"><a href="../additionalresources">Audio and Other Resources</a></li>
+<li class="leaf"><a href="../search">Search</a></li>
+<li class="leaf last"><a href="../thanks">Acknowledgements</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

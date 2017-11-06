@@ -1,0 +1,28 @@
+{
+"map"       : "51_2000.jpg",
+"mapwidth"  : "2000px", 
+"mapheight" : "1140px",
+"areas"     : {
+  "a"  : {
+      "left"    : "886px",
+      "top"     : "654px",
+      "width"   : "228px",
+      "height"  : "216px",
+      "data" : {
+        "joyride-stop" : true,
+        "ctitle"    : "226 Aristide Maillol, <em>Bas relief</em> (Terra cotta) (Lent by M. E. Druet)",
+        "citation"  : "Aristide Maillol (French, 1861&ndash;1956). <em>Bas relief</em>."
+      }
+  },
+  "b"  : {
+      "left"    : "1663px",
+      "top"     : "464px",
+      "width"   : "52px",
+      "height"  : "102px",
+      "data" : {
+        "ctitle"    : "166 James Dickson Innes, <em>The cactus</em>",
+        "citation"  : "James Dickson Innes (British, 1887–1914). <em>The Cactus</em>, 1912. Oil on canvas; 23.5 × 33 cm (9 1/4 × 13 in.)."
+      }
+  }
+}
+}

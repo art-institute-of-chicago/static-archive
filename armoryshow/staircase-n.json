@@ -1,0 +1,68 @@
+{
+"map"       : "grand-staircase-north_2000.jpg",
+"mapwidth"  : "2000px", 
+"mapheight" : "1379px",
+"areas"     : {
+    "f"  : {
+        "width"   : "230px",
+        "height"  : "320px",
+        "left"    : "78px",
+        "top"     : "575px",
+        "data" : {
+          "ctitle"    : "14 Joseph Bernard, <em>Tenderness</em> (Lent by the Lyons Museum)",
+          "citation"  : "Joseph Bernard (French, 1866&ndash;1931), <em>Tenderness</em>, 1912. Marble. 26 3/4 x 18 7/8 x 16 1/2 in. (68 x 48 x 42 cm). Mus&eacute;e de Lyon."
+        }
+    },
+    "g"  : {
+        "width"   : "340px",
+        "height"  : "915px",
+        "left"    : "392px",
+        "top"     : "388px",
+        "data" : {
+          "ctitle"    : "55, 56, 59, 61, or 62 Robert W. Chanler, <em>Screen</em>",
+          "citation" : ""
+        }
+    },
+    "h"  : {
+        "width"   : "275px",
+        "height"  : "500px",
+        "left"    : "750px",
+        "top"     : "340px",
+        "data" : {
+          "joyride-stop" : true,
+          "ctitle"    : "13 Joseph Bernard, <em>Girl with pitcher</em>",
+          "citation" : "Joseph Bernard (French, 1866&ndash;1931), <em>Girl with Pitcher</em>, 1912. Plaster. 21 x 6 3/4 x 11 1/8 in. (53.3 x 17.2 x 28.3 cm). Mus&eacute;e de Lyon."
+        }
+    },
+    "i"  : {
+        "width"   : "200px",
+        "height"  : "488px",
+        "left"    : "1020px",
+        "top"     : "530px",
+        "data" : {
+          "ctitle"    : "55, 56, 59, 61, or 62 Robert W. Chanler, <em>Screen</em>",
+          "citation" : ""
+        }
+    },
+   "k"  : {
+        "width"   : "170px",
+        "height"  : "262px",
+        "left"    : "1270px",
+        "top"     : "496px",
+        "data" : {
+          "ctitle"    : "243 Henri Matisse, <em>A back</em> (sculpture)",
+          "citation" : "Henri Matisse (French, 1869-1954) <em>The Back, I (Nu de dos, 1er &eacute;tat)</em>, 1909. Plaster."
+        }
+    },
+   "l"  : {
+        "width"   : "400px",
+        "height"  : "334px",
+        "left"    : "1550px",
+        "top"     : "505px",
+        "data" : {
+          "ctitle"    : "55, 56, 59, 61, or 62 Robert W. Chanler, <em>Screen</em>",
+          "citation" : ""
+        }
+    }
+}
+}

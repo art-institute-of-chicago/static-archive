@@ -1,0 +1,266 @@
+body {
+background:#d7efe7 url('bg-double-gradient5.jpg') center top repeat-y;
+font-family:Arial, Helvetica, sans-serif;
+font-weight:normal;
+color:#333;
+}
+
+strong {
+font-weight:bold;
+}
+
+em {
+font-style:italic;
+}
+
+.no-margin {
+margin:0 !important;
+}
+
+.body-text {
+color:#666;
+}
+
+.body-text strong {
+color:#333;
+}
+
+#header {
+padding-top:20px;
+}
+
+header .logo-container {
+text-align:center;
+margin:0 0 30px 0;
+}
+
+header .text-container {
+width:500px;
+margin:0 0 0 396px;
+}
+
+header .text-container p {
+margin:0 0 14px 0;
+line-height:1.25;
+font-size:13px;
+}
+
+header .text-container img {
+float:right;
+margin:0 65px 0 0;
+height:46px;
+}
+
+#supercontainer {
+width:960px;
+margin:0 auto;
+position:relative;
+}
+
+nav#sidenav {
+position:fixed;
+width:134px;
+top:115px;
+left:50%;
+height:250px;
+margin-left:344px;
+}
+
+nav table {
+width:100%;
+}
+
+nav td {
+width:34px;
+text-align:right;
+vertical-align:middle;
+padding:2px 4px 2px 2px;
+}
+
+nav .navbutton {
+cursor:pointer;
+width:34px;
+height:34px;
+border:none;
+background-image:url('sga-nav-sprites-trans.png');
+background-repeat:no-repeat;
+}
+
+nav .logo {
+cursor:pointer;
+width:32px;
+height:32px;
+padding-right:1px;
+}
+
+/* nav sprites  */
+.sprite-nav-0-logo{ background-position: 0 0; width: 32px; height: 32px; } 
+.sprite-nav-1-nature{ background-position: 0 -42px; width: 34px; height: 34px; } 
+.sprite-nav-2-density{ background-position: 0 -86px; width: 34px; height: 34px; } 
+.sprite-nav-3-community{ background-position: 0 -130px; width: 34px; height: 34px; } 
+.sprite-nav-4-performance{ background-position: 0 -174px; width: 34px; height: 34px; } 
+.sprite-nav-5-play{ background-position: 0 -218px; width: 34px; height: 34px; }
+/* end nav sprites  */
+
+.stage, .spacer {
+position:relative;
+top:0;
+height:786px;
+overflow:hidden;
+}
+
+.spacer {
+height:180px;
+background-position:right 30px;
+background-repeat:no-repeat;
+}
+
+#stage-1 {
+background:#FFF url('1-nature-bkgrd_trans60_p8.png') no-repeat 0 20px;
+}
+
+#stage-2 {
+background:#FFF url('2-density-bkgrd_trans60_p8.png') no-repeat 0 20px;
+}
+
+#stage-3 {
+background:#FFF url('3-community-bkgrd_trans60_p8.png') no-repeat 0 20px;
+}
+
+#stage-4 {
+background:#FFF url('4-performance-bkgrd_trans60_p8.png') no-repeat 0 20px;
+}
+
+.stage-internal {
+position:relative;
+top:1px;
+height:784px;
+overflow:hidden;
+}
+
+.datum {
+height:100%;
+position:relative;
+top:20px;
+opacity:0.8;
+background-repeat:no-repeat;
+background-position:700px 0;
+}
+
+#datum-1 {
+background-image:url('1-nature-datum.jpg');
+}
+
+#datum-2 {
+background-image:url('2-density-datum.jpg');
+}
+
+#datum-3 {
+background-image:url('3-community-datum.jpg');
+}
+
+#datum-4 {
+background-image:url('4-performance-datum.jpg');
+}
+
+.main {
+position:absolute;
+top:116px;
+left:140px;
+cursor:pointer;
+text-decoration:underline;
+}
+
+.main img {
+margin:0 0 4px 0;
+}
+
+.main-text {
+position:absolute;
+left:140px;
+top:40px;
+width:540px;
+font-size:13px;
+line-height:1.5em;
+}
+
+.reveal-modal {
+margin-top:-50px;
+}
+
+.reveal-modal img {
+padding-bottom:8px;
+}
+
+.reveal-modal p {
+font-style:normal;
+display:inline-block;
+max-width:854px;
+}
+
+.reveal-modal.auto-size {
+width:auto;
+}
+
+#credits-modal p {
+display:block;
+}
+
+.word {
+position:absolute;
+top:42px;
+background-image:url('sga-word-sprites-trans4.png');
+background-repeat:no-repeat;
+border:none;
+}
+
+/* word sprites  */
+.sprite-1-nature-word-nature { background-position: 0 0; width: 45px; height: 417px; } 
+.sprite-2-density-word-density { background-position: 0 -427px; width: 45px; height: 417px; } 
+.sprite-3-community-word-community { background-position: 0 -854px; width: 45px; height: 417px; } 
+.sprite-4-performance-word-performance { background-position: 0 -1281px; width: 45px; height: 417px; } 
+/* end word sprites  */
+
+nav .tooltip {
+text-align:right;
+font-size:12px;
+font-weight:normal;
+width:auto;
+display:inline-block;
+visibility:hidden;
+opacity:0;
+margin-right:2px;
+}
+
+/* tooltip styles from foundation  */
+.has-tip { cursor: help; font-weight: bold; color: #333333; }
+.has-tip:hover { color: #2ba6cb; }
+.tooltip { display: none; background: #CCCCCC;  position: relative; color: white; font-weight: bold; font-size: 12px; font-size: 1.2rem; padding: 5px; z-index: 999; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; line-height: normal; }
+.tooltip > .nub { display: block; width: 0; height: 0; border: solid 5px; border-color: transparent transparent #CCCCCC transparent; position: absolute; top: 8px; left: 10px; }
+.tooltip.tip-override > .nub { border-color: transparent transparent #CCCCCC transparent !important; top: -10px !important; }
+.tooltip.tip-top > .nub { border-color: #CCCCCC transparent transparent transparent; top: auto; bottom: -10px; }
+.tooltip.tip-left > .nub { border-color: transparent transparent transparent #CCCCCC; right: -10px; left: auto; }
+.tooltip.tip-right > .nub { border-color: transparent #CCCCCC transparent transparent; right: auto; left: -10px; }
+.tooltip.noradius { -webkit-border-radius: 0; -moz-border-radius: 0; -ms-border-radius: 0; -o-border-radius: 0; border-radius: 0; }
+/* end tooltip styles from foundation */
+
+footer {
+text-align:center;
+}
+
+.video-container {
+width:853px;
+height:480px;
+background:#000;
+margin:0 auto;
+padding:0;
+}
+
+.button-container {
+margin:0;
+padding:80px 0 0 0;
+}
+
+.button.secondary {
+color:#FFF;
+}

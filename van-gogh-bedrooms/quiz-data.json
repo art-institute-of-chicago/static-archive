@@ -1,0 +1,102 @@
+{
+  "quiz": [
+    {
+      "question": "Which famous rapper wrote &ldquo;Starry Night,&rdquo; a poem dedicated to Van Gogh and his work?",
+      "answers": [
+        { "id": 0, "text": "Drake" },
+        { "id": 1, "text": "Tupac Shakur" },
+        { "id": 2, "text": "Eminem" },
+        { "id": 3, "text": "Jay-Z" }
+      ],
+      "correct": 1,
+      "feedback": "According to his former teacher Donald Hicken: &ldquo;Tupac had this thing about Van Gogh. He talked about him a lot, he really related to him as an artist.&rdquo; In his poem, &ldquo;Starry Night,&rdquo; Tupac writes to Van Gogh:<div class='lyrics'><p>you have given them the stars at night</p><p>and u have given them</p><p>Bountiful Bouquets of Sunflowers</p><p>but 4 u there is only contempt</p></div>"
+    },
+
+    {
+      "question": "Which of the following musicians composed a song in Van Gogh&rsquo;s honor?",
+      "answers": [
+        { "id": 0, "text": "Don McLean" },
+        { "id": 1, "text": "Bob Dylan" },
+        { "id": 2, "text": "The Modern Lovers" },
+        { "id": 3, "text": "All of the above" }
+      ],
+      "correct": 3,
+      "feedback": "All of these artists have written their odes to the great Dutch artist. It was in fact his appreciation for Don McLean&rsquo;s &ldquo;Vincent&rdquo; that inspired Tupac to pen his poem, &ldquo;Starry Night.&rdquo;"
+    },
+
+    {
+      "question": "This film director produced a film on the life of Van Gogh. (He also once tattooed a U.S. president&rsquo;s dog.):",
+      "answers": [
+        { "id": 0, "text": "Robert Altman" },
+        { "id": 1, "text": "Vincente Minnelli" },
+        { "id": 2, "text": "Paul Cox" },
+        { "id": 3, "text": "Alexander Barnett" }
+      ],
+      "correct": 0,
+      "feedback": "Robert Altman directed the 1990 film <em>Vincent and Theo</em>. In the 1950s&mdash;before becoming one of the most celebrated filmmakers in America&mdash;Altman started a company called Identi-Code, an early attempt to help track lost pets. President Harry S. Truman invited Identi-Code to tattoo the presidential pooch as a way of promoting the service. Unfortunately, one of Altman’s partners left the country with the company&rsquo;s entire earnings shortly thereafter, prompting Altman to move to California and pursue filmmaking."
+    },
+
+    {
+      "question": "What famous American movie director played Vincent van Gogh in Akira Kurasawa&rsquo;s <em>Dreams</em>?",
+      "answers": [
+        { "id": 0, "text": "John Huston" },
+        { "id": 1, "text": "George Lucas" },
+        { "id": 2, "text": "Martin Scorsese" },
+        { "id": 3, "text": "Robert Zemeckis" }
+      ],
+      "correct": 2,
+      "feedback": "Legendary director Martin Scorsese takes an unlikely turn as Vincent van Gogh in a vignette from Japanese filmmaker Akira Kurasawa&rsquo;s 1990 film <em>Dreams</em>. The movie received mixed reviews, but Washington Post critic Hal Hinson wrote: &ldquo;Its only real vitality comes from Scorsese&rsquo;s spiky energy and staccato line readings.&rdquo;"
+    },
+
+    {
+      "question": "This legendary sci-fi actor wrote and starred in a one-man teleplay called <em>Vincent</em>.",
+      "answers": [
+        { "id": 0, "text": "William Shatner" },
+        { "id": 1, "text": "Patrick Stewart" },
+        { "id": 2, "text": "Leonard Nimoy" },
+        { "id": 3, "text": "Harrison Ford" }
+      ],
+      "correct": 2,
+      "feedback": "Best known for his role as Mr. Spock on <em>Star Trek</em>, Leonard Nimoy also pursued passions in photography, music, writing, and directing. He wrote and directed the teleplay <em>Vincent</em> in 1981, adapted from Phillip Stephens&rsquo;s play <em>Van Gogh</em>."
+    },
+
+
+    {
+      "question": "In the <em>Dr. Who</em> episode &ldquo;Vincent and the Doctor,&rdquo; which of the following does NOT happen?",
+      "answers": [
+        { "id": 0, "text": "Villagers attempt to stone Van Gogh and Dr. Who.", "tall": true },
+        { "id": 1, "text": "A space-travelling monster is impaled on Van Gogh&rsquo;s easel.", "tall": true },
+        { "id": 2, "text": "Van Gogh is bitten by an Impressionist vampire.", "tall": true },
+        { "id": 3, "text": "Van Gogh is brought to the future to witness his enduring legacy.", "tall": true }
+      ],
+      "correct": 2,
+      "feedback": "Airing in 2010, the episode &ldquo;Vincent and the Doctor&rdquo; has since become a cult favorite among Dr. Who fans. Many strange things occur as the story unfolds; but <em>Van Gogh</em> being bitten by an Impressionist vampire is not one of them."
+    }
+
+  ],
+  "results": [
+    {
+      "score_range": [ 0,50 ],
+      "title": "VAN GOGH QUIZ—Oof! You didn’t do so well.",
+      "description": "You might need to brush up on your Van Gogh knowledge. Check out <em>Van Gogh&rsquo;s Bedrooms</em> at the Art Institute of Chicago to learn more about the artist and his enduring legacy. <div class='quiz-ticket-btn'><a class='button small' href='https://sales.artic.edu/memberships'>Become a Member</a><a class='button small' href='https://sales.artic.edu/admissiondate'>Reserve a Ticket</a></div>",
+      "image": "VanGogh--Bedroom--1888--VanGoghMuseumAmsterdam--1025.jpg",
+      "image_caption": "Vincent van Gogh. <em>The Bedroom</em>, 1888. Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)."
+    },
+
+    {
+      "score_range": [ 51,85 ],
+      "title": "VAN GOGH QUIZ—Not bad! You know a thing or two about Van Gogh.",
+      "description": "Check out <em>Van Gogh&rsquo;s Bedrooms</em> at the Art Institute of Chicago to learn more about the artist and his enduring legacy.<div class='quiz-ticket-btn'><a class='button small' href='https://sales.artic.edu/memberships'>Become a Member</a><a class='button small' href='https://sales.artic.edu/admissiondate'>Reserve a Ticket</a></div>",
+      "image": "VanGogh--Bedroom--1889--MuseedOrsayParis--1025.jpg",
+      "image_caption": "Vincent van Gogh. <em>The Bedroom</em>, 1889. Mus&eacute;e d&rsquo;Orsay, Paris, sold to national museums under the Treaty of Peace with Japan, 1959."
+    },
+
+    {
+      "score_range": [ 86,100 ],
+      "title": "VAN GOGH QUIZ—Wow, you nailed it!",
+      "description": "Your knowledge of Van Gogh and popular culture is impressive. You could probably give your friends their own personal tour of <em>Van Gogh’s Bedrooms</em>.<div class='quiz-ticket-btn'><a class='button small' href='https://sales.artic.edu/memberships'>Become a Member</a><a class='button small' href='https://sales.artic.edu/admissiondate'>Reserve a Ticket</a></div>",
+      "image": "VanGogh--Bedroom--1889--ArtInstituteChicago--1025.jpg",
+      "image_caption": "Vincent van Gogh. <em>The Bedroom</em>, 1889. The Art Institute of Chicago, Helen Birch Bartlett Memorial Collection."
+    }
+  ]
+}

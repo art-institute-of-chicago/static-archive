@@ -1,0 +1,248 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_96ba6f0c3ab7e7b2daaf700c58b499e5) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_83b17c09e2f1870dbd605d8aa5fd7321) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_83b17c09e2f1870dbd605d8aa5fd7321) -->
+<!-- From the cache. (666fc1cf98adeca5cf4f61ba96997a4e_9f168619a974c65a7c76f359c9640811) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_96ba6f0c3ab7e7b2daaf700c58b499e5) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_83b17c09e2f1870dbd605d8aa5fd7321) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_83b17c09e2f1870dbd605d8aa5fd7321) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Alexander Liberman | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="css/roll.css" />
+<link rel="shortcut icon" href="images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "css/aicportal.css";</style>
+<style type="text/css" media="all">@import "css/node.css";</style>
+<style type="text/css" media="all">@import "css/user.css";</style>
+<style type="text/css" media="all">@import "css/content.css";</style>
+<style type="text/css" media="all">@import "css/gallery.css";</style>
+<style type="text/css" media="all">@import "css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "css/exhibition-10220.css";</style>
+<style type="text/css" media="all">@import "css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "css/devel.css";</style>
+<style type="text/css" media="all">@import "css/style.css";</style>
+<style type="text/css" media="all">@import "css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "css/system-menus.css";</style>
+<style type="text/css" media="all">@import "css/system.css";</style>
+<style type="text/css" media="all">@import "css/main.css";</style>
+<style type="text/css" media="all">@import "css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "css/print.css";</style>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/drupal.js"></script>
+<script type="text/javascript" src="js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="js/extlink.js"></script>
+<script type="text/javascript" src="js/devel.js"></script>
+<script type="text/javascript" src="js/autocomplete.js"></script>
+<script type="text/javascript" src="js/jqModal.js"></script>
+<script type="text/javascript" src="js/redirect.js"></script>
+<script type="text/javascript" src="js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "/aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "/aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="images/aic_Penn.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="images/Penn_hdr.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives">Irving Penn Archives</a> > <a href="additionalresources">Audio and Other Resources</a> > <span class="sel">Alexander Liberman</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Alexander Liberman</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Overview: Alexander Liberman and Irving Penn</strong><br />           	     	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><p>Alexander Liberman (American, born Ukraine, 1912&ndash;1999) grew up in revolutionary Russia, where his father was a timber expert for Lenin. In 1921, the Liberman family moved to England, where Alexander attended boarding school, continuing his education in France after his family moved to Paris in 1924. While living in Paris, Liberman encountered many other Russian &eacute;migr&eacute;s as well as <em>avant-garde</em> artists and designers.</p>
+
+<div class="image wrap">
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157091"><img src="images/Libermanresized.jpg" /></a></div>
+
+<p>Liberman aspired to be a painter, but took a job at <a href="http://ryerson.artic.edu/record=b518101~S3"><em>Vu</em></a>, an early pictorial magazine published in Paris, to support himself. The art director there, Ir&#232;ne Lidova, had worked with <a href="resource/1973" target="_blank">Alexey Brodovitch</a>, and through her, Brodovitch&#39;s design aesthetic influenced Liberman greatly. Liberman left the magazine in 1936 to pursue painting and other arts.</p>
+
+<p>During World War II, the family escaped from occupied France by way of Portugal, and in January 1941, they arrived in New York. Liberman and Irving Penn first met that year when Liberman was looking for work and Penn was preparing to leave his position as art director at Saks Fifth Avenue. Brodovitch suggested that Penn discuss the position with Liberman, and according to an anecdote, Penn&mdash;who did not enjoy his work at the department store&mdash;took an immediate liking to Liberman and was happy that he was not interested in the position.<sup>1</sup>  Shortly after meeting Penn, Liberman was hired to work in <em>Vogue&#39;s</em> art department under the tyrannical director M. F. Agha, who promptly fired him after one week of work. Unaware that this had transpired, Cond&eacute; Nast himself hired Liberman to work in the art department, and although Agha never said anything, there was friction between the two. When Agha resigned in 1943, Liberman inherited his position.</p>
+
+<p>During the 1940s, Liberman and other art directors including Brodovitch (who had been art director of rival fashion magazine <em>Harper&#39;s Bazaar</em> since 1934) were dramatically changing the design of fashion magazines by including more photographs and experimenting with different fonts and layouts. Liberman and Brodovitch both encouraged their photographers to break from traditional fashion photographs and work in a style that was more suited to the expressions of modernity the magazines were trying to display. At that time, <em>Vogue</em> staff photographers included Cecil Beaton, <a href="http://www.artic.edu/aic/collections/artwork/artist/Blumenfeld%2C+Erwin" target="_blank">Erwin Blumenfeld</a>, <a href="http://www.artic.edu/aic/collections/artwork/artist/8804" target="_blank">Horst P. Horst</a>, and <a href="http://www.artic.edu/aic/collections/artwork/artist/Lynes%2C+George+Platt" target="_blank">George Platt Lynes</a>. Liberman hired Penn in 1943, and together Liberman&#39;s designs and Penn&#39;s photographs abruptly departed from the traditional images published in women&#39;s fashion magazines that featured passive beautiful women and delicate suggestions of the &#8220;good life.&#8221; In contrast, Penn&#39;s <a href="http://www.artic.edu//aic/collections/exhibitions/IrvingPennArchives/resource/www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/fashion" target="_blank">fashion</a> photographs demonstrated a thoroughly modern woman through graphic impact and realistic poses in which models looked directly into the camera lens, and his <a href="http://www.artic.edu//aic/collections/exhibitions/IrvingPennArchives/resource/www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/still-lifes" target="_blank">still lifes</a> for the magazine almost always included a discordant note, such as a piece of rotten fruit, a mouse or a small bug, or some other less-than-perfect element.</p>
+
+<p>Liberman collaborated closely with Penn on many projects, frequently offering an idea, sketch, or concept for Penn to translate into a photograph. The early color work <em><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144827" target="_blank">Summer Sleep, New York</a></em> is one such example. Liberman drew a sketch of a woman sleeping behind a screen, and Penn used the idea to execute a meticulously arranged photograph, even taking the time to glue dead flies into place on the window screen. As Penn describes:</p>
+
+<blockquote>Some of the best work for <em>Vogue</em>, although it may bear my signature, is in fact ours, the result of a special and close collaboration. The germ of an idea might come from him, perhaps only a thumbnail sketch. I would make a photograph. He would nurse it through the editorial process to the printed page.<sup>2</sup></blockquote>
+
+<p>The Small Trades (Petits M&eacute;titiers) series is also the product of their collaboration, this time with Liberman&#39;s concept resulting in a long-term project carried out by Penn in three countries.</p>
+
+<p>In 1962, Liberman was made editorial director of all Cond&eacute; Nast Publications, and Diana Vreeland, who had previously worked at <em>Harper&#39;s Bazaar</em>, replaced him as the art director of <em>Vogue</em>. In his new capacity, they remained quite close. Liberman supported Penn&#39;s lengthy <a href="ethnographic" target="_blank">travel</a> assignments to distant countries during the 1960s and 1970s and included the resulting photographic essays in <em>Vogue&#39;s</em> December issues as &#8220;treats&#8221; for readers. It is said that the two treated each other with the utmost respect, always referring to the other as Mr. Penn and Mr. Liberman.</p>
+
+<p>Given the nature of their personal and professional relationship, it is not surprising that Liberman contributed to some of Penn&#39;s <a href="book" target="_blank">book projects</a>, especially those that recontextualized his work for <em>Vogue</em>. For example, Liberman wrote the introduction to Penn&#39;s first book <em>Moments Preserved</em> (1960) and as well as to <em>Passage: A Work Record</em> (1991). In the final entry of <em>Passage</em>, Penn writes of his long-time mentor and collaborator: &#8220;1991 marks the fiftieth year since Alexander Liberman and I met, and forty-eight years since we began our work together, a rich and fortunate relationship. He has been for me good friend, teacher, and inspirer.&#8221;<sup>3</sup>
+
+<p><hr /></p>
+<p><sup>1</sup> <sub>Dodie Kazanjian and Calvin Tomkins. <em>Alex: The Life of Alexander Liberman</em>. Alfred A. Knopf, New York, 1993, p. 139.</sub>
+<br /><sup>2</sup> <sub>Irving Penn. Passage: A Work Record. Alfred A. Knopf, New York, 1991, p. 286.</sub>
+<br /><sup>3</sup> <sub><em>Ibid</em>.</sub></p>
+
+<p><sub>Irving Penn. <em>Alexander Liberman</em>, 1977. Gift of Irving Penn, 2001.92.</sub></p></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Irving Penn Archives </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="overview">Overview</a></li>
+<li class="collapsed"><a href="themes">Themes</a></li>
+<li class="collapsed"><a href="permanent">Images</a></li>
+<li class="collapsed"><a href="timelines">Timelines</a></li>
+<li class="collapsed"><a href="resource/1971">About the Artist and Archive</a></li>
+<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/cameras-techniques">Cameras and Techniques</a></li>
+<li class="expanded"><a href="additionalresources">Audio and Other Resources</a>
+<ul class="menu">
+<li class="leaf first"><a href="resource/1951">Recording: 1950 MoMA Symposium</a></li>
+<li class="leaf"><a href="resource/1973">Alexey Brodovitch </a></li>
+<li class="leaf active"><a href="resource/1972" class="active">Alexander Liberman</a></li>
+<li class="leaf"><a href="resource/1968">Analysis: <em>Nude No. 130</em></a></li>
+<li class="leaf"><a href="resource/1969">Analysis: Platinum Prints</a></li>
+<li class="leaf"><a href="resource/2379">Transcript: Alexey Brodovitch Workshop</a></li>
+<li class="leaf last"><a href="resource/2380">Transcript: Photography within the Humanities</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="search">Search</a></li>
+<li class="leaf last"><a href="thanks">Acknowledgements</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first"><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144747"><img src="images/87380_3062592.jpg" alt="After Dinner Games, New York" title="Irving Penn
+American, 1917–2009, After Dinner Games, New York"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144747">After Dinner Games, New York</a></span>, 1947, printed 1959/60</li><li><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/194845"><img src="images/117401_3063118.jpg" alt="Guillaume Coiffure" title="Irving Penn
+American, 1917–2009, Guillaume Coiffure"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/194845">Guillaume Coiffure</a></span>, 1950</li><li><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/194800"><img src="images/117390_3063074.jpg" alt="Norman Parkinson" title="Irving Penn
+American, 1917–2009, Norman Parkinson"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/194800">Norman Parkinson</a></span>, 1949</li></ul><p><a href="http://www.artic.edu//aic/collections/exhibitions/IrvingPennArchives/resource/morerelatedartworks" class="morerelatedartworks">More related artworks&hellip;</a></p></div><div id="relatedArtworksMore"><ul><li class="first"><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144747"><img src="images/87380_3062592.jpg" alt="After Dinner Games, New York" title="Irving Penn
+American, 1917–2009, After Dinner Games, New York"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144747">After Dinner Games, New York</a></span>, 1947, printed 1959/60</li><li><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/194845"><img src="images/117401_3063118.jpg" alt="Guillaume Coiffure" title="Irving Penn
+American, 1917–2009, Guillaume Coiffure"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/194845">Guillaume Coiffure</a></span>, 1950</li><li><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/194800"><img src="images/117390_3063074.jpg" alt="Norman Parkinson" title="Irving Penn
+American, 1917–2009, Norman Parkinson"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/194800">Norman Parkinson</a></span>, 1949</li><li><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/211761"><img src="images/173838_1398482.jpg" alt="Norman Parkinson" title="Irving Penn
+American, 1917–2009, Norman Parkinson"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/211761">Norman Parkinson</a></span>, 1949</li><li><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/211762"><img src="images/173839_1398484.jpg" alt="Norman Parkinson" title="Irving Penn
+American, 1917–2009, Norman Parkinson"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/211762">Norman Parkinson</a></span>, 1949</li><li class="last"><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144827"><img src="images/79118_3062115.jpg" alt="Summer Sleep, New York" title="Irving Penn
+American, 1917–2009, Summer Sleep, New York"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144827">Summer Sleep, New York</a></span>, 1949, printed 1984</li></ul><p><a href="http://www.artic.edu//aic/collections/exhibitions/IrvingPennArchives/resource/lessrelatedartworks" class="lessrelatedartworks">&hellip;Fewer related artworks</a></p></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

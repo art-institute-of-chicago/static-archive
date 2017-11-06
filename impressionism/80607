@@ -1,0 +1,389 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_05b3c3312f8986bd6d126fadb7cb1a5b) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_05b3c3312f8986bd6d126fadb7cb1a5b) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_2a4bb23a1703a6c9d47f1c2ad804f9e9) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_7ae7b186216b20a419bd94b3b1fdb637) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_c8bde69a9f79ca24059e3807f9a3bcf8) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_c8bde69a9f79ca24059e3807f9a3bcf8) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_e30b25f19d01ffe1bc074eff8ea84128) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_05b3c3312f8986bd6d126fadb7cb1a5b) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_05b3c3312f8986bd6d126fadb7cb1a5b) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_2a4bb23a1703a6c9d47f1c2ad804f9e9) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_05b3c3312f8986bd6d126fadb7cb1a5b) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_05b3c3312f8986bd6d126fadb7cb1a5b) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_ac66724d0bc38b2093ea51493af380b1) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Self-Portrait | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="css/roll.css" />
+<link rel="shortcut icon" href="images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "css/aicportal.css";</style>
+<style type="text/css" media="all">@import "css/node.css";</style>
+<style type="text/css" media="all">@import "css/user.css";</style>
+<style type="text/css" media="all">@import "css/content.css";</style>
+<style type="text/css" media="all">@import "css/gallery.css";</style>
+<style type="text/css" media="all">@import "css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "css/exhibition-8926.css";</style>
+<style type="text/css" media="all">@import "css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "css/devel.css";</style>
+<style type="text/css" media="all">@import "css/style.css";</style>
+<style type="text/css" media="all">@import "css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "css/system-menus.css";</style>
+<style type="text/css" media="all">@import "css/system.css";</style>
+<style type="text/css" media="all">@import "css/main.css";</style>
+<style type="text/css" media="all">@import "css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "css/print.css";</style>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/drupal.js"></script>
+<script type="text/javascript" src="js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="js/extlink.js"></script>
+<script type="text/javascript" src="js/devel.js"></script>
+<script type="text/javascript" src="js/autocomplete.js"></script>
+<script type="text/javascript" src="js/jqModal.js"></script>
+<script type="text/javascript" src="js/redirect.js"></script>
+<script type="text/javascript" src="js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "citi": { "enlargements": { "..\/images\/90596_4227812.jpg": { "enlargement_image": "..\/images\/90596_4227812.jpg", "object_artist_culture_display": "Vincent van Gogh\x3cbr /\x3e\nDutch, 1853-1890", "object_title": "Self-Portrait", "object_date_display": "1887", "object_id": "80607", "object_copyright_notice": "" } } } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "/aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "/aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="images/AIC_impress.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="images/AAhdr_impre.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism">Art Access: Impressionist and Post-Impressionist Art</a> > <span class="sel">Self-Portrait</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Self-Portrait</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <a href="..\/images\/90596_4227812.jpg" class="enlargement-link enlargement-link-80607"><img src="images/90596_4227814.jpg" alt="Self-Portrait" title="Vincent van Gogh
+Dutch, 1853-1890, Self-Portrait"  /></a>          </div>
+
+    <p class="tools">
+              <a href="..\/images\/90596_4227812.jpg" class="enlargement-link enlargement-link-80607"><strong>View</strong> enlargement</a><br />
+                    <a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/artwork/80607/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
+                    <a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/artwork/80607/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/artwork/80607/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    Vincent van Gogh<br />
+Dutch, 1853-1890<br />
+    </p>
+    <h3><em>Self-Portrait</em>, 1887</h3>
+
+    <p>
+    Oil on artist's board, mounted on cradled panel<br />    41 x 32.5 cm (16 1/8 x 12 13/16 in.)<br />        Joseph Winterbotham Collection, 1954.326</p>
+        
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p><p>Vincent van Gogh painted his first known self-portrait in 1886, following the model of the 17th-century Dutch artist Rembrandt. But by the time he made this work, a year later, he had clearly shifted his allegiance from the Old Masters to the Parisian avant-garde. Under the influence of Neo-Impressionist color theory, he based this painting on the contrast of complementary colors. The overall blue-green tone of the background serves as a foil to the orange-red of the artist's hair and beard. While the intensity of the colors is enhanced by the brushwork, the painting's energy and turbulence hint at the inner life of the artist.</p>
+<p>— Permanent collection label</p></p>
+                <div id="abbrev">
+      <p><a href="http://www.artic.edu//aic/collections/exhibitions/Impressionism/artwork/more" class="more">Exhibition, Publication and Ownership Histories</a></p>
+      <!--content hidden-->
+    </div>
+    <div id="extended">
+      <p><a href="http://www.artic.edu//aic/collections/exhibitions/Impressionism/artwork/less" class="less">Exhibition, Publication and Ownership Histories</a></p>
+            <h2>Exhibition History</h2>
+      <p>Cologne, Sonderbund Westdeutscher Kunstfreunde und Künstler, Internationale Kunstausstellung des Sonderbundes Westdeutscher Kunstfreunde und Künstler zu Cöln 1912, May 25–September 30, 1912, cat. 11.<br />
+<br />
+Berlin, Galerie Paul Cassirer, 10. Ausstellung, May–June 1914, cat. 28.<br />
+<br />
+Frankfurt-am-Main, Galerie M. Goldschmidt, Vincent van Gogh, March 15–April 15, 1928, cat. 18.<br />
+<br />
+Berlin, Galerie Paul Cassirer, Vincent van Gogh: Gemälde, January 1928, cat. 29.<br />
+<br />
+Amsterdam, Stedelijk Museum, Vincent van Gogh en zijn Tijdgenooten, September 6–November 2, 1930,  cat. 25, ill. frontispiece.<br />
+<br />
+Amsterdam, E. J. van Wisselingh and Co., Exposition d’art française: Peinture du XIXme et Xxme siècle, January 7–February 4, 1933, cat. 13.<br />
+<br />
+Amsterdam, E. J. van Wisselingh and Co., Zomer Tentoonstelling van Hollandsche en Fransche Schilderkunst der XIXe en Xxe eeuw, July–August 1933, cat. 32.<br />
+<br />
+New York, Museum of Modern Art, Vincent van Gogh, November 5, 1935–January 5, 1936, cat. 20 (ill.).<br />
+<br />
+New York, Wildenstein and Co., Great Portraits from Impressionism to Modernism: a Loan Exhibition for the Benefit of the Public Education Association, March 1–29, 1938, cat. 45.<br />
+<br />
+Boston, Museum of Fine Arts, Art in New England: Paintings, Drawings, Prints From Private Collections in New England, June 9–September 10, 1939, cat. 53 (ill.).<br />
+<br />
+New York, Metropolitan Museum of Art, French Painting From David to Toulouse-Lautrec: Loans From French and American Museums and Collections, February 6–March 26, 1941, cat. 64A.<br />
+<br />
+New York, Wildenstein and Co., The Art and Life of Vincent van Gogh: Loan Exhibition in Aid of American and Dutch War Relief, October 6–November 7, 1943, cat. 22 (ill.).<br />
+<br />
+Cleveland, Museum of Art, Works by Vincent van Gogh, November 3–December 12, 1948, cat. 4 (ill.).<br />
+<br />
+Chicago, Art Institute, Great French Painting: An Exhibition in Memory of Chauncey McCormick, January 20–February 20, 1955, cat. 20 (ill.).<br />
+<br />
+Chicago, Art Institute, European Portraits 1600–1900 in The Art Institute of Chicago, July 8–September 11, 1978, cat. 20 (ill.).<br />
+<br />
+Paris, Musée d’Orsay, Van Gogh in Paris, February 2-May 15, 1988, cat. 37 (ill.).<br />
+<br />
+Detroit Institute of Art, Van Gogh: Face to Face, March 12-June 4, 2000; traveled to Boston, Museum of Fine Arts, July 2-September 24, 2000 and Philadelphia Museum of Art, October 22, 2000-January 14, 2001, cat. 92 (ill.).<br />
+<br />
+Chicago, Art Institute, Van Gogh and Gauguin: The Studio of the South, September 22, 2001-January 13, 2002; traveled to Amsterdam, Van Gogh Museum, February 9-June 2, 2002, cat. 19 (ill.).<br />
+<br />
+Toledo Museum of Art, Van Gogh: Fields, February 23-May 18, 2003, cat. 1 (ill.).<br />
+<br />
+Paris, Musée d'Orsay, Le Néo-Impressionnisme de Seurat á Paul Klee, March 14- July 10, 2005. <br />
+<br />
+Fort Worth, Tex., Kimbell Museum of Art, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29–November 2, 2008, cat. 57 (ill.).<br />
+<br />
+Cologne, Wallraf-Richartz Museum, 1912 – Mission Moderne: Die Jahrhundertschau des Sonderbundes, August 31–30 December 2012, cat. 3 (ill.).<br />
+<br />
+Indianapolis Museum of Art, The Faces of Neo-Impressionism, June 13–September 7, 2014.</p>
+                  <h2>Publication History</h2>
+      <p>Jacob-Baart de la Faille, L’oeuvre de Vincent Van Gogh:  Catalogue raisonné (Paris and Brussels, 1928), vol. 1, cat. no. 345; vol. 2, fig. 345.<br />
+<br />
+Martha Davidson, “Impressionist and Later Portraits,” Art News 36, 23 (1938), pp. 24, 10 (ill.).<br />
+<br />
+Jack Levin, “Homage to Vincent,” Art News 17, 8 (1948), p. 26 (ill.).<br />
+<br />
+Katharina Bromig-Kolleritz von Novisancz, “Die Selbstbildnisse Vincent van Gogh: Versuh einer kunsthistorischen Erfassung der Darstellungen,” Ph. D. diss. (Munich: Ludwig-Maximilians-Universität, 1954), pp. 46–48, 101–102.<br />
+<br />
+The Art Institute of Chicago, Annual Report 1954–1955 (Chicago, 1955), n.p. (ill.).<br />
+<br />
+The Art Institute of Chicago, An Illustrated Guide to the Collections of The Art Institute of Chicago (Chicago, 1956), p. 36.<br />
+<br />
+Abraham Marie Hammacher, Van Gogh Self-Portraits, exh. cat. (Merlborough Fine Arts, London, 1960), fig. d.<br />
+<br />
+The Art Institute of Chicago, Paintings in The Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago, 1961) pp. 181–182, 331 (ill.).<br />
+<br />
+Frank Th. Gribling,  A Detailed Catalogue with Full Documentation of 272 Works by Vincent van Gogh Belonging to the Collection of the State Museum Kröller-Müller (Otterlo, 1966), under no. 198.<br />
+<br />
+Abraham Marie Hammacher, Genius and Disaster: The Ten Creative Years of Vincent van Gogh (New York, 1968), pp. 37 (ill.), 183.<br />
+<br />
+Fritz Erpel, Die Selbstbildnisse Vincent van Goghs (Berlin, 1963), no. 22 (ill.); English trans. Greenwich 1969, no. 22 (ill.).<br />
+<br />
+Bogomila Welsh-Ovcharov, Vincent van Gogh: His Paris Period 1886–1888 (Utrecht and The Hague, 1976), p. 225.<br />
+<br />
+Vincent van Gogh: Paintings and Drawings From the Collection of the Vincent van Gogh Foundation, Amsterdam, exh. cat. (Hayward Gallery, London 1986), under no. 91.<br />
+<br />
+John Maxon, The Art Institute of Chicago (London, 1977), p. 94 (ill.).<br />
+<br />
+Jan Huskler, The Complete van Gogh: Paintings, Drawings, Sketches (New York, 1977), pp. 278, 279 (ill.), no. 1249.<br />
+<br />
+Paolo Lecaldano, ed., L’opera pittorica completa di Van Gogh e i suoi nessi grafici: Da Etten a Parigi vol. 1 (Milan 1977), no. 369.<br />
+<br />
+The Art Institute of Chicago, 100 Masterpieces (Chicago, 1978), no. 70 (ill.).<br />
+<br />
+Robert H. Pelfrey, Art and Mass Media (New York, 1985), pp. 182-3, fig. 7.22.<br />
+<br />
+Susan Alyson Stein, ed., Van Gogh: A Retrospective (New York, 1986), p. 15 (ill.).<br />
+<br />
+Peter C. Sutton, A Guide to Dutch Art in America (Washington, 1986), p. 54.<br />
+<br />
+Richard R. Brettell, Post-Impressionists (Chicago, 1987), pp. 8 (ill.), 9.<br />
+<br />
+Walter Feilchenfeldt, Vincent van Gogh &amp; Paul Cassirer, Berlin: The Reception of van Gogh in Germany from 1901 to 1914 (Zwolle, 1988), pp. 89 (ill.), 149, 150, 157.<br />
+<br />
+J. D. McClatchy, ed., Poets and Painters: Essays on the Art of Painting by Twentieth-Century Poets (Berkeley, 1988), ill.<br />
+<br />
+Ronald Picavance, “Van Gogh en het pointillisme,” in Ellen Wardwell Lee, Neo-Impressionisten: Seurat tot Srtuycken, exhib. cat. (Rijksmuseum Vincent van Gogh, Amsterdam, 1988), p. 94 (ill.).  <br />
+<br />
+James N. Wood and Katherine C. Lee, Master Paintings in The Art Institute of Chicago (Chicago, 1988), p. 63 (ill.).<br />
+<br />
+Pascal Bonafoux, Van Gogh (Chene, 1989), pp. 52-3, ill.<br />
+<br />
+Hans Bronkhorst, Vincent van Gogh (New York, 1990), pp. 27, 29 (ill.).<br />
+<br />
+“Special Advertising Section,” Life (May 1991), np. (ill.).<br />
+<br />
+Carol Zemel, Vincent van Gogh (New York, 1993), ill. 1.<br />
+<br />
+Bernard Denvir, A Complete Portrait: All of Vincent van Gogh’s Self-Portraits, With Excerpts From His Writings (Philadelphia, 1994), p. 34, ill. <br />
+<br />
+Margherita Andreotti, “The Joseph Witerbotham Collection,” in Museum Studies 20, 2 (1994), pp. 122-3 (ill.), ill. on the cover.<br />
+<br />
+Uwe M. Schneede and Christoph Heinrich, Van Gogh: Die Pariser Selbsbildnisse, exhib. cat. (Hamburger Kunsthalle, 1995), p. 128, no. 10.<br />
+<br />
+Carol Zemel, Van Gogh’s Progress: Utopia, Modernity, and Late-Nineteenth-Century Art (Berkeley and Los Angeles, 1997), pp. 146-7 (ill.).<br />
+<br />
+Naomi Margolis Maurer, The Pursuit of Spiritual Wisdom: The Thought and Art of Vincent van Gogh and Paul Gauguin (London 1998), p. 58, pl. 94.<br />
+<br />
+George T. M. Schackelford, Vincent van Gogh: the Painter and the Portrait (New York, 2000), p. 22, pl. 18.<br />
+<br />
+Patrick Shaw Cable, Questions of Work, Class, Gender and Style in the Art and Life of Gustave Caillebotte PhD. diss. (Case Western Reserve University, 2000), p. 114, 311, fig. 67.<br />
+<br />
+Chris Stolwijk and Han Veenenbos, Account Book of Theo van Gogh and Jo van Gogh-Bonger (Amsterdam and Leiden, 2002), pp. 11 (ill.), 54, 130, 169 (ill.).<br />
+<br />
+Walter Feilchenfeldt, “By Appointment Only”: Schriften zu Kunst und Kunsthandel: Cézanne und Van Gogh (Wändeswil am Zürichsee, 2005), p. 114 (ill.).<br />
+Araxie Toutghalian, Le Néo-Imoressionnisme de Seurat á Paul Klee, Exh. cat. (Réunion des Musées Nationaux, 2005), p. 284, ill. 285. <br />
+<br />
+The Age of Impressionism at the Art Institute of Chicago (New Haven and London, 2008), cat. 57, pp. 122–23 (ill.).</p>
+                  <h2>Ownership History</h2>
+      <p>Mme Johanna van Gogh-Bonger, the artist’s sister in law, Amsterdam; sold through Frankfurter Kunstverein to Leonhard Tietz (died 1914), Cologne, in February 1912 [see records in van Gogh-Bonger’s account book: "19/2 2-1912 'Kunstverein Frankfurt portret' 2942.50 [guilders]" and "95/15 2-1912 'ontvangen uit Frankfort Kunstverein voor portret' 2942.50 [guilders]" in Stolwijk and Veenenbos 2002; see also Cologne 1912 where Leonard Tietz is listed as the owner]; by inheritance to his son, Alfred Tietz, Cologne until at least 1930 [acc. to Amsterdam 1930].  E. J. van Wisselingh and Co., Amsterdam, 1933 [it was included in two exhibitions at van Wisselingh]. Bignou Art Gallery, New York [based on undated photograph of the painting no. 2156 in an album of French paintings and drawings that passed through the Bignou Gallery preserved at the Frick Art Reference Gallery]; sold to Joseph Winterbotham, Burlington, Vermont by at least 1935 [see Joseph Winterbotham’s letter to Robert Harshe, dated June 10, 1935, copy in curatorial file]; given to the Art Institute, 1954.</p>
+          </div>
+        <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Impressionist and Post-Impressionist Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="Manet">Artworks</a></li>
+<li class="collapsed"><a href="lesson">Lesson Plans</a></li>
+<li class="collapsed"><a href="family">Family Activities</a></li>
+<li class="leaf"><a href="books-media">Books and Media</a></li>
+<li class="leaf"><a href="resource/1074">Map</a></li>
+<li class="leaf"><a href="Glossary">Glossary</a></li>
+<li class="leaf last"><a href="selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/artwork">Back to previous page</a></span>
+  
+  </div>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_related_resources" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Learn More </h2>
+    <div class="content">
+      <div class="item-list"><ul><li class="first"><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/28">Activity: "Dear Theo" </a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/267">Activity: Portraits in Paint</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/283">Activity: Vincent van Gogh's Self-Portrait, 1887</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/477">Artist Biography: Vincent van Gogh</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/94">Examination: Van Gogh's <em>Self Portrait</em></a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/271">Introduction: Van Gogh's <em>Self Portrait</em></a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/188">Panorama of Gallery 205</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/21">Scale Illustration: van Gogh's <em>Self-Portrait</em></a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/174">Summary: Van Gogh's <em>Self-Portrait</em></a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/1624">Teacher Manual: A Modern Vision: Impressionism and Post-Impressionism at the Art Institute of Chicago</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/1549">Teacher Manual: Van Gogh and Gauguin</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/278">Vincent van Gogh's Self-Portrait, 1887</a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/resource/1921">Website: Art Access: Impressionist and Post-Impressionist Art</a></li></ul></div>    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_related_categories" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Works </h2>
+    <div class="content">
+      <a href="http://www.artic.edu/aic/collections/exhibitions/Impressionism/artwork/category/801">Art Resource</a>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

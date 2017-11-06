@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>The Finale</title>
+
+  
+    <meta property="og:title" content="The Finale" itemprop="name">
+  <meta name="twitter:title" content="The Finale">
+
+
+
+    <meta property="og:url" content="/armoryshow/finale">
+  <meta name="twitter:url" content="/armoryshow/finale">
+
+    <meta property="og:type" content="website"> 
+  
+
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery.js" type="text/javascript"></script>
+    
+  <script src="modernizr.foundation.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.navigation.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.tooltips.js" type="text/javascript"></script>
+    
+  <script src="gallery.js" type="text/javascript"></script>
+    
+  <script src="jquery.fleximap.js" type="text/javascript"></script>
+    
+  <script src="armoryshow.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+  
+
+  <style type="text/css">
+
+    html { 
+    
+    background-image: url('508-protest_2000.jpg');
+    
+    background-position:top center;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+    }
+
+  </style>
+
+  <header>
+    <table width="100%">
+      <tr>
+        <td width="42%">
+
+          <a href="http://www.artic.edu">
+            <img src="armoryshow-logo.png" id="main-logo"/>
+          </a>
+
+        </td>
+        <td width="16%" style="vertical-align:middle">
+
+          <h2>The Finale</h2>
+
+        </td>
+        <td width="42%">
+
+          <nav id="main-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+                <a href="finale#">Explore</a><a href="finale#" class="flyout-toggle"><span> </span></a>
+                <ul class="flyout small right">
+                  <li ><a href="/armoryshow">Introduction</a></li>
+                  <li ><a href="/armoryshow/setting-the-stage">Setting the Stage</a></li>
+                  <li ><a href="/armoryshow/cast">The Cast</a></li>
+                  <li ><a href="/armoryshow/show">The Show</a></li>
+                  <li ><a href="/armoryshow/program-notes">The Program Notes</a></li>
+                  <li ><a href="/armoryshow/audience">The Audience</a></li>
+                  <li class="active"><a href="finale">The Finale</a></li>
+                  <li ><a href="/armoryshow/legacy">The Legacy</a></li>
+                  <li ><a href="/armoryshow/bibliography">Bibliography</a></li>
+                  <li ><a href="/armoryshow/credits">Credits</a></li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+          <nav id="gallery-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+              <a id="gallery-map-link" class="gallery-map-link" href="finale#">Gallery</a><a href="finale#" class="flyout-toggle gallery-map-link"><span> </span></a>
+                <ul class="flyout right gallery-map">
+                  <li><div id="floor-plan-map"></div></li> 
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+        </td>
+      </tr>
+    </table>
+
+    <div style="clear:both;"></div>
+  </header>
+
+  
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+    <div class="row">
+      <div class="ten columns centered">
+        <article class="panel">
+          <div class="article-inset">
+            <p>The Chicago presentation of the Armory Show ended on an unusual note on April 16. On the last day, the record-breaking crowds were drawn just off the museum's terrace, where students of the School of the Art Institute of Chicago (SAIC) were holding a protest against the radical artwork presented inside. Fittingly for an exhibition that from the beginning had been characterized as a circus, their protest took the form of a burlesque culminating in a mock trial of Henri Matisse, who was the focus of much press coverage during the run of the show. </p>
+<p>The protesters wanted to make their disapproval known to the organizers of the Armory Show, particularly the museum's executive secretary, Newton H. Carpenter. As the <em>Chicago Evening Post </em>quoted one student: "He [Carpenter] has turned the Art Institute into a circus. . . . So it was determined to present a public rebuke to Mr. Carpenter in particular and to all cubist art and artists in general."<a href="finale#ref"><sup>1</sup></a> The dissenting students were hardly alone in their disapproval of the Armory Show: their opinions were, in fact, shared by many of the faculty and staff. All along, the SAIC faculty had been vocal in their criticism of the radical art on display. According to Walt Kuhn, executive secretary of the Association of American Painters and Sculptors and an Armory Show organizer, the faculty had, in fact, fostered negative opinions among their students: "The teachers at The Art Institute were almost a solid unit against our exhibition and insisted upon escorting their classes through the various halls and in 'explaining' and denouncing every part of the show."<a href="finale#ref"><sup>2</sup></a> Ironically, Carpenter, who was one of the targets of the protests, had earlier feared that the students would adopt the avant-garde aesthetics of the show in their own work. In a letter to William M. R. French, the museum's director, he expressed his relief that they had not in fact been swayed: "I was afraid our students might get side-tracked in some way by the exhibition. . . . I feel that the exhibition will not only do them no harm but on the contrary will get them conversant with the movement, with which they will have nothing to do."<a href="finale#ref"><sup>3</sup></a> Indeed, far from getting "side-tracked," the students objected to the Armory Show's very presentation at the museum.</p>
+  <p>At 4:00 p.m. on the exhibition's last day, students exited the museum through the Michigan Avenue doors and walked to the south portico, where they held the mock trial of Henri Matisse ("Henry Hairmatress").<a href="finale#ref"><sup>4</sup></a> Students played the roles of the judges, lawyers, and jury, and one student portrayed Hairmatress, who was charged with "artistic murder, pictorial arson, artistic rapine, total degeneracy of color, criminal misuse of line, general esthetic aberration, and contumacious abuse of title."<a href="finale#ref"><sup>5</sup></a> When student-made reproductions of Matisse's paintings <em>Le Luxe II</em>, <em>Goldfish and Sculpture</em>, and <em>Blue Nude</em> were brought forth as evidence, the jury&mdash;composed of eleven women and one man&mdash;fainted and then found Hairmatress guilty of "everything in the first degree."<a href="finale#ref"><sup>6</sup></a> As the executioner stepped forward, Hairmatress "dropped dead" and the painted reproductions were burned.<a href="finale#ref"><sup>7</sup></a></p>
+<p>Reaction to the protest ranged from approval to derision. Much of the press seemed to support the students, who were portrayed as the exponents of sanity and reason in the face of "monsterpieces" of art.<a href="finale#ref"><sup>8</sup></a> The protesters were not, however, universally praised: some in the press sensationalized the events and portrayed the students as a wild mob. As one account claimed, "Two hundred students of the Art Institute, hating even beyond the point of violence, screamed out such fearful imprecations that even the Michigan Avenue policemen became mildly arrested and more than a thousand persons flocked to the scene."<a href="finale#ref"><sup>9</sup></a> A recurring feature in the <em>Chicago Daily Tribune</em>, A Line-o'-type or Two, teased: "Burning Matisse in effigy was hardly necessary. The students of the Art Institute seemed to have weathered the epidemic of Post-Impressionism. No infection of new ideas has been reported. Long live the past!"<a href="finale#ref"><sup>10</sup></a> </p>
+ <p> This event was not the first instance of art being tried in a public forum in Chicago. Indeed, just one month earlier, French artist Paul Chabas's painting of a female nude, <em>September Morn'</em>, was at the center of a scandal among Chicago politicians and the press. On March 13, the police removed a copy of the painting from a store window, and Fred D. Jackson, the store owner, was charged with violating municipal code by displaying an immoral image.<a href="finale#ref"><sup>11</sup></a> Jackson's trial took place on March 20, four days before the opening of the Armory Show, and he was found not guilty. Nevertheless, the controversy continued over the next month as the city council's judiciary committee drafted an ordinance barring nudity in art from display anywhere "it can be seen from the street or in a public place frequented by children which is not connected with any art or educational exhibition."<a href="finale#ref"><sup>12</sup></a> The SAIC students drew upon this recent episode in their protest against the Armory Show. Hoping to incite public anger about the potential indecency of the art shown inside the museum, a number of protesters carried signs that referred to <em>September Morn'</em>.<a href="finale#ref"><sup>13</sup></a></p>
+
+<div class="ref">
+  <a href="finale#" name="ref"></a>
+  <p><sup>1</sup> "Students Wreak Vengeance Upon Cubist Designs," <em>Chicago Evening Post</em>, Apr. 17, 1913.</p>
+  <p><sup>2</sup> Walt Kuhn, <em>The Story of the Armory Show</em> (New York, 1938), p. 21.</p>
+  <p><sup>3</sup> Carpenter to William M. R. French, Apr. 7, 1913. French&mdash;Exhibition Correspondence, 1912&ndash;14, box 18, AIC Archives</p>
+  <p><sup>4</sup> The spelling of the accused's name varied in the press coverage of the protest; he was alternately called Henry Hairmatress, Henry Hair Mattress, and Hennery O'Hair Mattress.</p>
+  <p><sup>5</sup> "Cubists Depart; Students Joyful," <em>Chicago Daily Tribune</em>, Apr. 17, 1913, p. 3.</p>
+  <p><sup>6</sup> Ibid.</p>
+  <p><sup>7</sup> At some point between the students' planning meeting on April 14 and the protest, the SAIC administration got word of their intention to burn Matisse in effigy and forbade it. One article claimed that the police had also heard about the planned burning, feared it would incite violence, and filed an injunction. "Students Wreak Vengeance Upon Cubist Designs," <em>Chicago Evening Post</em>, Apr. 17, 1913. </p>
+  <p><sup>8</sup>  "Cubists Depart; Students Joyful," <em>Chicago Daily Tribune</em>, Apr. 17, 1913, p. 3. </p>
+  <p><sup>9</sup>  "Students Wreak Vengeance Upon Cubist Designs," <em>Chicago Evening Post</em>, Apr. 17, 1913. </p>
+  <p><sup>10</sup> B. L. T., A Line-o'-type or Two, <em>Chicago Daily Tribune</em>, Apr. 18, 1913, p. 8. </p>
+  <p><sup>11</sup> "Painting Shocks Police Censor," <em>Chicago Examiner</em>, Mar. 13, 1913.</p>
+  <p><sup>12</sup> "Aldermen Pose as Art Censors; Ban on the Nude." <em>Chicago Inter-Ocean</em>, Apr. 19, 1913.</p>
+  <p><sup>13</sup> SAIC students, eager to draw a closer connection between the art shown at the Armory Show and <em>September Morn'</em>, held a second mock trial on April 17 to judge that painting again.</p>
+</div>
+
+          </div>
+        </article>
+      </div>
+    </div> <!-- .row -->
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+  
+
+  <script type="text/javascript">
+    $.ajax({
+      url: "floor-plan.json",
+      dataType: "json",
+      success: function(data) {
+        floor_plan_data = data;
+
+        // load floor plan fleximap
+        $('#floor-plan-map').flexiMap(floor_plan_data, function() {
+          setupTooltips('#floor-plan-map');
+        });
+
+        // resize it when nav accessed
+        $('.gallery-map-link').bind('touchstart mouseover', function() {
+          $('#floor-plan-map').flexiMap('resize', '540px', '369px');
+        });
+      },
+      error: function(xhr, status, error) {
+        console.error(status + ': ' + error.message);
+      }
+    });
+
+    $(document).foundationNavigation();
+  </script>
+
+  <!-- "AIC_US_Spark" c/o "Audience On Demand",  segment: 'AIC_REM_Armory Show Site_Unsecure' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+  <script src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment&returnType=js"></script>
+  <noscript>
+  <img src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment" width="1" height="1" />
+  </noscript>
+  <!-- End of pixel tag -->
+
+
+</body>
+</html>

@@ -1,0 +1,70 @@
+.tab {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 9.5pt;
+}
+.sectionhead {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 9.5pt;
+color: rgb(225, 230, 186);
+}
+.main {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 9.5pt;
+}
+
+.title_text {
+font-family: Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	padding-left: 40px;
+	color: rgb(225, 230, 186)
+}
+
+.medium_cream {
+font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	color: rgb(225, 230, 186)
+}
+
+.small_text {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8.5pt;
+}
+
+.small_cream {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8.5pt;
+color: rgb(225, 230, 186)
+}
+
+.list_title {
+font-weight: bold;
+color: #336666;
+}
+
+div.box {
+	overflow: auto;
+}
+
+div.hr {
+    height:1px;
+    width:100%;
+    background: rgb(225, 230, 186); 
+   }
+   
+img.floatLeft { 
+    float: left; 
+    margin-bottom: 4px; 
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 10px;
+}
+
+img.floatRight { 
+    float: right; 
+    margin: 6px; 
+}
+
+div.single
+{ 
+line-height: 0.8
+} 

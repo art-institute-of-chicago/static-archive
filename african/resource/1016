@@ -1,0 +1,320 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_4cab209a02be6fc499fcc7a315009344) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_6e9c31a915eb97323eaf79e41fb65def) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_6e9c31a915eb97323eaf79e41fb65def) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_4cab209a02be6fc499fcc7a315009344) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_ad411cbc1eca82d78d755e3af46a28e3) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Resource details | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8942.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_afr.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_afr.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhbitions/African">Art Access: African Art</a> > <span class="sel">Resource details</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Resource details</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Divine Faith Discussion</strong><br />       <div class="content">
+<p>Akbar (1556-1605) was one of the most influential <a href="1016#mughal">Mughal</a> emperors in India. To maintain unity and control over his territories in India, Akbar, a believer of <a href="1016#islam">Islam</a>, adopted policies that demonstrated increased religious tolerance and that appealed to non-Muslims under his rule. Among Akbar's measures were to remove special taxes on non-Muslims, allow Hindus to build temples, and end the forced conversion of prisoners of war to Islam.</p>
+<p>Akbar never renounced Islam, but he studied and supported other religions, including <a href="1016#hinduism">Hinduism</a>, <a href="1016#buddhism">Buddhism</a>, Judaism, and Christianity. Though illiterate, Akbar amassed an enormous library. He was read to by his royal assistants and discussed religion and other forms of literature with scholars. He also persuaded religious devotees of other faiths to engage in discussion with him. These discussions were continued by a small group of courtiers as doctrines and ceremonies known as the Divine Faith (Din-e Ilahi).</p>
+<p>Students gain an introduction to the learning and cultural achievement fostered under Akbar through an exploration of an illustration from the <em>Akbarnama (History of Akbar)</em>. They study the basic tenets of the major religions of south Asia, comparing these religions to the faiths of Christianity and Judaism. They reenact the discussions of the Divine Faith and, by debating certain questions, demonstrate and share their learning.</p>
+<p><strong>Suggested Grade Level:</strong> 9-12<br />
+<strong>Estimated Time:</strong> 3 hours</p>
+<div class="image wrap"><img src="../images/fatehpursikri.jpg" border="0" class="inline" /></div>
+<div class="image wrap"><img src="../images/G32435.jpg" border="0" class="inline" /></div>
+<h3>Lesson Objectives</h3>
+<ul>
+<li>Analyze a work of art</li>
+<li>Understand the basic beliefs of the major religions of south Asia, including Islam, Hinduism, and Buddhism</li>
+<li>Conduct research on these religions using select resources, including the Internet</li>
+<li>Compare the basic tenets of these faiths to two major U.S. religions, Judaism and Christianity</li>
+<li>Assume the identity of a devotee of one of these faiths and engage "devotees" of other faiths in a critical discussion of particular questions</li>
+</ul>
+<h3>Key Terms</h3>
+<ul>
+<li>India</li>
+<li>Akbar</li>
+<li>Mughal</li>
+<li>Islam</li>
+<li>Hinduism</li>
+<li>Buddhism</li>
+<li>Judaism</li>
+<li>Christianity</li>
+<li><a href="1016#tolerance">tolerance</a></li>
+<li><a href="1016#devotee">devotee</a></li>
+<li>sect</li>
+</ul>
+<h3>Instructional Materials</h3>
+<ul>
+<li>Paper</li>
+<li>Pencils</li>
+<li>Teacher's choice of gifts "from Akbar" for discussants (paper money, for example)</li>
+<li>Recommended resources on Akbar for teacher research:</li>	
+<ul>
+<li>Berinstain, Valerie. <em>India and the Mughal Dynasty</em>. Discoveries. New York: Harry N. Abrams, Inc., 1998.</li>
+<li>Gascoigne, Bamber. <em>The Great Moguls</em>. New York, Evanston, Ill., San Francisco, London: Harper &amp; Row, 1971.</li>
+<li><em>The Great Moghals: Akbar</em>. 30-min. videocassette. Presented by Bamber Gascoigne, produced and directed by Douglas Rae. Falls Church, Va.: Landmark Films, Inc., 1990.</li>
+<li>Moosvi, Shireen. <em>Episodes in the Life of Akbar</em>. New Delhi: National Book Trust, 1994.</li>
+<li>Michael Brand. Fatehpur Sikri. Washington, D.C.: Smithsonian Institution Press, 1988.</li>
+</ul>
+<li>Recommended resources of south Asian culture and religions for teacher and/or student research (See also <a href="http://www.artic.edu/aic/collections/exhibitions/Indian/books-media">Books and Media</a>):</li>
+<p><em><strong>Books</strong></em></p>
+<ul>
+<li>Jesen, Anne Ferguson. <em>India: Its Culture and People</em>. White Plains, N.Y.: Longman Publishing Group, 1991.</li>
+<li>Smith, Huston. <em>The World's Religions</em>. San Francisco: Harper, 1992.</li>
+<li>Thapar, Romila. <em>A History of India, Volume 1</em>. New Dehli: Penguin Books, 1977.</li>
+<li>Spear, Percival. <em>A History of India, Volume 2</em>. New York: Penguin Books, 2000.</li>
+</ul>
+<p><em><strong>Media</strong></em></p>
+<ul>
+<li>Eck, Diana. <em>On Common Ground: World Religions in America</em>. CD-ROM. New York: Columbia University Press, 1997.</li>
+<li><em>Passages to India</em>. Teaching materials and cassettes. Independent Broadcasting Associates, Inc., 1991.</li>
+</ul>
+<p><em><strong>Web Sites</strong></em></p>
+<ul>
+<li><a href="http://www.pluralism.org/" target="_blank">The Pluralism Project</a></li>
+<li><a href="http://asiasociety.org/policy" target="_blank">AsiaSource</a></li>
+<li><a href="http://www.hinduismtoday.com/" target="_blank">Hindu Resources Online</a></li>
+</ul>
+</ul>
+<h3>Procedures</h3>
+<p><strong>Discussion</strong></p>
+<ul>
+<li>Introduce students to Akbar by exploring the <a href="http://www.artic.edu/aic/collections/exhibitions/Indian/Manuscript">illustration from the <em>Akbarnama</em></a>. Explain that it comes from a biography of a 16th-century emperor of India. Have students describe the picture's details. Ask:</li>
+<ul>
+<li>Where is the ruler? How can you tell? How old does he appear to be?</li>
+</ul>
+<li>Briefly describe the circumstances of Akbar's succession to the throne at the age of 13.</li>
+<ul><li>Ask what appears to be happening.</li></ul>
+<li>Explain to students that the young emperor is exercising his first imperial act: the arrest of an unruly courtier (royal attendant), who was once the favorite of Akbar's father.</li>
+<li>Explain to students that while Akbar was not tolerant of opposition to his orders his rule was marked by relative religious tolerance. Discuss the meaning of tolerance. Provide background on the Divine Faith and its discussions. Show students the image of Fatehpur Sikri, where these discussions took place.</li>
+</ul>
+<p><strong>Activity</strong></p>
+<ul>
+<li>Explain to students that they will participate in a Divine Faith discussion as religious devotees before the inquisitive Akbar (an elected student).</li>
+<li>Divide students into small groups of four or five and assign each group a religion chosen from these five: Islam, Hinduism, Buddhism, Judaism, and Christianity (teacher may add other religions from the region such as Jainism, Zoroastrianism, or Sufism). Have each group conduct research on its assigned faith using the recommended resources.</li>
+<li>As they conduct research, have groups fill out a <a href="http://www.artic.edu/aic/collections/citi/resources/_erfimages/divinefaith.pdf">worksheet</a>.</li>
+<li>Provide each group with a list of questions for the upcoming debate.</li>
+<ul>
+<li>Do you believe in a god or higher power?</li>
+<li>Do you believe in an afterlife?	</li>
+<li>What is your code of morality?</li>
+<li>What role does religion play in your society?</li>
+<li>Does a higher power determine your fate/destiny, or are you fully responsible?</li>
+<li>Is there a soul? What happens when we die?</li>
+<li>Should men and women behave or be treated differently from each other?</li>
+</ul>
+<li>Have groups arrange themselves in a circle within the classroom. Ask the group to elect a leader like Akbar. Explain to this student that he or she will reward good debaters for their responses with the selected prizes. Have the leader conduct the discussion with questions from the list above (as well as his or her own questions). Akbar should tell students he or she wishes to hear from all of them at least once.</li>
+</ul>
+<h3>Evaluation</h3>
+<p>Base students' achievements on their participation in discussions. Evaluate students as well on their understanding of the basic beliefs of the religion assigned to them and their ability to articulate similarities and differences with other faiths introduced in the lesson.</p>
+<p><strong>Follow-up:</strong></p>
+<p>Travel with students to a place of worship to see the environment in which devotees of Hinduism, Buddhism, Islam, or another religion worship, and ask questions of the religious officials there. In the Chicago area, the following institutions are offered as suggestions.</p>
+<ul>
+<li><a href="http://www.balaji.org/" target="_blank">Sri Venkateswara Swami Temple of Greater Chicago</a> (Hindu)<br />
+1145 W. Sullivan Rd., Aurora, IL 60507<br />
+630-844-2252</li>
+<li><a href="http://www.vedantasociety-chicago.org/" target="_blank">Vivekananda Vedanta Society</a> (Hindu)<br />
+5423 S. Hyde Park Blvd., Chicago, IL 60615<br />
+773-363-0027</li>
+<li><a href="http://www.budtempchi.org/" target="_blank">Buddhist Temple of Chicago</a><br />
+1151 W. Leland, Chicago, IL 60640<br />
+773-334-4661</li>
+<li><a href="http://www.islamicfoundation.org/" target="_blank">Villa Park Islamic Foundation School and Mosque</a><br />
+300 W. Highridge Rd., Villa Park, IL 60181<br />
+630-782-6562</li><br />
+</ul>
+<h3>Glossary</h3>
+<p><strong><a name="buddhism" id="buddhism"></a>Buddha/Buddhism/Buddhist</strong> (<em>n</em>/<em>n</em>/<em>n</em> or <em>adj</em>)<br />
+historical figure, Buddha Shakyamuni, who lived in India in the sixth century B.C. During this lifetime, Shakyamuni discovered a means to escape the endless cycle of death and rebirth that, according to his teachings, is determined by an individual's karma. Through meditation Buddha attained a state of being known as nirvana, signifying the merging of the inner spirit with the void from which all reality is believed to emerge. Buddha's teachings developed into what in known today as Buddhism; literally means "the enlightened one;" a follower of the Buddha's teachings; the religion born of Buddha's teachings.</p>
+<p><strong><a name="devotee" id="devotee"></a>devotee</strong> (<em>n</em>)<br />
+ardent follower, usually of a particular deity or religion</p>
+<p><strong><a name="hinduism" id="hinduism"></a>Hinduism/Hindu</strong> (<em>n</em>/<em>n</em> or <em>adj</em>)<br />
+range of related religious practices and beliefs that have their origins in India and exist today in many areas of south Asia. Hinduism's three major deities are Brahma, the creator; Shiva, the destroyer; and Vishnu, the preserver of universal order. The supreme goddess is Devi or Parvati (consort of Shiva); a follower of Hinduism; of or characteristic of Hinduism</p>
+<p><strong><a name="islam" id="islam"></a>Islam/Islamic</strong> (<em>n</em>/<em>adj</em>)<br />
+religious faith of Muslims, as set forth in the Koran, the text that teaches that Allah is the only god and that Muhummad is his prophet; of or characteristic of Islam</p>
+<p><strong><a name="mughal" id="mughal"></a>Mughal</strong> (<em>adj</em>)<br />
+of the dynasty of Islamic emperors who reigned in India from A.D. 1526 to 1858</p>
+<p><strong><a name="tolerance" id="tolerance"></a>tolerance</strong> (<em>n</em>)<br />
+sympathy or respect for beliefs or practices differing from or conflicting with one's own</p>
+<br />
+<p><a href="http://www.isbe.state.il.us/ils/" target="_blank">Illinois Learning Standards</a><br />
+English Language Arts: 1, 4, 5<br />
+Social Science: 16, 18<br />
+Fine Arts: 27</p>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001016.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001016.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: African Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/African/Horse">Artworks</a></li>
+<li class="collapsed"><a href="../lesson">Lesson Plans</a></li>
+<li class="collapsed"><a href="../family">Family Activities</a></li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1869">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

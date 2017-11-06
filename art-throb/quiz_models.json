@@ -1,0 +1,216 @@
+{
+
+  "questions": [
+
+    {
+      "question": "What&rsquo;s your idea of a perfect first date?",
+      "answers": [
+        {"text": "Being serenaded on a horse-and-carriage ride through the park",
+         "result": "romantic"},
+        {"text": "Whatever my Svengalian companion plucks from my unexplored subconscious",
+         "result": "seducer"},
+        {"text": "Popping bottles of champagne at the city&rsquo;s hottest new dance club",
+         "result": "life-of-the-party"},
+        {"text": "Catching rats for my beloved&rsquo;s latest project exploring the contiguous routes of rodent and human populations",
+         "result": "tortured-genius"},
+        {"text": "A 12-course molecular gastronomy dinner at an overly air-conditioned 5-star restaurant",
+         "result": "psycho"}
+      ],
+      "image": {
+        "path": "first_date.jpg",
+        "caption": "François Boucher. <em>Are They Thinking about the Grape? (Pensent-ils au raisin?)</em>, 1747. Martha E. Leverone Endowment."
+      }
+    },
+
+    {
+      "question": "What&rsquo;s your favorite drink?",
+      "answers": [
+        {"text": "Red Bull and vodka",
+         "result": "life-of-the-party"},
+        {"text": "Vintage brut ros&eacute;",
+         "result": "unicorn"},
+        {"text": "Bottled tears from my romancer&rsquo;s nights of languid longing",
+         "result": "romantic"},
+        {"text": "The blood of defeated foes",
+         "result": "alpha-dog"},
+        {"text": "Gatorade",
+         "result": "sporty"}
+      ],
+      "image": {
+        "path": "fave_drink.jpg",
+        "caption": "William Glackens. <em>At Mouquin's</em>, 1905. Friends of American Art Collection."
+      }
+    },
+
+    {
+      "question": "Your sweetheart&rsquo;s spirit animal is:",
+      "answers": [
+        {"text": "The majestic lion, apex predator.",
+         "result": "alpha-dog"},
+        {"text": "One of those bears that get drunk digging in the trash.",
+         "result": "life-of-the-party"},
+        {"text": "A booklouse that forever feasteth on the pages of Dante&rsquo;s <em>Inferno</em>.",
+         "result": "tortured-genius"},
+        {"text": "A cheetah in Lululemon stretch pants.",
+         "result": "sporty"},
+        {"text": "A windswept palomino waiting to carry me bareback across the open plains.",
+         "result": "seducer"} 
+      ],
+      "image": {
+        "path": "spirit_animal.jpg",
+        "caption": "Francisco José de Goya y Lucientes. <em>Boy on a Ram</em>, 1786/87. Gift of Mr. and Mrs. Brooks McCormick."
+      }
+    },
+
+    {
+      "question": "Your dream vacation is:",
+      "answers": [
+        {"text": "Super Bowl tickets.",
+         "result": "sporty"},
+        {"text": "A walk through Paris streets at night.",
+         "result": "romantic"},
+        {"text": "Meeting the parents.",
+         "result": "unicorn"},
+        {"text": "Vacation? Like more than two days together??",
+         "result": "fling"},
+        {"text": "Wherever my beloved chooses&mdash;I just want to see my boo happy.",
+         "result": "alpha-dog"}
+      ],
+      "image": {
+        "path": "dream_vacation.jpg",
+        "caption": "Edward Henry Potthast. <em>A Holiday</em> (detail), c. 1915. Friends of American Art Collection."
+      }
+    },
+
+    {
+      "question": "What are your Art Throb&rsquo;s friends like?",
+      "answers": [
+        {"text": "Lots of acquaintances, no pals",
+         "result": "psycho"},
+        {"text": "A legion of minions at my sweetie&rsquo;s beck and call",
+         "result": "alpha-dog"},
+        {"text": "They&rsquo;re my new friends! We all get along famously.",
+         "result": "unicorn"},
+        {"text": "Don&rsquo;t know, don&rsquo;t care, so long as this glass of wine keeps getting refilled.",
+         "result": "fling"},
+        {"text": "They appear to be a collection of tattered stuffed animals for an art project exploring innocence and loss.",
+         "result": "tortured-genius"}
+      ],
+      "image": {
+        "path": "friends_like.jpg",
+        "caption": "Baron Antoine Jean Gros. <em>Portrait of the Maistre Sisters</em>, 1796. Charles H. and Mary F. S. Worcester Collection."
+      }
+    },
+
+    {
+      "question": "What TV show best describes your perfect match?",
+      "answers": [
+        {"text": "<em>Mad Men</em>",
+         "result": "seducer"},
+        {"text": "<em>The Mentalist</em>",
+         "result": "psycho"},
+        {"text": "<em>Friday Night Lights</em>",
+         "result": "sporty"},
+        {"text": "<em>Downton Abbey</em>",
+         "result": "romantic"},
+        {"text": "<em>Entourage</em>",
+         "result": "life-of-the-party"}
+      ],
+      "image": {
+        "path": "television_show.jpg",
+        "caption": "Nam June Paik. <em>Family of Robot: Baby</em>, 1986. Gift of Society for Contemporary Art."
+      }
+    },
+
+    {
+      "question": "Sign it&rsquo;s officially over:",
+      "answers": [
+        {"text": "It&rsquo;s morning.",
+         "result": "fling"},
+        {"text": "The world has finally ended&mdash;otherwise this one would never leave my side.",
+         "result": "unicorn"},
+        {"text": "An actual sign with my photo and &ldquo;It&rsquo;s Over&rdquo; in giant bold letters.",
+         "result": "psycho"},
+        {"text": "The novel about my torrid love affair is at long last off to the publisher.",
+         "result": "tortured-genius"},
+        {"text": "Your paramour also propositions your bestie.",
+         "result": "seducer"}
+      ],
+      "image": {
+        "path": "sign_its_over.jpg",
+        "caption": "Auguste Bernard d'Agesci. <em>Lady Reading the Letters of Heloise and Abelard</em>, c. 1780. Mrs. Harold T. Martin Fund; Lacy Armour Endowment; Charles H. and Mary F.S. Worcester Collection."
+      }
+    }
+
+  ],
+
+
+    "results": {
+
+      "alpha-dog": {
+        "title": "The Alpha Dog",
+        "explanation": "Looks like you&rsquo;ve fallen for the leader of the pack. Your Alpha Dog crush likes to take charge of the situation, even if that means a few lions get vanquished and some heads are lopped off in the process. You&rsquo;ll need to be just as bold and courageous (or arrogant and irresponsible, depending on how you look at it) if you&rsquo;re going to step out from your sweetheart&rsquo;s shadow. And nothing says \"bold\" like taking on your enemies in the buff.",
+        "image": "res_alpha_dog.jpg",
+        "caption": "Jan Sanders van Hemessen. <em>Judith</em>, c. 1540. Wirt D. Walker Fund.<br />Cristoforo Stati. <em>Samson and the Lion</em> (detail), 1604/07. Chester D. Tripp Fund."
+      },
+
+      "life-of-the-party": {
+        "title": "The Life of the Party",
+        "explanation": "WOOOO HOOOOOOOOOOOOOOOOO!!!! You&rsquo;ve got a thing for the party animal, the kind of person who wants to cut loose&mdash;you know, really burn up the dance floor! Just be sure you&rsquo;re making room in the relationship for quality time, whether it&rsquo;s dinner for two or honestly anything that doesn&rsquo;t require you to paint your face green is probably a solid choice. The Life of the Party can be an awful lot of fun. But let that showboat know that there&rsquo;s a time for holding hands and a time for holding court.",
+        "image": "res_life_party.jpg",
+        "caption": "Henri de Toulouse-Lautrec. <em>At the Moulin Rouge</em> (detail), 1892/95. Helen Birch Bartlett Memorial Collection.<br />Archibald John Motley, Jr. <em>Nightlife</em> (detail), 1943. Restricted gift of Mr. and Mrs. Marshall Field, Jack and Sandra Guthman, Ben W. Heineman, Ruth Horwich, Lewis and Susan Manilow, Beatrice C. Mayer, Charles A. Meyer, John D. Nichols, and Mr. and Mrs. E.B. Smith, Jr.; James W. Alsdorf Memorial Fund; Goodman Endowment."
+      },
+
+      "tortured-genius": {
+        "title": "The Tortured Genius",
+        "explanation": "Falling for a tortured genius can be thrilling&mdash;and exhausting. While you may secretly hold out hope that you will wind up as a leading character in a Pulitzer Prize&ndash;winning novel or have your naked form memorialized in oil at a top gallery, you will need to be patient if your genius can&rsquo;t make it to dinner with your parents because of an occasional bout of mania for breaking storefront windows or change in bird migration patterns. Hygiene may also be an issue.",
+        "image": "res_tortured.jpg",
+        "caption": "Vincent van Gogh. <em>Self-Portrait</em> (detail), 1887. Joseph Winterbotham Collection.<br />Alfred Stieglitz. <em>Georgia O'Keeffe</em>, 1918. Alfred Stieglitz Collection."
+      },
+
+      "romantic": {
+        "title": "The Romantic",
+        "explanation": "Candle-lit restaurants, calligraphy classes, the windswept moors of England. . . these are the haunts of the Romantic. This is the ultimate match for you if you yearn deeply for long walks on the beach, Celine Dion sing-alongs, and anything starring rom-com power couple Tom Hanks and Meg Ryan. But beware, because even reciting sonnets can get old after a while. What rhymes with &ldquo;angst&rdquo; again?",
+        "image": "res_romantic.jpg",
+        "caption": "Domenico Tintoretto, Workshop of Tintoretto. <em>Venus and Mars with Cupid and the Three Graces in a Landscape</em> (detail), 1590/95. Charles H. and Mary F. S. Worcester Collection.<br />Giovanni Battista Tiepolo. <em>Rinaldo and Armida in Her Garden</em> (detail), 1742/45. Bequest of James Deering."
+      },
+
+      "sporty": {
+        "title": "The Sporty Type",
+        "explanation": "Fore! Roughing the passer! Full count! Technical foul! If you know what all of those words mean and can use them in their proper context, then the Sporty Type is the one for you. Your relationship will be a whirlwind of fantasy drafts, March Madness, and spring training, and you&rsquo;ll love every minute. That is, until your beloved&rsquo;s favorite team loses the Super Bowl. Then you might want to negotiate a new contract.",
+        "image": "res_sporty.jpg",
+        "caption": "Richmond Barthé. <em>The Boxer</em> (detail), 1942. Simeon B. Williams Fund.<br />Frederick W. MacMonnies, Foundry: Roman Bronze Works. <em>Diana</em> (detail), modeled 1889; cast after 1900. Roger McCormick Fund."
+      },
+
+      "seducer": {
+        "title": "The Seducer",
+        "explanation": "Call it what you will&mdash;charm, charisma, animal magnetism, black magic&mdash;your match casts a powerful spell and you, my friend, are bewitched. But you&rsquo;re not the only one. The Seducer enchants everyone, which is lovely when he or she is charming your parents or your best friend, but it&rsquo;s not nearly so endearing when they&rsquo;re seducing the person at the next table during your romantic dinner. But let&rsquo;s face it, the person most captivated by the Seducer is well, the Seducer, which is why you might find yourself yelling &ldquo;Expelliarmus!&rdquo;",
+        "image": "res_seducer.jpg",
+        "caption": "Mary Cassatt. <em>After the Bullfight</em> (detail), 1873. Bequest of Mrs. Sterling Morton.<br />Rosalba Carriera. <em>A Young Lady with a Parrot</em> (detail), c. 1730. Regenstein Collection."
+      },
+
+      "fling": {
+        "title": "The Fling",
+        "explanation": "Not every romantic rendezvous need end in marriage, and who's to say Mr. or Ms. Right Now can't have their heart in the right place? The Fling is the perfect match for you if a) you're not quite ready to pick up somebody else's dirty socks and b) you still need room in your life for friends, bad television, and well... flings! The fling thing isn't for the cynic though; it's for the person who's kind of doing fine flying solo. Just be sure to communicate up front what your intentions are and pick up your own dirty socks! You never know; that Fling could very well be the one to sweep you off your feet.",
+        "image": "res_fling.jpg",
+        "caption": "Marsden Hartley. <em>Madawaska—Acadian Light-Heavy</em> (detail), 1940. Bequest of A. James Speyer.<br />Jeff Koons. <em>Woman in Tub</em>, 1988. Collection of Stefan T. Edlis and H. Gael Neeson, partial and promised gift to the Art Institute of Chicago. © 1988 Jeff Koons."
+      },
+
+      "psycho": {
+        "title": "The Psycho",
+        "explanation": "Being swept off your feet can be so exhilarating, but be careful you don&rsquo;t mistake instant passion for a deep and lasting connection. Your schnookums is a superficial charmer and may be asking for more than they are willing to give. Creating a joint checking account and moving into together after the first month may seem like good ideas when you&rsquo;re under the spell of the Psycho, but not if you appreciate other joys in life, like friends and financial solvency. We recommend you cut all ties before this little ray of sunshine drags you down into your own personal hell.",
+        "image": "res_psycho.jpg",
+        "caption": "Leon Golub. <em>Head (I)</em>, 1958. Estate of Virginia Croon.<br />Ed Paschke. <em>Minnie</em> (detail), 1974. Gift of the Robert A. Lewis Fund in memory of William and Polly Levey. © 1974 Ed Paschke."
+      },
+
+      "unicorn": {
+        "title": "The Unicorn",
+        "explanation": "Wow, your perfect match is... well perfect! Like the mythical creature that gives the category its name, the Unicorn is one of those rare creatures that manages to be thoughtful but not overbearing, easygoing but supportive, tending to your needs in ways that make you want to work harder to please them in return. Naturally, the Unicorn is hard to find in the wild but should be treasured accordingly, maybe even kept a secret—otherwise your friends will hate you forever.",
+        "image": "res_unicorn.jpg",
+        "caption": "Attributed to the Workshop of Neroccio de' Landi. <em>Two Putti</em> (detail), 1490/1510. Mr. and Mrs. Martin A. Ryerson Collection.<br />Jean Duvet. <em>The Unicorn Purifying a Source</em> (detail), n.d. Bequest of Mrs. Potter Palmer, Jr."
+      }
+
+
+    }
+
+}

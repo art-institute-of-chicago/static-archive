@@ -1,0 +1,268 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_ab040411ce512bf08a6a6da597cbd776) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_6bc2f3d2d6834d7d3d1ba6497ced98b1) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_6bc2f3d2d6834d7d3d1ba6497ced98b1) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_ceb81fd665a869ecef850c2776bf6271) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_ab040411ce512bf08a6a6da597cbd776) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_3a6107ef5566dfca72f89c2bc970f679) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_6bc2f3d2d6834d7d3d1ba6497ced98b1) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_6bc2f3d2d6834d7d3d1ba6497ced98b1) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Reading Pictures, Seeing Poetry  | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8940.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_rococo.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_rococo.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Rococo">Art Access: Rococo to Realist Art</a> > <a href="../lesson">Lesson Plans</a> > <span class="sel">Reading Pictures, Seeing Poetry </span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Reading Pictures, Seeing Poetry </h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Reading Pictures, Seeing Poetry</strong><br />       <div class="content">
+<p>An exploration of Delacroix’s painting and its literary source serves as an excellent introduction to a unit on Romantic literature. Students will discover characteristics of Romanticism through comparative discussions of the painting and the poem.</p><br />
+<p><strong>Suggested Grade Level:</strong> 11–12<br />
+<strong>Estimated Time:</strong> two to three hours</p><br />
+<h3>Introduction</h3>
+<p>Artists often turn to literature for inspiration as they search for subject matter. The French Romantic painter Eugène Delacroix based his painting <a href="../Combat"><em>The Combat of the Giaour and Hassan</em></a> on the poem <em>The Giaour</em> by English poet Lord Byron. Both the painting and the poem tell of a dramatic conflict between a Muslim and a Christian over the death of a woman. The exotic setting for the confrontation—a Greek battlefield—reveals the 19th-century European fascination with foreign lands and makes reference to the contemporary Greek war for liberation from the Ottoman Turks.</p>
+<div class="image wrap"><img src="../images/G28347.jpg" border="0" class="inline" /></div>
+<h3>Lesson Objectives</h3>
+<ul>
+<li>Become familiar with qualities and characteristics of Romantic painting and writing.</li>
+<li>Describe and analyze a Romantic work of art.</li>
+<li>Compare how Romantic artists and writers made choices about visual elements and language to depict their subjects.</li>
+<li>Discover how writing and painting complement each other as creative processes.</li>
+</ul>
+<h3>Key Terms</h3>
+<ul>
+<li>Giaour</li>
+<li>Hassan</li>
+<li>Romanticism</li>
+</ul>
+<h3>Instructional Materials</h3>
+<ul>
+<li><a href="../Combat"><em>The Combat of the Giaour and Hassan</em></a></li>
+<li>pencils</li>
+<li>notebook paper</li>
+<li>excerpts of <a href="http://www.artic.edu/aic/collections/citi/resources/giaour.pdf"><em>The Giaour</em></a> by Lord Byron</li>
+</ul>
+<h3>Procedures</h3>
+<p><strong>Discussion</strong></p>
+<ul>
+<li>Introduce the term Romanticism by looking at Delacroix’s <em>The Combat of the Giaour and Hassan</em>.</li>
+<li>First, brainstorm as a class to develop a list of descriptive words and phrases. Ask students to write down the first three words or phrases that come to mind when they look at the painting. Compile this as a class list on the board or overhead transparency.</li>
+<li>Next ask:</li>
+<ul>
+<li>What do you see? Encourage students to identify as many details as possible.</li>
+<li>Who are the two men on horseback, and what are they doing?</li>
+<li>Can you tell whether one man is a hero and another a villain? What clues in the painting make you think so? </li>
+<li>How do we know that this scene takes place outside the United States during a different time?</li>
+<li>What kind of mood or atmosphere does the artist create, and how does he do it?</li>
+</ul>
+<li>Summarize your discussion to develop a definition of Romanticism. Return to the list of words you made at the beginning of the discussion. What words and phrases can be added to the list? Discuss that Romantic works of art depict intense emotion, dramatic actions, and exotic themes through bold colors and brushwork. Do your students think this definition applies to this work? Why or why not?</li>
+<li>Explain that Delacroix was inspired by the poem <a href="http://www.artic.edu/aic/collections/citi/resources/giaour.pdf"><em>The Giaour</em></a> by the English poet Lord Byron. Distribute excerpts of the poem that relate to the painting. Read the excerpts aloud as a class, reviewing new vocabulary as necessary.</li>
+<li>As homework, ask students to read the poem again, and then have them write the answers to the following questions:</li>
+<ul>
+<li>What happens in this portion of the poem?</li>
+<li>What kind of language does Byron use to describe the Giaour and Hassan? Write down specific words and phrases he used.</li>
+<li>What words and phrases are used to describe their actions and encounters? Write down specific words and phrases he used.</li>
+</ul>
+<li>Review the students’ lists as a class, compiling them on the board or overhead. Discuss what effects this use of language produces.</li>
+<li>Compare this vocabulary to the list of words and phrases students complied while looking at the Delacroix painting. What similarities and differences can students find?</li>
+<li>Remind students that Romantic works of art depict intense emotion, dramatic actions, and exotic themes. How does this definition apply to the poem?</li>
+</ul>
+<p><strong>Activity</strong></p>
+<p>Ask students to decide if they think the painting or the poem is a better example of Romantic art based on what has been discussed in class. Ask them to defend their opinion in a one-page paper.</p>
+<h3>Evaluation</h3>
+<p>Base students’ evaluation on their ability to participate in class discussion, describe and analyze a work of art, compare the use of visual elements and mood in a work of art to word choice and mood in a text, and write clearly in support of a thesis statement.</p><br />
+<p><a href="http://www.isbe.state.il.us/ils/" target="_blank">Illinois Learning Standards</a><br />
+English Language Arts: 1–5<br />
+Fine Arts: 25–27</p>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001032.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001032.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Rococo to Realist Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Fete">Artworks</a></li>
+<li class="expanded"><a href="../lesson">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/1031">Pros and Cons: A Childcare Debate </a></li>
+<li class="leaf active"><a href="1032" class="active">Reading Pictures, Seeing Poetry </a></li>
+<li class="leaf last"><a href="../resource/1033">Texture Sculpture</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="../family">Family Activities</a></li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1347">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Rococo/artwork/110663">The Combat of the Giaour and Hassan</a></span>, 1826</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

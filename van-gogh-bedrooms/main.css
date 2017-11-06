@@ -1,0 +1,1381 @@
+/**
+ * Van Gogh App
+ * Auto-built from /sass/van_gogh/main.scss
+ */
+/**
+ * # COLORS ##
+ */
+/**
+ * # FONTS ###
+ */
+@import url("http://fast.fonts.net/lt/1.css?apiType=css&c=8163f540-ea48-48b6-87a1-d880fb722696&fontids=1475870");
+@import url("https://fonts.googleapis.com/css?family=Averia+Serif+Libre:700italic,700");
+@font-face {
+  font-family: "FuturaW01-MediumCondens";
+  src: url("Futura-Medium-Condensed.eot?");
+  src: url("Futura-Medium-Condensed.eot?") format("eot"), url("Futura-Medium-Condensed.woff") format("woff"), url("Futura-Medium-Condensed.ttf") format("truetype"), url("Futura-Medium-Condensed.svg") format("svg");
+}
+/* include mixin from foundation _global.scss */
+/* line 46, ../../../sass/van_gogh/main.scss */
+h1, h2, h3, h4, h5, .button, .panel h3, .top-bar .top-bar-section ul li, .top-bar .top-bar-section ul li > a, .detail-promos ul li a h3, #footer .events .event .event-date .event-month, #footer .events .event .event-date .event-day, #footer .promos .promo h4, #footer .sitemap .side-nav li a.button {
+  font-family: "FuturaW01-MediumCondens", Futura, sans-serif;
+  text-transform: uppercase;
+  color: #153042;
+}
+
+/* line 52, ../../../sass/van_gogh/main.scss */
+.panel h3, .detail-promos ul li a, #vangogh-quiz .quiz-container h1, #vangogh-quiz .quiz-container h2, #footer .promos .promo h4 {
+  text-shadow: 5px 5px 3px rgba(0, 0, 0, 0.9), -2px -1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* line 62, ../../../sass/van_gogh/main.scss */
+.button {
+  background: #c88c2b;
+  color: #fff;
+}
+/* line 66, ../../../sass/van_gogh/main.scss */
+.button:hover {
+  background: #b37d26;
+}
+
+/* line 71, ../../../sass/van_gogh/main.scss */
+.panel {
+  background-color: #153042;
+}
+/* line 74, ../../../sass/van_gogh/main.scss */
+.panel h3 {
+  color: #fff;
+}
+/* line 80, ../../../sass/van_gogh/main.scss */
+.panel p {
+  color: #fff;
+  font-size: 1.3rem;
+}
+
+/* line 86, ../../../sass/van_gogh/main.scss */
+.metablock {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 6% 6% 6% 10%;
+  margin: 7px auto 25px;
+}
+/* line 91, ../../../sass/van_gogh/main.scss */
+.metablock ul {
+  list-style: none;
+  margin: 0;
+}
+/* line 94, ../../../sass/van_gogh/main.scss */
+.metablock ul li {
+  line-height: 1.5;
+  font-size: 1.1rem;
+}
+/* line 97, ../../../sass/van_gogh/main.scss */
+.metablock ul li:first-child, .metablock ul li:nth-child(0n+3) {
+  font-weight: 600;
+}
+
+/* line 105, ../../../sass/van_gogh/main.scss */
+body > section {
+  padding: 30px 0;
+}
+
+/**
+ * # NAV ###
+ */
+/* line 114, ../../../sass/van_gogh/main.scss */
+.sticky,
+.contain-to-grid {
+  width: 100%;
+  background: #153042;
+}
+
+/* line 121, ../../../sass/van_gogh/main.scss */
+div:not(.contain-to-grid) .top-bar {
+  padding: 0 10px;
+}
+
+/* line 127, ../../../sass/van_gogh/main.scss */
+.top-bar {
+  height: 4.875rem;
+  background: #153042;
+}
+/* line 132, ../../../sass/van_gogh/main.scss */
+.top-bar .name {
+  height: 75px;
+}
+/* line 134, ../../../sass/van_gogh/main.scss */
+.top-bar .name h1 {
+  position: relative;
+}
+/* line 136, ../../../sass/van_gogh/main.scss */
+.top-bar .name h1 a {
+  background: url("aic_vangogh_logo_no_subline.png") no-repeat left center;
+  width: 350px;
+  height: 75px;
+}
+/* line 145, ../../../sass/van_gogh/main.scss */
+.top-bar.expanded .title-area {
+  background: #153042;
+}
+/* line 151, ../../../sass/van_gogh/main.scss */
+.top-bar .subline-wrapper {
+  position: absolute;
+  bottom: 3px;
+  left: 78px;
+  width: 235px;
+  height: 15px;
+  overflow: hidden;
+}
+/* line 159, ../../../sass/van_gogh/main.scss */
+.top-bar .subline-wrapper .subline-inner {
+  position: absolute;
+  top: 0;
+  height: 39px;
+  width: 152px;
+  background: url(let-yourself_dates.png) no-repeat;
+  animation: slide 15s infinite;
+}
+/* line 171, ../../../sass/van_gogh/main.scss */
+.top-bar .top-bar-section ul.right {
+  padding-top: 16px;
+}
+/* line 172, ../../../sass/van_gogh/main.scss */
+.top-bar .top-bar-section ul.left {
+  padding-top: 26px;
+}
+/* line 174, ../../../sass/van_gogh/main.scss */
+.top-bar .top-bar-section ul li {
+  color: #fff;
+  background: #153042;
+  border-color: #b37d26;
+}
+/* line 180, ../../../sass/van_gogh/main.scss */
+.top-bar .top-bar-section ul li > a {
+  color: #fff;
+}
+/* line 185, ../../../sass/van_gogh/main.scss */
+.top-bar .top-bar-section ul li:not(.has-form) a:not(.button) {
+  background: #153042;
+}
+/* line 187, ../../../sass/van_gogh/main.scss */
+.top-bar .top-bar-section ul li:not(.has-form) a:not(.button):hover {
+  color: #c88c2b;
+  background: #0f222f;
+}
+/* line 193, ../../../sass/van_gogh/main.scss */
+.top-bar .top-bar-section ul li > a.button {
+  background: #c88c2b;
+}
+/* line 196, ../../../sass/van_gogh/main.scss */
+.top-bar .top-bar-section ul li > a.button.cta-membership span {
+  display: none;
+}
+/* line 200, ../../../sass/van_gogh/main.scss */
+.top-bar .top-bar-section ul li > a.button:hover, .top-bar .top-bar-section ul li > a.button:focus {
+  background: #b37d26;
+}
+/* line 208, ../../../sass/van_gogh/main.scss */
+.top-bar .top-bar-section ul.cta-nav li {
+  margin-right: 10px;
+}
+/* line 210, ../../../sass/van_gogh/main.scss */
+.top-bar .top-bar-section ul.cta-nav li:last-child {
+  margin-right: 0;
+}
+
+/* line 222, ../../../sass/van_gogh/main.scss */
+#home {
+  padding: 0;
+  background-image: url("VanGogh--Bedroom--1889--ArtInstituteChicago--1025.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  overflow: hidden;
+  min-height: 700px;
+  position: relative;
+}
+/* line 232, ../../../sass/van_gogh/main.scss */
+#home #keyhole {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: url(keyHole_1025x805.svg) no-repeat center top/cover;
+}
+@media only screen and (min-width: 1250px) {
+  /* line 222, ../../../sass/van_gogh/main.scss */
+  #home {
+    background-image: url("VanGogh--Bedroom--1889--ArtInstituteChicago--1400.jpg");
+    min-height: 800px;
+    background-position: center 30%;
+  }
+  /* line 243, ../../../sass/van_gogh/main.scss */
+  #home #keyhole {
+    background-position: center 30%;
+  }
+}
+@media only screen and (min-width: 1800px) {
+  /* line 222, ../../../sass/van_gogh/main.scss */
+  #home {
+    background-image: url("VanGogh--Bedroom--1889--ArtInstituteChicago--2400.jpg");
+    min-height: 900px;
+  }
+  /* line 251, ../../../sass/van_gogh/main.scss */
+  #home #keyhole {
+    background-image: url("keyHole_1200w.svg");
+  }
+}
+
+/* line 262, ../../../sass/van_gogh/main.scss */
+#about-paintings .clearing-thumbs li, #about-paintings-object .clearing-thumbs li {
+  padding-bottom: 0;
+}
+/* line 42, ../../../sass/van_gogh/main.scss */
+#about-paintings .clearing-thumbs li::before, #about-paintings .clearing-thumbs li::after, #about-paintings-object .clearing-thumbs li::before, #about-paintings-object .clearing-thumbs li::after {
+  content: " ";
+  display: table;
+}
+/* line 43, ../../../sass/van_gogh/main.scss */
+#about-paintings .clearing-thumbs li::after, #about-paintings-object .clearing-thumbs li::after {
+  clear: both;
+}
+/* line 266, ../../../sass/van_gogh/main.scss */
+#about-paintings .clearing-thumbs li > div, #about-paintings-object .clearing-thumbs li > div {
+  max-width: 275px;
+}
+/* line 268, ../../../sass/van_gogh/main.scss */
+#about-paintings .clearing-thumbs li > div h3, #about-paintings-object .clearing-thumbs li > div h3 {
+  text-align: center;
+}
+/* line 275, ../../../sass/van_gogh/main.scss */
+#about-paintings .clearing-thumbs li:nth-child(0n+2) > div, #about-paintings-object .clearing-thumbs li:nth-child(0n+2) > div {
+  margin: 0 auto;
+}
+/* line 279, ../../../sass/van_gogh/main.scss */
+#about-paintings .clearing-thumbs li:last-child > div, #about-paintings-object .clearing-thumbs li:last-child > div {
+  text-align: right;
+  float: right;
+}
+/* line 287, ../../../sass/van_gogh/main.scss */
+#about-paintings .click-above, #about-paintings-object .click-above {
+  text-align: center;
+}
+/* line 291, ../../../sass/van_gogh/main.scss */
+#about-paintings .promo-box.right, #about-paintings-object .promo-box.right {
+  margin: 0 0 20px 20px;
+}
+
+/* line 300, ../../../sass/van_gogh/main.scss */
+.detail-promos ul li a {
+  display: block;
+  width: 100%;
+  background-color: #153042;
+  height: 200px;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+/* line 311, ../../../sass/van_gogh/main.scss */
+.detail-promos ul li a.window {
+  background-image: url("detail-window-banner.jpg");
+}
+/* line 314, ../../../sass/van_gogh/main.scss */
+.detail-promos ul li a.chair {
+  background-image: url("detail-chair-banner.jpg");
+}
+/* line 317, ../../../sass/van_gogh/main.scss */
+.detail-promos ul li a.bed {
+  background-image: url("detail-bed-banner.jpg");
+}
+/* line 320, ../../../sass/van_gogh/main.scss */
+.detail-promos ul li a.floor {
+  background-image: url("detail-floor-banner.jpg");
+}
+/* line 323, ../../../sass/van_gogh/main.scss */
+.detail-promos ul li a.portraits {
+  background-image: url("detail-portraits-banner.jpg");
+}
+/* line 327, ../../../sass/van_gogh/main.scss */
+.detail-promos ul li a h3 {
+  color: #fff;
+  float: right;
+  text-align: right;
+  position: absolute;
+  bottom: 10px;
+  right: 15px;
+}
+
+/* line 343, ../../../sass/van_gogh/main.scss */
+#about-paintings-object h2.featured-object-tagline {
+  -webkit-animation-delay: 1.4s;
+  -moz-animation-delay: 1.4s;
+  animation-delay: 1.4s;
+}
+/* line 349, ../../../sass/van_gogh/main.scss */
+#about-paintings-object .featured-objects {
+  margin-bottom: 20px;
+}
+/* line 353, ../../../sass/van_gogh/main.scss */
+#about-paintings-object .featured-objects li.featured-object-1 {
+  -webkit-animation-delay: 0.4s;
+  -moz-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+/* line 359, ../../../sass/van_gogh/main.scss */
+#about-paintings-object .featured-objects li.featured-object-2 {
+  -webkit-animation-delay: 0.8s;
+  -moz-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+}
+/* line 365, ../../../sass/van_gogh/main.scss */
+#about-paintings-object .featured-objects li.featured-object-3 {
+  -webkit-animation-delay: 1.2s;
+  -moz-animation-delay: 1.2s;
+  animation-delay: 1.2s;
+}
+/* line 374, ../../../sass/van_gogh/main.scss */
+#about-paintings-object .panel {
+  width: 100%;
+}
+
+/* line 380, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz {
+  max-width: 1000px;
+  margin: 20px 0;
+  color: #fff;
+  background: #153042 url("VanGogh--Bedroom--1889--ArtInstituteChicago--1025.jpg") no-repeat 0 0;
+  background-size: cover;
+}
+/* line 387, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container {
+  background: rgba(21, 48, 66, 0.5);
+  width: 100%;
+  min-height: 650px;
+  position: relative;
+  overflow: hidden;
+  padding: 30px 50px;
+}
+/* line 395, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container h1 {
+  color: #fff;
+  margin: 0 0 1rem;
+  line-height: 1.1;
+}
+/* line 400, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container h1 span {
+  display: block;
+}
+/* line 405, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container h2 {
+  margin: 0 0 1rem;
+  color: #c88c2b;
+}
+/* line 412, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container > div::after {
+  content: "";
+  display: table;
+}
+/* line 419, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-progress {
+  background-color: transparent;
+}
+/* line 422, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-progress > div {
+  position: relative;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  opacity: 0.5;
+  transition: opacity 1s;
+  text-align: center;
+  /*
+    all questions have class "incorrect" until answered
+    need to either fix or let these be nested to
+    account for this quirk
+  */
+}
+/* line 432, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-progress > div::after {
+  content: '';
+  font-family: FontAwesome;
+  display: block;
+  width: 30px;
+  height: 30px;
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  color: #fff;
+}
+/* line 448, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-progress > div.correct {
+  opacity: 1;
+}
+/* line 450, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-progress > div.correct::after {
+  content: '\f058';
+  color: #fff;
+}
+/* line 461, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-progress > div.incorrect {
+  opacity: 1;
+}
+/* line 463, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-progress > div.incorrect::after {
+  content: '\f057';
+  color: #fff;
+}
+/* line 467, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-progress > div.incorrect.unanswered {
+  opacity: 0.5;
+}
+/* line 469, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-progress > div.incorrect.unanswered::after {
+  content: '\f111';
+  color: #fff;
+}
+/* line 476, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-progress > div.incorrect.on {
+  opacity: 1;
+}
+/* line 485, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .intro {
+  left: 1100px;
+}
+/* line 488, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .intro .portrait {
+  margin-right: 15px;
+}
+/* line 492, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .intro .button {
+  margin: 20px auto;
+}
+/* line 497, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container {
+  left: 1100px;
+}
+/* line 500, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .question {
+  margin-bottom: 0.5rem;
+}
+/* line 504, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .answer {
+  font-size: 1.1rem;
+  width: 48%;
+  margin: 1%;
+  vertical-align: middle;
+}
+/* line 510, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .answer.tall {
+  min-height: 84px;
+}
+@media only screen and (max-width: 750px) {
+  /* line 510, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .question-container .answer.tall {
+    min-height: 102px;
+  }
+}
+/* line 518, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .answer::after {
+  content: '';
+  font-family: FontAwesome;
+  display: block;
+  width: 20px;
+  height: 20px;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+/* line 532, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .answer.selected {
+  background-color: #880000;
+}
+/* line 534, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .answer.selected::after {
+  content: "\f057";
+  color: #fff;
+}
+/* line 540, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .answer.correct {
+  background-color: #00aa00;
+}
+/* line 542, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .answer.correct::after {
+  content: "\f058";
+  color: #fff;
+}
+/* line 548, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .answer.image {
+  min-height: 80px;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  border: 1px solid #c88c2b;
+}
+/* line 555, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .answer.image.selected {
+  border-color: #880000;
+}
+/* line 557, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .answer.image.selected::after {
+  color: #fff;
+}
+/* line 562, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .answer.image.correct {
+  border-color: #00aa00;
+}
+/* line 564, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .answer.image.correct::after {
+  color: #fff;
+}
+/* line 573, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .feedback {
+  border-top: 1px solid #8ea8b4;
+  padding: 10px 20px;
+  margin-top: 50px;
+  transition: opacity 1.5s, margin-top 1.5s, margin-top 1.5s;
+  visibility: hidden;
+  opacity: 0;
+}
+/* line 580, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .feedback p {
+  margin-bottom: 10px;
+}
+/* line 582, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .feedback p:last-child {
+  margin-bottom: 0;
+}
+/* line 586, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .feedback .lyrics {
+  margin: 3% 2% 2% 3%;
+}
+/* line 589, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container .feedback .lyrics p {
+  margin: 0;
+  line-height: 1.3;
+  text-indent: -2%;
+}
+/* line 598, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container.unanswered .answer {
+  cursor: pointer;
+}
+/* line 604, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container.answered .answer {
+  cursor: default;
+}
+/* line 606, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container.answered .answer:not(.correct):not(.incorrect):not(.selected):hover {
+  background-color: #c88c2b;
+}
+/* line 610, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container.answered .feedback {
+  visibility: visible;
+  opacity: 1;
+  margin-top: 10px;
+}
+/* line 619, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .results {
+  left: 1100px;
+}
+/* line 622, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .results .quiz-ticket-btn {
+  margin: 10px 0;
+}
+/* line 624, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .results .quiz-ticket-btn a {
+  margin: 0 10px 0 0;
+}
+/* line 628, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .results .portrait {
+  margin-right: 10px;
+  max-width: 300px;
+}
+/* line 42, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .results .share-results::before, #vangogh-quiz .quiz-container .results .share-results::after {
+  content: " ";
+  display: table;
+}
+/* line 43, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .results .share-results::after {
+  clear: both;
+}
+/* line 636, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .results .share-results h3 {
+  color: #fff;
+  font-size: 12px;
+}
+/* line 641, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .results .share-results .share-facebook {
+  background-color: #3b5999;
+}
+/* line 643, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .results .share-results .share-facebook:hover {
+  background-color: #344e87;
+}
+/* line 648, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .results .share-results .share-twitter {
+  background-color: #55ACEE;
+}
+/* line 650, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .results .share-results .share-twitter:hover {
+  background-color: #3ea1ec;
+}
+/* line 659, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-outer-wrapper {
+  width: 100%;
+  margin-top: 20px;
+  position: relative;
+  overflow: hidden;
+}
+/* line 666, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-inner-wrapper {
+  width: 100%;
+  min-height: 550px;
+}
+/* line 670, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-inner-wrapper .intro,
+#vangogh-quiz .quiz-container .quiz-inner-wrapper .question-container {
+  width: 100%;
+  height: 100%;
+}
+/* line 676, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-inner-wrapper > div {
+  position: absolute;
+  padding: 20px;
+  max-width: 900px;
+  background: rgba(21, 48, 66, 0.5);
+}
+/* line 42, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-inner-wrapper > div::before, #vangogh-quiz .quiz-container .quiz-inner-wrapper > div::after {
+  content: " ";
+  display: table;
+}
+/* line 43, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-inner-wrapper > div::after {
+  clear: both;
+}
+/* line 683, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-inner-wrapper > div::before {
+  content: "";
+  display: table;
+}
+/* line 687, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .quiz-inner-wrapper > div::after {
+  clear: both;
+}
+/* line 694, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .active,
+#vangogh-quiz .quiz-container .inactive {
+  transition: left 1.5s ease-in-out;
+}
+/* line 699, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .intro.inactive,
+#vangogh-quiz .quiz-container .question-container.inactive.answered {
+  left: -1350px;
+  width: 100%;
+}
+/* line 705, ../../../sass/van_gogh/main.scss */
+#vangogh-quiz .quiz-container .question-container.active.answered,
+#vangogh-quiz .quiz-container .active {
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* line 720, ../../../sass/van_gogh/main.scss */
+#ask-vincent .message {
+  padding: 7% 13%;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  color: white;
+}
+/* line 727, ../../../sass/van_gogh/main.scss */
+#ask-vincent p {
+  font-weight: 300;
+  font-size: 120%;
+  line-height: 1.5;
+}
+/* line 733, ../../../sass/van_gogh/main.scss */
+#ask-vincent .ellipses {
+  width: 100px;
+  margin: 0 auto;
+}
+/* line 736, ../../../sass/van_gogh/main.scss */
+#ask-vincent .ellipses span {
+  display: inline-block;
+  font-size: 5rem;
+  line-height: 1;
+  -webkit-animation: ellipsis 1s linear infinite;
+  -moz-animation: ellipsis 1s linear infinite;
+  -ms-animation: ellipsis 1s linear infinite;
+  animation: ellipsis 1s linear infinite;
+}
+/* line 745, ../../../sass/van_gogh/main.scss */
+#ask-vincent .ellipses span:nth-child(2) {
+  -webkit-animation-delay: 0.2s;
+  -moz-animation-delay: 0.2s;
+  -ms-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+}
+/* line 752, ../../../sass/van_gogh/main.scss */
+#ask-vincent .ellipses span:nth-child(1) {
+  -webkit-animation-delay: 0.4s;
+  -moz-animation-delay: 0.4s;
+  -ms-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+/* line 763, ../../../sass/van_gogh/main.scss */
+#ask-vincent .row.asker {
+  padding-left: 85px;
+  background: url(userIcon.png) no-repeat 5px 75px;
+  background-size: 75px;
+}
+/* line 767, ../../../sass/van_gogh/main.scss */
+#ask-vincent .row.asker::before {
+  content: "\25C0";
+  position: absolute;
+  left: 80px;
+  margin-top: 95px;
+  color: #8ea8b4;
+  font-size: 26px;
+}
+/* line 775, ../../../sass/van_gogh/main.scss */
+#ask-vincent .row.asker .message {
+  background: #8ea8b4;
+  border: 5px solid #1f5a75;
+  border-left: 0;
+  border-top: 0;
+}
+/* line 783, ../../../sass/van_gogh/main.scss */
+#ask-vincent .row.vincent {
+  padding-right: 100px;
+  background: url(keyHole-vangogh.png) no-repeat right 55px;
+  background-size: 83px;
+}
+/* line 787, ../../../sass/van_gogh/main.scss */
+#ask-vincent .row.vincent::before {
+  content: "\25B6";
+  position: absolute;
+  right: 80px;
+  margin-top: 95px;
+  color: #c88c2b;
+  font-size: 26px;
+}
+/* line 795, ../../../sass/van_gogh/main.scss */
+#ask-vincent .row.vincent .message {
+  background: #c88c2b;
+  border: 5px solid #876138;
+  border-top: 0;
+  border-right: 0;
+  font-style: italic;
+}
+
+/* line 809, ../../../sass/van_gogh/main.scss */
+#offers h3 span {
+  display: block;
+  color: #8ea8b4;
+}
+/* line 814, ../../../sass/van_gogh/main.scss */
+#offers ul {
+  margin-bottom: 1rem;
+}
+
+/* line 820, ../../../sass/van_gogh/main.scss */
+#videos .video-thumbnails li {
+  padding-top: 10px;
+  background-color: white;
+  transition: background 1s;
+  cursor: pointer;
+}
+/* line 826, ../../../sass/van_gogh/main.scss */
+#videos .video-thumbnails li.active {
+  background-color: #ccc;
+  cursor: default;
+}
+
+/* line 834, ../../../sass/van_gogh/main.scss */
+#timeline {
+  color: #153042;
+}
+/* line 837, ../../../sass/van_gogh/main.scss */
+#timeline h1, #timeline h2, #timeline h3 {
+  font-family: 'Averia Serif Libre', cursive;
+  font-weight: 700;
+  margin: auto;
+  line-height: 1.2;
+}
+/* line 844, ../../../sass/van_gogh/main.scss */
+#timeline h2 {
+  font-style: italic;
+}
+/* line 848, ../../../sass/van_gogh/main.scss */
+#timeline .image img {
+  width: 100%;
+}
+@media only screen and (min-width: 640px) {
+  /* line 851, ../../../sass/van_gogh/main.scss */
+  #timeline h3 {
+    padding-left: 4rem;
+    font-size: 1.3rem;
+  }
+}
+/* line 857, ../../../sass/van_gogh/main.scss */
+#timeline .timeline-section {
+  margin: 4rem 0 8rem;
+  position: relative;
+}
+@media only screen and (min-width: 640px) {
+  /* line 857, ../../../sass/van_gogh/main.scss */
+  #timeline .timeline-section {
+    margin: 4rem 0;
+  }
+}
+/* line 865, ../../../sass/van_gogh/main.scss */
+#timeline .timeline-section .image {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+/* line 869, ../../../sass/van_gogh/main.scss */
+#timeline .timeline-section .image p.caption {
+  font-size: 80%;
+  line-height: 1.2;
+  text-align: left;
+}
+/* line 877, ../../../sass/van_gogh/main.scss */
+#timeline .timeline-section .card p, #timeline .timeline-section p.card {
+  border: 1px solid #8ea8b4;
+  padding: 1rem 1.2rem;
+  line-height: 1.4;
+}
+/* line 883, ../../../sass/van_gogh/main.scss */
+#timeline .timeline-section .card p {
+  margin: 1.5rem 0 3rem;
+}
+/* line 887, ../../../sass/van_gogh/main.scss */
+#timeline .timeline-section p.card {
+  margin: 4rem 0;
+}
+@media only screen and (max-width: 640px) {
+  /* line 892, ../../../sass/van_gogh/main.scss */
+  #timeline .timeline-section p.card {
+    width: calc(100% - 2rem);
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
+}
+@media only screen and (min-width: 760px) {
+  /* line 902, ../../../sass/van_gogh/main.scss */
+  #timeline .up-3 {
+    margin-top: -3rem;
+  }
+  /* line 903, ../../../sass/van_gogh/main.scss */
+  #timeline .up-7 {
+    margin-top: -7rem;
+  }
+  /* line 904, ../../../sass/van_gogh/main.scss */
+  #timeline .up-10 {
+    margin-top: -10rem;
+  }
+  /* line 905, ../../../sass/van_gogh/main.scss */
+  #timeline .up-14 {
+    margin-top: -14rem;
+  }
+  /* line 906, ../../../sass/van_gogh/main.scss */
+  #timeline .pad-0 {
+    padding: 0;
+  }
+  /* line 907, ../../../sass/van_gogh/main.scss */
+  #timeline .mb-4 {
+    margin-bottom: 4rem;
+  }
+  /* line 908, ../../../sass/van_gogh/main.scss */
+  #timeline .mt-5 {
+    margin-top: 5rem;
+  }
+}
+
+/* line 913, ../../../sass/van_gogh/main.scss */
+#footer {
+  background: #8ea8b4;
+}
+/* line 916, ../../../sass/van_gogh/main.scss */
+#footer .events .view-all-events {
+  margin: 5px 0;
+  text-align: right;
+}
+/* line 919, ../../../sass/van_gogh/main.scss */
+#footer .events .view-all-events a {
+  color: #153042;
+}
+/* line 921, ../../../sass/van_gogh/main.scss */
+#footer .events .view-all-events a:hover {
+  color: #0f222f;
+}
+/* line 926, ../../../sass/van_gogh/main.scss */
+#footer .events .event {
+  padding: 1rem 1rem 1rem 0;
+  display: table;
+}
+/* line 930, ../../../sass/van_gogh/main.scss */
+#footer .events .event .event-date {
+  width: 6rem;
+  margin: 0 auto 1rem;
+  display: table-cell;
+  width: auto;
+}
+/* line 936, ../../../sass/van_gogh/main.scss */
+#footer .events .event .event-date .event-month {
+  margin: 0;
+  background: #153042;
+  color: #fff;
+  padding: 0.25rem 1rem;
+  text-align: center;
+}
+/* line 945, ../../../sass/van_gogh/main.scss */
+#footer .events .event .event-date .event-day {
+  margin: 0;
+  border: 1px solid #153042;
+  color: #153042;
+  background-color: #fff;
+  padding: 0 1rem;
+  text-align: center;
+  font-size: 1.5rem;
+}
+/* line 957, ../../../sass/van_gogh/main.scss */
+#footer .events .event .event-desc {
+  padding: 0 0 0 1rem;
+  text-align: left;
+  display: table-cell;
+  vertical-align: top;
+}
+/* line 963, ../../../sass/van_gogh/main.scss */
+#footer .events .event .event-desc h4 {
+  margin: 0 0 0.5rem 0;
+  padding: 0;
+  font-size: 1.3rem;
+  line-height: 1.1;
+}
+/* line 968, ../../../sass/van_gogh/main.scss */
+#footer .events .event .event-desc h4 a {
+  color: #153042;
+}
+/* line 970, ../../../sass/van_gogh/main.scss */
+#footer .events .event .event-desc h4 a:hover {
+  color: #c88c2b;
+}
+/* line 976, ../../../sass/van_gogh/main.scss */
+#footer .events .event .event-desc .event-desc-detail {
+  margin: 0 0 0.5rem;
+  padding: 0;
+}
+/* line 979, ../../../sass/van_gogh/main.scss */
+#footer .events .event .event-desc .event-desc-detail span {
+  display: block;
+  font-size: 90%;
+  line-height: 1.4;
+}
+/* line 991, ../../../sass/van_gogh/main.scss */
+#footer .promos .promo {
+  position: relative;
+  margin-bottom: 20px;
+  background-position: top center;
+  background-repeat: no-repeat;
+  min-height: 125px;
+  display: block;
+  width: 100%;
+  max-width: 400px;
+}
+/* line 1002, ../../../sass/van_gogh/main.scss */
+#footer .promos .promo h4 {
+  position: absolute;
+  right: 15px;
+  bottom: 0;
+  text-align: right;
+  color: #fff;
+}
+/* line 1016, ../../../sass/van_gogh/main.scss */
+#footer .sitemap .side-nav li > ul {
+  list-style-type: none;
+}
+/* line 1019, ../../../sass/van_gogh/main.scss */
+#footer .sitemap .side-nav li a.button {
+  color: #fff;
+}
+/* line 1023, ../../../sass/van_gogh/main.scss */
+#footer .sitemap .side-nav li a:not(.button) {
+  color: #153042;
+}
+/* line 1025, ../../../sass/van_gogh/main.scss */
+#footer .sitemap .side-nav li a:not(.button):hover {
+  color: #0f222f;
+}
+/* line 1029, ../../../sass/van_gogh/main.scss */
+#footer .sitemap .side-nav .button-group {
+  margin-left: 15px;
+}
+
+/* line 1036, ../../../sass/van_gogh/main.scss */
+#social-stripe {
+  background-color: #153042;
+  padding: 5px 20px;
+}
+/* line 42, ../../../sass/van_gogh/main.scss */
+#social-stripe::before, #social-stripe::after {
+  content: " ";
+  display: table;
+}
+/* line 43, ../../../sass/van_gogh/main.scss */
+#social-stripe::after {
+  clear: both;
+}
+/* line 1039, ../../../sass/van_gogh/main.scss */
+#social-stripe a {
+  color: #fff;
+}
+/* line 1041, ../../../sass/van_gogh/main.scss */
+#social-stripe a:hover {
+  color: #c88c2b;
+}
+/* line 1046, ../../../sass/van_gogh/main.scss */
+#social-stripe .aic-info p {
+  margin: 3px 0 0;
+}
+
+/* line 1051, ../../../sass/van_gogh/main.scss */
+#sponsors {
+  background-color: #a4a4a4;
+}
+/* line 1054, ../../../sass/van_gogh/main.scss */
+#sponsors p {
+  font-size: 0.75rem;
+  line-height: 1.4;
+  margin-bottom: 0.6rem;
+}
+/* line 1060, ../../../sass/van_gogh/main.scss */
+#sponsors h3 {
+  font-size: 1.1rem;
+}
+/* line 1064, ../../../sass/van_gogh/main.scss */
+#sponsors h4 {
+  font-size: 1rem;
+}
+/* line 1068, ../../../sass/van_gogh/main.scss */
+#sponsors .sponsor-icons {
+  margin-bottom: 1.5rem;
+}
+/* line 1070, ../../../sass/van_gogh/main.scss */
+#sponsors .sponsor-icons .sponsor-chase {
+  margin-bottom: 25px;
+}
+
+/* line 1077, ../../../sass/van_gogh/main.scss */
+.animate {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-timing-function: ease-in-out;
+  -moz-animation-timing-function: ease-in-out;
+  -o-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+}
+
+/* line 1088, ../../../sass/van_gogh/main.scss */
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+}
+
+@keyframes slide {
+  0%, 35% {
+    transform: translateY(0px);
+  }
+  50%, 85% {
+    transform: translateY(-25px);
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes ellipsis {
+  0% {
+    color: transparent;
+  }
+  50% {
+    color: #153042;
+  }
+  100% {
+    color: transparent;
+  }
+}
+@media only screen and (min-width: 850px) and (max-width: 1120px) {
+  /* line 1133, ../../../sass/van_gogh/main.scss */
+  .top-bar .name h1 a {
+    width: 317px;
+  }
+  /* line 1141, ../../../sass/van_gogh/main.scss */
+  .top-bar .top-bar-section ul {
+    li: li a;
+    li-font-size: 12px;
+    li-padding-right: 0.5rem;
+  }
+  /* line 1142, ../../../sass/van_gogh/main.scss */
+  .top-bar .top-bar-section ul.left, .top-bar .top-bar-section ul.right {
+    padding-top: 0;
+    position: absolute;
+    right: 0;
+  }
+  /* line 1153, ../../../sass/van_gogh/main.scss */
+  .top-bar .top-bar-section .left {
+    top: 0;
+  }
+  /* line 1156, ../../../sass/van_gogh/main.scss */
+  .top-bar .top-bar-section .right {
+    top: 36px;
+  }
+}
+@media only screen and (min-width: 640px) and (max-width: 849px) {
+  /* line 1164, ../../../sass/van_gogh/main.scss */
+  .top-bar {
+    height: 125px;
+  }
+  /* line 1167, ../../../sass/van_gogh/main.scss */
+  .top-bar .cta-nav {
+    position: absolute;
+    right: 0;
+  }
+  /* line 1173, ../../../sass/van_gogh/main.scss */
+  .top-bar .top-bar-section ul.left {
+    position: absolute;
+    padding-top: 0;
+    left: 0;
+    top: 75px;
+  }
+  /* line 1179, ../../../sass/van_gogh/main.scss */
+  .top-bar .top-bar-section ul.right {
+    padding-top: 0;
+    top: 20px;
+  }
+}
+@media only screen and (max-width: 900px) {
+  /* line 1191, ../../../sass/van_gogh/main.scss */
+  #about-paintings .clearing-thumbs li:last-child > div, #about-paintings-object .clearing-thumbs li:last-child > div {
+    float: none;
+  }
+}
+@media only screen and (max-width: 640px) {
+  /* line 1205, ../../../sass/van_gogh/main.scss */
+  .top-bar .top-bar-section ul.left {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  /* line 1208, ../../../sass/van_gogh/main.scss */
+  .top-bar .top-bar-section ul.left li a {
+    font-size: 1rem;
+  }
+  /* line 1212, ../../../sass/van_gogh/main.scss */
+  .top-bar .top-bar-section ul.cta-nav li {
+    margin: 5px 0 0 0;
+  }
+  /* line 1214, ../../../sass/van_gogh/main.scss */
+  .top-bar .top-bar-section ul.cta-nav li .button {
+    font-size: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  /* line 1223, ../../../sass/van_gogh/main.scss */
+  #home {
+    min-height: 0;
+    padding-top: 80%;
+    background-size: contain;
+  }
+  /* line 1227, ../../../sass/van_gogh/main.scss */
+  #home #keyhole {
+    display: none;
+  }
+
+  /* line 1233, ../../../sass/van_gogh/main.scss */
+  section#quiz, section#quiz .small-12.columns {
+    padding: 0;
+  }
+
+  /* line 1238, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz {
+    background-position: center center;
+    margin: 0;
+  }
+  /* line 1242, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container {
+    padding: 10px 20px;
+  }
+  /* line 1243, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container h1 {
+    margin-bottom: 0;
+  }
+  /* line 1248, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .intro {
+    text-align: center;
+  }
+  /* line 1250, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .intro .portrait.left {
+    float: none !important;
+    margin: 0 auto 10px;
+    width: 100px;
+  }
+  /* line 1255, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .intro .button {
+    width: 100%;
+  }
+  /* line 1257, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .intro .button.right {
+    float: none !important;
+  }
+  /* line 1263, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .question-container {
+    background: rgba(21, 48, 66, 0.8);
+  }
+  /* line 1265, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .question-container h2.question {
+    font-size: 1rem;
+    color: #fff;
+    text-transform: none;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    text-shadow: none;
+  }
+  /* line 1272, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .question-container .answer {
+    width: 100%;
+    margin: 5px 0;
+  }
+  /* line 1275, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .question-container .answer.tall {
+    min-height: auto;
+  }
+  /* line 1279, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .question-container .feedback {
+    padding: 10px 0;
+  }
+  /* line 1281, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .question-container .feedback .button.small {
+    width: 100%;
+  }
+  /* line 1288, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .question-container.answered .answer:not(.correct):not(.incorrect):not(.selected) {
+    opacity: 0;
+    display: none;
+  }
+  /* line 1297, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .results .portrait {
+    float: none !important;
+    margin-bottom: 10px;
+  }
+  /* line 1301, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .results p {
+    line-height: 1.2;
+  }
+  /* line 1304, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container .results .share-results a {
+    width: 49%;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+  }
+  /* line 1312, ../../../sass/van_gogh/main.scss */
+  #vangogh-quiz .quiz-container,
+  #vangogh-quiz .quiz-container .quiz-inner-wrapper,
+  #vangogh-quiz .quiz-container .question-container.active.answered,
+  #vangogh-quiz .quiz-container .active,
+  #vangogh-quiz .quiz-container .intro,
+  #vangogh-quiz .quiz-container .intro.inactive,
+  #vangogh-quiz .quiz-container .question-container.inactive.answered {
+    min-height: 700px;
+  }
+
+  /* line 1329, ../../../sass/van_gogh/main.scss */
+  #footer .events li {
+    width: 100%;
+  }
+  /* line 1332, ../../../sass/van_gogh/main.scss */
+  #footer .events .event {
+    width: 100%;
+  }
+  /* line 1334, ../../../sass/van_gogh/main.scss */
+  #footer .events .event .event-date {
+    width: 75px;
+  }
+  /* line 1339, ../../../sass/van_gogh/main.scss */
+  #footer .features {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #fff;
+  }
+
+  /* line 1347, ../../../sass/van_gogh/main.scss */
+  #social-stripe .aic-info p {
+    text-align: center;
+    margin-bottom: 5px;
+  }
+  /* line 1351, ../../../sass/van_gogh/main.scss */
+  #social-stripe .social-icons.right {
+    text-align: center;
+    float: none !important;
+  }
+}
+@media only screen and (max-width: 430px) {
+  /* line 1361, ../../../sass/van_gogh/main.scss */
+  .top-bar .toggle-topbar.menu-icon a span {
+    visibility: hidden;
+  }
+  /* line 1363, ../../../sass/van_gogh/main.scss */
+  .top-bar .toggle-topbar.menu-icon a span::after {
+    visibility: visible;
+  }
+}
+@media only screen and (max-width: 390px) {
+  /* line 1370, ../../../sass/van_gogh/main.scss */
+  .top-bar {
+    height: auto;
+  }
+  /* line 1373, ../../../sass/van_gogh/main.scss */
+  .top-bar .title-area .menu-icon {
+    display: none;
+  }
+}
+/* line 1381, ../../../sass/van_gogh/main.scss */
+.metablock .alert-box {
+  margin-top: 10px;
+  background: #c88c2b;
+  border-color: #c88c2b;
+  font-weight: bold;
+  transition: background-color 300ms ease-out;
+}
+/* line 1387, ../../../sass/van_gogh/main.scss */
+.metablock .alert-box:hover {
+  background: #b37d26;
+  border-color: #b37d26;
+}
+
+/* fraction styles */
+/* line 1395, ../../../sass/van_gogh/main.scss */
+.fractNum {
+  font-size: 9px;
+  vertical-align: top;
+}
+
+/* line 1399, ../../../sass/van_gogh/main.scss */
+.fractDenom {
+  font-size: 9px;
+  vertical-align: baseline;
+}

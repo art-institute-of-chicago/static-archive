@@ -1,0 +1,405 @@
+/* Colors 
+
+NY #E35205
+Chicago #62b5e5
+LA #bb16a3
+the green #76881d
+grey for navigation bar: #666
+grey for background on city pages: #CCC
+
+*/
+
+/* Fonts 
+  Helvetica Neue, Arial, Helvetica, sans-serif;
+*/
+
+body {
+  background-color: #e5e5e5;
+  color: #000;
+}
+
+a {
+  color: #76881d;
+}
+
+a:hover,
+a:focus {
+  color: #76881d;
+}
+
+blockquote,
+blockquote p {
+  border: 0 none;
+  color: #000;
+}
+
+/*
+ * Nav Styles
+ */ 
+
+.top-bar {
+  height: 35px;
+  line-height: 35px;
+  background-color: #76881d;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+  line-height: 35px;
+  background-color: #76881d;
+  padding: 0 10px; 
+}
+
+.top-bar-section li:not(.has-form) a:hover:not(.button) {
+  background-color: #666;
+}
+
+.city-pages li span {
+  display: none;
+}
+
+.top-bar .toggle-topbar.menu-icon {
+  margin-top: 0;
+  top: 0;
+}
+
+.top-bar .name {
+  height: 35px;
+}
+
+.top-bar-section .city-pages li:not(.has-form) a:not(.button) {
+  padding: 0 15px;
+  font-weight: bold;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.top-bar-section .city-pages li.new-york:not(.has-form) a:not(.button) {
+  background-color: #E35205;
+}
+
+.top-bar-section .city-pages li.chicago:not(.has-form) a:not(.button) {
+  background-color: #62b5e5;
+}
+
+.top-bar-section .city-pages li.los-angeles:not(.has-form) a:not(.button) {
+  background-color: #bb16a3;
+}
+
+.page-new-york .top-bar-section .city-pages li.new-york:not(.has-form) a:not(.button),
+.page-chicago .top-bar-section .city-pages li.chicago:not(.has-form) a:not(.button),
+.page-los-angeles .top-bar-section .city-pages li.los-angeles:not(.has-form) a:not(.button),
+.top-bar-section .city-pages li:not(.has-form) a:hover:not(.button) {
+  background-color: #666;
+}
+
+.top-bar-section ul li {
+  background-color: #76881d;
+}
+
+.top-bar-section .twitter img {
+  height: 25px;
+}
+
+/*
+ * Header Styles
+ */
+
+.header {
+  width: 100%;
+  color: #fff;
+  background-color: #666;
+  padding: 10px 0;
+}
+
+.header .logo {
+  margin: 0 20px 10px 0;
+}
+
+.header .exhibition-title {
+  margin-bottom: 5px;
+}
+
+.header .exhibition-dates {
+  font-size: 0.8rem;
+  line-height: 1.15rem;
+  margin-bottom: 0;
+}
+
+h1 {
+  color: #666;
+  font-weight: bold;
+  margin-bottom: 0; 
+}
+
+.image-row {
+  margin-bottom: 30px; 
+}
+
+.image-row .caption {
+  font-size: 1.1rem;
+  text-align: center;
+  margin-top: 0.25rem;
+}
+
+.image-row .caption .more-info-link {
+  display: block;
+  font-weight: bold;
+}
+
+.image-row .more-info {
+  text-align: left;
+}
+
+/*
+ * Splash page...yeah splash page
+ */
+
+.page-home,
+.page-home .header {
+  background-color: #76881d;
+}
+
+.page-home .caption {
+  font-size: 80%;
+}
+
+.page-home a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.page-home .main-image {
+  width: 100%;
+}
+
+.page-home .header {
+  padding: 20px 0;
+}
+
+.page-home .header .exhibition-dates { 
+  font-size: 1rem;
+  line-height: 1.4rem;
+}
+
+
+/*
+ * City stripes page
+ */ 
+
+.city-stripes > div {
+  height: 200px;
+  width: 100%;
+  background-position: center center;
+  cursor: pointer;
+  text-align: center;
+  position: relative;
+}
+
+.city-stripes h2 {
+  position: absolute;
+  bottom: 10px;
+  left: 10px; 
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.city-stripes > div.new-york-stripe {
+  background-image: url('home_1.jpg');
+}
+
+.city-stripes > div.new-york-stripe h2 a {
+  color: #e35205;
+}
+
+.city-stripes > div.chicago-stripe {
+  background-image: url('home_2.jpg');
+}
+
+.city-stripes > div.chicago-stripe h2 a {
+  color: #62b5e5;
+}
+
+.city-stripes > div.los-angeles-stripe {
+  background-image: url('home_3.jpg');
+}
+
+.city-stripes > div.los-angeles-stripe h2 a {
+  color: #bb16a3;
+}
+
+.page-cities .top-bar,
+.page-cities .top-bar-section {
+  height: 35px;
+  background-color: #666;
+}
+
+.page-cities .top-bar-section li:not(.has-form) a:not(.button) {
+  background-color: #666;
+}
+
+.page-cities .top-bar-section li:not(.has-form) a:hover:not(.button) {
+  background-color: #76881d;
+}
+
+.page-cities .header {
+  padding: 20px 0;
+  background-color: #76881d;
+}
+
+
+/*
+ * Overrides per city page
+ */
+
+/* .page-new-york { */
+
+.page-new-york .header {
+  background-color: #e35205;
+}
+
+.page-new-york h1, 
+.page-new-york a {
+  color: #e35205;
+}
+
+
+/* .page-chicago { */
+
+.page-chicago .header {
+  background-color: #62b5e5;
+}
+
+.page-chicago h1,
+.page-chicago a {
+  color: #62b5e5;
+}
+
+
+/* .page-los-angeles { */
+
+.page-los-angeles .header {
+  background-color: #bb16a3;
+}
+
+.page-los-angeles h1, 
+.page-los-angeles a {
+  color: #bb16a3;
+}
+
+/* large screen */
+@media only screen and (min-width: 64.063em) { 
+
+  .city-pages li span {
+    display: inline;
+  }
+
+  .top-bar-section .city-pages li:not(.has-form) a:not(.button) {
+    padding: 0 45px;
+    text-transform: none;
+  }
+
+  .header .logo {
+    margin: 0 20px 0 0;
+  }
+
+}
+/* medium screens and up */
+@media only screen and (min-width: 40.063em) { 
+
+  .page-cities,
+  .city-stripes {
+    width: 100%;
+    height: 100%; 
+    position: relative;
+  }
+
+  .city-stripes > div {
+    width: 33%;
+    height: 98%;
+    float: left;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  .city-stripes h2 {
+    font-size: 3rem;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    left: 0;
+  }
+
+  .city-stripes > div.new-york-stripe {
+    background-image: url('home_1_2x.jpg');
+  }
+
+  .city-stripes > div.new-york-stripe h2 a {
+    color: #e35205;
+  }
+
+  .city-stripes > div.chicago-stripe {
+    width: 34%;
+    background-image: url('home_2_2x.jpg');
+  }
+
+  .city-stripes > div.chicago-stripe h2 a {
+    color: #62b5e5;
+  }
+
+  .city-stripes > div.los-angeles-stripe {
+    background-image: url('home_3_2x.jpg');
+  }
+
+  .city-stripes > div.los-angeles-stripe h2 a {
+    color: #bb16a3;
+  }
+
+  .page-cities .footer {
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+
+  .page-cities .footer .header {
+    padding: 0;
+  }
+
+  .page-cities .header img.logo {
+    margin-top: 20px; 
+    width: 70px;
+  }
+
+  .page-cities .header .exhibition-title {
+    margin: 23px 0 20px;
+  }
+
+  .page-cities .header .exhibition-dates {
+    text-align: right;
+    margin: 58px 15px 0 0;
+  }
+
+  .header .exhibition-title {
+    margin-bottom: 30px;
+  }
+
+
+}
+
+/* small only */
+@media only screen and (max-width: 40em) { 
+
+  .city-pages li span {
+    display: inline;
+  }
+
+  .top-bar-section .city-pages li:not(.has-form) a:not(.button) {
+    text-transform: none;
+  }
+
+}

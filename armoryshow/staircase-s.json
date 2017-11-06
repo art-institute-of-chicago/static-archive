@@ -1,0 +1,98 @@
+{
+"map"       : "grand-staircase-south_2000.jpg",
+"mapwidth"  : "2000px", 
+"mapheight" : "1352px",
+"areas"     : {
+    "a"  : {
+        "width"   : "80px",
+        "height"  : "795px",
+        "left"    : "0px",
+        "top"     : "195px",
+        "data" : {
+          "ctitle"    : "57 Robert W. Chanler (New York), <em>Screen, Leopard and Deer</em>",
+          "citation"  : "Robert Wintrop Chanler (American, 1872-1930), <em>Screen, Leopard and Deer</em>. La Bergerie/Rokeby Mansion, Barrytown, New York."
+        }
+    },
+    "b"  : {
+        "width"   : "265px",
+        "height"  : "640px",
+        "left"    : "150px",
+        "top"     : "240px",
+        "data" : {
+          "ctitle"    : "58 [probably] Robert W. Chanler (New York), <em>Screen, The jungle</em>",
+          "citation" : "Robert Wintrop Chanler (American, 1872-1930), <em>Jungle Screen</em>. Fonds National d’Art Contemporain, Paris."
+        }
+    },
+    "c"  : {
+        "width"   : "75px",
+        "height"  : "200px",
+        "left"    : "415px",
+        "top"     : "400px",
+        "data" : {
+          "ctitle"    : "55, 56, 59, 61, or 62 Robert W. Chanler, <em>Screen</em>",
+          "citation" : ""
+        }
+    },
+    "d"  : {
+        "width"   : "80px",
+        "height"  : "110px",
+        "left"    : "415px",
+        "top"     : "605px",
+        "data" : {
+          "ctitle"    : "232 1/2 Manuel H. Manolo, <em>Woman Kneeling</em> (Lent by Henry Kahnweiler)",
+          "citation" : "Manolo (Manuel Martinez Hugue) (Spanish, 1872–1945), <em>Kneeling Woman</em>. Bronze. 15 1/2 in. high (39.4 cm). Private collection."
+        }
+    },
+    "e"  : {
+        "width"   : "325px",
+        "height"  : "300px",
+        "left"    : "655px",
+        "top"     : "430px",
+        "data" : {
+          "joyride-stop" : true,
+          "ctitle"    : "60 Robert W. Chanler (New York), <em>Screen, Porcupine</em>",
+          "citation" : "Robert Wintrop Chanler (American, 1872-1930), <em>Screen, Porcupine</em>."
+        }
+    },
+    "g"  : {
+        "width"   : "136px",
+        "height"  : "480px",
+        "left"    : "1230px",
+        "top"     : "465px",
+        "data" : {
+          "ctitle"    : "55, 56, 59, 61, or 62 Robert W. Chanler, <em>Screen</em>",
+          "citation" : ""
+        }
+    },
+    "h"  : {
+        "width"   : "215px",
+        "height"  : "475px",
+        "left"    : "1370px",
+        "top"     : "290px",
+        "data" : {
+          "ctitle"    : "13 Joseph Bernard, <em>Girl with pitcher</em>",
+          "citation" : "Joseph Bernard (French, 1866&ndash;1931), <em>Girl with Pitcher</em>, 1912. Plaster. 21 x 6 3/4 x 11 1/8 in. (53.3 x 17.2 x 28.3 cm). Mus&eacute;e de Lyon."
+        }
+    },
+    "i"  : {
+        "width"   : "160px",
+        "height"  : "925px",
+        "left"    : "1585px",
+        "top"     : "315px",
+        "data" : {
+          "ctitle"    : "55, 56, 59, 61, or 62 Robert W. Chanler, <em>Screen</em>",
+          "citation" : ""
+        }
+    },
+    "j"  : {
+        "width"   : "184px",
+        "height"  : "525px",
+        "left"    : "1815px",
+        "top"     : "330px",
+        "data" : {
+          "ctitle"    : "225 Aristide Maillol, <em>Woman standing</em>",
+          "citation" : ""
+        }
+    }
+}
+}

@@ -1,0 +1,1292 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_be92d4ff7d076d7e6b96725d533d09ee) -->
+<!-- From the cache. (666fc1cf98adeca5cf4f61ba96997a4e_9f168619a974c65a7c76f359c9640811) -->
+<!-- From the cache. (d3d5e458996b1fa09e0038ef60ea62ba_be92d4ff7d076d7e6b96725d533d09ee) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Portrait Subjects | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-10220.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/aic_Penn.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Penn_hdr.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives">Irving Penn Archives</a> > <a href="../resource/1971">About the Artist and Archive</a> > <span class="sel">Portrait Subjects</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Portrait Subjects</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Irving Penn: Portrait Subjects</strong><br />       <p>Chronological listing of Irving Penn's portrait subjects throughout his entire career, including links to the Art Institute of Chicago's prints.</p><br /><br />
+    	     	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><strong>1944</strong><br>
+Fredric March<br>
+Dorothy Parker<br>
+Margaret Sullavan<br>
+Yves Tanguy and Kay Sage<br>
+James Thurber<br><br>
+
+<strong>1945</strong><br>
+Alfred Lunt and Lynn Fontanne<br>
+Orson Welles<br><br>
+
+<strong>1946</strong><br>
+Milton Avery<br>
+Irina Baronova<br>
+Cecil Beaton<br>
+Ingrid Bergman<br>
+Eugene Berman<br>
+Paul Cadmus<br>
+John Cage<br>
+Alexander Calder<br>
+Henri Cartier-Bresson and Ratna Mohini<br>
+Aaron Copland<br>
+Leon Danielian<br>
+Alexandra Danilova and Frederic Franklin<br>
+Stuart Davis<br>
+Anton Dolin<br>
+Duke Ellington<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157094">Arshile Gorky and Wilfredo Lam</a><br>
+Helen Hayes<br>
+Rosella Hightower<br>
+Danny Kaye<br>
+Nora Kaye, Andr&#233; Eglevsky, and Alicia Alonso<br>
+Emmett Kelly<br>
+Natalie Krassovska<br>
+Leonid<br>
+Nicholas Magallanes<br>
+Marie-Jeanne<br>
+Alicia Markova<br>
+L&#233;onide Massine<br>
+Ogden Nash<br>
+S. J. Perelman<br>
+Walter Piston<br>
+Ringling Brothers Circus Acrobats<br>
+Kurt Seligmann<br>
+Maria Tallchief<br>
+Pavel Tchelitchev<br>
+Virgil Thomson<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144786">Maurice Tillet (The Angel)</a><br>
+<em>Vogue</em> photographers: Serge Balkin, Cecil Beaton, Erwin Blumenfeld, Horst P. Horst, Constantin Joff&#233;, Dorian Leigh (model), George Platt Lynes, Irving Penn (with bulb), and John Rawlings<br>
+Igor Youskevitch<br><br>
+
+
+<strong>1947</strong><br>
+Judith Anderson<br>
+Brooks Atkinson<br>
+W. H. Auden<br>
+George Balanchine and Maria Tallchief<br>
+Bettina Ballard<br>
+Ballet Society: George Balanchine, Leon Barzin, Todd Bolender, William Dollar, Esteban Franc&#233;s, Joan Junyer, Rudi Revil, Kurt Seligmann, and John Taras<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/94526">Ballet Theatre Group</a>: Alicia Alonso, Muriel Bentley, Lucia Chase, Max Goberman, Nora Kaye, John Kriza, Hugh Laing, Dimitri Romanoff, Oliver Smith, Antony Tudor, and Igor Youskevitch<br>
+Theatrical producers of the 1946&#8211;47 season: Richard Aldrich, Kermit Bloomgarden, Cheryl Crawford, Jean Dalrymple, Alfred de Liagre, Jr., Paul Feigay, Max Gordon, Oscar Hammerstein II, Leland Hayward, Theresa Helburn, Lawrence Lagner, Herman Levin, Yolanda Mero-Irion, Brock Pemberton, Richard Rodgers, Lee Sabinson, Irene M. Selznick, Oscar Serlin, Oliver Smith, Robert Whitehead, and John C. Wilson<br>
+Samuel Barber<br>
+Alfred H. Barr, Jr.<br>
+Lucius Beebe<br>
+Dr. William Beebe<br>
+S. N. Behrman<br>
+Ludwig Bemelmans<br>
+William Rose Ben&#233;t<br>
+Eugene Berman<br>
+Leonard Bernstein<br>
+Valerie Bettis<br>
+Peter Blume<br>
+Ray Bolger<br>
+John Mason Brown<br>
+Pearl S. Buck<br>
+Corrado Cagli<br>
+Mrs. Amory S. Carhart, Jr.<br>
+Marc Chagall<br>
+Ren&#233; Clair<br>
+Russel Crouse and Howard Lindsay<br>
+Frank Crowningshield and Edward Steichen<br>
+Eve Curie<br>
+Salvador Dali and Gala<br>
+Alexandra Danilova<br>
+Adolf Dehn<br>
+John Dewey<br>
+Christian Dior<br>
+Todd Duncan<br>
+Agna Enters<br>
+Carl Erickson (Eric)<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144788">Max Ernst and Dorothea Tanning</a><br>
+Maurice Evans<br>
+James T. Farrell<br>
+Lyonel Feininger<br>
+Lion Feuchtwanger<br>
+Betty Field and Elmer Rice<br>
+Geraldine Fitzgerald<br>
+Estaban Franc&#233;s<br>
+Dagmar and Peter Freuchen<br>
+Paul Gallico<br>
+Greer Garson<br>
+John Gielgud<br>
+Dizzy Gillespie<br>
+John Gunther<br>
+Oscar Hammerstein II and Richard Rodgers<br>
+Judge Learned Hand<br>
+Roy Harris<br>
+Moss Hart<br>
+Stanley W. Hayter<br>
+Lillian Hellman<br>
+Wendy Hiller<br>
+Alfred Hitchcock<br>
+Vladimir Horowitz<br>
+Langston Hughes<br>
+William Kapell<br>
+Ulysses Kay<br>
+Elia Kazan<br>
+Frederick Kiesler<br>
+Serge Koussevitzky<br>
+Frank Kovacs<br>
+Wanda Landowska<br>
+Charles Laughton<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/180602">Jacob and Gwendolyn Lawrence</a><br>
+Tanaquil Le Clerq<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157101">Le Corbusier</a><br>
+Eva La Gallienne<br>
+Carlo Levi<br>
+Jack Levine<br>
+Jos&#233; Lim&#243;n<br>
+Walter Lippmann<br>
+Archibald MacLeish<br>
+Frederic March and Florence Eldridge<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/94525">John Marin</a><br>
+Reginald Marsh<br>
+Mary Martin<br>
+Groucho Marx<br>
+Bill Mauldin<br>
+Lauritz Melchoir<br>
+Darius Milhaud<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/180605">Joan Mir&#243;</a><br>
+Ferenc Moln&#225;r<br>
+Carlos Montoya<br>
+Marianne Craig Moore<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144787">George Jean Nathan and H. L. Mencken</a><br>
+Richard Neutra<br>
+<em>New Yorker</em> artists: Charles Addams, Constantin Alaj&#225;lov, Perry Barlow, Whitney Darrow, Jr., Chon Day, Robert J. Day, Richard Decker, Leonard Dove, Helen Hokinson, George Price, Mischa Richter, Carl Rose, Barbara Shermund, Otto Soglow, William Steig, Saul Steinberg, Richard Taylor, and Barney Tobey<br>
+Oscar Niemeyer<br>
+Isamu Noguchi<br>
+Kenneth Patchen<br>
+John Patrick and Dorothy Gish<br>
+Louis Paul<br>
+Abraham Rattner<br>
+Bill Robinson (Bojangles)<br>
+Carl Sandburg<br>
+Jimmy Savo<br>
+Rudolf Serkin<br>
+Eric Sevareid<br>
+Ben Shahn<br>
+Vincent Sheean<br>
+Robert E. Sherwood<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144789">Oliver Smith and Paul and Jane Bowles</a><br>
+Stephen Spender<br>
+Jean Stafford<br>
+Harold Stassen<br>
+Vilhjalmur Stefansson<br>
+Edward Steichen<br>
+Saul Steinberg and Hedda Stern<br>
+Jimmy (James) Stewart<br>
+Rex Stout<br>
+Frank Sullivan<br>
+Josef Szigeti<br>
+Rufino Tamayo<br>
+Allen Tate<br>
+Maggie Teyte<br>
+Dorothy Thompson<br>
+Gene Tierney<br>
+Gene Tunney<br>
+Twelve of the Most Photographed Models of the Period: Marilyn Ambrose, Helen Bennett, Lily Carlson, Lisa Fonssagrives, Elizabeth Gibbons, Kay Hernan, Dana Jenney, Andrea Johnson, Dorian Leigh, Muriel Maxwell, Betty McLauchlen, and Meg Mundy<br>
+Louis Untermeyer<br>
+Peter Ustinov<br>
+John van Druten<br>
+Franklin Watkins<br>
+Max Weber<br>
+Kurt Weill<br>
+E. B. White<br>
+Thornton Wilder<br>
+Edmund Wilson<br>
+P. G. Wodehouse<br>
+Philip Whylie<br>
+Vera Zorina<br><br>
+
+<strong>1948</strong><br>
+Charles and Barbara Addams<br>
+Gilbert Adrian<br>
+Mrs. Lewis Amory and son<br>
+Marian Anderson<br>
+Louis Armstrong<br>
+Claudio Arrau<br>
+Artists and Writers in Milan: Renato Birolli, Beniamino Joppolo, Guiseppe Migneco, Ennio Morlotti, and Vittorio Sereni<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144790"><em>Bacchus and Ariadne</em> Collaboration</a>: George Balanchine, Corrado Cagli, Tanquil Le Clerq, and Vittorio Rieti<br>
+Pierre Balmain<br>
+Balthus <br>
+Jean-Louis Barrault<br>
+Christian B&#233;rard<br>
+Alexander Brailowsky<br>
+John Broderick<br>
+Louis Calhern<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144792">Truman Capote</a><br>
+Hattie Carnegie<br>
+The Casadesus Family<br>
+Antonio Castillo<br>
+Maurice Chevalier<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144797">Child of Florence</a><br>
+Bobby Clark<br>
+Jean Cocteau<br>
+Padric Colum<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144798">P&#232;re Couturier</a><br>
+No&#235;l Coward<br>
+Merce Cunningham<br>
+Andr&#233; Derain<br>
+Julio de Diego<br>
+Agnes de Mille<br>
+Marlene Dietrich<br>
+John Dos Passos<br>
+Paul Draper and Larry Adler<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144796">Marcel Duchamp</a><br>
+The Dusek Brothers<br>
+Duke Ellington<br>
+Mischa Elman<br>
+Mrs. Andr&#233; Embiricos<br>
+Georges Enesco<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157100">Jacques Fath</a><br>
+Jos&#233; Ferrer<br>
+Janet Flanner<br>
+Corey Ford<br>
+Lukas Foss<br>
+Wolcott Gibbs<br>
+Dorothy and Lillian Gish<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144793">Martha Graham</a><br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157097">Walter Gropius</a><br>
+George Grosz<br>
+Jascha Heifetz<br>
+John Hersey<br>
+Italian Architects in Milan: Anna Castelli Ferrieri, Eugenio Gentili, Gabriele Mucchi, Giovanni Romano, Mario Tevarotto, and Marco Zanuso<br>
+Italian Figures in the Arts: Massimo Campigli, Renato Castellani, Eduardo de Filippo and Mme. Titina Carloni, Giocomo Manz&#249;, Marino and Marina Marini, Gio Ponti, Vasco Pratolini, Roberto Rossellini and Anna Magnani, Luchino Visconti, and Elio Vittorini and Eugenio Montale<br>
+Italian Intellectuals in Rome, Caff&egrave; Greco: Afro, Vitaliano Brancati, Pericle Fazzini, Ennio Flaiano, Carlo Levi, Libero de Libero, Mario Mafai, Mirko, Lea Padovani, Aldo Palazzeschi, Sandro Penna, Goffredo Petrassi, Orfeo Tamburi, Renzo Vespignani, and Orson Welles<br>
+Charles James<br>
+Jennifer Jones<br>
+Sebasti&#224; Junyer<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157095">Junyer Brothers</a><br>
+Dr. Alfred Kinsey<br>
+Arthur Koestler<br>
+Fritz Kreisler<br>
+Maxwell Kriendler and John Perona<br>
+Roger Lacouri&#232;re<br>
+Gypsy Rose Lee<br>
+Beatrice Lillie<br>
+Howard Lindsay and Dorothy Stickney<br>
+Joe Louis<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157096">Dora Maar</a><br>
+Loren MacIver<br>
+Mainbocher<br>
+Gian Carlo Menotti<br>
+Yehudi Menuhin<br>
+Nathan Milstein<br>
+Edward Molyneaux<br>
+Erica Morini<br>
+John O'Hara<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144791">Georgia O'Keeffe</a><br>
+S. J. Perelman<br>
+Edith Piaf<br>
+Gregor Piatigorsky<br>
+Enzio Pinza<br>
+Francine du Plessix with Mr. and Mrs. Alexander Liberman<br>
+Post War Designers and Architects in Milan: Franco Albini, Lodovico B. Belgiojoso, Fabrizio Clerici, Piero Fornasetti, Ignazio Gardella, and Enrico Peressutti<br>
+William Primrose<br>
+Madeleine Renaud<br>
+Jerome Robbins<br>
+Marcel Rochas<br>
+Jean and Fran&#231;ois Rostand<br>
+Arthur Rubinstein<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144795">Elsa Schiaparelli</a><br>
+Arthur M. Schlesinger, Jr.<br>
+Artur Schnabel<br>
+Irwin Shaw<br>
+Charles Sheeler<br>
+Songwriters Group: Bob Hilliard, Burton Lane, Richard Lewine, Frederick Loewe, Hugh Martin, and Carl Sigman<br>
+Mrs. William Rhinelander Stewart<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/104813">Igor Stravinsky</a><br>
+Kay Thompson and the Williams Brothers<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144794">Spencer Tracy</a><br>
+Rufino Tamayo<br>
+Helen Traubel<br>
+Mme. Valentina<br>
+Glenway	Wescott <br>
+E. B. White<br>
+Duchess of Windsor<br>
+William Wyler<br><br>
+
+
+<strong>1949</strong><br>
+Juliet Auchincloss<br>
+Norman Parkinson<br>
+Ernesto N. Rogers<br><br>
+
+
+<strong>1950</strong><br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144799">Cecil Beaton</a><br>
+Clive Brook<br>
+Peter Brook<br>
+Pamela Brown<br>
+Richard Burton<br>
+Blaise and Raymone Cendrars<br>
+Dr. Ren&#233; J. Dubos<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157099">T. S. Eliot</a><br>
+Sir Jacob Epstein<br>
+Corey Ford<br>
+Christopher Fry<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/94523">Alberto Giacometti</a><br>
+Cary and Betsy Drake Grant<br>
+Robert Hamer<br>
+Sir Alan P. Herbert<br>
+Eileen Herlie<br>
+Graham Greene<br>
+Aldous Huxley<br>
+Ren&#233;e Jeanmarie<br>
+Sidney Kingsley<br>
+Cecil Day Lewis<br>
+Carson McCullers<br>
+Henry Moore<br>
+Robert Morley<br>
+Eric Portman<br>
+J. B. Priestly<br>
+Victor de Sabata<br>
+Claude Rains<br>
+Margaret Rutherford<br>
+Rhum, the Clown<br>
+Paul Scofield<br>
+Mrs. Walter Den&#232;gre Sohier<br>
+Sir Stanley Spencer<br>
+Graham Sutherland<br>
+Gloria Swanson<br>
+Dr. Selman A. Waksman<br>
+Barbara Ward<br>
+Evelyn Waugh<br><br>
+
+
+<strong>1951</strong><br>
+Goodman Ace<br>
+Fred Allen<br>
+Jack Benny<br>
+Abe Burrows<br>
+Sid Caesar<br>
+Eddie Cantor<br>
+Joyce Cary<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144800">Colette</a><br>
+Bobby Clark<br>
+Paul Claudel<br>
+Maurice de Vlaminck<br>
+Mr. and Mrs. Angier Biddle Duke<br>
+Jean Gabin<br>
+Hadji Thami el Mezouari el Glaoui<br>
+Martyn Green<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144801">Dr. and Mrs. Gilbert H. Grosvenor</a><br>
+General Augustin Guillaume<br>
+Mr. and Mrs. John Gunther<br>
+Audrey Hepburn<br>
+Arthur Honegger<br>
+Louis Jouvet <a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144802">(A)</a> and <a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157090">(D)</a><br>
+Lee Konitz<br>
+Bert Lahr<br>
+Sam Levenson<br>
+Serge Lifar<br>
+William Marshall<br>
+Andr&#233; Minaux<br>
+Edward R. Murrow<br>
+National Gallery of Art: Huntington Cairns, David E. Finley, Macgill James, Colonel Harry A. McBride, and John Walker<br>
+Andr&#233; Roussin<br>
+Dr. Oliver St. John Gogarty<br>
+Maureen Stapleton<br>
+Rufino Tamayo<br>
+Lennie Tristano<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144803">Tennessee Williams</a><br>
+Ed Wynn<br>
+Sultan Mohammed V, Ben Yousef<br><br>
+
+
+<strong>1952</strong><br>
+Dave Brubeck<br>
+Wally Cox<br>
+Betty Furness<br>
+Stan Getz<br>
+Julie Harris<br>
+John LaPorta<br>
+Richard Lippold<br>
+Silvana Mangano<br>
+Vittorio Manunta<br>
+Jimmy Savo<br>
+Phil Silvers<br>
+Smith and Dale<br>
+Saul Steinberg<br>
+Herman Wouk<br>
+Lester Young and Charlie Parker<br><br>
+
+
+<strong>1953</strong><br>
+Peter Brook and Natasha Perry<br>
+Malcolm Muggeridge<br>
+Sophie Tucker<br><br>
+
+
+<strong>1954</strong><br>
+Barbara Bel Geddes<br>
+Ava Gardner<br>
+Mrs. Winston Guest<br>
+Grace Kelly<br>
+Gina Lollabrigida<br>
+Andr&#233; Malroux<br>
+Willie Mays<br>
+Obernkirchen Choir Children<br>
+Mrs. William Paley<br>
+Arthur Penn<br>
+Roberta Peters<br>
+Seven Vintners from Bordeaux<br>
+Fred Zinnemann<br><br>
+
+
+<strong>1955</strong><br>
+Rossano Brazzi<br>
+Gordon Bunshaft<br>
+Paddy Chayefsky<br>
+Duke Ellington and Louis Armstrong<br>
+L. Fritz Gruber<br>
+Patricia Jessel<br>
+Herbert von Karajan<br>
+Viveca Lindfors<br>
+Igor Markevitch<br>
+Ludwig Mies van der Rohe and Philip Johnson<br>
+Charlie Mingus<br>
+Eero Saarinen<br>
+Thornton Wilder<br>
+Shelley Winters<br><br>
+
+
+<strong>1956</strong><br>
+Maria Callas and Battista Meneghini<br>
+Jacques Yves Costeau<br>
+Judy Holliday<br>
+Bert Lahr<br>
+Alexander Liberman<br>
+Mary Martin and Richard Halliday<br>
+Siobhan McKenna<br>
+Ethel Merman<br>
+Vicomtesse de Ribes<br>
+Elisabeth Schwartzkopf<br>
+Dr. Hans Selye<br><br>
+
+
+<strong>1957</strong><br>
+Marcel Achard<br>
+Jean Anouilh<br>
+Marcel Aym&#233;<br>
+Simone de Beauvoir<br>
+Pierre Boulez<br>
+Maurice Druon<br>
+Jean Giono (and Lucien Jacques)<br>
+Hubert de Givenchy<br>
+Mrs. Cleve Gray<br>
+Kay Kendall<br>
+Joseph Kessel<br>
+Fran&#231;ois Mauriac<br>
+New York Theatrical Producers<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/94524">Pablo Picasso</a><br>
+Man Ray<br>
+Germaine Richier<br>
+Fran&#231;oise Sagan<br>
+Yves Saint Laurent<br>
+Ronald Searle<br>
+C&#233;cile Sorel<br>
+Pierre Soulages<br>
+Peter Ustinov<br><br>
+
+
+<strong>1958</strong><br>
+Kenneth Armitage<br>
+Anne Bancroft with Anne Meacham and Joan Plowright<br>
+Hugh Beaumont<br>
+Reg Butler<br>
+Sir Kenneth Clark<br>
+Lynn Chadwick<br>
+Ivy Compton-Burnett<br>
+Cyril Connolly<br>
+Marqu&#233;s and Marquesa de Villaverde<br>
+Charles Eames<br>
+Jane Fonda<br>
+Julian Huxley<br>
+Roberto Iglesias<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/154798">Augustus John</a><br>
+Henry Kissinger<br>
+David Low<br>
+John Osborne<br>
+Tony Richardson<br>
+Philip and Arnold Toynbee<br>
+Kenneth Tynan<br>
+Arthur Waley<br>
+Rebecca West<br><br>
+
+
+<strong>1959</strong><br>
+Friedrich D&#252;rrenmatt<br>
+Jane and Henry Fonda<br>
+Cary Grant<br>
+Frederick Kiesler<br>
+Sophia Loren<br>
+Shirley MacLaine<br>
+Yves Montand<br>
+Maya Plisetskaya<br>
+Cornelius Ryan<br>
+Simone Signoret<br>
+Eight American Artists: William Baziotes, James Brooks, Sam Francis, Philip Guston, Franz Kline, Barnett Newman, Theodoros Stamos, and Jack Tworkov<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157079">Edward Steichen</a><br><br>
+
+
+<strong>1960</strong><br>
+Leonard Bernstein<br>
+Cantinflas (Mario Moreno)<br>
+John F. Kennedy<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144804">Frederick Kiesler and Willem de Kooning</a><br>
+Alexander Liberman<br>
+Gunnel Lindblom<br>
+Melina Mercouri<br>
+Eugene Ormandy<br>
+Piccolo Teatro di Milano<br>
+Isaac Stern<br>
+George Szell<br>
+Elizabeth Taylor<br>
+Bruno Walter<br>
+T. H. White<br><br>
+
+
+<strong>1961</strong><br>
+Warren Beatty<br>
+Douglas Cooper<br>
+Dick Gregory<br>
+The Hannon Sisters<br>
+Hans Hartung<br>
+Eug&#232;ne Ionesco<br>
+Elise and Marcel Jouhandeau<br>
+Mike Nichols and Elaine May<br>
+Rudolf Nureyev<br>
+Harold Pinter and Donald Pleasence<br>
+Leontyne Price<br>
+Lee Remick<br>
+Michael Rennie<br>
+Joan Sutherland<br>
+Antonio T&#224;pies<br><br>
+
+
+<strong>1962</strong><br>
+Edward Albee<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144806">Francis Bacon</a><br>
+Franco Corelli<br>
+Shelagh Delaney<br>
+Mary Fullerton Faulconer<br>
+Christopher Fry<br>
+Robert Graves<br>
+Joseph Heller<br>
+Sol Hurok<br>
+Yousef Karsh<br>
+Sophia Loren with Alberto Moravia, Carlo Ponti, and Vittorio de Sica<br>
+Lorin Maazel<br>
+Marcello Mastroianni<br>
+W. Somerset Maugham<br>
+Henry Moore<br>
+Laurence Olivier<br>
+Robert Osborne<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144805">S. J. Perelman</a><br>
+Harold Pinter<br>
+Peter Shaffer<br>
+Tony Richardson and Rita Tushingham<br>
+Emmanuelle Riva and Claude Mauriac<br>
+William Turnbull<br>
+Arnold Wesker<br><br>
+
+
+
+
+
+<strong>1963</strong><br>
+Anouk Aim&#233;e<br>
+Marquesa de Fayal with her son and father<br>
+Duque and Duquesa de Palmela<br>
+Charlotte Ford<br>
+Max Frisch<br>
+Elia Kazan with Arthur Miller and Robert Whitehead<br>
+Oskar Kokoschka<br>
+Amanda Mortimer<br>
+The Ogilvy Family<br>
+Amalia Rodrigues<br>
+King Umberto II of Italy<br>
+Mrs. Alfred Gynne Vanderbilt<br>
+Fritz Wotruba<br><br>
+
+
+<strong>1964</strong><br>
+Edward Albee and Robert Lowell<br>
+Josef Albers and Jasper Johns<br>
+Harriet Andersson<br>
+Louis Armstrong<br>
+Josephine Baker<br>
+Benedetta Barzini<br>
+Saul Bellow<br>
+Ingmar Bergman<br>
+Albert Bonnier<br>
+Helen Fedorenko<br>
+Crown Prince Gustaf<br>
+King Gustaf VI, Adolf<br>
+Victor Hasselblad<br>
+Audrey Hepburn<br>
+Alan Hovhaness and Edgard Var&#232;se<br>
+P&#228;r Lagerkvist<br>
+Yo-Yo Ma<br>
+Madame Gr&#232;s<br>
+Zero Mostel<br>
+Birgit Nilsson<br>
+George Segal<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144807">David Smith</a> and <a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/180603">(B)</a><br>
+Barbra Streisand<br>
+Hugo Theorell<br>
+Bo Widerberg<br><br>
+
+
+<strong>1965</strong><br>
+Mrs. S. Carter Burden<br>
+Michael Cacoyannis<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144808">Truman Capote</a><br>
+Geraldine Chaplin<br>
+Julie Christie<br>
+Federico Fellini and Giulietta Masina<br>
+Ira F&#252;stenberg<br>
+Hans Hofmann<br>
+Jacques Lipchitz<br>
+Rudolf Nureyev<br>
+Oskar Werner<br><br>
+
+
+<strong>1966</strong><br>
+Paul Bocuse, hands of<br>
+Clement Greenberg<br>
+Marshall McLuhan<br>
+James Michener<br>
+Vladimir Nabokov<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157084">Barnett Newman</a><br>
+Lee Radziwill<br>
+Ad Reinhardt<br>
+Nelson Rockefeller<br>
+Leonard Rose<br>
+Isaac Bashevis Singer<br>
+Susan Sontag with son David Sontag Rieff<br>
+Terry Southern<br>
+Saul Steinberg<br>
+David Warner<br>
+Peter Weiss and Gunilla Palmstierna-Weiss<br>
+Tom Wolfe<br><br>
+
+
+<strong>1967</strong><br>
+Grace Bumbry<br>
+Arthur Penn and Warren Beatty<br><br>
+
+<strong>1968</strong><br>
+Arthur Ashe<br>
+Mia Farrow<br>
+L. Fritz Gruber<br>
+Coretta Scott King<br>
+Dr. Howard A. Rusk<br><br>
+
+
+<strong>1969</strong><br>
+Jorge Luis Borges<br>
+<em>Boys in the Band</em> cast<br>
+Shirley Chisholm<br>
+Leonard Cohen<br>
+Dr. Dorothy B. Ferebee<br>
+"The Imaginatives," a group of young art dealers: Richard Bellamy, Paula Cooper, Michael Findlay, Arnold Glimcher, Ivan Karp, Klaus Kertess, Fred Mueller, and David Whitney<br>
+La MaMa Experimental Theatre Group<br>
+Dr. Mildred Mitchell-Bateman<br>
+Elma Lewis<br>
+Richard Lindner<br>
+Pulsa Group<br>
+Neil Simon<br>
+Topol<br><br>
+
+
+<strong>1970</strong><br>
+Renata Adler<br>
+Busby Berkeley<br>
+Pete Hamill<br>
+Claude L&#233;vi-Stauss<br>
+Maureen Stapleton<br>
+John Updike<br>
+Gore Vidal<br><br>
+
+<strong>1971</strong><br>
+Alvin Ailey<br>
+George Balanchine<br>
+Leonard and Felicia	Berenstein<br>
+Pierre	Boulez<br>
+Restaurateur Elaine and Her Friends<br>
+Duke Ellington<br>
+Janet Flanner<br>
+Sir John Gielgud and Sir Ralph Richardson<br>
+Penelope Gilliat<br>
+Germaine Greer<br>
+Caterine Milinaire<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144809">Ana&#239;s Nin</a><br>
+Tony Smith<br>
+Kathleen Tynan<br>
+Andrei Voznesensky<br><br>
+
+
+<strong>1972</strong><br>
+Woody Allen as comedians Charlie Chaplin, Buster Keaton, Harold Lloyd, Groucho Marx, and Harpo Marx<br>
+Geoffrey Beene<br>
+Pearl S. Buck<br>
+Bob Fosse<br>
+Lee Krasner<br>
+Burt Reynolds<br>
+Jacques Tati<br>
+Jon Voight<br>
+Yevgeny Yevtushekno<br><br>
+
+<strong>1973</strong><br>
+Oriana Fallaci<br>
+Ellsworth Kelly<br>
+Tatum O'Neal as Charlie Chaplin<br>
+Nicholas and Dominique Nabokov<br><br>
+
+
+<strong>1974</strong><br>
+I. M. Pei<br>
+Jerome Robbins<br><br>
+
+<strong>1975</strong><br>
+Elliott Carter<br><br>
+
+
+<strong>1976</strong><br>
+Johnny Bench<br>
+Julius Irving and Dave Cowen<br><br>
+
+
+<strong>1977</strong><br>
+Leo Castelli<br>
+William Gibson, Anne Bancroft, and Arthur Penn<br>
+Philip Johnson<br>
+Leo Lerman<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157091">Alexander Liberman</a><br>
+Dolly Parton<br>
+Arnold Schwarzenegger<br><br>
+
+
+<strong>1978</strong><br>
+Richard Avedon<br>
+Albert R. Broccoli<br>
+Michael Cimino<br>
+Merce Cunningham<br>
+David Halberstam<br>
+Norman Jewison<br>
+Diane Keaton<br>
+Alan J. Pakula<br>
+Miss Piggy<br>
+Pilobolus Dancers<br>
+David Puttnam<br>
+Sylvester Stallone<br><br>
+
+
+<strong>1979</strong><br>
+Merrill Ashley<br>
+Truman Capote<br>
+Leo Castelli<br>
+Alistair Cooke<br>
+Aaron Copland<br>
+Xavier Fourcade<br>
+Hiro<br>
+Sidney Janis<br>
+William S. Lieberman<br>
+Lawrence Rubin, Andr&#233; Emmerich, and Arnold Glimcher<br>
+Lucas Samaras<br>
+Lionel Tiger<br><br>
+
+
+<strong>1980</strong><br>
+Joseph Brodsky<br>
+Eduardo Chillida<br>
+Robert Hughes<br>
+John Huston<br>
+Norman Mailer<br>
+William Maxwell<br>
+Luciano Pavarotti<br>
+Volker Schl&#246;ndorff and Margarethe von Trotta<br>
+Donald Sutherland<br>
+Hans-J&#252;rgen Syberberg<br><br>
+
+
+<strong>1981</strong><br>
+Pierre Cardin<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157098">Henry Geldzahler</a><br>
+Milan Kundera<br>
+Gregor von Rezzori<br>
+Gianni Versace<br><br>
+
+
+<strong>1982</strong><br>
+Julie Andrews<br>
+Oscar de la Renta<br>
+Placido Domingo<br>
+Sherrill Milnes<br>
+Christopher Plummer<br>
+James Rosenquist<br>
+Richard Stoltzman<br>
+Virgil Thomson<br>
+Baron H. H. Thyssen-Bornemisza<br>
+Michael Walzer<br><br>
+
+
+<strong>1983</strong><br>
+John Ashbury<br>
+Sir Frederick Ashton<br>
+John Cage and Merce Cunningham<br>
+Italo Calvino<br>
+Edwin Denby<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144810">Willem de Kooning</a><br>
+Francine du Plessix Gray<br>
+Umberto Eco<br>
+Suzanne Farrell<br>
+Harvey Fierstein<br>
+Seamus Heaney<br>
+Dustin Hoffman<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144811">Eug&#232;ne Ionesco</a><br>
+Jesse Jackson<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144812">Jasper Johns</a><br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157093">Andr&#233; Kert&#233;sz</a><br>
+Natassia Kinski<br>
+Richard Meier<br>
+Arthur Miller<br>
+Isamu Noguchi<br>
+Jessye Norman<br>
+Robert Rauschenberg<br>
+Philip Roth<br>
+Yves St. Laurent<br>
+Hanna Schygulla<br>
+Susan Sontag<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/150489">James Van Der Zee</a><br><br>
+
+
+<strong>1984</strong><br>
+Hildegard Behrens<br>
+Jeremy Irons<br>
+Norman Mailer<br>
+Paloma Picasso<br>
+William Rubin<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157076">Tom Stoppard</a><br>
+Rufino and Olga Tamayo<br><br>
+
+
+<strong>1985</strong><br>
+Richard Avedon<br>
+Mikhail Baryshnikov<br>
+Jacqueline Bisset<br>
+Fernando Botero<br>
+Carmen Dell'Orefice<br>
+Richard Diebenkorn<br>
+Mia Farrow<br>
+Peter Jennings<br>
+Karl Lagerfield<br>
+Vanessa Redgrave<br>
+Stephen Sprouse<br>
+Emanuel Ungaro<br><br>
+
+
+<strong>1986</strong><br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144819">Miles Davis</a><br>
+Robert Hughes<br>
+Takeo Kikuchi<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144817">Self-portrait</a><br><br>
+
+
+<strong>1987</strong><br>
+Andr&#233; Heller<br>
+Thomas P. "Tip" O'Neill<br><br>
+
+
+<strong>1988</strong><br>
+Tom Brokaw<br>
+Florence Griffith Joyner<br>
+Calvin and Kelly Klein<br>
+Josef Koudelka<br>
+Issey Miyake<br>
+I. M. Pei<br>
+Natasha Richardson<br>
+Patricia Hearst Shaw<br><br>
+
+
+<strong>1989</strong><br>
+Altynai Assylmuratova<br>
+Mikhail Baryshnikov<br>
+Lorenzo Mongiardino<br>
+Sting<br><br>
+
+
+<strong>1990</strong><br>
+Azzedine Ala&#239;a<br>
+Pedro Almod&#243;var<br>
+The de la Falaise Family<br>
+Jean-Paul Gaultier<br>
+Sylvie Guillem<br>
+Grace Jones<br>
+Christian Lacroix<br>
+Louis Malle<br>
+Isaac Mizrahi<br>
+Rifat Ozbek<br>
+Jil Sander<br>
+Gianni Versace<br><br>
+
+
+<strong>1991</strong><br>
+Suzanne Farrell<br>
+James Houston<br>
+Sir Peter Hall and John Guare<br>
+<em>The Sleeping Beauty</em> cast: soloists, with Peter Martins: Lauren Hauser, Margaret Tracey, Wendy Whelan, and Diana White; and 
+principal dancers, with Lincoln Kirstein: Helene Alexopoulos, Merrill Ashley, Maria Calegari, Judith Fugate, Nichol Hlinka, Darci Kistler, Valentina Kozlova, and Kyra Nichols<br><br>
+
+
+<strong>1992</strong><br>
+Paul Beck and Donatella Versace<br>
+Warren Beatty<br>
+Spike Lee<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144820">Arata Isozaki</a><br>
+Rei Kawakubo<br>
+Jessye Norman<br>
+Anna Sui<br>
+John Updike<br><br>
+
+<strong>1993</strong><br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157092">Tadao Ando</a><br>
+Giorgio Armani<br>
+Richard Avedon<br>
+Bernardo Bertolucci<br>
+Robert DeNiro<br>
+Supreme Court Justice Ruth Bader Ginsburg<br>
+Rem Koolhaas<br>
+Mr. and Mrs. Alexander Liberman<br>
+Dr. Isadore Rosenfeld<br>
+Martin Scorsese<br>
+Nina Szarkowski<br>
+Wayne Thiebaud<br>
+Christy Turlington<br>
+Self-portrait <a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144822">(A)</a> and <a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/144821">(C)</a><br><br>
+
+<strong>1994</strong><br>
+Nadja Auermann<br>
+David Bowie and Iman<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157086">Naomi Campbell</a><br>
+Cindy Crawford<br>
+Linda Evangelista<br>
+James Lapine<br>
+Kate Moss<br>
+Three Smith Women (Jane, Kiki, and Seton)<br>
+Stephen Sondheim<br>
+Christy Turlington<br><br>
+
+<strong>1995</strong><br>
+Dieter Appelt <a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/149011">(B)</a> and <a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/149012">(C)</a><br>
+Jean-Marie Duthielleul<br>
+Francine de Plessix Gray<br>
+Zaha Hadid<br>
+Lars Hall<br>
+Shalom Harlow<br>
+Kirsty Hume<br>
+Elizabeth Hurley<br>
+Maya Lin<br>
+Al Pacino<br>
+Rachel Williams<br>
+Amber Valletta<br><br>
+
+
+<strong>1996</strong><br>
+Joan Didion<br>
+Stephan Eicher<br>
+Kennedy Fraser<br>
+John Galliano<br>
+Savion Glover<br>
+Kirsty Hume<br>
+Ang Lee<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157078">Mark Morris</a><br>
+Kate Moss<br>
+<a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/artwork/157077">Cindy Sherman</a><br>
+Stella Tennant<br>
+Amber Valetta<br><br>
+
+<strong>1997</strong><br>
+Karen Elson<br>
+John Fairchild<br>
+Elton John<br>
+Kenzaburo Oe<br>
+Isabella Rossellini<br>
+Bernhard Schlink<br>
+Paul Simon<br><br>
+
+<strong>1998</strong><br>
+Peter Martins (with dancers)<br>
+Robin Williams<br>
+James Wolfensohn<br><br>
+
+<strong>1999</strong><br>
+Alexandra Beller<br>
+Manolo Blanik<br>
+Gisele Bundchen<br>
+Mick Jagger<br>
+Angela Lindvall<br>
+Helmut Newton<br><br>
+
+<strong>2000</strong><br>
+Nicolas Ghesqui&#232;re<br>
+Marcia Kilgore<br>
+Christy Turlington<br><br>
+
+<strong>2001</strong><br>
+Renee Fleming<br>
+Marc Jacobs<br>
+Christina McCarron<br>
+Kate Moss<br>
+Liam Neeson<br>
+Charlotte Rampling<br>
+Hedi Slimane<br><br>
+
+
+<strong>2002</strong><br>
+Alan Bates<br>
+Tom Ford<br>
+Philip Seymour Hoffman<br>
+Karl Lagerfeld<br>
+Baz Luhrmann<br><br>
+
+
+<strong>2003</strong><br>
+Lee Bontecou<br>
+Hussein Chalayan<br>
+Nicole Kidman<br>
+Kate Westerbeck Lewis<br>
+Olivier Theyskens<br>
+Anne Wilkes Tucker<br><br>
+
+
+<strong>2004</strong><br>
+Gael Garcia Bernal<br>
+Alber Elbez<br>
+Lennart Nilsson<br>
+Elizabeth Peyton<br><br>
+
+
+<strong>2005</strong><br>
+Elizabeth Murray<br>
+Robert Rauschenberg<br>
+Bee &amp; Charlie Shaffer<br><br>
+
+
+<strong>2006</strong><br>
+Cate Blanchett<br>
+Bill Nighy<br>
+Frank Gehry<br>
+Jean Baptiste Huynh<br>
+Jasper Johns<br>
+Stella Tennant<br>
+Michelle Williams<br><br>
+
+
+<strong>2007</strong><br>
+Julian Schnabel<br><br>
+
+
+<strong>2008</strong><br>
+Dr. James P. McCarron<br>
+Caroline Trentini<br>
+Veruschka<br><br>
+
+
+<p><a href="2382#top"><strong>top</strong></a></p></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Irving Penn Archives </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../overview">Overview</a></li>
+<li class="collapsed"><a href="../themes">Themes</a></li>
+<li class="collapsed"><a href="../permanent">Images</a></li>
+<li class="collapsed"><a href="../timelines">Timelines</a></li>
+<li class="expanded"><a href="../resource/1971">About the Artist and Archive</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/1971">Biography</a></li>
+<li class="leaf"><a href="../resource/1976">Bibliography (English language only)</a></li>
+<li class="leaf"><a href="../resource/1975">Bibliography (foreign language)</a></li>
+<li class="leaf"><a href="http://extras.artic.edu/timelines/penn-exhibition/index.html">Exhibition History</a></li>
+<li class="leaf active"><a href="2382" class="active">Portrait Subjects</a></li>
+<li class="leaf"><a href="../CollectionAccess">Collection Access</a></li>
+<li class="leaf"><a href="http://digital-libraries.saic.edu/cdm/search/collection/findingaids/searchterm/Penn,%20Irving/field/title/mode/all/conn/and/cosu">Finding Aid</a></li>
+<li class="leaf last"><a href="../copyright">Copyright</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/cameras-techniques">Cameras and Techniques</a></li>
+<li class="collapsed"><a href="../additionalresources">Audio and Other Resources</a></li>
+<li class="leaf"><a href="../search">Search</a></li>
+<li class="leaf last"><a href="../thanks">Acknowledgements</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

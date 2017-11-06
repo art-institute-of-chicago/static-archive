@@ -1,0 +1,118 @@
+.jScrollPaneContainer {
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+}
+
+.jScrollPaneTrack {
+	position: absolute;
+	cursor: pointer;
+	right: 0;
+	top: 0;
+	height: 100%;
+	background: #aaa;
+	width:17px;
+}
+.jScrollPaneDrag {
+	position: absolute;
+	background: url("../imgs/drag.png") no-repeat 1 1;
+	cursor: pointer;
+	overflow: hidden;
+	height:25px;
+}
+.jScrollPaneDragTop {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+.jScrollPaneDragBottom {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	overflow: hidden;
+}
+a.jScrollArrowUp {
+	display: block;
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	right: 0;
+	text-indent: -2000px;
+	overflow: hidden;
+	/*background-color: #666;*/
+	height: 24px;
+}
+
+a.jScrollArrowDown {
+	display: block;
+	position: absolute;
+	z-index: 1;
+	bottom: 0;
+	right: 0;
+	text-indent: -2000px;
+	overflow: hidden;
+	/*background-color: #666;*/
+	height: 24px;
+}
+.holder {
+	position:relative;
+	margin: 10px;
+	padding: 0 0 12px 0;
+	border-bottom: 1px solid #ccc;
+}
+.scroll-pane,.scroll-pane2,.scroll-pane3,.scroll-pane4,.scroll-pane5,.scroll-pane6, .scroll-pane7, .scroll-pane8 {
+	width: auto;
+	height: 270px;
+	overflow: auto;
+	float: left;
+	display:block;
+}
+.disBlock {
+	display:block;
+	height: 1000px;
+	padding-bottom: 12px;
+}
+.winXP .jScrollPaneTrack {
+	background: url("../imgs/windows_track.gif") repeat-y;
+}
+.winXP .jScrollPaneDrag {
+	background: url("../imgs/windows_drag_middle.gif") no-repeat 0 50%;
+}
+.winXP .jScrollPaneDragTop {
+	background: url("../imgs/windows_drag_top.gif") no-repeat;
+	height: 4px;
+}
+.winXP .jScrollPaneDragBottom {
+	background: url("../imgs/windows_drag_bottom.gif") no-repeat;
+	height: 4px;
+}
+.winXP a.jScrollArrowUp {
+	height: 17px;
+	background: url("../imgs/windows_arrow_up.gif") no-repeat 0 0;
+}
+.winXP a.jScrollArrowUp:hover {
+	background-position: 0 -20px;
+}
+.winXP a.jScrollArrowDown {
+	height: 17px;
+	background: url("../imgs/windows_arrow_down.gif") no-repeat 0 0;
+}
+.winXP a.jScrollArrowDown:hover {
+	background-position: 0 -20px;
+}
+.winXP a.jScrollActiveArrowButton, .winXP a.jScrollActiveArrowButton:hover {
+	background-position: 0 -40px;
+}
+.left .jScrollPaneTrack {
+	left: 0;
+	right: auto;
+}
+.left a.jScrollArrowUp {
+	left: 0;
+	right: auto;
+}
+.left a.jScrollArrowDown {
+	left: 0;
+	right: auto;
+}

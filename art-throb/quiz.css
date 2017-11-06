@@ -1,0 +1,157 @@
+.main-header {
+  text-align: center;
+}
+
+.header-image-container {
+  padding: 30px 0;
+}
+
+.header-tagline-container {
+  background: #000;
+  color: #FFF;
+  font-size: 1.7em;
+}
+
+.artthrob-answers-wrapper ul {
+  margin-left: 0; 
+}
+
+.artthrob-answers-wrapper ul li {
+  list-style: none;
+}
+
+.result-explanation {
+  text-align: left;
+  margin-top: 0.5rem;
+}
+
+.button.retake-button {
+  padding: 6px 3px;
+}
+
+.heart-button img {
+  display: inline-block;
+}
+
+span.title-alignment-fix {
+  text-align: left;
+  display: inline-block;
+}
+
+#artthrob-completed {
+  visibility: hidden;
+}
+
+
+/* */
+
+
+
+.artthrob-quiz-slide {
+  background-color: #FFF;
+  text-align:center;
+}
+
+.highlight_quiz .button,
+.highlight_quiz button {
+  margin: 0 1%;
+  margin-bottom: 1rem;
+  background-color: #9D1B31;
+  width: 98%
+}
+
+.highlight_quiz button:hover,
+.highlight_quiz button:focus,
+.highlight_quiz .button:hover,
+.highlight_quiz .button:focus {
+  background-color: #800000;
+}
+
+h2.artthrob-question {
+  color: #000;
+  margin-bottom: 0.5rem;
+}
+
+.artthrob-question-image img {
+  width:100%;
+}
+
+.no-image .artthrob-answers-wrapper {
+  width:60%;
+  margin:1rem auto;
+}
+
+.hidden-answer {
+  text-align: center;
+  padding: 15px 0 0;
+}
+
+.hidden-answer img {
+  margin: 0 auto 10px;
+}
+
+.answer-key-link {
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.answer-key-link:hover {
+  opacity: 1;
+}
+
+.answer-key {
+  font-size: 0.9rem;
+  display: none;
+  text-align: left;
+}
+
+/* result section */
+
+.artthrob-result-text {
+  margin-bottom: 1rem;
+}
+
+.image-caption {
+  margin: 0.5rem auto 1.25rem;
+  font-size: 0.75rem;
+  text-align:left;
+}
+
+.artthrob-result-slide .image-caption {
+  margin-bottom: 0.5rem;
+}
+
+.artthrob-result-slide img {
+  margin: 0 auto 0 auto;
+}
+
+.result-explanation {
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-bottom: solid 1px #CCCCCC;
+}
+
+@media only screen and (max-width: 40.063em) {
+  .artthrob-answers-wrapper {
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (min-width: 40.063em) {
+
+  .artthrob-answers-wrapper ul {
+    margin-left: 1rem; 
+  }
+
+  .has-image .artthrob-question-image {
+    float:left;
+    width:40%;
+    margin-right:10px;
+  }
+
+  .has-image .artthrob-answers-wrapper {
+    float:left;
+    width:55%;
+  }
+
+}

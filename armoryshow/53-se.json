@@ -1,0 +1,147 @@
+{
+"map"       : "53-se_2000.jpg",
+"mapwidth"  : "2000px", 
+"mapheight" : "1363px",
+"areas"     : {
+  "a"  : {
+      "left"    : "585px",
+      "top"     : "430px",
+      "width"   : "226px",
+      "height"  : "505px",
+      "data" : {
+        "joyride-stop" : true,
+        "ctitle"    : "6 Alexandre Archipenko, <em>Family life</em>",
+        "citation"  : "Alexander Archipenko (American, born Ukraine, 1887–1964). <em>Family Life</em>, 1912. Plaster; approx. h. 182.9 cm (72 in.). Destroyed."
+      }
+  },
+  
+  "o"  : {
+      "left"    : "7px",
+      "top"     : "555px",
+      "width"   : "116px",
+      "height"  : "98px",
+      "data" : {
+        "owned"       : true,
+        "thumbnail"   : "landscape_cardoso_200.jpg",
+        "artist"      : "Amadeo de Souza Cardoso",
+        "period"      : "Portuguese, 1887–1918",
+        "title"       : "<em>Landscape</em>, 1912",
+        "medium"      : "Oil on canvas; 50.2 x 61.3 cm (19 3/4 x 24 1/8 in.)",
+        "collection"  : "Arthur Jerome Eddy Memorial Collection, 1931.513",
+        "description" : "Souza Cardoso's style reflects the developments of Futurism and Cubism, whose artists he exhibited with in Europe. Here, the repeated, geometric description of form is reminiscent of Futurist \"lines of force,\" while the palette of brown, tan, and green recalls the early Cubist landscapes of Picasso and Braque.<br /><br />In Chicago, this canvas was included in the gallery reserved for the most radical works; it was hung beside one of the most vilified, Marcel Duchamp's <em>Nude Descending a Staircase</em> (1912; Philadelphia Museum of Art).",
+        "link"      : "http://www.artic.edu/aic/collections/artwork/8996?search_no=5&index=1",
+        "ctitle"    : "387 Amadeo de Sousa Cardoza, <em>Landscape</em>",
+        "citation"  : "Amadeo de Souza Cardoso (Portuguese, 1887–1918). <em>Landscape</em>, 1912. Oil on canvas; 50.2 × 61.3 cm (19 3/4 × 24 1/8 in.). The Art Institute of Chicago, Arthur Jerome Eddy Memorial Collection, 1931.513."
+      }
+  },
+  
+  "p"  : {
+      "left"    : "140px",
+      "top"     : "530px",
+      "width"   : "172px",
+      "height"  : "206px",
+      "data" : {
+        "ctitle"    : "434 Jacques Villon, <em>Young Woman</em>",
+        "citation"  : "Jacques Villon (French, 1875–1963). <em>Young Girl</em>, 1912. Oil on canvas; 146.2 × 114.3 cm (57 9/16 × 45 in.). Philadelphia Museum of Art, The Louise and Walter Arensberg Collection, 1950, 1950-134-190."
+      }
+  },
+  
+  "q"  : {
+      "left"    : "470px",
+      "top"     : "578px",
+      "width"   : "114px",
+      "height"  : "160px",
+      "data" : {
+        "ctitle"    : "209 Marie Laurencin, <em>The toilet of the young girls</em>",
+        "citation"  : "Marie Laurencin (French, 1885–1956). <em>The Toilet of the Young Girls</em>. Oil on canvas."
+      }
+  },
+  
+  "r"  : {
+      "left"    : "812px",
+      "top"     : "530px",
+      "width"   : "135px",
+      "height"  : "216px",
+      "data" : {
+        "ctitle"    : "284 Francis Picabia, <em>The procession, Seville</em>",
+        "citation"  : "Francis Picabia (French, 1879–1953). <em>The Procession, Seville</em>, 1912. Oil on canvas; 121.9 × 121.9 cm (48 × 48 in.). The National Gallery of Art, Washington, D.C., Chester Dale Fund and gift of Barbara Rothschild Michaels from the collection of Herbert and Nannette Rothschild, 1997, 1997.43.1."
+      }
+  },
+  
+  "s"  : {
+      "left"    : "950px",
+      "top"     : "508px",
+      "width"   : "190px",
+      "height"  : "248px",
+      "data" : {
+        "ctitle"    : "283 Francis Picabia, <em>The dance at the spring</em>",
+        "citation"  : "Francis Picabia (French, 1879–1953). <em>Dances at the Spring</em>, 1912. Oil on canvas; 120.5 × 120.6 cm (47 7/16 × 47 1/2 in.). Philadelphia Museum of Art, The Louise and Walter Arensberg Collection, 1950, 1950-134-155."
+      }
+  },
+  
+  "t"  : {
+      "left"    : "1290px",
+      "top"     : "425px",
+      "width"   : "190px",
+      "height"  : "178px",
+      "data" : {
+        "ctitle"    : "285 Francis Picabia, <em>Paris</em>",
+        "citation"  : "Francis Picabia (French, 1879–1953). <em>Paris</em>, 1912. Oil on canvas; 73 × 92 cm (28 3/4 × 36 1/4 in.)."
+      }
+  },
+  
+  "u"  : {
+      "left"    : "1290px",
+      "top"     : "605px",
+      "width"   : "200px",
+      "height"  : "170px",
+      "data" : {
+        "owned"       : true,
+        "thumbnail"   : "village_vlaminck_200.jpg",
+        "artist"      : "Maurice de Vlaminck",
+        "period"      : "French, 1876–1958",
+        "title"       : "<em>Village</em>, c. 1912",
+        "medium"      : "Oil on canvas; 73.7 x 92.1 cm (29 x 36 1/4 in.)",
+        "collection"  : "Arthur Jerome Eddy Memorial Collection, 1931.517",
+        "description" : "Although Maurice de Vlaminck is known as one of the founders of Fauvism, he experimented briefly with Cubist aesthetics before World War I. In <em>Village</em>, he combined his characteristic rhythmic brushstrokes with a more muted palette than in his earlier, brilliantly hued Fauve paintings. The three works by Vlaminck included in the Armory Show in Chicago were among those lent by important Cubist art dealer Daniel-Henry Kahnweiler. <em>Village</em> was installed in the Cubist gallery, next to paintings by Francis Picabia, who was characterized by the Chicago press as one of the most radical artists in the show.",
+        "link"      : "http://www.artic.edu/aic/collections/artwork/20314?search_no=10&index=3",
+        "ctitle"    : "435 Maurice de Vlaminck, <em>Rueil</em>",
+        "citation"  : "Maurice de Vlaminck (French, 1876–1958). <em>Village</em>, c. 1912. Oil on canvas; 73.7 × 92.1 cm (29 × 36 1/4 in.). The Art Institute of Chicago, Arthur Jerome Eddy Memorial Collection, 1931.517."
+      }
+  },
+  
+  "v"  : {
+      "left"    : "1500px",
+      "top"     : "470px",
+      "width"   : "344px",
+      "height"  : "310px",
+      "data" : {
+        "ctitle"    : "426 Jaques Villon, <em>Flowering trees, Puteaux</em>",
+        "citation"  : "Jacques Villon (French, 1875–1963). <em>Flowering Trees</em>, 1912. Oil on canvas; 114 × 147.6 cm (44 7/8 × 58 1/8 in.). Curtis Galleries, Minneapolis."
+      }
+  },
+  
+  "w"  : {
+      "left"    : "1845px",
+      "top"     : "468px",
+      "width"   : "138px",
+      "height"  : "576px",
+      "data" : {
+        "ctitle"    : "5 Alexandre Archipenko, <em>Salome</em>",
+        "citation"  : "Alexander Archipenko (American, born Ukraine, 1887–1964). <em>Salomé</em>, 1910. Cement; h. 91.4 cm (36 in.). Private collection."
+      }
+  },
+  
+  "ggg"  : {
+      "left"    : "1136px",
+      "top"     : "572px",
+      "width"   : "144px",
+      "height"  : "190px",
+      "data" : {
+        "ctitle"    : "289 Paul Picasso, <em>Still Life</em> (Lent by Leo. Stein)",
+        "citation"  : "Pablo Picasso (Spanish, 1881-1973). <em>Vase, Gourd, and Fruit on a Table</em>, 1908. Oil on canvas; 73 x 60 cm (28 3/4 x 23 5/8 in.). Yale University Art Gallery, New Haven. John Hay Whitney, B.A. 1926, M.A. (Hon.) 1956, Collection, 1982.111.3."
+      }
+  }
+
+}
+}

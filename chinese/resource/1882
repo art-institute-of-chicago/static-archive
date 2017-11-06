@@ -1,0 +1,227 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_d196ffd3ec689529f9c95c5cb5157197) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_b7f6b0838142fc7ab1fa7923a7231cd6) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_b7f6b0838142fc7ab1fa7923a7231cd6) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_d196ffd3ec689529f9c95c5cb5157197) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_e999a5227454c6da77efb81c96bfdf8d) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_b7f6b0838142fc7ab1fa7923a7231cd6) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_b7f6b0838142fc7ab1fa7923a7231cd6) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Your Neighborhood Scroll | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8944.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_chinese.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_chinese.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Chinese">Art Access: Chinese Art</a> > <a href="../family">Family Activities</a> > <span class="sel">Your Neighborhood Scroll</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Your Neighborhood Scroll</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Family Activity: Your Neighborhood Scroll</strong><br />       <div class="content">
+<p>What happens each day in your neighborhood?  Design a handscroll that shows your street's daily activities.</p><br />
+<h3>Materials</h3>
+<ul><li>scrap paper for brainstorming</li>
+<li>colored pencils, crayons, and/or markers</li>
+<li>transparent tape</li>
+<li>2–5 sheets of 8 1/2 x 11 inch paper (light in color) </li>
+<li>short piece of string or yarn (about 10 inches)</li></ul>
+<h3>Introduction</h3><p>This scene of a busy street is only a small part of a handscroll that unrolls to almost 24 feet in length. The entire scroll shows the activities of many different types of people who lived in a large Chinese city during the <a href="1882#yuan">Yuan dynasty</a>, around 600 years ago. <br />This segment of the scroll shows a group of woodworkers and <a href="1882#stonemasons">stonemasons</a> working on new construction in the city. Other segments of the scroll depict the daily life of families, scholars, merchants, musicians, and silk-workers.</p><p>Chinese scrolls are looked at in the same way that one reads Chinese writing—from right to left. This type of handscroll was brought out of its special storage box only when the owner wished to view it.  Rather than looking at the entire 24-foot handscroll, the viewer unrolled the scroll and examined it in small sections.</p> 
+<div class="image wrap"><img src="../images/AS_13066.jpg" border="0" class="inline" /></div>
+<h3>Discussion Questions</h3>
+<p>Look closely at the <a href="http://www.artic.edu/aic/collections/exhibitions/Chinese/artwork/76275_zoomify">image of the handscroll</a>.</p><ul><li>This section of the handscroll shows both woodworkers and stonemasons.  How many woodworkers can you find? How many stonemasons do you see? What do you see that tells you who is a woodworkers and who is a stonemason? </li><li>This handscroll shows daily life in a city in China 600 years ago. What would you include in a handscroll that depicted your daily life? </li></ul>
+<h3>Activity: My Neighborhood Handscroll</h3>
+<p><strong>Steps</strong></p><ol><li><strong>Brainstorm!</strong><ul><li>Make a list of the people and activities you see in your neighborhood, such as children playing outdoor games or neighbors walking dogs.</li><li>Select several of the people and activities on your list that you feel best represents life on your street.</li><li>Number your selections to reflect the order in which they will appear on your handscroll.</li></ul></li>
+<li><strong>Create!</strong><ul><li>Begin by taping together the shorter sides of two or three pieces of 8 1/2 x 11 inch paper. Only tape the bottom side (wait to tape the side you plan to draw on until you are finished).  The taped paper should be horizontal in format (longer that it is tall).</li><li>Start by drawing the first scene from your list at the furthest right side of your handscroll.  Continue adding figures and scenes from your lists to the left.</li><li>After you complete your handscroll, tape the seams on the top of the paper. </li><li>Beginning on the left side, roll up your handscroll.  This way you can unroll the right side for viewing.  Tie a string around your scroll to keep it rolled.</li></ul></li>
+<li><strong>Share!</strong><ul><li>Show your handscroll to a friend or family member and discuss what it’s like to live in your neighborhood. Remember to unroll your scroll into smaller segments for viewing rather than looking at the entire handscroll at once.</li></ul></li></ol><br />
+<h3>Glossary</h3>
+<p><strong><a name="stonemasons" id="stonemasons"></a>stonemasons</strong> (<em>n</em>)<br />a person who is skilled in preparing stone for building</p>
+<p><strong><a name="yuan" id="yuan"></a>Yuan Dynasty</strong> (<em>n</em>)<br />c. 1260–1368. A period of foreign occupation by the nomadic tribes of Mongolia. Faced with discrimination by foreign rulers, educated Chinese recalled their past and turned their energies to art and culture.</p></div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001882.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001882.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: Chinese Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Bell">Artworks</a></li>
+<li class="collapsed"><a href="../lesson">Lesson Plans</a></li>
+<li class="expanded"><a href="../family">Family Activities</a>
+<ul class="menu">
+<li class="leaf first"><a href="../resource/1880">Create a Chimera!</a></li>
+<li class="leaf"><a href="../resource/1881">Design a Robe!</a></li>
+<li class="leaf active last"><a href="1882" class="active">Your Neighborhood Scroll</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1868">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/Chinese/artwork/76275">Street Scenes in Times of Peace (Taiping fenghui tu)</a></span>, Yuan dynasty (1279–1368), 14th century<br />
+Zhu Yu (1293–1365)</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

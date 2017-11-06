@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>City Lost and Found</title>
+
+  
+    <meta property="og:title" content="City Lost and Found" itemprop="name">
+  <meta name="twitter:title" content="City Lost and Found">
+
+
+
+    <meta property="og:url" content="/city-lost-found/chicago">
+  <meta name="twitter:url" content="/city-lost-found/chicago">
+
+    <meta property="og:type" content="website"> 
+  
+
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery-1.9.1.min.js" type="text/javascript"></script>
+    
+  <script src="modernizr.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="script.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+  <meta name="viewport" content="initial-scale=1.0,width=device-width" />
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+<div class="page-chicago">
+
+  <nav class="top-bar" data-topbar role="navigation"> 
+  <ul class="title-area"> 
+    <li class="name"> </li>  
+    <li class="toggle-topbar menu-icon"><a href="chicago#"><span>Menu</span></a></li>
+  </ul> 
+  <section class="top-bar-section">
+    <ul class="right city-pages">
+      <li class="new-york"><a href="/city-lost-found/new-york">N<span>ew </span>Y<span>ork</span></a></li>
+      <li class="chicago"><a href="chicago">Chi<span>cago</span></a></li>
+      <li class="los-angeles"><a href="/city-lost-found/los-angeles">L<span>os </span>A<span>ngeles</span></a></li>
+    </ul>
+    <ul class="left">
+      <li class="twitter"><a target="_blank" href="https://twitter.com/citylostfound"><img src="share-twitter.png"/></a></li>
+      <li><a target="_blank" href="http://www.artic.edu/tickets">Buy Tickets</a></li>
+      <li><a target="_blank" href="http://www.artic.edu/joinnow">Become a Member</a></li>
+      <li><a href="/city-lost-found/related-events">Related Events</a></li>
+      <li><a href="/city-lost-found/credits">Special Thanks</a></li>
+    </ul>
+  </section>
+</nav>
+
+
+  <div class="header">
+  <div class="row">
+    <div class="small-12 columns clearfix">
+      <a target="_blank" href="http://artic.edu"><img class="left logo" src="aic-logo-100-outline-white.png" /></a>
+      
+        <div class="left">
+          <a href="/city-lost-found"><img class="exhibition-title" src="CLF-secondary.png"/></a>
+          <p class="exhibition-dates">
+            October 26&ndash;January 11<br/>
+            Member Preview: October 25
+          </p>
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+  <div class="row main-content">
+    <div class="small-12 columns">
+      <h1>Chicago</h1>
+      <p>In the 1960s and &rsquo;70s Chicago emerged from its industrial past led by a powerful mayor, Richard J. Daley, who prioritized development in the downtown areas. His work to modernize the city resulted in the construction of massive highways, housing projects, and imposing skyscrapers&mdash;new architectural and infrastructural icons that were explored by many photographers of the era. The arts experienced a similar boom, with the foundation and expansion of museums and university programs. Growth came at a cost, however, and the art of this period highlights the disparate experiences of local communities in Chicago, including Jonas Dovydenas&rsquo;s photographs of life in ethnic neighborhoods and independent films exploring issues ranging from the work of African American community activists to the forced evictions caused by urban renewal projects.</p>
+      <p>Demonstrations loomed large in Chicago, where artists responded to two major uprisings in 1968, the first on the West Side, following the assassination of Martin Luther King Jr., and the second downtown, during the Democratic National Convention. These violent confrontations between protestors and police drew national attention to issues of race relations and political corruption in Chicago and led to an outpouring of new art projects as forms of demonstration, including community murals like the West Wall and an exhibition at the Richard Feigen Gallery condemning Daley&rsquo;s actions during the DNC. The image of Chicago that emerged in the mass media of this period was one of destruction and resilience, a duality highlighted by contemporary artists like Gordon-Matta Clark and Allan Kaprow, whose work existed in the fragile space of opportunity between the streets and the wrecking ball.</p>
+
+      <div class="image-row text-center">
+        <img data-interchange="[chicago_1.jpg, (default)], [chicago_1_2x.jpg, (large)]">
+        <noscript><img src="chicago_1.jpg" /></noscript>
+        <p class="caption">Ken Josephson. <em>Chicago</em>, 1969. The Art Institute of Chicago, Gift of the School of the Art Institute of Chicago.</p>
+      </div>
+
+      <div class="image-row text-center">
+        <img data-interchange="[chicago_2.jpg, (default)], [chicago_2_2x.jpg, (large)]">
+        <noscript><img src="chicago_2.jpg" /></noscript>
+        <p class="caption">Barton Silverman. Photograph from &ldquo;Outlook after Chicago Violence,&rdquo; <em>New York Times</em>, August 31, 1968.</p>
+      </div>
+
+      <div class="image-row text-center">
+        <img data-interchange="[chicago_3.jpg, (default)], [chicago_3_2x.jpg, (large)]">
+        <noscript><img src="chicago_3.jpg" /></noscript>
+        <p class="caption">Still from <em>Lord Thing</em>, directed by DeWitt Beall, 1970. Courtesy Chicago Film Archives. <a href="chicago#" class="more-info-link" data-more-info="chicago_3">More [+]</a></p>
+        <p class="more-info chicago_3"><em>Lord Thing</em> documents the development of the Vice Lords from an informal club for young men on the streets of Chicago&rsquo;s West Side, its emergence as a street gang, and its evolution into the Conservative Vice Lords, a splinter group that aspired to nonviolent community activism. The film uses a mix of black-and-white sequences to retrospectively analyze the group&rsquo;s violent middle period and contrasts these with color sequences that show the Conservative Vice Lords fostering unity and developing black-owned businesses and social programs during the late 1960s. Together, <em>Lord Thing</em> argues for the agency of African Americans in the face of decades of spatialized oppression in Chicago.</p>
+      </div>
+
+      <div class="image-row text-center">
+        <img data-interchange="[chicago_4.jpg, (default)], [chicago_4_2x.jpg, (large)]">
+        <noscript><img src="chicago_4.jpg" /></noscript>
+        <p class="caption">Art Sinsabaugh. <em>Chicago Landscape #117</em>, 1966. Art Sinsabaugh Archive, Indiana University Art Museum. &copy; 2004 Katherine Anne Sinsabaugh and Elisabeth Sinsabaugh de la Cova. <a href="chicago#" class="more-info-link" data-more-info="chicago_4">More [+]</a></p>
+        <p class="more-info chicago_4">Sinsabaugh&rsquo;s panoramic photographs are among the most distinctive visual records of Chicago, capturing the built landscape with what Sinsabaugh called &ldquo;special photographic seeing,&rdquo; achieved with large-format negatives. The Department of City Planning used his photographs in a 1963 planning document to help describe the qualities of Chicago&rsquo;s tall buildings &ldquo;as vertical forms contrasting with these two great horizontal expanses [the flat prairie and the lakefront edge].&rdquo; Sinsabaugh&rsquo;s panoramas also flirt with abstraction when depicting such remarkable places as Chicago&rsquo;s Circle Interchange, a monumental coil of highways completed in the early 1960s. Sinsabaugh recalled that for the photographer, like the motorist, freeways provided &ldquo;an access, an opening, a swath cut right through the heart of the City in all directions.&rdquo; However, his early thrill at the novelty of these developments soon gave way to an appreciation of their violence, in which entire &ldquo;neighborhoods were laid bare and their very bowels exposed.&rdquo;</p>
+      </div>
+
+      <div class="image-row text-center">
+        <img data-interchange="[chicago_5.jpg, (default)], [chicago_5_2x.jpg, (large)]">
+        <noscript><img src="chicago_5.jpg" /></noscript>
+        <p class="caption">Alvin Boyarsky. <em>Chicago &agrave; la Carte: The City as Energy System</em>, 1970. Special issue of <em>Architectural Design</em>, December 1970. Courtesy Alvin Boyarsky Archive, London. <a href="chicago#" class="more-info-link" data-more-info="chicago_6">More [+]</a></p>
+        <p class="more-info chicago_6">The concept of the city as organism emerged during the 1960s as a response to the increasingly complex interconnections of technology, communication, and history. One exceptional project in this vein was the British architect Alvin Boyarsky&rsquo;s &ldquo;Chicago &agrave; la Carte.&rdquo; Boyarsky drew on an archive of historical postcards, newspaper clippings, and printed ephemera to trace a hidden history of Chicago&rsquo;s built environment as an &ldquo;energy system.&rdquo; This idea was represented on the cover by a striking postcard image of a vivisection of State Street in the Loop, showing subway tunnels, sidewalks, El tracks, and skyscrapers in what Boyarsky described as &ldquo;the tumultuous, active, mobile, and everywhere dynamic centre of a vast distribution system.&rdquo; On other pages, Boyarsky showed images of Chicago&rsquo;s newly built skyscrapers with newspaper clippings of recent political protests to juxtapose the city&rsquo;s reaction to recent political protests against the disciplinary tradition of modern architecture in Chicago.</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>

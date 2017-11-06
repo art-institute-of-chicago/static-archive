@@ -1,0 +1,114 @@
+/*EM calculator: http://riddle.pl/emcalc/
+The base font for the site is 10px or x-small.  To calculate the padding, width, etc with ems, 
+you have to base it off the font of that element, or the next containing element.
+
+This page intentionally uses pixels instead of ems because we do not want the table or the images to be resized by the browser.
+*/
+
+/**
+*DRUPAL EXHIBITION FRONT PAGE LAYOUT
+**/
+
+body.ntype-exhibition #page {
+/*background-image: url(../gfx/layout_grid.gif);
+background-position: top left;
+background-repeat: no-repeat;
+height:1000px;*/
+	padding: 0em 0em;
+	margin: 0em 0em;
+	top: 0;
+	width: 100%;
+	float: left;
+}
+body.ntype-exhibition #header {
+	position: relative;
+	height: 18.3em;
+	width: 100%;
+	padding: 0em 0em 0em 0em;
+	margin-bottom: 1.00em;
+}
+body.ntype-exhibition #content #header #logo-title {
+	width: 70.00em;
+	margin: 0em auto;
+	float: none;
+}
+body.ntype-exhibition #content #header img {
+	float: left;
+	margin: 0;
+}
+body.ntype-exhibition #container, body.ntype-exhibition #main, body.ntype-exhibition #main #content {
+	width: 100%;
+	float: left;
+	clear: both;
+	margin: 0;
+	padding: 0;
+}
+body.ntype-exhibition #main #content .content{
+	margin: 0em auto;
+	width: 70.00em;
+	clear: both;
+	line-height: inherit;
+}
+body.ntype-exhibition #main #content li {
+	list-style: none;
+	margin: 1.5em 0em 0em 0em;
+	padding: 0;
+
+}
+body.ntype-exhibition #main #content p {
+	list-style: none;
+	margin: 2.5em 0em 0em 1.0em;
+	float: left;
+	clear: both;
+	width: auto;
+}
+
+body.ntype-exhibition #main #content .content img{
+	 display: block;
+	 width: auto;
+	 float: left;
+	 margin: 0em 0;
+}
+body.ntype-exhibition #main #content .content .bodycopy {
+	width: 100%; /*700px*/
+	font-weight: bold;
+	font-size: 108%;
+	letter-spacing: .03em;
+	margin: 1.00em auto;
+}
+#main #content .bodycopy .left {
+	width: 32.0em;/*350px*/
+	margin: 0;
+	float: left;
+}
+
+#main #content .bodycopy .left a{
+}
+#main #content .bodycopy .left img{
+	float: left;
+}
+#main #content  .bodycopy .right {
+	padding: 0em 1.0em;
+	width: 25.0em; /*350px*/
+	float: right;
+}
+#main #content .bodycopy .right img{
+	float: right;
+}
+
+#main #content  .bodycopy .right a {
+	
+}
+.alignright {
+	text-align: right;
+
+}
+body.ntype-exhibition #main #content p.alignright {
+text-align: right;
+padding-left: 0;
+padding-right: 0;
+margin-right: -1.0em;
+ }
+.alignleft {
+	text-align: left;
+}

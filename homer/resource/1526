@@ -1,0 +1,214 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_a69506983fe2e68fe0955f766fd66959) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_5cbf923b556eb49a19a271a1e296bdde) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_5cbf923b556eb49a19a271a1e296bdde) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_e9f0c0274c6f572dacf77d4fb5a719cd) -->
+<!-- From the cache. (d3d5e458996b1fa09e0038ef60ea62ba_a69506983fe2e68fe0955f766fd66959) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_c3405cf6a7308558389378f0da451afa) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_c3405cf6a7308558389378f0da451afa) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Resource details | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-37.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/aic_logo_Homer_con.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/conservation_header_0.jpg" alt="Winslow Homer" title="Learn more about the Winslow Homer exhibition." width="558" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/homer">Winslow Homer: Behind the Scenes</a> > <a href="../resource">Resources</a> > <span class="sel">Resource details</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Resource details</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Historic Collections: The Mr. and Mrs. Martin A. Ryerson Collection</strong><br />       <p>Learn more about Martin A. Ryerson, one of the Art Institute's founding trustees and an important donor to the museum.</p><br /><br />
+    	     	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><div class="content">
+    <div class="image wrap"><a href="http://www.artic.edu/aic/collections/artwork/16651" rel="nofollow"><img src="../images/ryerson.jpg" alt="../images/ryerson.jpg" title="../images/ryerson.jpg" width="147" height="256" class="inline" /></a></div>
+<p>Martin A. Ryerson, one of the Art Institute's founding trustees, was perhaps the single most important donor to the museum's collections as well as the donor of its library. Applying the museum's mission to represent art from all periods and styles to his own collecting practices, he acquired an extraordinary group of works ranging from the classical period to the 20th century, including paintings, sculptures, textiles, prints and drawings, Asian art, and European decorative arts.</p>
+<p>Ryerson and his close friend Charles L. Hutchinson, president of the Art Institute's Board of Trustees, frequently traveled together throughout the world, attending art auctions and visiting galleries — always adding to the museum's collections by their own gifts and gaining additional funding from their circle of friends. Although their earliest purchases were in the field of classical art, their interests also included art of their own time, from the Impressionists to Winslow Homer.</p>
+<p>After Chicago's 1893 World's Columbian Exposition, which brought Impressionist painting to the attention of many local collectors, Ryerson energetically pursued works by Claude Monet, acquiring more than a dozen paintings, including <a href="http://www.artic.edu/aic/collections/artwork/16571"><em>Arrival of the Normandy Train at the Gare Saint-Lazare</em></a>, 1877. While visiting the artist at Giverny, France, in 1920, Ryerson even tried to purchase his water-lily murals, but Monet gave the series to the French government instead.</p>
+<p>In American art, Ryerson admired the heroism of Homer's <a href="http://www.artic.edu/aic/collections/artwork/25865"><em>The Herring Net</em></a>, which was shown at the 1893 exposition in Chicago. Ryerson purchased the work in 1915. He was fascinated with John Singer Sargent's loose brushwork in <a href="http://www.artic.edu/aic/collections/artwork/110761"><em>Venetian Glass Workers</em></a>, and he also acquired numerous paintings by the early American modernist Arthur B. Davies.</p>
+<p>Most of the collection of Mr. and Mrs. Martin A. Ryerson came to the museum as a bequest in 1933, the year after Martin Ryerson's death at the age of 75. Mrs. Ryerson donated additional works to the Art Institute (as well as other museums throughout the country) after her death in 1938.</p>
+<p><sub>Louis Betts. <em>Martin A. Ryerson</em>, 1913. Mr. and Mrs. Martin A. Ryerson Collection, 1933.1183.</sub></p>
+</div></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Winslow Homer: Behind the Scenes </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="collapsed first"><a href="../behindscenes">Behind the Scenes</a></li>
+<li class="collapsed"><a href="../tools">Tools and Techniques</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="leaf"><a href="../map">Homer's Locations</a></li>
+<li class="expanded"><a href="../resource">Resources</a>
+<ul class="menu">
+<li class="leaf first"><a href="../glossary">Technical Glossary</a></li>
+<li class="leaf last"><a href="../bibliography">Bibliography</a></li>
+
+</ul>
+</li>
+<li class="leaf last"><a href="http://www.artic.edu/aic/collections/exhibitions/homer_exhb/overview" title="link to Homer exhibition">Exhibition Overview</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first"> <span class="italic"><a href="../artwork/16772">Adirondacks Guide</a></span>, 1892</li><li> <span class="italic"><a href="../artwork/16776">After the Hurricane, Bahamas</a></span>, 1899</li><li> <span class="italic"><a href="../artwork/16800">Boy in Boat, Gloucester</a></span>, 1880/81</li></ul><p><a href="../resource/morerelatedartworks" class="morerelatedartworks">More related artworks&hellip;</a></p></div><div id="relatedArtworksMore"><ul><li class="first"> <span class="italic"><a href="../artwork/16772">Adirondacks Guide</a></span>, 1892</li><li> <span class="italic"><a href="../artwork/16776">After the Hurricane, Bahamas</a></span>, 1899</li><li> <span class="italic"><a href="../artwork/16800">Boy in Boat, Gloucester</a></span>, 1880/81</li><li> <span class="italic"><a href="../artwork/16779">Breaking Storm, Coast of Maine</a></span>, 1894</li><li> <span class="italic"><a href="../artwork/16782">Campfire, Adirondacks</a></span>, c. 1892</li><li> <span class="italic"><a href="../artwork/16788">Fishing off Scarborough</a></span>, 1882</li><li> <span class="italic"><a href="../artwork/16791">Flamborough Head, England</a></span>, 1882</li><li> <span class="italic"><a href="../artwork/113100">North Woods Club, Adirondacks (The Interrupted Tete-a-Tete)</a></span>, 1892</li><li> <span class="italic"><a href="../artwork/16815">Prout's Neck, Breakers</a></span>, 1883</li><li> <span class="italic"><a href="../artwork/16818">Prout's Neck, Breaking Wave</a></span>, 1887</li><li> <span class="italic"><a href="../artwork/16821">Prout's Neck, Evening</a></span>, c. 1894</li><li> <span class="italic"><a href="../artwork/16831">Stowing Sail</a></span>, 1903</li><li> <span class="italic"><a href="../artwork/16834">Sunshine and Shadow, Prout's Neck</a></span>, 1894</li><li> <span class="italic"><a href="../artwork/16785">The End of the Day, Adirondacks</a></span>, 1890</li><li> <span class="italic"><a href="../artwork/16794">The Gulf Stream</a></span>, probably 1899, dated by the artist "1889"</li><li> <span class="italic"><a href="../artwork/16797">The Lone Boat, North Woods Club, Adirondacks</a></span>, 1892</li><li> <span class="italic"><a href="../artwork/16812">The Outlook, Maine Coast</a></span>, 1894</li><li> <span class="italic"><a href="../artwork/16823">The Rapids, Hudson River, Adirondacks</a></span>, 1894</li><li> <span class="italic"><a href="../artwork/113064">The Return, Tynemouth (recto) Study (verso)</a></span>, 1881</li><li> <span class="italic"><a href="../artwork/16840">The Watcher, Tynemouth</a></span>, 1882</li><li><div class="relatedimage"><a href="../artwork/16803"><img src="../images/50639_3061606.jpg" alt="Two Boys Watching Schooners" title="Winslow Homer
+American, 1836-1910, Two Boys Watching Schooners"  /></a></div> <span class="italic"><a href="../artwork/16803">Two Boys Watching Schooners</a></span>, 1880</li><li class="last"> <span class="italic"><a href="../artwork/16837">Tynemouth Priory, England</a></span>, 1881</li></ul><p><a href="../resource/lessrelatedartworks" class="lessrelatedartworks">&hellip;Fewer related artworks</a></p></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

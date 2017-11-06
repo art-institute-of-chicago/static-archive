@@ -1,0 +1,132 @@
+{
+"identifier": "flexifloor",
+"map"       : "gallery-floor-plan_540.jpg",
+"overlay"   : "gallery-floor-plan_540overlay.jpg", 
+"click"     : "",
+"mapheight" : "369px",
+"mapwidth"  : "540px",
+"hoverin"   : "",
+"hoverout"  : "",
+"areas"     : {
+    "staircase-n" : {
+        "width"   : "55px",
+        "height"  : "34px",
+        "top"     : "120px",
+        "left"    : "215px",
+        "click"   : "window.location = '/armoryshow/staircase-n';",
+        "data" : {
+          "title" : "Top of the Grand Staircase (north)"
+        }
+    },
+    "staircase-s" : {
+        "width"   : "60px",
+        "height"  : "34px",
+        "top"     : "120px",
+        "left"    : "270px",
+        "click"   : "window.location = '/armoryshow/staircase-s';",
+        "data" : {
+          "title" : "Top of the Grand Staircase (south)"
+        }
+    },
+    "25-ne" : {
+        "width"   : "82px",
+        "height"  : "32px",
+        "top"     : "55px",
+        "left"    : "438px",
+        "click"   : "window.location = '/armoryshow/25-ne';",
+        "data" : {
+          "title" : "Gallery 25 (northeast)"
+        }
+    },
+    "25-sw" : {
+        "width"   : "82px",
+        "height"  : "32px",
+        "top"     : "87px",
+        "left"    : "438px",
+        "click"   : "window.location = '/armoryshow/25-sw';",
+        "data" : {
+          "title" : "Gallery 25 (southwest)"
+        }
+    },
+    "26" : {
+        "width"   : "40px",
+        "height"  : "40px",
+        "top"     : "118px",
+        "left"    : "450px",
+        "click"   : "window.location = '/armoryshow/26';",
+        "data" : {
+          "title" : "Gallery 26"
+        }
+    },
+    "50-ne" : {
+        "width"   : "79px",
+        "height"  : "37px",
+        "top"     : "25px",
+        "left"    : "232px",
+        "click"   : "window.location = '/armoryshow/50-ne';",
+        "data" : {
+          "title" : "Gallery 50 (northeast)"
+        }
+    },
+    "50-sw" : {
+        "width"   : "79px",
+        "height"  : "38px",
+        "top"     : "62px",
+        "left"    : "232px",
+        "click"   : "window.location = '/armoryshow/50-sw';",
+        "data" : {
+          "title" : "Gallery 50 (southwest)"
+        }
+    },
+    "51" : {
+        "width"   : "40px",
+        "height"  : "74px",
+        "top"     : "25px",
+        "left"    : "311px",
+        "click"   : "window.location = '/armoryshow/51';",
+        "data" : {
+          "title" : "Gallery 51"
+        }
+    },
+    "52-ne" : {
+        "width"   : "22px",
+        "height"  : "44px",
+        "top"     : "55px",
+        "left"    : "351px",
+        "click"   : "window.location = '/armoryshow/52-ne';",
+        "data" : {
+          "title" : "Gallery 52 (northeast)"
+        }
+    },
+    "52-se" : {
+        "width"   : "22px",
+        "height"  : "44px",
+        "top"     : "55px",
+        "left"    : "373px",
+        "click"   : "window.location = '/armoryshow/52-se';",
+        "data" : {
+          "title" : "Gallery 52 (southeast)"
+        }
+    },
+    "53-se" : {
+        "width"   : "21px",
+        "height"  : "74px",
+        "top"     : "25px",
+        "left"    : "417px",
+        "click"   : "window.location = '/armoryshow/53-se';",
+        "data" : {
+          "title" : "Gallery 53 (southeast)"
+        }
+    },
+    "53-ne" : {
+        "width"   : "22px",
+        "height"  : "74px",
+        "top"     : "25px",
+        "left"    : "395px",
+        "click"   : "window.location = '/armoryshow/53-ne';",
+        "data" : {
+          "title" : "Gallery 53 (northeast)"
+        }
+    }
+}
+}

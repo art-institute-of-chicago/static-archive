@@ -1,0 +1,159 @@
+/*EM calculator: http://riddle.pl/emcalc/
+The base font for the site is 10px or x-small.  To calculate the padding, width, etc with ems, 
+you have to base it off the font of that element, or the next containing element.
+
+This page intentionally uses pixels instead of ems because we do not want the table or the images to be resized by the browser.
+*/
+
+/*
+*Light green: #bacbc3
+*Dark green: #84948a
+*Orange: #BD8440
+*
+* colorpicker:
+* Background/Header color/Messages/Artwork Horizontal rules: #bacbc3 (#d7182a)
+* Body color/Button color/Exhibition Splash header color: #84948a (#ffffff)
+* Exhibition splash background/Tab Active Background color/Heading text colors: #fff (#d7182a)
+* Header bottom border/Active link/Sidebar Horizontal Rule: #bd8440 (#ffcc00)
+* Breadcrumb link color: #4B5650 (#d7182a)
+* Tab Background color: #ebebeb (#ebebeb)
+* Tab Hover Background color: #aaa ()
+* Tab border: #999 (#999)
+* Body text color: #000 (#333)
+*
+*THESE WILL BE THE DEFAULT VALUES
+*/
+
+body, .pager, .messages, .citi-messages {
+	background-color: #d7182a;
+}
+.tabs-wrapper ul li a {
+	background-color: #ebebeb;
+}
+.tabs-wrapper ul li a:hover {
+	background-color: ;
+}
+#main, #edit-submit, #block-aicexhibitions-artwork_browser .content {
+	background-color: #ffffff;
+}
+
+#column_container, #container, #sidebar-right { background-color: #d7182a; }
+
+body.ntype-exhibition #header {
+	background-color: #ffffff;
+}
+
+body.ntype-exhibition, body.ntype-exhibition #main, .tabs-wrapper ul li a.active {
+	background-color: #ffffff;
+}
+
+#header {
+	background-color: #d7182a;
+}
+
+#block-aicexhibitions-artwork_browser img {
+	background-color: #d7182a;
+}
+
+.tooltip { background-color: #ffffff;}
+
+#filterMenu { background-color: #ffcc00; }
+
+#galleryContent { background-color: #FFE8A7; }
+
+/**
+*FONT COLORS
+**/
+body, a, li.active, a:link, a:visited, #breadcrumb{
+	color: #333;
+}	
+#breadcrumb .sel {
+	color: #d7182a;
+}
+
+#sidebar-right li a.active, 
+.tabs-wrapper ul li a.active {
+	color: #ffcc00;
+}
+#main #content  .bodycopy .right, 
+#main #content  .bodycopy .right a, 
+body.ntype-exhibition #main #content .content {
+  color: #ffffff;
+}
+#sidebar-right .content,
+#sidebar-right #hoverify-target div,
+#sidebar-right .content a,
+#sidebar-right li a, 
+#sidebar-right li a.link, 
+#sidebar-right li a.visited, 
+#sidebar-right h2,
+#hoverify-target .event-item a{
+	color: #ffffff;
+}
+#breadcrumb a,
+#block-aicexhibitions-artwork_browser .page-words a {
+	color: #d7182a;
+}
+
+.messages, .citi-messages, .pager, #main #content .pager-list a, #edit-submit  {
+	color: #d7182a;
+}
+h1 {
+	color: #d7182a;
+}
+h3 {
+	color: #cc9900;
+}
+.tooltip { color: #333333; }
+
+ul#filters, a.filterLink, a:link.filterLink, a:visited.filterLink, #main #content ul.artistName li a:link, ul.artistName li a:visited, #main #content ul.typeName li a:link, #main #content ul.typeName li a:visited, #main #content #filters .tagName li a, a#resetBox:hover { color: #d7182a; }
+
+#filters li .sub { border: 1px solid #d7182a; }
+
+#filterMenu h3, #filterControls, #filterControls a:link, #filterControls a:visited, #filterControls a:hover, #filterControls a:active { color: #000000; }
+
+ul#dateRange { color: #ffffff; }
+
+.form form div.form-item label, .form #edit-submit { color: #d7182a;}
+
+.form #edit-submit { border: 1px solid #d7182a;}
+
+/*#main #content .bodycopy .left, #main #content .bodycopy .left a {
+	color: #ffffff;
+}
+
+*/
+/**
+*BORDER COLORS
+**/
+#header {
+	border-color:#ffcc00;
+}
+#sidebar-right #block-menu_trim-475, #sidebar-right .block {
+	border-color:#ffcc00;
+}
+
+#edit-submit{
+	border-color: #d7182a;
+}
+#artwork-body {
+		border-color: #d7182a;
+}
+hr {
+		border-color: #cc9900;
+}
+.tabs-wrapper ul, .tabs-wrapper ul li a {
+	border-color: #999;
+}
+.form form div.form-item input, .form form div.form-item select {
+ border-color: #d7182a; 
+}
+a#resetBox:link, a#resetBox:visited {
+  border-color: #000000;
+}
+a#resetBox:hover {
+  border-color: #d7182a;
+}
+
+
+

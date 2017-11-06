@@ -1,0 +1,614 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a57a710bb220b871e27f0cae987f22ed) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_a57a710bb220b871e27f0cae987f22ed) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_567d919b8cb0160da32a8563ad96111f) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_2624d41e97adc5dd7ad8c2f7d010febe) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_60fda3b54003017dc64a0c492471bbfe) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a57a710bb220b871e27f0cae987f22ed) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_a57a710bb220b871e27f0cae987f22ed) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_567d919b8cb0160da32a8563ad96111f) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a57a710bb220b871e27f0cae987f22ed) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_a57a710bb220b871e27f0cae987f22ed) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_2bd22ddd89f5ee20da9243ec2e639365) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Excavation | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="css/roll.css" />
+<link rel="shortcut icon" href="images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "css/aicportal.css";</style>
+<style type="text/css" media="all">@import "css/node.css";</style>
+<style type="text/css" media="all">@import "css/user.css";</style>
+<style type="text/css" media="all">@import "css/content.css";</style>
+<style type="text/css" media="all">@import "css/gallery.css";</style>
+<style type="text/css" media="all">@import "css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "css/exhibition-3518.css";</style>
+<style type="text/css" media="all">@import "css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "css/devel.css";</style>
+<style type="text/css" media="all">@import "css/style.css";</style>
+<style type="text/css" media="all">@import "css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "css/system-menus.css";</style>
+<style type="text/css" media="all">@import "css/system.css";</style>
+<style type="text/css" media="all">@import "css/main.css";</style>
+<style type="text/css" media="all">@import "css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "css/print.css";</style>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/drupal.js"></script>
+<script type="text/javascript" src="js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="js/extlink.js"></script>
+<script type="text/javascript" src="js/devel.js"></script>
+<script type="text/javascript" src="js/autocomplete.js"></script>
+<script type="text/javascript" src="js/jqModal.js"></script>
+<script type="text/javascript" src="js/redirect.js"></script>
+<script type="text/javascript" src="js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "citi": { "enlargements": { "..\/images\/120994_4227950.jpg": { "enlargement_image": "..\/images\/120994_4227950.jpg", "object_artist_culture_display": "Willem de Kooning\x3cbr /\x3e\nAmerican, born Netherlands, 1904–1997", "object_title": "Excavation", "object_date_display": "1950", "object_id": "76244", "object_copyright_notice": "© 2016 The Willem de Kooning Foundation / Artists Rights Society (ARS), New York" } } } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "/aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "/aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="images/aic_MW.gif" alt="The Art Institute of Chicago" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="images/modern_wing_bnr.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/modernwing/artwork">Selected works</a> > <span class="sel">Excavation</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Excavation</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <a href="..\/images\/120994_4227950.jpg" class="enlargement-link enlargement-link-76244"><img src="images/120994_4227952.jpg" alt="Excavation" title="Willem de Kooning
+American, born Netherlands, 1904–1997, Excavation"  /></a>          </div>
+
+    <p class="tools">
+              <a href="..\/images\/120994_4227950.jpg" class="enlargement-link enlargement-link-76244"><strong>View</strong> enlargement</a><br />
+                          <a href="http://www.artic.edu/aic/collections/exhibitions/modernwing/artwork/76244/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="http://www.artic.edu/aic/collections/exhibitions/modernwing/artwork/76244/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    Willem de Kooning<br />
+American, born Netherlands, 1904–1997<br />
+    </p>
+    <h3><em>Excavation</em>, 1950</h3>
+
+    <p>
+    Oil on canvas<br />    205.7 x 254.6 cm (81 x 100 1/4 in.), without frame<br />    Signed: recto: "de Kooning" (bottom right in black paint); not inscribed on verso<br />    Mr. and Mrs. Frank G. Logan Purchase Prize Fund; restricted gifts of Edgar J. Kaufmann, Jr., and Mr. and Mrs. Noah Goldowsky, 1952.1</p>
+        © 2016 The Willem de Kooning Foundation / Artists Rights Society (ARS), New York
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p><p><em>Excavation</em>, Willem de Kooning’s largest painting up to 1950, exemplifies the artist’s innovative style of expressive brushwork and distinctive organization of space into loose, sliding planes with open contours. According to de Kooning, his point of departure was an image of women working in a rice field from <em>Bitter Rice</em>, a 1949 Italian Neorealist film. The mobile structure of hooked, calligraphic lines defines anatomical parts—bird and fish shapes, human noses, eyes, teeth, necks, and jaws—revealing the particular tension between abstraction and figuration that is inherent in de Kooning’s work. Aptly titled, the composition reflects his technically masterful painting process: an intensive building up of the surface and scraping down of its paint layers, often for months, until the desired effect was achieved.</p></p>
+                <div id="abbrev">
+      <p><a href="http://www.artic.edu//aic/collections/exhibitions/modernwing/artwork/more" class="more">Exhibition, Publication and Ownership Histories</a></p>
+      <!--content hidden-->
+    </div>
+    <div id="extended">
+      <p><a href="http://www.artic.edu//aic/collections/exhibitions/modernwing/artwork/less" class="less">Exhibition, Publication and Ownership Histories</a></p>
+            <h2>Exhibition History</h2>
+      <p>“XXV Biennale di Venezia,” June 8–October 15, 1950, cat. 82.<br />
+<br />
+New York, Museum of Modern Art, “Abstract Painting and Sculpture in America,” January 23–March 25, 1951, cat. by Andrew Carnduff Ritchie, cat. 54 (ill.).<br />
+<br />
+Art Institute of Chicago, “60th Annual American Exhibition,” October 25–December 16, 1951, n.pag., cat. 41.<br />
+<br />
+New York, Wildenstein and Company, “Loan Exhibition of Seventy XX Century American Paintings,” February 21–March 22, 1952, cat. 55.<br />
+<br />
+Colorado Springs Fine Arts Center, “New Accessions USA,” July 3–September 2, 1952, cat. 12 (ill.).<br />
+<br />
+“XXVII Biennale di Venezia,” June 19–October 17, 1954, cat. 64.<br />
+<br />
+Amsterdam, Stedelijk Museum, “Willem de Kooning,” September 19–November 17, 1968, organized by the International Council of the Museum of Modern Art, cat. by Thomas B. Hess; traveled to London, Tate Gallery, December 5, 1968–January 26, 1969, New York, Museum of Modern Art, March 6–April 27, 1969, Art Institute of Chicago, May 17–July 6, 1969, and Los Angeles County Museum of Art, July 29–September 14, 1969, pp. 51, 73–75, cat. 46 (color ill.); Dutch cat., n.pag., cat. 43 (color ill.).<br />
+<br />
+Buffalo, Albright-Knox Art Gallery, “Abstract Expressionism: The Critical Developments,” September 19–November 29, 1987, organized by Michael Auping, pp. 43, 45, 128, cat. 31 (color ill.).<br />
+<br />
+Washington, D. C., National Gallery of Art, “Willem de Kooning: Paintings,” May 8–September 5, 1994, cat. by Marla Prather with essays by David Sylvester and Richard Shiff; traveled to New York, Metropolitan Museum of Art, October 11, 1994–January 8, 1995, and London, Tate Gallery, February 15–May 7, 1995 (Washington, D. C. and New York only), pp. 20, 93, 100–02, 127, 136, cat. 21 (color ill.).</p>
+                  <h2>Publication History</h2>
+      <p>Alfred H. Barr, Jr., “Gorky, De Kooning, Pollock (7 Americans Open in Venice),” “ARTnews” 49, 4 (June-August 1950), p. 23 (ill.). <br />
+<br />
+Louis Finkelstein, “Marin and de Kooning,” “Magazine of Art” 43, 6 (October 1950), p. 202 (ill.).<br />
+<br />
+Eleanor Jewett, "60th Exhibit in Art Institute Features Fads," "Chicago Daily Tribune," October 24, 1951, p. B6<br />
+<br />
+Aline B. Louchheim, “Conclusions from a Chicago Annual,” “New York Times,” October 28, 1951, sec. 2, p. 9.<br />
+<br />
+“Institute Show Is Great, One of 3 Judges Insists,” “Chicago Daily News,” October 31, 1951, p. 26.<br />
+<br />
+Daniel Catton Rich, “The Windy City, Storm Center of Many Contemporary Art Movements,” “Art Digest” 26, 3 (November 1, 1951), p. 29 (ill.).<br />
+<br />
+Charles Fabens Kelley, “Chicago’s 60th Annual Stirs Controversy,” “Christian Science Monitor,” November 3, 1951, p. 12.<br />
+<br />
+Charles Fabens Kelley, “Chicago: Record Years,” “ARTnews” 51, 4 (June-August 1952), p. 63 (ill.).<br />
+<br />
+James Thrall Soby,"Painting &amp; Sculpture," " Saturday Review," March 14, 1953, p 19 and 60.<br />
+<br />
+James Thrall Soby, “Willem de Kooning,” in John I. H. Baur, ed., “New Art in America: Fifty Painters of the 20th Century” (New York Graphic Society/Frederick A. Praeger, 1957), pp. 232, 235 (ill.).<br />
+<br />
+Thomas B. Hess, “Willem de Kooning,” The Great American Artists Series A101 (George Braziller, 1959), pp. 116, 120–121, cat. 108, front cover (color ill.). <br />
+<br />
+“Paintings in the Art Institute of Chicago” (Art Institute of Chicago, 1961), p. 122, 390 (ill.).<br />
+<br />
+Edwin Denby, “My Friend de Kooning,” “ARTnews Annual” 29 (1964), p. 91 (ill.).<br />
+<br />
+Harold Rosenberg, “The Anxious Object: Art Today and Its Audience” (Horizon Press, 1964), pp. 117–18.<br />
+<br />
+“Instituto de arte de Chicago,” El mundo de los museos (Madrid: Editorial Codex, 1967), pp. 16 (ill.), 83 (color ill.).<br />
+<br />
+Barbara Rose, “American Art Since 1900: A Critical History” (Frederick A. Praeger, 1967), p. 186, fig. 6-38 (ill.).<br />
+<br />
+Guy Brett, “The Tate’s de Kooning Exhibition,” “London Times,” December 6, 1968, p. 17.<br />
+<br />
+Barbara Rose, “American Painting: The 20th Century” (SKIRA, 1969), p. 73, (color ill.), 77; 2nd ed. (SKIRA/Rizzoli, 1986), pp. 81 (color ill.), 85.<br />
+<br />
+Katharine Kuh, “The Story of a Picture,” “Saturday Review,” March 29, 1969, pp. 38–39; repr. in “The Open Eye: In Pursuit of Art” (Harper and Row, 1971), pp. 182–85 (ill.).<br />
+<br />
+Maurice Tuchman, “New York School, the First Generation: Paintings of the 1940s and 1950s,” rev. ed. (New York Graphic Society, 1971), fig. 15 (ill.).<br />
+<br />
+Thomas B. Hess, “Willem de Kooning, Drawings” (New York Graphic Society, 1972), p. 36.<br />
+<br />
+James Speyer, "'To keep in touch'," "the ARTgallery magazine," June 1972, p.33-36<br />
+<br />
+Sam Hunter, “American Art of the 20th Century: Painting, Sculpture, Architecture” (Harry N. Abrams, 1972), p. 245, pl. 318 (color ill.); 2nd ed. (Prentice Hall, 1973), p. 245, pl. 388 (color ill.).<br />
+<br />
+“4 mestres contemporâneos: Jean Dubuffet, Alberto Giacometti, Willem de Kooning, Francis Bacon,” exh. cat. (Brasil: Os Museus, 1973), n.pag.<br />
+<br />
+John Wilmerding, ed., “The Genius of American Painting” (William Morrow and Company, 1973), p. 289 (ill.).<br />
+<br />
+Abraham A. Davidson, “The Story of American Painting” (Harry N. Abrams, 1974), p. 144, pl. 131 (ill.). <br />
+<br />
+Philip Larson and Peter Schjeldahl, “De Kooning: Drawings, Sculptures,” exh. cat. (E. P. Dutton and Company, 1974), n.pag. (ill.). <br />
+<br />
+Harold Rosenberg, “Willem de Kooning” (Harry N. Abrams, 1974), pp. 13, 17, 19, 22–23, 30, 34, 284, pl. 82 (color ill.).<br />
+<br />
+“Willem de Kooning: 1941–1959,” exh. cat. (Chicago: Richard Gray Gallery, 1974), n.pag. <br />
+<br />
+“De Kooning: Paintings, Drawings, Sculpture, 1967–1975,” exh. cat. (West Palm Beach: Norton Gallery of Art, 1975), pp. 11, 45.<br />
+<br />
+Celia Mariott, “Iconography in de Kooning’s ‘Excavation,’” “Bulletin of the Art Institute of Chicago” 69, 1 (January/February 1975), pp. 15–18, fig. 1 (ill.).<br />
+<br />
+Frederick Hartt, “Art: A History of Painting, Sculpture, and Architecture” (Harry N. Abrams, 1976), vol. 2, p. 456, fig. 555 (ill.); 2nd ed. (1985), pp. 857, 935, fig. 1247 (ill.); 4th ed. (1993), pp. 32, 1020–21, fig. 27 (color ill.). <br />
+<br />
+Anthony Libby, “O’Hara on the Silver Range,” “Contemporary Literature” 17, 2 (Spring 1976), pp. 245–46, 261.<br />
+<br />
+“Willem de Kooning: sculptures, lithographies, peintures,” exh. cat. (Geneva: Musée d’Art et d’Histoire, 1977), p. 29.<br />
+<br />
+Diane Waldman, “Willem de Kooning in East Hampton,” exh. cat. (Solomon R. Guggenheim Museum, 1978), pp. 14–15 (ill.), 133.<br />
+<br />
+“Willem de Kooning: obras recientes,” exh. cat. (Madrid: Fundacíon Juan March, 1978), n.pag. <br />
+<br />
+“Willem de Kooning,” exh. cat. (Dordrechts Museum, 1979), n.pag. <br />
+<br />
+“Willem de Kooning: Pittsburgh International Series,” exh. cat. (Museum of Art, Carnegie Institute, 1979), p. 164.<br />
+<br />
+Charles F. Stuckey, “Bill de Kooning and Joe Christmas,” “Art in America” 68, 3 (March 1980), pp. 67, 77, fig. 2 (color ill.).<br />
+<br />
+Sally Yard, “Willem de Kooning: The First Twenty-Six Years in New York, 1927–1952” (Ph.D. diss., Princeton University, 1980), pp. 154, 157, 159, 172–73, 185, 194–195, fig. 224 (ill.).<br />
+<br />
+Harry F. Gaugh, “Willem de Kooning,” Modern Masters 2 (Abbeville Press, 1983), pp. 31, 36–38, 41, 56, 64, 71, 109, fig. 27 (color ill.).<br />
+<br />
+ “The North Atlantic Light, 1960–1983,” exh. cat. (Moderna Museet, 1983), p. 18.<br />
+<br />
+Curtis Bill Pepper, “ The Indomitable de Kooning,” “New York Times,” November 20, 1983, p. 88.<br />
+<br />
+“Willem de Kooning: Drawings, Paintings, Sculptures,” exh. cat. (Whitney Museum of American Art/Prestel-Verlag, 1983), pp. 18, 115, 124, 272, cat. 180 (color ill.).<br />
+<br />
+Robert Hughes, “Painting’s Vocabulary Builder,” “Time” (January 9, 1984), pp. 62–63.<br />
+<br />
+Philip Jodidio, “Peindre le desordre de l’epoque,” “Connaissance des arts” 388 (June 1984), pp. 49–50  (color ill.).<br />
+<br />
+Jörn Merkert, “Willem de Kooning: le plaisir de réalité,” “Art Press” 82 (June 1984), pp. 7, 9–10 (ill.).<br />
+<br />
+Calvin Tompkins, “Manet and de Kooning,” “New Yorker” (February 6, 1984), pp. 77, 79.<br />
+<br />
+“Willem de Kooning,” exh. cat. (Centre Georges Pompidou, 1984), pp. 87 (color ill.), 190, 200 (photo).<br />
+<br />
+“De Kooning: dipinti, disegni, sculture,” exh. cat. (Electa, 1985), p. 64. <br />
+<br />
+“The Abstract Expressionist,” “Metropolitan Museum of Art Bulletin” 44, 3 (Winter 1986–87), pp. 29, 39.<br />
+<br />
+Philippe Sollers, “De Kooning, vite” (Éditions de la différence, 1988), vol. 1, p. 22; vol. 2, cat. 20 (color ill.).<br />
+<br />
+Kirk Varnedoe with Pepe Karmel, “Jackson Pollock,” exh. cat. (Museum of Modern Art/Harry N. Abrams, 1988), p. 39.<br />
+<br />
+Diane Waldman, “Willem de Kooning” (National Museum of American Art, Smithsonian Institution/Harry N. Abrams, 1988), pp. 71–72, 75–76, 147, fig. 58 (color ill.). <br />
+<br />
+James N. Wood and Katharine C. Lee, “Master Paintings in the Art Institute of Chicago” (Art Institute of Chicago/New York Graphic Society Books and Little, Brown and Company, 1988), p. 148 (color ill.); 2nd ed., James N. Wood (Art Institute of Chicago/Hudson Hills Press, 1999), p. 148 (color ill.).<br />
+<br />
+Elizabeth Murray, “Willem de Kooning,” “Art Journal” 48, 3 (Fall 1989), p. 236.<br />
+<br />
+Mildred Glimcher, “Willem de Kooning, Dubuffet: The Women,” exh. cat. (New York: Pace Gallery, 1990), pp. 19, 21, fig. 7 (ill.).<br />
+<br />
+Donald Goddard, “American Painting” (Hugh Lauter Levin Associates, 1990), pp. 243, 247 (color ill.). <br />
+<br />
+“Willem de Kooning,” exh. cat. (Paris: Galerie Karsten Greve, 1990), pp. 103, 122–23. <br />
+<br />
+Sally Yard, “The Angel and the Demoiselle: Willem de Kooning’s ‘Black Friday,’” “Record of the Art Museum, Princeton University” 50, 2 (1991), p. 14.<br />
+<br />
+April Kingsley, “The Turning Point: The Abstract Expressionists and the Transformation of American Art” (Simon and Schuster, 1992), pp. 30, 101, 140, 197, 202, 212–18 (ill.), 233, 366.<br />
+<br />
+David Anfam, “Review: Abstract Expressionism, Works on Paper,” “Burlington Magazine” 135, 1086 (September 1993), p. 658.<br />
+<br />
+Eric de Chassey, “Les quatre leçons de Paul Cézanne,” “Beaux Arts” 111 (April 1993), p. 83 (color ill.).<br />
+<br />
+Yoshiyuki Fuji, “Willem de Kooning,” Contemporary Great Masters 5 (Kodansha, 1993), pl. 15 (color ill.).<br />
+<br />
+Lee Hall, “Elaine and Bill, Portrait of a Marriage: The Lives of Willem and Elaine de Kooning” (Harper Collins, 1993), pp. 86, 150.<br />
+<br />
+“Willem de Kooning: Transcending Landscape,  Paintings 1975–1979,” exh. cat. (New York: C and M Arts, 1993), n.pag. <br />
+<br />
+James N. Wood, “Treasures of 19th- and 20th-Century Painting: The Art Institute of Chicago” (Abbeville Press, 1993), p. 299 (color ill.).<br />
+<br />
+Judith Zilczer et al., “Willem de Kooning: From the Hirshhorn Museum Collection,” exh. cat. (Hirshhorn Museum and Sculpture Garden, Smithsonian Institution/Rizzoli, 1993), pp. 40–42, 191, fig. 21 (ill.); Catalan and Spanish cat., pp. 44–47, 177, fig. 19 (ill.). <br />
+<br />
+David Cateforis, “Willem de Kooning” (Rizzoli International, 1994), n.pag., pl. 5 (color ill.), back cover (color ill.).<br />
+<br />
+Adam Gopnik, “The Last Action Hero,” “New Yorker” (May 23, 1994), p. 86.<br />
+<br />
+Michael Kimmelman, “America’s Living Old Master,” “New York Times,” May 15, 1994, p. H41.<br />
+<br />
+Stuart Klawans, “‘I Was a Weird Example of Art’: My Amputations as Cubist Confession,” “African American Review” 28, 1 (Spring 1994), pp. 78–79.<br />
+<br />
+Robert Natkin, “Canapés from Twombly; Hot Meal Art from de Kooning, Kline,” “New York Observer,” November 14, 1994, n.pag. (ill.).<br />
+<br />
+Stephen Polcari, “Review: Willem de Kooning, Washington, National Gallery,” “Burlington Magazine” 136, 1098 (September 1994), p. 644, fig. 68 (ill.).<br />
+<br />
+Bennett Schiff, “For de Kooning, Painting Has Been ‘A Way of Living,’” “Smithsonian” 25, 1 (April 1994), pp. 114–15 (color ill.).<br />
+<br />
+Deborah Solomon, “The Figure in the (Abstract) Canvas,” “Wall Street Journal,” May 6, 1994, p. A12.<br />
+<br />
+Jonathan Fineberg, “Art Since 1940: Strategies of Being” (Prentice Hall, 1995), pp. 78–80, fig. 3.44 (color ill.); 2nd ed. (Harry N. Abrams, 2000), pp. 78–80, fig. 3.44 (color ill.).<br />
+<br />
+David Sylvester, “The Birth of ‘Woman I,’” “Burlington Magazine” 137, 1105 (April 1995), pp. 220, 225–226, 229–230, fig. 8 (ill.).<br />
+<br />
+“Willem de Kooning,” exh. cat. (Zurich: Thomas Amman Fine Art, 1995), n.pag. <br />
+<br />
+“Willem de Kooning: Paintings,” exh. pamphlet (Metropolitan Museum of Art, 1995), n.pag.<br />
+<br />
+“Picasso, Guston, Miró, de Kooning: in vollkommener Freiheit/Painting for Themselves, Late Works,” exh. cat. (Neues Museum Weserburg/Hirmer, 1996), pp. 170–71 (ill.).<br />
+<br />
+Carter Ratcliff, “The Fate of a Gesture: Jackson Pollock and Postwar American Art” (Farrar, Straus, Giroux, 1996), pp. 99–100, 105, pl. II (color ill.).<br />
+<br />
+James N. Wood and Teri J. Edelstein, “The Art Institute of Chicago: Twentieth-Century Painting and Sculpture” (Hudson Hills Press, 1996), pp. 9, 98–99 (color ill.).<br />
+<br />
+Alan G. Artner, “Master Artist W. de Kooning Dead at 92,” “Chicago Tribune,” March 20, 1997, sec. 1, back page (ill.).<br />
+<br />
+“The End of Art’s Great Triumvirate: Modern Master de Kooning Dies at Age 92,” “Chicago Sun–Times,” March 20, 1997, p. 29 (ill.).<br />
+<br />
+Michael Kimmelman, “Willem de Kooning Dies at 92; Reshaped U.S. Art,” “New York Times,” March 20, 1997, p. A16.<br />
+<br />
+Sally Yard, “Willem de Kooning” (Rizzoli, 1997), pp. 47, 50, 58, 104, cat. 35 (color ill.).<br />
+<br />
+Susan Chevlowe et al., “Common Man, Mythic Vision: The Paintings of Ben Shahn,” exh. cat. (Jewish Museum/Princeton University Press, 1998), p. 89, fig. 45 (ill.). <br />
+<br />
+Germano Celant et al., “Jim Dine: Walking Memory, 1959–1969,” exh. cat. (Solomon R. Guggenheim Museum/Harry N. Abrams, 1999), p. 35, fig. 10 (ill.).<br />
+<br />
+“Cézanne und die Moderne,” exh. cat. (Foundation Beyeler/Hatje Cantz, 1999), p. 134.<br />
+<br />
+Daniel Schulman, "Marion Perkins: A Chicago Sculptor Rediscovered" in "African Americans in Art: Selections from the Art Institute of Chicago," "Art Institute of Chicago Museum Studies" 24, 2 (1999), p. 100.<br />
+<br />
+Richard Shiff, “Review: Willem de Kooning, New York and Columbus,” “Burlington Magazine” 141, 1154 (May 1999), p. 315.<br />
+<br />
+Edvard Lieber, “Willem de Kooning: Reflections in the Studio” (Harry N. Abrams, 2000), p. 34.<br />
+<br />
+James N. Wood and Debra N. Mancoff, “Treasures from the Art Institute of Chicago” (Art Institute of Chicago/Hudson Hills Press, 2000), pp. 16, 286 (color ill., detail), 295 (color ill.).<br />
+<br />
+David Anfam, “Review: Willem de Kooning, Valencia and Madrid,” “Burlington Magazine” 143, 1185 (December 2001), p. 785.<br />
+<br />
+“De Kooning, Chamberlain: Influence and Transformation,” exh. cat. (Pace Wildenstein, 2001), p. 43.<br />
+<br />
+“Guerrero, de Kooning: la sabiduría del color,” exh. cat. (Granada: Centro José Guerrero, 2001), p. 142.<br />
+<br />
+Cornelia H. Butler et al., “Willem de Kooning: Tracing the Figure,” exh. cat. (Museum of Contemporary Art, Los Angeles/Princeton University Press, 2002), p. 142 (color ill.).<br />
+<br />
+Anthony White, ed., “Jackson Pollock’s ‘Blue Poles,’” exh. cat. (National Gallery of Australia, 2002), p. 66.<br />
+<br />
+“De Kooning: A Centennial Exhibition,” exh. cat. (New York: Gagosian Gallery, 2004), pp. 10–15, 132, fig. 5 (color ill.).<br />
+<br />
+“Garden in Delft: Willem de Kooning Landscapes 1928–88,” exh. cat. (New York: Mitchell-Innes and Nash, 2004), p. 14.<br />
+<br />
+Mark Stevens and Annalyn Swan, “De Kooning: An American Master” (Alfred A. Knopf, 2004), pp. 282, 293–97, 301 (color ill.), 305–07, 309–10, 312, 318–20, 327, 331, 337, 342, 379, 420, 449, 519, 600. <br />
+<br />
+Ingried Brugger et al., “Willem de Kooning,” exh. cat. (Kunstforum Wien/Edition Minerva, 2005), pp. 14–15 (color ill.), 28–29 (color ill.), 46 (color ill.), 57, 93, 173.<br />
+<br />
+“De Kooning: Paintings 1960–1980, Kunstmuseum Basel,” exh. cat. (Hatje Cantz, 2005), pp. 47, 186.<br />
+<br />
+“Willem de Kooning: Late Paintings,” exh. cat. (Munich: Schirmer Mosel, 2006), pp. 15, 81.<br />
+<br />
+“De Kooning, Women,” exh. pamphlet (New York: Craig F. Starr Associates, 2007), n.pag.<br />
+15, 133.<br />
+<br />
+“Willem de Kooning: obras recientes,” exh. cat. (Madrid: Fundacíon Juan March, 1978), n.pag. <br />
+<br />
+“Willem de Kooning,” exh. cat. (Dordrechts Museum, 1979), n.pag. <br />
+<br />
+“Willem de Kooning: Pittsburgh International Series,” exh. cat. (Museum of Art, Carnegie Institute, 1979), p. 164.<br />
+<br />
+Charles F. Stuckey, “Bill de Kooning and Joe Christmas,” “Art in America” 68, 3 (March 1980), pp. 67, 77, fig. 2 (color ill.).<br />
+<br />
+Sally Yard, “Willem de Kooning: The First Twenty-Six Years in New York, 1927–1952” (Ph.D. diss., Princeton University, 1980), pp. 154, 157, 159, 172–73, 185, 194, 195, fig. 224 (ill.).<br />
+<br />
+Harry F. Gaugh, “Willem de Kooning,” Modern Masters 2 (Abbeville Press, 1983), pp. 31, 36–38, 41, 56, 64, 71, 109, fig. 27 (color ill.).<br />
+<br />
+ “The North Atlantic Light, 1960–1983,” exh. cat. (Moderna Museet, 1983), p. 18.<br />
+<br />
+Curtis Bill Pepper, “ The Indomitable de Kooning,” “New York Times,” November 20, 1983, p. 88.<br />
+<br />
+“Willem de Kooning: Drawings, Paintings, Sculptures,” exh. cat. (Whitney Museum of American Art/Prestel-Verlag, 1983), pp. 18, 115, 124, 272, cat. 180 (color ill.).<br />
+<br />
+Robert Hughes, “Painting’s Vocabulary Builder,” “Time,” January 9, 1984, pp. 62, 63.<br />
+<br />
+Philip Jodidio, “Peindre le desordre de l’epoque,” “Connaissance des arts,” 388 (June 1984), pp. 49 (color ill.), 50.<br />
+<br />
+Jörn Merkert, “Willem de Kooning: le plaisir de réalité,” “Art Press,” 82 (June 1984), pp. 7, 9, 10 (ill.).<br />
+<br />
+Calvin Tompkins, “Manet and de Kooning,” “The New Yorker,” February 6, 1984, pp. 77, 79.<br />
+<br />
+“Willem de Kooning,” exh. cat. (Centre Georges Pompidou, 1984), pp. 87 (color ill.), 190, 200 (photo).<br />
+<br />
+“de Kooning: dipinti, disegni, sculture,” exh. cat. (Electa, 1985), p. 64. <br />
+<br />
+“The Abstract Expressionist,” “Metropolitan Museum of Art Bulletin” 44, 3 (Winter 1986–87), pp. 29, 39.<br />
+<br />
+Philippe Sollers, “de Kooning, vite” (Éditions de la Différence, 1988), vol. 1, p. 22; vol. 2, cat. 20 (color ill.).<br />
+<br />
+Kirk Varnedoe with Pepe Karmel, “Jackson Pollock,” exh. cat. (Museum of Modern Art/Harry N. Abrams, 1988), p. 39.<br />
+<br />
+Diane Waldman, “Willem de Kooning” (National Museum of American Art, Smithsonian Institution/Harry N. Abrams, 1988), pp. 71, 72, 75, 76, 147, fig. 58 (color ill.). <br />
+<br />
+James N. Wood and Katharine C. Lee, “Master Paintings in the Art Institute of Chicago” (Art Institute of Chicago/New York Graphic Society Books and Little, Brown and Company, 1988), p. 148 (color ill.); 2nd ed., James N. Wood (Art Institute of Chicago/Hudson Hills Press, 1999), p. 148 (color ill.).<br />
+<br />
+Elizabeth Murray, “Willem de Kooning,” “Art Journal” 48, 3 (Fall 1989), p. 236.<br />
+<br />
+Mildred Glimcher, “Willem de Kooning, Dubuffet: The Women,” exh. cat. (New York: Pace Gallery, 1990), pp. 19, 21, fig. 7 (ill.).<br />
+<br />
+Donald Goddard, “American Painting” (Hugh Lauter Levin Associates, 1990), pp. 243, 247 (color ill.). <br />
+<br />
+“Willem de Kooning,” exh. cat. (Paris: Galerie Karsten Greve, 1990), pp. 103, 122, 123. <br />
+<br />
+Sally Yard, “The Angel and the Demoiselle: Willem de Kooning’s ‘Black Friday,’” “Record of the Art Museum, Princeton University” 50, 2 (1991), p. 14.<br />
+<br />
+April Kingsley, “The Turning Point: The Abstract Expressionists and the Transformation of American Art” (Simon and Schuster, 1992), pp. 30, 101, 140, 197, 202, 212–18 (ill.), 233, 366.<br />
+<br />
+David Anfam, “Review: Abstract Expressionism, Works on Paper,” “Burlington Magazine” 135, 1086 (September 1993), p. 658.<br />
+<br />
+Eric de Chassey, “Les quatre leçons de Paul Cézanne,” “Beaux Arts,” 111 (April 1993), p. 83 (color ill.).<br />
+<br />
+Yoshiyuki Fuji, “Willem de Kooning,” Contemporary Great Masters 5 (Tokyo: Kodansha, 1993), pl. 15 (color ill.).<br />
+<br />
+Lee Hall, “Elaine and Bill, Portrait of a Marriage: The Lives of Willem and Elaine de Kooning” (Harper Collins, 1993), pp. 86, 150.<br />
+<br />
+“Willem de Kooning: Transcending Landscape,  Paintings 1975–1979,” exh. cat. (New York: C and M Arts, 1993), n.pag. <br />
+<br />
+James N. Wood, “Treasures of 19th- and 20th-Century Painting: The Art Institute of Chicago” (Abbeville Press, 1993), p. 299 (color ill.).<br />
+<br />
+Judith Zilczer et al., “Willem de Kooning: From the Hirshhorn Museum Collection,” exh. cat. (Hirshhorn Museum and Sculpture Garden, Smithsonian Institution/Rizzoli, 1993), pp. 40–42, 191, fig. 21 (ill.); Catalan and Spanish cat., pp. 44–47, 177, fig. 19 (ill.). <br />
+<br />
+David Cateforis, “Willem de Kooning” (Rizzoli International, 1994), n.pag., pl. 5 (color ill.), back cover (color ill.).<br />
+<br />
+Adam Gopnik, “The Last Action Hero,” “The New Yorker,” May 23, 1994, p. 86.<br />
+<br />
+Michael Kimmelman, “America’s Living Old Master,” “New York Times,” May 15, 1994, p. H41.<br />
+<br />
+Stuart Klawans, “‘I Was a Weird Example of Art’: My Amputations as Cubist Confession,” “African American Review” 28, 1 (Spring 1994), pp. 78–79.<br />
+<br />
+Robert Natkin, “Canapés from Twombly; Hot Meal Art from de Kooning, Kline,” “New York Observer,” November 14, 1994, n.pag. (ill.).<br />
+<br />
+Stephen Polcari, “Review: Willem de Kooning, Washington, National Gallery,” “Burlington Magazine” 136, 1098 (September 1994), p. 644, fig. 68 (ill.).<br />
+<br />
+Bennett Schiff, “For de Kooning, Painting Has Been ‘A Way of Living,’” “Smithsonian” 25, 1 (April 1994), pp. 114–15 (color ill.).<br />
+<br />
+Deborah Solomon, “The Figure in the (Abstract) Canvas,” “Wall Street Journal,” May 6, 1994, p. A12.<br />
+<br />
+Jonathan Fineberg, “Art Since 1940: Strategies of Being” (Prentice Hall, 1995), pp. 78–80, fig. 3.44 (color ill.); 2nd ed. (Harry N. Abrams, 2000), pp. 78–80, fig. 3.44 (color ill.).<br />
+<br />
+David Sylvester, “The Birth of ‘Woman I,’” “Burlington Magazine” 137, 1105 (April 1995), pp. 220, 225, 226, 229, 230, fig. 8 (ill.).<br />
+<br />
+“Willem de Kooning,” exh. cat. (Zurich: Thomas Amman Fine Art, 1995), n.pag. <br />
+<br />
+“Willem de Kooning: Paintings,” exh. pamphlet (Metropolitan Museum of Art, 1995), n.pag.<br />
+<br />
+“Picasso, Guston, Miró, de Kooning: in vollkommener Freiheit/Painting for Themselves, Late Works,” exh. cat. (Neues Museum Weserburg/Hirmer, 1996), pp. 170–71 (ill.).<br />
+<br />
+Carter Ratcliff, “The Fate of a Gesture: Jackson Pollock and Postwar American Art” (Farrar, Straus, Giroux, 1996), pp. 99–100, 105, pl. II (color ill.).<br />
+<br />
+James N. Wood and Teri J. Edelstein, “The Art Institute of Chicago: Twentieth-Century Painting and Sculpture” (Hudson Hills Press, 1996), pp. 9, 98, 99 (color ill.).<br />
+<br />
+Alan G. Artner, “Master Artist W. de Kooning Dead at 92,” “Chicago Tribune,” March 20, 1997, sec. 1, back page (ill.).<br />
+<br />
+“The End of Art’s Great Triumvirate: Modern Master de Kooning Dies at Age 92,” “Chicago Sun–Times,” March 20, 1997, p. 29 (ill.).<br />
+<br />
+Michael Kimmelman, “Willem de Kooning Dies at 92; Reshaped U.S. Art,” “New York Times,” March 20, 1997, p. A16.<br />
+<br />
+Sally Yard, “Willem de Kooning” (Rizzoli, 1997), pp. 47, 50, 58, 104, cat. 35 (color ill.).<br />
+<br />
+Susan Chevlowe et al., “Common Man, Mythic Vision: The Paintings of Ben Shahn,” exh. cat. (The Jewish Museum/Princeton University Press, 1998), p. 89, fig. 45 (ill.). <br />
+<br />
+Germano Celant et al., “Jim Dine: Walking Memory, 1959–1969,” exh. cat. (Guggenheim Museum/Harry N. Abrams, 1999), p. 35, fig. 10 (ill.).<br />
+<br />
+“Cézanne und die Moderne,” exh. cat. (Foundation Beyeler/Hatje Cantz, 1999), p. 134.<br />
+<br />
+Daniel Schulman, "Marion Perkins: A Chicago Sculptor Rediscovered" in "African Americans in Art: Selections from the Art Institute of Chicago," "Art Institute of Chicago Museum Studies" 24, 2 (1999), p. 100.<br />
+<br />
+Richard Shiff, “Review: Willem de Kooning, New York and Columbus,” “Burlington Magazine” 141, 1154 (May 1999), p. 315.<br />
+<br />
+Edvard Lieber, “Willem de Kooning: Reflections in the Studio” (Harry N. Abrams, 2000), p. 34.<br />
+<br />
+James N. Wood and Debra N. Mancoff, “Treasures from the Art Institute of Chicago” (Art Institute of Chicago/Hudson Hills Press, 2000), pp. 16, 286 (color ill., detail), 295 (color ill.).<br />
+<br />
+David Anfam, “Review: Willem de Kooning, Valencia and Madrid,” “Burlington Magazine” 143, 1185 (December 2001), p. 785.<br />
+<br />
+“de Kooning, Chamberlain: Influence and Transformation,” exh. cat. (Pace Wildenstein, 2001), p. 43.<br />
+<br />
+“Guerrero, de Kooning: la sabiduría del color,” exh. cat. (Granada: Centro José Guerrero, 2001), p. 142.<br />
+<br />
+Cornelia H. Butler et al., “Willem de Kooning: Tracing the Figure,” exh. cat. (Museum of Contemporary Art, Los Angeles/Princeton University Press, 2002), p. 142 (color ill.).<br />
+<br />
+Anthony White, ed., “Jackson Pollock’s ‘Blue Poles,’” exh. cat. (National Gallery of Australia, 2002), p. 66.<br />
+<br />
+“de Kooning: A Centennial Exhibition,” exh. cat. (New York: Gagosian Gallery, 2004), pp. 10–11, 12, 13, 14–15, 132, fig. 5 (color ill.).<br />
+<br />
+“Garden in Delft: Willem de Kooning Landscapes 1928–88,” exh. cat. (New York: Mitchell-Innes and Nash, 2004), p. 14.<br />
+<br />
+Mark Stevens and Annalyn Swan, “de Kooning: An American Master” (Alfred A. Knopf, 2004), pp. 282, 293–97, 301 (color ill.), 305–07, 309, 310, 312, 318, 319–20, 327, 331, 337, 342, 379, 420, 449, 519, 600. <br />
+<br />
+Ingried Brugger et al., “Willem de Kooning,” exh. cat. (Kunstforum Wien/Edition Minerva, 2005), pp. 14 (color ill.), 15, 28 (color ill.), 29, 46 (color ill.), 57, 93, 173.<br />
+<br />
+“de Kooning: Paintings 1960–1980, Kunstmuseum Basel,” exh. cat. (Hatje Cantz, 2005), pp. 47, 186.<br />
+<br />
+“Willem de Kooning: Late Paintings,” exh. cat. (Munich: Schirmer Mosel, 2006), pp. 15, 81.<br />
+<br />
+“De Kooning, Women,” exh. pamphlet (New York: Craig F. Starr Associates, 2007), n.pag.</p>
+                  <h2>Ownership History</h2>
+      <p>Charles Egan Gallery, New York, 1950. Sold, Sidney Janis Gallery, New York, to the Art Institute, 1952.</p>
+          </div>
+        <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="http://www.artic.edu/aic/collections/exhibitions/modernwing/artwork">Browse selections</a></span>
+      <a href="http://www.artic.edu/aic/collections/exhibitions/modernwing/artwork/71396?from=76244"><img src="images/highlight_thumb_arrow_right.png" alt="&gt;" title="" width="22" height="22" /></a>  
+      <a href="http://www.artic.edu/aic/collections/exhibitions/modernwing/artwork/147003?from=76244"><img src="images/highlight_thumb_arrow_left.png" alt="&lt;" title="" width="22" height="22" /></a>  </div>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_related_resources" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Learn More </h2>
+    <div class="content">
+      <div class="item-list"><ul><li class="first last"><a href="http://www.artic.edu/aic/collections/exhibitions/modernwing/resource/1633">Timeline: When in Africa, When in the World</a></li></ul></div>    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_related_categories" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Works </h2>
+    <div class="content">
+      <a href="http://www.artic.edu/aic/collections/exhibitions/modernwing/artwork/category/801">Art Resource</a>, <a href="http://www.artic.edu/aic/collections/exhibitions/modernwing/artwork/category/218">Contemporary (Modern Wing)</a>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

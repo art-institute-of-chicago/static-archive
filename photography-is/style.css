@@ -1,0 +1,330 @@
+body {
+padding:30px 60px;
+color:#333;
+}
+
+html, body, #riot-of-modernism-image-map {
+position:relative;
+top:0;
+left:0;
+}
+
+.header-table {
+border:none;
+width:100%;
+margin:0 0 15px 0;
+padding:0;
+}
+
+.header-table td {
+margin:0;
+padding:0;
+}
+
+td.aic-header-logo-container {
+width:105px;
+}
+
+img.aic-header-logo {
+width:90px;
+padding:0;
+margin:0;
+}
+
+#riot-of-modernism-map-container {
+max-width:1280px;
+margin:0 auto;
+border:none;
+}
+
+#riot-of-modernism-map-container tr,
+#riot-of-modernism-map-container td {
+height:750px;
+margin:0;
+padding:0;
+border:none;
+}
+
+.map-side-nav {
+width:50px;
+height:100%;
+cursor:pointer;
+}
+
+.map-arrow-left {
+background:url('navigate-left.gif')
+}
+
+.map-arrow-right {
+background:url('navigate-right.gif')
+}
+
+#riot-of-modernism-map-mask {
+position:relative;
+width:100%;
+height:100%;
+overflow:hidden;
+}
+
+#riot-of-modernism-image-map {
+position:absolute;
+top:0;
+left:0;
+width:5133px;
+height:750px;
+}
+
+.hide {
+display:none;
+}
+
+.show {
+display:block;
+}
+
+h3 {
+font-size:24px;
+color:#800000;
+}
+
+nav {
+font-weight:bold;
+font-size:18px;
+}
+
+nav a {
+color:#800000;
+display:inline-block;
+padding:0 0 15px 0;
+font-size:18px;
+}
+
+nav a:hover {
+color:#333;
+}
+
+a.disabled {
+color:#333 !important;
+/* font-weight:normal !important; */
+cursor:default !important;
+}
+
+.nav-spacer {
+font-weight:normal;
+}
+
+a.button {
+background-color:#800000;
+border-color:#333;
+}
+
+a.button:hover {
+background-color:#333;
+border-color:#333;
+}
+
+.search-table {
+border:none;
+width:100%;
+}
+
+.sort-by-container a, .list-artwork a {
+color:#800000;
+cursor:pointer;
+}
+
+table.list-artwork-container {
+border:none;
+width:100%;
+}
+
+table.list-artwork-container tr td:first-child {
+width:170px;
+}
+
+table.list-artwork-container td {
+padding:20px 0;
+}
+
+table.list-artwork-container td {
+border-bottom:10px solid #EEE;
+}
+
+
+table.list-artwork-container tbody:last-child tr td {
+border-bottom:none;
+}
+
+
+.list-artwork-container img {
+max-height:150px;
+max-width:150px;
+}
+
+ul.list-artwork {
+list-style:none;
+display:block;
+font-size:14px;
+}
+
+.list-artwork-artist, .tip-artist {
+font-weight:bold;
+}
+
+.list-artwork-period, .tip-period {
+font-size:12px;
+padding:0 0 8px 0;
+}
+
+.list-artwork-title, .tip-title, .modal-title {
+font-style:italic;
+}
+
+.list-artwork-date, .tip-date {
+font-size:12px;
+line-height:1.5;
+}
+
+.list-artwork-medium, .tip-medium {
+font-size:12px;
+line-height:1.5;
+}
+
+.list-artwork-collection, .tip-collection {
+font-size:12px;
+line-height:1.5;
+}
+
+.list-artwork-description {
+padding:10px 0 0 0;
+}
+
+
+/* Tooltips */
+
+.tooltip span {
+display:block;
+}
+
+.has-tip, .has-tip:hover {
+text-decoration:none;
+border:none;
+cursor:pointer;
+}
+
+.tooltip {
+background-color:#E6E6E6;
+color:#333;
+width:auto !important;
+max-width:400px !important;
+}
+
+.tooltip.tip-top .nub {
+border-color:#E6E6E6 transparent transparent transparent !important;
+}
+
+.tooltip.tip-bottom .nub {
+border-color:transparent transparent #E6E6E6 transparent !important;
+}
+
+.tooltip .tip-citation {
+font-size:12px;
+margin-bottom:5px;
+}
+
+.tooltip .click-tip {
+color:#800000;
+font-size:12px;
+margin-bottom:5px;
+}
+
+#joyride-schedule {
+display:none;
+}
+
+.joyride-tip-guide {
+background:#E6E6E6;
+}
+
+.joyride-nub {
+border-color:#E6E6E6 !important;
+}
+
+.joyride-tip-guide span.joyride-nub.bottom {
+border-top-color:#E6E6E6 !important;
+}
+
+.joyride-close-tip {
+display:none;
+}
+
+.joyride-next-tip.button {
+background:#800000;
+border-color:#800000;
+}
+
+.joyride-content-wrapper {
+color:#333333;
+text-align:right;
+}
+
+.joyride-content-wrapper p {
+text-align:left;
+}
+
+.reveal-modal {
+text-align:center;
+top:-60px;
+margin-bottom:30px;
+padding:15px;
+}
+
+.reveal-modal img {
+margin:0 auto 15px auto;
+max-height:80%;
+max-width:100%;
+}
+
+.reveal-modal.gallery {
+text-align:left;
+top:100px;
+margin-bottom:30px;
+}
+
+.modal-artist {
+font-weight:bold;
+margin-bottom:0;
+}
+
+.gallery img.modal-thumbnail {
+float:right;
+margin:0 0 15px 15px;
+max-width:250px;
+max-height:250px;
+}
+
+.modal-details {
+font-size:12px;
+margin-bottom:0;
+}
+
+.modal-title {
+margin:10px 0 0 0;
+}
+
+.modal-description {
+margin-top:10px;
+}
+
+.modal-close {
+margin:0;
+}
+
+.modal-close a {
+color:#800000;
+}
+
+.owned-link {
+float:right;
+}
+

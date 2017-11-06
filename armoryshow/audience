@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>The Audience</title>
+
+  
+    <meta property="og:title" content="The Audience" itemprop="name">
+  <meta name="twitter:title" content="The Audience">
+
+
+
+    <meta property="og:url" content="/armoryshow/audience">
+  <meta name="twitter:url" content="/armoryshow/audience">
+
+    <meta property="og:type" content="website"> 
+  
+
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery.js" type="text/javascript"></script>
+    
+  <script src="modernizr.foundation.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.navigation.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.tooltips.js" type="text/javascript"></script>
+    
+  <script src="gallery.js" type="text/javascript"></script>
+    
+  <script src="jquery.fleximap.js" type="text/javascript"></script>
+    
+  <script src="armoryshow.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+  
+
+  <style type="text/css">
+
+    html { 
+    
+    background-image: url('501-cubist-tribune_1000.jpg');
+    
+    background-position:top center;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+    }
+
+  </style>
+
+  <header>
+    <table width="100%">
+      <tr>
+        <td width="42%">
+
+          <a href="http://www.artic.edu">
+            <img src="armoryshow-logo.png" id="main-logo"/>
+          </a>
+
+        </td>
+        <td width="16%" style="vertical-align:middle">
+
+          <h2>The Audience</h2>
+
+        </td>
+        <td width="42%">
+
+          <nav id="main-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+                <a href="audience#">Explore</a><a href="audience#" class="flyout-toggle"><span> </span></a>
+                <ul class="flyout small right">
+                  <li ><a href="/armoryshow">Introduction</a></li>
+                  <li ><a href="/armoryshow/setting-the-stage">Setting the Stage</a></li>
+                  <li ><a href="/armoryshow/cast">The Cast</a></li>
+                  <li ><a href="/armoryshow/show">The Show</a></li>
+                  <li ><a href="/armoryshow/program-notes">The Program Notes</a></li>
+                  <li class="active"><a href="audience">The Audience</a></li>
+                  <li ><a href="/armoryshow/finale">The Finale</a></li>
+                  <li ><a href="/armoryshow/legacy">The Legacy</a></li>
+                  <li ><a href="/armoryshow/bibliography">Bibliography</a></li>
+                  <li ><a href="/armoryshow/credits">Credits</a></li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+          <nav id="gallery-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+              <a id="gallery-map-link" class="gallery-map-link" href="audience#">Gallery</a><a href="audience#" class="flyout-toggle gallery-map-link"><span> </span></a>
+                <ul class="flyout right gallery-map">
+                  <li><div id="floor-plan-map"></div></li> 
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+        </td>
+      </tr>
+    </table>
+
+    <div style="clear:both;"></div>
+  </header>
+
+  
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+    <div class="row">
+      <div class="ten columns centered">
+        <article class="panel">
+          <div class="article-inset">
+            <div class="expandable">
+
+  <div class="summary">
+    <p>Chicago's reaction to the Armory Show has often been reduced by historians to the infamous characterization of the city as a "rube town" proffered by Walt Kuhn, the executive secretary of the Association of American Painters and Sculptors (AAPS). This account suggests that critical response to the exhibition was limited to sensationalism, uninformed ridicule, and moral denunciation. While such commentary certainly comprised a large part of the press copy, public opinion was much more varied and nuanced. From the beginning, Chicago audiences were well informed about the show based on coverage of the New York presentation. By mid-March, however, when the city's newspapers began to publish regular commentary on the upcoming exhibition, the initial, positive accounts in the New York press had been supplanted by increasingly unﬂattering characterizations of the foreign section of the exhibition as the work of degenerates and charlatans. Taking their cue from such articles, the Chicago press buzzed with jocular skepticism and curiosity.</p>
+  </div>
+
+  <div class="fulltext">
+    <p>Chicago's reaction to the Armory Show has often been reduced by historians to the infamous characterization of the city as a "rube town" proffered by Walt Kuhn, the executive secretary of the Association of American Painters and Sculptors (AAPS).<a href="audience#ref"><sup>1</sup></a>This account suggests that critical response to the exhibition was limited to sensationalism, uninformed ridicule, and moral denunciation. While such commentary certainly comprised a large part of the press copy, public opinion was much more varied and nuanced. From the beginning, Chicago audiences were well informed about the show based on coverage of the New York presentation. By mid-March, however, when the city's newspapers began to publish regular commentary on the upcoming exhibition, the initial, positive accounts in the New York press had been supplanted by increasingly unﬂattering characterizations of the foreign section of the exhibition as the work of degenerates and charlatans. Taking their cue from such articles, the Chicago press buzzed with jocular skepticism and curiosity. Hoping to whip up excitement and sell admission tickets, Newton H. Carpenter, executive secretary of the Art Institute, seems to have fueled the fire; as Director William M. R. French wrote, "Mr. Carpenter is having a beautiful time, working it up as a kind of circus and sensation."<a href="audience#ref"><sup>2</sup></a> This mood seeped into the galleries as well. Shortly after the exhibition opened, French's assistant, Charles H. Burkholder, wrote: "In Room 50 yesterday, I heard a man laugh at the top of his voice. He inflamed the entire company, and everybody roared. Even Pach, who was with me, became convulsed."<a href="audience#ref"><sup>3</sup></a> Indeed, Walter Pach, who as the AAPS's sales agent was present in the galleries daily, took a much more cheerful view of the show's reception than did Kuhn. Writing to his friend, the collector Michael Stein, who lived in Paris, Pach reported, "You would be <em>astounded</em> at the amount of intelligence I find in my rounds of the galleries . . . even as a small fraction of the comment, it more than makes up for the idiots."<a href="audience#ref"><sup>4</sup></a></p>
+
+    <div class="ref">
+      <a href="audience#" name="ref"></a>
+      <p><sup>1</sup> According to Milton W. Browne, <em>The Story of the Armory Show</em> (New York: Abbeville Press, 1988), p. 170.</p>
+      <p><sup>2</sup> French to Hallowell, Mar. 18, 1913. French&mdash;Letter Books, box 16, vol. 2, 1912&ndash;13, AIC Archives.</p>
+      <p><sup>3</sup> Burkholder to French, Mar. 27, 1913. French&mdash;Letter Books, box 16, vol. 2, 1912&ndash;13, AIC Archives.</p>
+      <p><sup>4</sup> Pach to Michael Stein, Mar. 30, 1913. Gertrude Stein manuscript collection, quoted in Laurette E. McCarthy, "The "Truths" about the Armory Show: Walter Pach's Side of the Story," <em>Archives of American Art Journal</em>, 44, 3&ndash;4 (Fall 2004), p. 7.</p>
+    </div>
+
+  </div>
+</div>
+
+<div class="thumbnail-container audience">
+  <a href="audience#openings"><img src="examiner_200.jpg" /></a>
+  <a href="audience#harriet-monroe"><img src="bedlam_200.jpg" /></a>
+  <a href="audience#making-sense"><img src="cubists-trans_200.png" /></a>
+  <a href="audience#social-disorder"><img src="social-disorder-1_99.jpg" /></a>
+</div>
+
+<div class="slideshow-container" id="slide-openings">
+  <div class="slideshow-text">
+    <a href="audience#" data-reveal-id="openings-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+      <img src="examiner_200.jpg" class="slideshow-image-large"/>
+    </a>
+    <p><strong>Openings, Celebrations, and Satires</strong> Over the course of the Armory Show, the press reported on social events directly and indirectly related to the exhibition as well as on the artworks it featured.</p>
+  </div>
+</div>
+
+<div class="slideshow-container" id="slide-harriet-monroe">
+  <div class="slideshow-text">
+    <a href="audience#" data-reveal-id="harriet-monroe-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+      <img src="bedlam_200.jpg" class="slideshow-image-large"/>
+    </a>
+    <p><strong>Harriet Monroe, A Critical Voice</strong> As a <em>Chicago Daily Tribune</em> art critic, Harriet Monroe gave the Armory Show serious consideration; despite some initial skepticism about the more radical works in the exhibition, her writings demonstrate not only her efforts to responsibly inform the public about the new art but to understand and appreciate the works herself.</p>
+  </div>
+</div>
+
+<div class="slideshow-container" id="slide-making-sense">
+  <div class="slideshow-text">
+    <a href="audience#" data-reveal-id="making-sense-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+      <img src="cubists-trans_200.png" class="slideshow-image-large"/>
+    </a>
+    <p><strong>Making Sense of It All</strong> Chicago journalists made diverse attempts to explain the artworks on view at the Armory Show to their readers. Their interpretations ranged from proposals that the artists were playing practical jokes on the viewers to sincere efforts to understand modern aesthetics.</p>
+  </div>
+</div>
+
+<div class="slideshow-container" id="slide-social-disorder">
+  <div class="slideshow-text">
+    <div class="slideshow-image-large">
+      <a href="audience#" data-reveal-id="social-disorder-1-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+        <img src="social-disorder-1_99.jpg" style="margin-right:5px;"/>
+      </a>
+      <a href="audience#" data-reveal-id="social-disorder-2-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+        <img src="social-disorder-2_91.jpg"/>
+      </a>
+      <a href="audience#" data-reveal-id="social-disorder-3-modal" data-dismiss-modal-class="close-modal" data-animation="fade">
+        <img src="social-disorder-3_99.jpg" style="margin-top:5px;"/>
+      </a>
+    </div>
+    <p><strong>The Language of Social Disorder</strong> In the local media, many articles, editorials, and cartoons tried to associate the look of modern art with troubling contemporary issues, including crime, mental illness, political corruption, and women's suffrage.</p>
+  </div>
+</div>
+
+<div id="modal-container"></div>
+
+<script type="text/javascript">
+$(window).load(function() {
+
+  initializeManualSlideshow('openings');
+
+  // dynamically load modal content to prevent page load delay
+  $('#modal-container').html(' \
+    <div id="openings-modal" class="reveal-modal expand"><img src="examiner_800.jpg"/></div> \
+    <div id="harriet-monroe-modal" class="reveal-modal expand"><img src="bedlam_800.jpg"/></div> \
+    <div id="making-sense-modal" class="reveal-modal expand"><img src="cubists_800.jpg"/></div> \
+    <div id="social-disorder-1-modal" class="reveal-modal expand"><img src="social-disorder-1_800.jpg"/></div> \
+    <div id="social-disorder-2-modal" class="reveal-modal expand"><img src="social-disorder-2_800.jpg"/></div> \
+    <div id="social-disorder-3-modal" class="reveal-modal expand"><img src="social-disorder-3_800.jpg"/></div> \
+  ');
+  // add close modal links dynamically so they don't have to be hand coded
+  addCloseModalLinks();
+
+});
+</script>
+
+          </div>
+        </article>
+      </div>
+    </div> <!-- .row -->
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+  
+
+  <script type="text/javascript">
+    $.ajax({
+      url: "floor-plan.json",
+      dataType: "json",
+      success: function(data) {
+        floor_plan_data = data;
+
+        // load floor plan fleximap
+        $('#floor-plan-map').flexiMap(floor_plan_data, function() {
+          setupTooltips('#floor-plan-map');
+        });
+
+        // resize it when nav accessed
+        $('.gallery-map-link').bind('touchstart mouseover', function() {
+          $('#floor-plan-map').flexiMap('resize', '540px', '369px');
+        });
+      },
+      error: function(xhr, status, error) {
+        console.error(status + ': ' + error.message);
+      }
+    });
+
+    $(document).foundationNavigation();
+  </script>
+
+  <!-- "AIC_US_Spark" c/o "Audience On Demand",  segment: 'AIC_REM_Armory Show Site_Unsecure' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+  <script src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment&returnType=js"></script>
+  <noscript>
+  <img src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment" width="1" height="1" />
+  </noscript>
+  <!-- End of pixel tag -->
+
+
+</body>
+</html>

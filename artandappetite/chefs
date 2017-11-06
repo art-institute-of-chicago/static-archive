@@ -1,0 +1,2054 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>Art and Appetite Cookbook</title>
+
+  
+    <meta property="og:title" content="Art and Appetite Cookbook" itemprop="name">
+  <meta name="twitter:title" content="Art and Appetite Cookbook">
+
+    <meta name="description" content="Find more recipes in the Art Institute's online cookbook, celebrating 'Art and Appetite: American Painting, Culture, and Cuisine.'" itemprop="description">
+  <meta property="og:description" content="Find more recipes in the Art Institute's online cookbook, celebrating 'Art and Appetite: American Painting, Culture, and Cuisine.'">
+  <meta name="twitter:description" content="Find more recipes in the Art Institute's online cookbook, celebrating 'Art and Appetite: American Painting, Culture, and Cuisine.'">
+
+    <meta property="og:image" content="/images/art_appetite/McCloskey-Wrapped-Oranges_768.jpg" itemprop="image">
+  <meta name="twitter:image" content="/images/art_appetite/McCloskey-Wrapped-Oranges_768.jpg">
+
+    <meta property="og:url" content="/artandappetite/chefs">
+  <meta name="twitter:url" content="/artandappetite/chefs">
+
+    <meta property="og:type" content="website"> 
+  
+    <meta name="twitter:card" content="summary_large_image"> 
+  
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery-1.9.1.min.js" type="text/javascript"></script>
+    
+  <script src="parsley.min.js" type="text/javascript"></script>
+    
+  <script src="custom.modernizr.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="script.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+  <meta name="viewport" content="initial-scale=1.0,width=device-width" />
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+
+<header>
+  <div class="row">
+    <div class="large-2 columns">
+      <a href="http://artic.edu"><img class="logo" src="aic-logo.png"></a>
+    </div>
+    <div class="large-10 columns exhibit-title">
+      <div class="row">
+        <div class="large-6 columns">
+          <h1><a href="/artandappetite">Art &amp; Appetite</a></h1>
+          <h2>American Painting, Culture, and Cuisine</h2>
+          <h2>November 12&ndash;January 27</h2>
+        </div>
+        <div class="large-6 columns">
+          <div class="action-buttons row">
+            <a href="http://www.artic.edu/tickets" class="action-button buy-tickets large-offset-3 large-3 small-4 columns">
+              <span>Buy Tickets</span>
+            </a>
+            <a href="http://www.artic.edu/joinnow" class="action-button become-member large-3 small-4 columns">
+              <span>Become a Member</span>
+            </a>
+            <a href="http://www.artic.edu/visit" class="action-button plan-visit large-3 small-4 columns">
+              <span>Plan Your Visit</span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="large-12 columns exhibit-description">
+          <p class="exhibit-description-main">With our exhibition <em>Art and Appetite</em>, we invite you to feast your eyes on the rich tradition of food and drink in American art with over 100 paintings, sculptures, and decorative arts from the 18th century to the 20th century. Continue the celebration of delectable edibles in your kitchen with our online cookbook featuring vintage American recipes featured in the exhibition as well as some scrumptious new offerings from Chicago's top culinary talent.</p>
+          <p class="exhibit-description-link"><a href="http://www.artic.edu/exhibition/art-and-appetite-american-painting-culture-and-cuisine">Learn more about the exhibition.</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="super-container">
+  <div class="row">
+    <div class="large-2 columns main-nav-column">
+      <ul class="main-nav">
+        <li  id="mains">
+          <a href="chefs#" data-link-url="/artandappetite/cooking-with-the-curator">Main Dishes</a>
+          <ul class="expandable-sub-nav">
+  
+    
+    
+      <li>
+        <a href="/artandappetite/cooking-with-the-curator"><span class="contributor">Judith Barter's</span> Candle Salad
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/sheepes-tongue-pie"> To Make a Sheepes Tongue Pie
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/maccaroni-pudding"> Maccaroni Pudding
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/potted-pigeons"> Potted Pigeons
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/spaghetti-alla-napolitana"> Spaghetti alla Napolitana
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/jellied-chicken-loaf"> Jellied Chicken Loaf
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/lobster-thermidor"> Lobster Thermidor
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/peter-coenen-baked-halibut-en-persillade"><span class="contributor">Peter Coenen's</span> Baked Halibut en Persillade
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/paul-kahan-lobster-thermidor-sausage"><span class="contributor">Paul Kahan's</span> Lobster Thermidor Sausage
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/douglas-katz-chicken"><span class="contributor">Douglas Katz's</span> Creamed Chicken &agrave; la King
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/douglas-katz-eggplant-reuben"><span class="contributor">Douglas Katz's</span> Eggplant Reuben
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/bill-kim-tea-smoked-duck-breast"><span class="contributor">Bill Kim's</span> Tea-Smoked Duck Breast
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/tony-cathy-mantuano-turkey"><span class="contributor">Tony and Cathy Mantuano's</span> Turkey
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/marcus-samuelsson-meatballs"><span class="contributor">Marcus Samuelsson's</span> Helga's Meatballs
+      </a></li>
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+</ul>
+
+        </li>
+
+        <li  id="sides">
+          <a href="chefs#" data-link-url="/artandappetite/pickled-cauliflowers-broccoli">Side Dishes</a>
+          <ul class="expandable-sub-nav">
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/pickled-cauliflowers-broccoli"> Cauliflowers or Broccoli, Pickled
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/succotash-a-la-tecumseh"> Succotash, à la Tecumseh
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/oat-meal-peanut-bread"> Oat Meal Peanut Bread
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/vegetable-hash"> Vegetable Hash
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/mushroom-cheese-biscuits"> Mushroom Cheese Biscuits
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/karyn-calabrese-veggie-potato-pot-pies"><span class="contributor">Karyn Calabrese's</span> Veggie Potato Pot Pies
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/franco-diaz-turkey-and-chanterelles"><span class="contributor">Franco Diaz's</span> Turkey and Chanterelles
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/graham-elliot-seafood-chowder"><span class="contributor">Graham Elliot's</span> Seafood Chowder
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/erik-freeberg-eggplant-caponata"><span class="contributor">Erik Freeberg's</span> Eggplant Caponata
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/jason-gorman-mushroom-cheese-biscuit"><span class="contributor">Jason Gorman's</span> Mushroom Cheese Biscuit
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/jason-gorman-sweet-corn-spoonbread"><span class="contributor">Jason Gorman's</span> Sweet Corn Spoonbread
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/tim-graham-green-bean-casserole-dip"><span class="contributor">Tim Graham's</span> Green Bean Casserole Dip
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/michael-kornick-maine-lobster"><span class="contributor">Michael Kornick's</span> Maine Lobster
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/carrie-nahabedian-early-winter-blancmange"><span class="contributor">Carrie Nahabedian's</span> Early Winter Blancmange
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/megan-neubeck-spicy-peanut-soup"><span class="contributor">Megan Neubeck's</span> Spicy Peanut Soup
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/yves-roubaud-oysters-rockefeller"><span class="contributor">Yves Roubaud's</span> Oysters Rockefeller
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/marcus-samuelsson-chicken-nuggets"><span class="contributor">Marcus Samuelsson's</span> Chicken Nuggets with Rooster Hot Sauce
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/marcus-samuelsson-pear-pumpkin-salad"><span class="contributor">Marcus Samuelsson's</span> Pear-Pumpkin Salad
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/mark-steuer-cornbread-with-foie-gras"><span class="contributor">Mark Steuer's</span> Cornbread with Foie Gras
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/lee-wolen-molasses-cake"><span class="contributor">Lee Wolen's</span> Molasses Cake with Foie Gras
+      </a></li>
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+</ul>
+
+        </li>
+
+        <li  id="desserts">
+          <a href="chefs#" data-link-url="/artandappetite/dough-nuts-a-yankee-cake">Desserts</a>
+          <ul class="expandable-sub-nav">
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/dough-nuts-a-yankee-cake"> Dough Nuts—A Yankee Cake
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/pumpkin-pie"> Pumpkin Pie
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/molasses-cake"> Molasses Cake
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/delicious-apple-pudding"> Delicious Apple Pudding
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/tomato-soup-cake"> Tomato Soup Cake
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/paul-fehribach-persimmon-pudding-pie"><span class="contributor">Paul Fehribach's</span> Persimmon Pudding Pie
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/christian-gaborit-pumpkin-cheesecake"><span class="contributor">Christian Gaborit's</span> Pumpkin Cheesecake
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/meg-galus-chocolate-chunk-gingersnaps"><span class="contributor">Meg Galus's</span> Chocolate Chunk Gingersnaps
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/meg-galus-sweet-potato-pudding-bonbons"><span class="contributor">Meg Galus's</span> Sweet Potato Pudding Bonbons
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/andrew-johnson-apple-fritter"><span class="contributor">Andrew Johnson's</span> Honeycrisp Apple Fritter
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/edward-kim-holiday-fruitcake-pie"><span class="contributor">Edward Kim's</span> Holiday Fruitcake/Pie
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/eric-mansavage-fruitcake"><span class="contributor">Eric Mansavage's</span> "Old-Fashioned" Fruitcake
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/heather-terhune-pumpkin-mousse-tart"><span class="contributor">Heather Terhune's</span> Pumpkin Mousse Tart
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/joseph-rose-berthas-famous-brownie"><span class="contributor">Joseph Rose's</span> Bertha's Famous Brownie
+      </a></li>
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+</ul>
+
+        </li>
+
+        <li  id="drinks">
+          <a href="chefs#" data-link-url="/artandappetite/syllabub">Drinks</a>
+          <ul class="expandable-sub-nav">
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/syllabub"> Syllabub
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/caudle-cup"> Caudle Cup
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/baltimore-egg-nogg"> Baltimore Egg Nogg
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/bronx-cocktail"> Bronx Cocktail
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/rob-roy-cocktail"> Rob Roy Cocktail
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/brian-duncan-peach-and-cranberry-bellini"><span class="contributor">Brian Duncan's</span> Peach and Cranberry Bellini
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/billy-helmkamp-autumn-sweater"><span class="contributor">Billy Helmkamp's</span> Autumn Sweater
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/eden-laurin-ginger-the-housekeeper"><span class="contributor">Eden Laurin's</span> Ginger the Housekeeper
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/cory-morris-spanish-brandy"><span class="contributor">Cory Morris's</span> Apple-Cranberry Fall-Spiced Spanish Brandy
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/clint-rogers-gift-to-be-humble"><span class="contributor">Clint Rogers's</span> Gift to be Humble
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/adam-seger-homemade-ginger-beer"><span class="contributor">Adam Seger's</span> Homemade Ginger Beer
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/adam-seger-christopher-morley-cocktail"><span class="contributor">Adam Seger's</span> Christopher Morley Cocktail
+      </a></li>
+    
+  
+    
+    
+      <li>
+        <a href="/artandappetite/adam-seger-hot-rum-flip"><span class="contributor">Adam Seger's</span> Hot Rum Flip
+      </a></li>
+    
+  
+</ul>
+
+        </li>
+
+        <li class="active" id="chefs">
+          <a href="chefs#" data-link-url="/artandappetite/chefs">The Chefs</a>
+        </li>
+      </ul>
+    </div>
+    <div class="large-10 columns main-content">
+      <div class="row">
+	<div class="small-8 columns">
+		<h1>
+			The Chefs
+		</h1>
+	</div>
+</div>
+<div class="row chef" id="jbarter">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Judith-Barter.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Judith Barter</h3>
+		<h4>Field-McCormick Chair and Curator, Department of American Art</h4>
+		<p><p>Judith Barter has been Field-McCormick Chair and Curator of American Art at the Art Institute since 1992. She curated the exhibition <em>Art and Appetite: American Painting, Culture, and Cuisine</em>, a show she describes as "a labor of love, combining two passions—art and food."</p>
+
+<p>Before coming to the Art Institute, Barter held positions as curator of collections and associate director at the Mead Art Museum at Amherst College and as assistant curator of American art at the Saint Louis Art Museum. She earned a BA in history and art history from Indiana University and an MA in art history and museum studies from the University of Illinois. Her PhD in history is from the University of Massachusetts.</p>
+
+<p>As Field-McCormick Chair, Barter has written extensively on the Art Institute of Chicago's collection of American painting, sculpture, and decorative arts. Her recent publications include the essay "The Great Confusion: Chicago and the Armory Show" for the New York Historical Society's 2013 book <em>The Armory Show at 100</em>; <em>For Kith and Kin: American Folk Art at the Art Institute of Chicago</em>, co-authored with Monica Obniski; <em>The Age of American Impressionism</em>; and <em>American Modernism at the Art Institute of Chicago</em>. Barter's recent exhibitions for the Art Institute include <em>Apostles of Beauty: Arts and Crafts from Britain to Chicago</em>; <em>Edward Hopper</em>, co-organized with the Museum of Fine Arts, Boston, and the National Gallery of Art; <em>Window on the West: Chicago and the Art of the American West</em>; and <em>Mary Cassatt: Modern Woman</em>. Barter has lectured and published on various topics within American art, including trompe l'oeil, corporate art collections, painting and film, and exhibition planning, and has appeared in the PBS documentaries <em>Edward Hopper</em> and <em>Mary Cassatt</em>.</p>
+
+<p>Barter is a founding member and former trustee and program chair for the Association of Art Museum Curators. In addition, she has acted as an adjunct professor of art history at the University of Chicago, a visiting scholar at the Smithsonian Institution, and a participant in the Attingham Park Summer School. She is a reader and reviewer for numerous grant programs and publishers and is a graduate of the Museum Management Institute hosted by the University of California, Berkeley Extension and the J. Paul Getty Trust. She has received the Art Institute of Chicago Chairman's Award, the University of Massachusetts Chancellor's Award for Distinguished Scholarship, and in 2006 was named Chicagoan of the Year by the <em>Chicago Tribune</em>.</p>
+
+<p>While Barter has shared her curatorial wisdom through numerous exhibitions, lectures, essays, and documentaries, her video and recipe for Candle Salad mark her debut as an online chef.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/cooking-with-the-curator">Candle Salad</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="kcalabrese">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Karyn-Calabrese.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Karyn Calabrese</h3>
+		<h4>Karyn’s Raw Café, Karyn’s At Home, Karyn’s Cooked</h4>
+		<p><p>Karyn Calabrese declares she is "not special." Yet it is undeniable she has a special gift. She has learned to listen to the knowledge innate within herself and become a leading holistic healer and teacher.</p>
+
+<p>Alone with two children to raise, she bought her first wheatgrass juicer and opened a new life of growth and prosperity with her first business, growing and distributing wheatgrass. Thus began her lifelong exploration into the inter-connectedness of food and body and the ultimate attainment of self-insurance and inner peace. Karyn had been a vegetarian for 12 years, but this was merely a first step leading toward a completely raw food diet. To make this tough lifestyle more feasible, Karyn opened her raw-foods restaurant, Karyn's Fresh Corner, which became a thriving success.</p>
+
+<p>She believes it is not enough to simply eat live foods but to cleanse the body of the strong, negative, anti-life foods still in the body. Today, Karyn teaches detoxification classes through the year and has opened a holistic therapy center, Karyn's Inner Beauty Center.</p>
+
+<p>This is where we find Karyn today-a 65-year-old woman and "Raw Foodist of the Year," who lives the full, lively life she envisioned. She is working on a book that gives voice to the positive experiences of the people she has helped along their own journeys. And this is what, contrary to what she declares, does indeed make her special. She has created an all-encompassing environment of food, health, guidance, and care. As Karyn herself questions at the end of every day: "If you don't take care of this, the most magnificent machine you'll ever be given, where are you going to live?"</p>
+
+<p>Karyn Calabrese was awarded the First Annual Raw and Living Foods Golden Branch Award in 2002 for introducing the idea of raw and living foods to the greatest number of people in the mainstream public. Karyn has appeared on <em>The Oprah Winfrey Show</em> as well as numerous national commercials, print ads, and on an album cover.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/karyn-calabrese-veggie-potato-pot-pies">Veggie Potato Pot Pies</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="pcoenen">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Peter-Coenen.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Peter Coenen</h3>
+		<h4>The Gage</h4>
+		<p><p>Chef de cuisine Peter Coenen has a degree in culinary arts from Johnson and Wales University and previously served as a sous chef at the Ritz Carlton in St. Thomas, USVI, a AAA Five Diamond resort, and at the Inn at Palmetto Bluff in Blufton, South Carolina, a Forbes Five Star property. Just prior to joining the Gage, he worked as a junior sous chef at Chicago's Michelin-starred BOKA restaurant.</p>
+
+<p>Coenen grew up on the campus of Berkshire School, a private boarding school in the Berkshires, where both of his parents were teachers. There, the majority of his meals consisted of cafeteria-style food, yet he would look forward to every Saturday night when his father prepared steak on the grill, served with boiled potatoes and endive. This weekly ritual ignited Coenen's love for food and motivated him to explore a career in the culinary arts. He began cooking-and never looked back.</p>
+
+<p>Trained in classic French cooking at Pot Au Feu in Providence, Rhode Island, Coenen thrived under the foundational direction of executive chef and mentor John Richardson. While working under executive chef Kirk Gilbert at the Inn at Palmetto Bluff, Coenen gained respect for a farm-to-table philosophy while preparing Southern cuisine with modern techniques and plating.</p>
+
+<p>Coenen's culinary style today truly reflects his life story&mdash;which is punctuated with New England roots, classic French training, and a dash of Southern influence. Prior to relocating to Chicago, he also traveled through France, Germany, Italy, England, and Spain, which opened him up to the spectrum of European cuisine. These rich, cumulative experiences inspire Coenen's menus daily at the Gage.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/peter-coenen-baked-halibut-en-persillade">Baked Halibut en Persillade, Steamed Root Vegetables, Garlic Mashed Potatoes</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="fdiaz">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Franco-Diaz.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Franco Diaz</h3>
+		<h4>Coq d’Or</h4>
+		<p><p>Diaz’s passion for food and the culinary arts was ignited at a young age and has stayed with him from his early culinary studies at Kendall College, where he earned his degree in culinary management, and throughout the years as he honed his skills and depth of knowledge. He most recently was involved in the launching of two St. Regis luxury properties in Princeville, Hawaii, and Bal Harbour, Florida. Under his guidance, the St. Regis Resort Bal Harbour was named a AAA Five Diamond hotel three months after opening. Before his time with St. Regis, Diaz was the banquet chef at the Peninsula Hotel in Chicago. While there he was selected to explore and perfect his craft participating in an exchange chef program at the Michelin-rated Victoria Young Frau Hotel in Switzerland.</p>
+
+<p>Having moved back to the States where his culinary roots were planted, Diaz is focused on bringing in the best-quality ingredients from around world to incorporate into the development of new menus at Coq d’Or. “To be welcomed into such a well-known establishment within the industry and community is an honor,” Diaz stated. With his seasoned talent and extensive experience in the culinary world, Diaz is committed to delivering great food and excellent service for guests.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/franco-diaz-turkey-and-chanterelles">Turkey and Chanterelles</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="bduncan">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Brian-Duncan.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Brian Duncan</h3>
+		<h4>Bin 36</h4>
+		<p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/brian-duncan-peach-and-cranberry-bellini">Peach and Cranberry Bellini</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="gelliot">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Graham-Elliot.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Graham Elliot</h3>
+		<h4>Graham Elliot</h4>
+		<p><p>Graham Elliot is a critically acclaimed chef, restaurateur, and television personality who also happens to be one of the most recognized faces cooking in America today.</p>
+
+<p>Growing up a Navy brat allowed Graham the opportunity to travel the world and all 50 states, sparking an intense interest in food and music which led to his attending Johnson and Wales University. Graham received three James Beard Award nominations, competed on Iron Chef, was named one of <em>Food and Wine</em> magazine's "Best New Chefs" and became the youngest four-star chef in the US&mdash;all before the age of 30.</p>
+
+<p>In 2012, Graham was inducted into the Chicago Chefs’ Hall of Fame, named "Chef of the Year," and saw September 19 officially proclaimed as "Graham Elliot Day" in the city of Chicago by Mayor Rahm Emanuel.</p>
+
+<p>In addition to running his two restaurants, the eponymous two Michelin&mdash;starred Graham Elliot and the more casual Graham Elliot Bistro, Graham is also a judge on Fox's <em>MasterChef</em> as well as culinary director of the Lollapalooza music festival.</p>
+
+<p>When he's not traversing the globe in search of gastronomic inspiration, Graham resides in Chicago with his wife and business partner, Allie, and his three children, Mylo Ignatius, Conrad Matthias, and Jedediah Lindsay.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/graham-elliot-seafood-chowder">Seafood Chowder</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="pfehribach">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Paul-Fehribach.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Paul Fehribach</h3>
+		<h4>Big Jones</h4>
+		<p><p>Paul Fehribach is executive chef and co-owner of Big Jones. Throughout his career, Paul has supported the farm-to-table and slow food movements. "I do what I do because I want to see nutrition, sustainability, and humane treatment of farm animals become the standard by which we judge food&mdash;not cheap prices, industrial consistency, or marketing dollars spent. We can all eat better by treating the land and our animal friends better."</p>
+
+<p>Paul was a semifinalist for the James Beard Foundation's "Best Chef: Great Lakes" award in 2013.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/paul-fehribach-persimmon-pudding-pie">Persimmon Pudding Pie</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="efreeberg">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Erik-Freeberg.jpg">
+		
+			<p class="recipe-image-caption">Photo © Galdones Photography</p>
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Erik Freeberg</h3>
+		<h4>Bar Toma</h4>
+		<p><p>Erik Freeberg originally planned on being the next great general manager. However, while studying restaurant management at Purdue University, that plan was altered after a class requiring hands-on restaurant experience got him in the kitchen and laid the groundwork for his current status as a rising culinary star.</p>
+
+<p>After graduating from Purdue in 2005, Freeberg applied and was accepted to the CIA’s two-year associates program, which he began in late 2006. He continued honing his skills and discipline with an externship at Wolfgang Puck’s Postrio in Las Vegas. In 2008 Freeberg was invited to stage at Spiaggia, and only hours into his stage, he was hired on the spot to work as garde manger in the dining room. Freeberg continued to work his way up the line at Spiaggia, becoming sous chef, then purchasing manager in 2010.</p>
+
+<p>After working under executive chef Sarah Grueneberg for three years, Freeberg became part of the opening team as chef di cucina at Tony Mantuano’s latest restaurant, Bar Toma, an Italian neighborhood bar and pizzeria in Chicago’s Gold Coast. Bar Toma opened in November 2011, and under Freeberg the restaurant has received a three-star review from <em>The Chicago Tribune</em> and was named one of the “Top 20 Best New Restaurants in 2012” by <em>Chicago</em> magazine and one of the country’s “Best New Pizza Places” by <em>Food and Wine</em> magazine, among other accolades.</p>
+
+<p>Freeberg continues to educate himself—by reading cookbooks, trying new recipes, and always finding new creative ways to make ingredients the star of the plate and people happy.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/erik-freeberg-eggplant-caponata">Eggplant Caponata with Dark Chocolate and Amaretto Cookie</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="cgaborit">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Christian-Gaborit.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Christian Gaborit</h3>
+		<h4>Filini Bar and Restaurant</h4>
+		<p><p>Having spent the early part of his career at esteemed institutions in both France and the United States, chef Christian F. Gaborit brings more than 50 years of experience in the hospitality and food industry to his current post at the Radisson Blu Aqua Hotel in Chicago.</p>
+
+<p>As the son of a cook for the French Air Force, Gaborit developed a passion for the culinary world at an early age. Upon graduating from culinary school, Gaborit moved to Paris to work for five-star luxury hotels such as Hôtel de Crillon and Hôtel Lutetia. Then in 1963, during a time before Americans could readily find a great baguette or St. André cheese in the States, Gaborit moved to Chicago to open the first Maxim's de Paris, the world-renowned French restaurant, where he worked for five years as sous chef. The restaurant quickly became the gathering spot for celebrities and Chicago's elite; Liza Minnelli, Rod Steiger, Woody Allen, and Audrey Hepburn were just some of the famous names who dined there. Exciting culinary opportunities took Gaborit around the world until 1986, when he returned to Chicago to open the Sofitel Chicago O'Hare. After 24 years at the Sofitel, he joined Radisson Blu Aqua Hotel's opening team in 2011.</p>
+
+<p>In his current role, Gaborit oversees all of the culinary operations at the hotel, manages a kitchen staff, and creates menus that show off his creativity while maintaining approachability for guests. Under Gaborit's leadership, the Radisson Blu Aqua Hotel has hosted some of Chicago's most elite galas for Chicago's leading organizations. The sheer responsibility could be daunting to some, but Gaborit sees it as a positive aspect of what he does. "The diversity of tasks in my job is what I love," he says. "I get to create a range of dining experiences for guests under one roof."</p>
+
+<p>Known for his innovative menus and sophisticated presentations, Gaborit utilizes only the highest-quality ingredients in his cooking. From weddings and cocktail parties to buffet dinners and corporate galas, Gaborit's attention to detail, experience, and reliability makes any event at Radisson Blu Aqua a pleasure.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/christian-gaborit-pumpkin-cheesecake">Ricotta Pumpkin Cheesecake with Pecan Shortbread, Pecan Caramel Corn, and Bourbon Caramel</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="mgalus">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Meg-Galus.jpg">
+		
+			<p class="recipe-image-caption">Photo © Jorge Gera Photography</p>
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Meg Galus</h3>
+		<h4>NoMI Kitchen</h4>
+		<p><p>Meg Galus, the 2011 Chicago Rising Star, leads the celebrated NoMI Kitchen culinary team as executive pastry chef. Working closely with executive chef Ryan LaRoche, Galus uses her classic techniques combined with the innovative palate selections to enchant diners with the NoMI Kitchen dessert menu.</p>
+
+<p>Galus starting her career in her parent’s dining room, creating a “local” restaurant complete with daily menus, freshly prepared cuisine, and a strict policy against “dining and dashing.” Destined to become a pastry chef, Galus receive a BFA in theater arts before graduating from the French Pastry School in Chicago in 2005. She then spent time at TRU, working through the ranks from cook to pastry chef in the span of two years. While there, she quickly gained notoriety most visibly with her chocolate bar dessert featured on <em>The Best Thing I Ever Ate</em>. In June 2010 she became executive pastry chef at the Sofitel Chicago Water Tower, where she managed pastry for banquets, catering services, room service, as well as the hotel’s modern French restaurant Café des Architectes.</p>
+
+<p>Galus was recognized as a “Rising Star” by Starchefs in 2011 and named one of the “Top 10 Pastry Chefs” of 2012 by Tasting Table. She recently placed as a semi-finalist in Valrhona’s C3 International Dessert for Restaurants competition. In 2012 and 2013 Galus was selected as one of the 50 pastry chefs in the running for <em>Food and Wine</em>’s “Best New Pastry Chef” issue. In 2013, Mariano’s named her a “Chicago Tastemaker.” Nominated for a Jean Banchet Best Rising Pastry Chef Award in both 2009 and 2010, as well as Pastry Chef of the Year in 2011, she also placed third in the first Chicago Restaurant Pastry Competition and is featured in the Emmy-award winning documentary about the event. Her desserts have also been featured in numerous magazines and newspapers, including <em>Today’s Chicago Woman</em>, <em>Chef’s Connection</em>, <em>Chicago Tribune</em>, <em>Chicago Sun Times</em>, <em>Chicago Home and Garden</em>, <em>Cocoaroma</em>, <em>Plate</em>, and <em>Dessert Professional</em>.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/meg-galus-chocolate-chunk-gingersnaps">Chocolate Chunk Gingersnaps</a></li>
+			
+				<li><a href="/artandappetite/meg-galus-sweet-potato-pudding-bonbons">Sweet Potato Pudding Bonbons</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="jgorman">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Jason-Gorman.jpg">
+		
+			<p class="recipe-image-caption">Photo © Galdones Photography</p>
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Jason Gorman</h3>
+		<h4>The Art Institute of Chicago</h4>
+		<p><p>Regarded as a Midwestern and clean food advocate, chef Jason Gorman is executive chef of the historic and prestigious Art Institute of Chicago, managed by Bon Appétit Management Company (BAMCO).</p>
+
+<p>Prior to joining the Art Institute of Chicago team, Gorman was executive chef of the award-winning Iron Horse Hotel in Milwaukee, ranked #10 in the nation on <em>Conde Nast Traveler</em>'s 2011 Gold List and awarded AAA’s Four Diamond rating.</p>
+
+<p>Gorman’s culinary acclaim rose while at Dream Dance Restaurant, also in Milwaukee, where he was nominated for “Best Chef Midwest” by the 2008 James Beard Foundation Awards. Under his leadership, Dream Dance was awarded AAA’s Four Diamond from 2004 to 2010 and the DIRONA (Distinguished Restaurants of North America) Award from 2004 to 2009. The restaurant also received multiple four-star ratings from local writers, often praising his creative cuisine that “put Wisconsin on the national culinary map.”</p>
+
+<p>Gorman joined the Art Institute of Chicago in August 2012 on the recommendation of Tony Mantuano, chef/partner of the museum’s Terzo Piano. At the Art Institute of Chicago, Gorman follows BAMCO’s dedication to local, organic, and sustainable foods while acting as culinary director for the museum’s five food and beverage outlets and creating menus for galas, special events, and other activities.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/jason-gorman-mushroom-cheese-biscuit">Mushroom Cheese Biscuit with Pine Honey</a></li>
+			
+				<li><a href="/artandappetite/jason-gorman-sweet-corn-spoonbread">Sweet Corn Spoonbread with Fried Tomatoes</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="tgraham">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Tim-Graham.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Tim Graham</h3>
+		<h4>Travelle</h4>
+		<p><p>Having earned four stars from the <em>Chicago Tribune</em> and a Michelin star while running Chicago's TRU restaurant, Tim Graham is an acknowledged rising star in America's culinary landscape. His long tenure with Lettuce Entertain You Enterprises (LEYE) and refined culinary skill have given him the chance to work with some of the world's best chefs. At Travelle, chef Graham's contemporary Mediterranean cuisine takes diners on a journey that explores the region's renowned flavors-from the shores of southern France to the spice markets in Turkey.</p>
+
+<p>While studying biochemistry at the University of Missouri, Graham worked as a line cook at a local restaurant. The early culinary experience proved to be a turning point as he switched majors and graduated in 2000 with a degree in food science. Chef Graham began his culinary career at Les Bourgeois in Rocheport, Missouri, a small French bistro, and further pursued his aspirations at the New England Culinary Institute in Burlington, Vermont. As fate would have it, the school's program presented Graham with the opportunity to travel to Chicago, where he completed a six-month internship at the fine-dining restaurant TRU. Following experiences in Milwaukee and on the West Coast, chef Graham returned to the Chicago restaurant in 2003.</p>
+
+<p>Under the influence of TRU's great chefs, Graham refined his technique and mastered all nine work stations in the kitchen. Over the next four years, he steadily climbed TRU's ranks, holding the position of chef de cuisine before eventually being named executive chef of the Mobil Four Star and AAA Five Diamond restaurant. Under Graham's leadership, TRU received four-star reviews from the <em>Chicago Tribune</em>, <em>Chicago Sun-Times</em>, and <em>Chicago Magazine,</em> among others.</p>
+
+<p>In early 2010, LEYE founder Rich Melman asked Graham to join forces with internationally acclaimed French chef Joho as executive chef of the bistro-style French restaurant Brasserie Jo. Later that year, when RJ and Jerrod Melman took over the Brasserie Jo space to make room for a new French concept, Graham was an instrumental member of the culinary team that was intent on reintroducing French cuisine to a whole new generation of diners. Since February 2011, Chicagoans and high profile celebrities alike have raved about Graham's approachable French food offered in a casual, urban setting.</p>
+
+<p>Chef Graham looks forward to sharing his contemporary interpretations of Mediterranean cuisine with the opening of Travelle, stating, "I've always been intrigued by the notion that Mediterranean cuisine can truly be inspired by the 21 distinct countries that border the sea. With Travelle, I want our diners to experience a culinary journey that offers exciting ports of calls."</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/tim-graham-green-bean-casserole-dip">Green Bean Casserole Dip</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="bhelmkamp">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Billy-Helmkamp.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Billy Helmkamp</h3>
+		<h4>The Whistler</h4>
+		<p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/billy-helmkamp-autumn-sweater">Autumn Sweater</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="ajohnson">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Andrew-Johnson.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Andrew Johnson</h3>
+		<h4>Balsan at the Waldorf Astoria Chicago</h4>
+		<p><p>Born and raised in Valparaiso, Indiana, Andrew Johnson always knew that he would be a pastry chef. Maybe it was his simple love of desserts or the fact that he ran home from school every day to watch cooking segments. By the time he covered his mother’s kitchen in flour cranking out 1,000 Christmas cookies, Johnson <em>knew</em> that baking was his passion. Needless to say, all he wanted for Christmas that year was a Kitchen-Aid mixer.</p>
+
+<p>About a year and a half into his coursework at Ball State, Johnson realized most of his time was being spent in the university’s library, feverishly reading about baking recipes, culinary influences, and new restaurant openings. He decided to pursue a culinary degree at the Illinois Institute of Art, and within his first few days there immediately felt as though he belonged.</p>
+
+<p>In the years following culinary school, Johnson worked for local pastry kitchens around Chicago. The first significant role he landed was pastry chef at Trotter’s To Go&mdash;a spinoff of the legendary Charlie Trotter’s&mdash;which then led him to join the team at Charlie Trotter’s. He spent the following five years not only baking fresh breads and pastries for the award-winning restaurant but traveling the world cooking alongside Trotter himself. During his tenure with Trotter’s, Johnson was strongly influenced by prominent chefs such as James Beard Foundation nominee Michelle Gayer, who taught Johnson the art of “rustic elegance,” and Della Gossett, who had a strong focus on precision and technical elements.</p>
+
+<p>In 2009, Johnson landed the opportunity to work at the Elysian Hotel (now Waldorf Astoria) as pastry sous chef, preparing fresh croissants, pastries, and desserts for the hotel’s Food and Beverage outlets, including RIA, the Elysian’s acclaimed two–Michelin star restaurant. In 2011, Johnson was promoted to executive pastry chef, an expanded role representing the property as a whole, meticulously working on lavish wedding cakes, desserts at offsite events, and other detailed projects.</p>
+
+<p>In his free time, Johnson enjoys running along Lake Michigan, traveling the world, spending time with family and friends, and watching his favorite crime dramas. When asked which dessert is his favorite to prepare, Johnson replied with, “whatever new technique I’m learning at the moment!”</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/andrew-johnson-apple-fritter">Honeycrisp Apple Fritter with Apple Cider Frozen Yogurt</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="pkahan">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Paul-Kahan.jpg">
+		
+			<p class="recipe-image-caption">Photo © Derek Richmond</p>
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Paul Kahan</h3>
+		<h4>Blackbird, Publican Quality Meats, avec, The Publican, Big Star</h4>
+		<p><p>Executive chef/partner Paul Kahan has become the nationally recognizable face for Chicago chefs. Passionately seasonal, unconventionally creative, and dedicated to the inspiration of classical cuisine, Kahan has received international acclaim for Blackbird, avec, the Publican, Big Star, and most recently Publican Quality Meats. Awarded Outstanding Chef by the James Beard Foundation in 2013 and Best Chef of the Midwest in 2004, Kahan has earned the praise of many who claim him to be one of America’s most influential working chefs.</p>
+
+<p>A Chicagoan through and through, Kahan grew up around food. His father owned a delicatessen and a smokehouse, and “when I wanted to make a buck,” says Kahan. “I would help my dad take the fish out of the brine, hang them on the racks and wheel them into the smokehouse.” After a brief post-college stint as a computer scientist, Kahan took a job in the kitchen of Erwin Drechsler’s Metropolis, where Kahan realized his true calling. Over the course of 15 years at Metropolis and erwin, Kahan developed relationships with Midwestern farmers—leaving a permanent mark on his culinary outlook. He further honed his craft at Topolobampo under the tutelage of the award-winning chef Rick Bayless.</p>
+
+<p>In 1999, shortly after Blackbird opened, <em>Food and Wine</em> placed Kahan on their “Best New Chefs” list, recognizing his highly individual approach to cooking. Despite accolades and adoration, Kahan’s biggest accomplishment remains his work as a mentor for young chefs. He works to foster empowerment, providing the resources necessary to grow both as a chef and person. Committed to charitable involvement, Kahan is an ardent supporter of the Alex’s Lemonade Stand Foundation for pediatric cancer research and Pilot Light, an organization dedicated to enhancing school children’s perception of food through hands-on education. Kahan is a devoted husband to his wife, Mary, an ardent music lover and bike aficionado.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/paul-kahan-lobster-thermidor-sausage">Lobster Thermidor Sausage with Wild Mushrooms, Mussels, and Sea Beans</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="dkatz">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Doug-Katz.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Douglas Katz</h3>
+		<h4>fire food and drink</h4>
+		<p><p>Douglas Katz is the owner and executive chef of fire food and drink, the proprietor of the Katz Club Diner, and chef/partner of Provenance, Provenance Café, and Catering by Provenance at the Cleveland Museum of Art.</p>
+
+<p>Chef Katz is an advocate for a food system that is sustainable, healthful, and local. He serves as a “Chef Ambassador” for the Monterey Bay Aquarium’s Cooking for Solutions program, which promotes environmentally responsible fishing. In 2006 he was selected to attend Slow Food’s Terra Madre conference in Italy in which delegates from over 150 member nations share ideas for small-scale agriculture and sustainable food production.</p>
+
+<p>Katz has served as president of Cleveland Independents, is a past board member of Positively Cleveland, and currently serves on the board of the Countryside Conservancy. He was named a “Champion of Sustainability” by Entrepreneurs for Sustainability.</p>
+
+<p>Katz is a graduate of the Culinary Institute of America and holds a BS from the University of Denver School of Hotel and Restaurant Management. Prior to opening fire food and drink, he served as executive chef of Moxie the restaurant, and worked at other acclaimed restaurants including the Little Nell in Aspen, Colorado, and Wildwood Restaurant in Portland, Oregon.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/douglas-katz-chicken">Creamed Chicken  &agrave; la King</a></li>
+			
+				<li><a href="/artandappetite/douglas-katz-eggplant-reuben">Eggplant Reuben</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="bkim">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Bill-Kim.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Bill Kim</h3>
+		<h4>BellyQ, Urban Belly, Belly Shack</h4>
+		<p><p>Chef Kim’s expansive culinary background spans a wide range of cuisines.  After studying classic French cooking at Kendall College, Kim pursued opportunities to work alongside industry greats including Pierre Pollin at le Titi de Paris in Arlington Heights, Illinois, and Jean Banchet at Ciboulette in Atlanta. From there, Kim served as sous chef at notable kitchens throughout the country including the renowned four-star Charlie Trotter’s in Chicago. After several years on the East Coast, he was initially drawn back to Chicago to serve as chef de cuisine at Charlie Trotter’s before taking the helm of French-Asian Le Lan.</p>
+
+<p>In 2008, Kim partnered with his wife and brother to open Urban Belly, a bustling communal-seating noodle and dumpling restaurant in Chicago’s Avondale neighborhood. One year later, Kim paid tribute to his Korean heritage and his wife’s Puerto Rican background by opening Belly Shack, a confluence of Asian and Latin flavors in Chicago’s Logan Square neighborhood.</p>
+
+<p>In August of 2012, Kim opened bellyQ, an Asian barbeque concept on Chicago’s thriving Randolph Street, a project in partnership with Cornerstone Restaurant Group.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/bill-kim-tea-smoked-duck-breast">Tea-Smoked Duck Breast with Crispy Sticky Rice Risotto</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="ekim">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Edward-Kim.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Edward Kim</h3>
+		<h4>Ruxbin</h4>
+		<p><p>Edward Kim, making his debut in his hometown Chicago, crafts a straightforward yet progressive menu drawn from his culinary influences of French technique, Asian heritage, and bicoastal gallivanting. He transforms fresh and, when possible, locally sourced produce into thoughtful, approachable dishes. Diners can expect American comfort punctuated with Kim's Chicago-born, Le Cordon Bleu-trained, Korean American palate.</p>
+
+<p>Ed was born and raised in the northeast suburbs of Chicago. He attended New York University and graduated with a BA in political science, intending to become a lawyer. Instead he found his way into the culinary program at Le Cordon Bleu in Los Angeles and into the kitchen of Thomas Keller's Per Se. He spent several years honing his craft in places as far away as Seoul, Korea, and across the country from New York and Los Angeles, working every rung of the ladder from prep cook all the way to head chef.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/edward-kim-holiday-fruitcake-pie">Holiday Fruitcake/Pie</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="mkornick">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Michael-Kornick.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Michael Kornick</h3>
+		<h4>mk</h4>
+		<p><p>Chef Michael Kornick, founder and owner of the restaurant mk, is a nationally recognized leader in the culinary arts. Kornick works with the freshest seasonal ingredients and stays true to classical cooking techniques. It is his belief that ingredients should speak for themselves. Although known primarily for his accomplishments as a chef, Michael has developed into one of the country's leading restaurateurs. He is highly sought-after as an authority on restaurant management and customer service and is known as a generous mentor to those who have worked under him past and present.</p>
+
+<p>In addition to his professional responsibilities, Michael is very active in the community. He has raised awareness and money annually for Share our Strength, the Chicago Food Depository, Healthy Schools Campaign, Steppenwolf Theater, Perspectives Charter School, Sweet Water Foundation, and many other worthy organizations. For the past eight years, Kornick has served as chef chair for Toque: An Evening With Chicago's Culinary Masters. The event raises money for Children's Oncology Services, Inc. and funds their Camp One Step at a Time, a camp for children with cancer.</p>
+
+<p>Chef Kornick lives in Evanston, Illinois, with his wife and business partner, Lisa, and their children.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/michael-kornick-maine-lobster">Butter-Poached Maine Lobster, Ricotta Gnocchi, and Creamed Spinach</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="elaurin">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Eden-Laurin.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Eden Laurin</h3>
+		<h4>The Violet Hour</h4>
+		<p><p>As general manager of the James Beard–nominated Violet Hour, Eden Laurin has made a name for herself in Chicago’s craft cocktail scene. Laurin strives to push boundaries while remaining rooted in classic cocktail technique. When not at the Violet Hour, Laurin teaches an “Art of Mixology” class at Kendall College and offers cocktail consultations.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/eden-laurin-ginger-the-housekeeper">Ginger the Housekeeper</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="emansavage">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Eric-Mansavage.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Eric Mansavage</h3>
+		<h4>Farmhouse Chicago</h4>
+		<p><p>Chef Eric Mansavage, a born-and-raised Wisconsin native, is taking his knowledge, technique, and passion for slow food and local, sustainable cooking back to the tavern to explore craftsmanship with a familiar, yet playful take on Midwest flavors. He has served as executive chef for Club Lucky and worked stints with Kimpton Hotel, South Water Kitchen, and West Town hangout Branch 27, always focusing on local, seasonal cuisine. Eric graduated from the University of Wisconsin, Stevens Point, and the Cooking and Hospitality Institute of Chicago. He spends his off time in his La-Z-Boy dining on turkey legs and watching bad 1980s pop videos.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/eric-mansavage-fruitcake">"Old Fashioned" Fruitcake with Blood Orange Custard</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="tcmantuano">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Tony-Mantuano.jpg">
+		
+			<p class="recipe-image-caption">Photo © Jeff-Kauck</p>
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Tony and Cathy Mantuano</h3>
+		<h4>Terzo Piano, Spiaggia, Bar Toma</h4>
+		<p><p>Most often recognized as one of the champions on season two of Bravo’s <em>Top Chef Masters</em>, chef Tony Mantuano is also internationally regarded as an influential culinary force.</p>
+
+<p>Mantuano is the chef/partner at Spiaggia, the only four-star Italian restaurant in Chicago. Awarded the 2005 James Beard Foundation Award for “Best Chef: Midwest,” Mantuano worked in several Michelin-starred restaurants in Italy before opening Spiaggia in 1984 to critical acclaim. He has since gone on to win the <em>Chicago Tribune</em>’s highest culinary prize, “The Good Eating Award,” and was named a <em>Food and Wine</em> “Best New Chef” in 1986. His other ventures include Mangia Trattoria in his hometown of Kenosha, Wisconsin; chef/partner at Chicago’s Bar Toma and Terzo Piano at the Modern Wing at the Art Institute of Chicago, and Lorenzo at the Redbury South Beach Hotel, which opens this fall in Miami.</p>
+
+<p>Mantuano is a cookbook author, television personality, and has been covered in the media in outlets such as <em>Nightline</em>, <em>The Today Show</em>, <em>The New York Times</em>, <em>Wall Street Journal</em>, the <em>Chicago Tribune</em>, <em>Food and Wine</em>, <em>Wine Spectator</em>, and <em>Bon Appétit</em>, among others. Chef Mantuano and Spiaggia held their one Michelin star in the 2011, 2012, and 2013 Chicago guides. Under Chef Mantuano’s leadership, his restaurants continue to mark the culinary map, highlighting unique Italian products and producers, often introducing them to US audiences for the first time.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/tony-cathy-mantuano-turkey">Turkey with Grappa and Gremolata</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="cmorris">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Cory-Morris.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Cory Morris</h3>
+		<h4>Mercat a la Planxa</h4>
+		<p><p>Chef Morris was born in Salt Lake City, Utah, and showed an interest in cooking from a very young age. Growing up, his earliest culinary memories were cooking dinner for his siblings so they could avoid store-bought, pre-packaged meals while his parents were busy working.</p>
+
+<p>Morris began his culinary career in 2000 as an assistant to the chef at the fine-dining restaurant Mariposa in Park City, Utah. In 2004, Morris was appointed executive chef of Red Rock Grille and later as chef of the Club at Spanish Peak in Big Sky, Montana, where he created seasonal menus and utilized local, organic ingredients.</p>
+
+<p>Morris eventually moved to Chicago, where he was named sous chef at Mercat a la Planxa when it opened in early 2008 under the direction of executive chef José Garces and chef de cuisine Michael Fiorello. Now chef de cuisine, Morris enjoys adding a modern spin to Catalan classics. Morris's approach to food is derived from his travels through Spain, France, and the United States, as well as from the industry luminaries he has worked alongside, including chefs Garces and Joyce Goldstein. He believes that food is meant not only for consumption but to excite the palate and create memories. In his spare time, Morris enjoys cycling and exploring different cultures through Chicago's diverse neighborhoods and their food.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/cory-morris-spanish-brandy">Apple-Cranberry Fall-Spiced Spanish Brandy with Pimms</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="cnahabedian">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Carrie-Nahabedian.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Carrie Nahabedian</h3>
+		<h4>NAHA and Brindille</h4>
+		<p><p>Carrie Nahabedian started her career cooking in the Ritz Carlton dining room while still attending high school in the northern suburbs of Chicago. That path took her from the kitchens of the Ritz to Le Perroquet, Jovan, and Le Francais to LaTour at the Park Hyatt and ultimately to be an executive chef with the Four Seasons hotels in Santa Barbara and Los Angeles, as well as to experience cuisine, service, and dining around the world.</p>
+
+<p>In 2000, Carrie returned home to her native Chicago and opened NAHA restaurant with her cousin Michael Nahabedian. While NAHA serves to highlight Carrie and Michael's shared Mediterranean heritage, in the spring of 2013 the duo teamed up again to open Brindille, an intimate space featuring “refined Parisian” fare located just up the street from NAHA in Chicago's bustling River North neighborhood.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/carrie-nahabedian-early-winter-blancmange">Early Winter Blancmange with Flavors of Vibrant Cauliflower, Hen of the Woods Mushrooms, Juniper, and Pine</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="mneubeck">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Megan-Neubeck.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Megan Neubeck</h3>
+		<h4>Terzo Piano</h4>
+		<p><p>On her second trip to Europe, just after graduating high school, Megan L. Neubeck understood that being at a restaurant was a dining experience one was meant to enjoy and that she was destined to be part of the food and restaurant industry. Originally from Flushing, Michigan, Neubeck and her family dined out frequently, which also planted a seed for her wanting to learn the way around a kitchen and cook for herself. Yet it wasn’t until after graduating from Albion College in May 2004 with a BS in biology that she followed the path to her current role as chef di cucina at Terzo Piano at the Art Institute of Chicago.</p>
+
+<p>Upon graduating from college, Neubeck enrolled in a six-month program at the Culinary School of the Rockies in Boulder, Colorado (now Escoffier Boulder). She then returned to her hometown to work in the city’s most celebrated upscale restaurant, Fandangles, before her big move to Chicago in March 2006.</p>
+
+<p>Neubeck first staged at the renowned four-star Spiaggia in January 2006 and was offered a job as a line cook when she moved to Chicago; she first worked at Spiaggia Private Events, then on pastry, and lastly on the line at Spiaggia. Neubeck left the restaurant in fall 2007 to pursue her affinity for pastry as pastry assistant at BOKA under chef Elizabeth Dahl. When she heard her former mentor chef Tony Mantuano was opening a new restaurant, Terzo Piano, at the Art Institute’s Modern Wing, Neubeck joined the opening team as sous chef/pastry chef.</p>
+
+<p>Neubeck is a rare find in the culinary world as she devotes an equal amount of time to her savory creations as to her sweet. One heralded dish and guest favorite, the Chocolate Semi-Freddo with Spanish Peanut Nougat Glacé and Salted Caramel, was on <em>Time Out Chicago</em>’s “100 Best Things We Ate” list in December 2009. After three dedicated years at Terzo, Neubeck was promoted to chef di cucina, a role in which she continues to showcase her passion for local, organic, and sustainable ingredients and products, complementing Terzo Piano’s mission.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/megan-neubeck-spicy-peanut-soup">Spicy Peanut Soup</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="crogers">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Clint-Rogers.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Clint Rogers</h3>
+		<h4>The Dawson</h4>
+		<p><p>Clint Rogers hails from Texas, a state where everything is known for being bigger. It was there, at an Austin brewery, where Clint first acquired an appropriately sized fascination for all-things beverages.</p>
+
+<p>Fast-forward the tape, and today Clint is a standout among the beverage professionals in Chicago's elite talent pool. Considered a veteran of the industry, a man who has worn many hats-from bartender to wine buyer and beverage director-he has ben a part of the teams at some of the city's most revered establishments including Graham Elliot, Nightwood, Henri, and the Gage. The Dawson now claims most of his time and attention-that is, when he's not serving up tasty cocktails at the GCM BBQ's Wirtz Beverage Illinois tent.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/clint-rogers-gift-to-be-humble">Gift to be Humble</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="jrose">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Joseph-Rose.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Joseph Rose</h3>
+		<h4>Lockwood Restaurant & Bar</h4>
+		<p><p>As executive chef for the Palmer House Hilton's fine-dining restaurant, Lockwood, as well as the Lockwood Bar, Potter's Lounge, and the hotel's in-room dining program, Joseph Rose brings to his job stellar credentials, impeccable technique, and a dedication to seasonality that is informed by his understanding of Midwest culture and local ingredients.</p>
+
+<p>Rose joined the Palmer House Hilton in fall 2012, bringing to his new role a variety of experiences in the fine-dining arena. He began his career working with Starwood Hotels and Resorts before joining the team at Sixteen, where as chef de cuisine he helped the restaurant achieve a Michelin star. Rose then joined the Pump Room, Jean-Georges Vongerichten's restaurant in the Gold Coast, as both executive sous chef and chef de cuisine.</p>
+
+<p>In his current role, Rose oversees all of the culinary operations for the hotel's food and beverage outlets, managing a kitchen staff of 20 and creating menus that show off his creativity while maintaining approachability for guests. "My food is straightforward and seasonal, with simple descriptions so people know what they are eating," Rose says. "Of course, given the space that we're in, there's still a focus on fine dining." In addition to Lockwood, Rose also creates menus for hotel's Lockwood Bar, where a French-inspired menu features his take on brasserie cuisine, and Potter's Lounge, where the seasonally inspired cocktail menu is complemented by Rose's interpretations of "bar bites."</p>
+
+<p>Born in Southern California, Rose's family relocated to Elgin, Illinois, when he was young. A devotee of <em>The Frugal Gourmet</em> and Julia Child rather than cartoons as a kid, Rose went on to work in restaurants while in high school before earning his culinary degree at Elgin Community College. He currently lives in Oswego, Illinois, with his wife, Heather, and their daughter, Addison.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/joseph-rose-berthas-famous-brownie">Bertha's Famous Brownie</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="yroubaud">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Yves-Roubaud.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Yves Roubaud</h3>
+		<h4>Shaw’s Crab House</h4>
+		<p><p>Yves Roubaud, a native of Martigues, France, trained at the Culinary Institute of Provence as well as several French restaurants in the Mediterranean port city of Marseilles and in Cannes. He joined Lettuce Entertain You Enterprises (LEYE) in 1980, when he first served as sous chef at Ambria and manager of Un Grand Café.</p>
+
+<p>Roubaud's Provence roots made him a natural to create seafood specialties for Shaw's Crab House when it opened its doors 15 years ago. Since that time, Roubaud has become a partner in LEYE and currently oversees all of the Shaw's properties in the Chicago area. Under his leadership, Shaw's Crab House has become one of the nation's best seafood restaurants.</p>
+
+<p>When he's not creating seafood masterpieces for Shaw's, Roubaud relaxes by tending to his garden and serving as a referee for the American Youth Soccer Organization. Roubaud is married with two children.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/yves-roubaud-oysters-rockefeller">Oysters Rockefeller</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="msamuelsson">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Marcus-Samuelsson.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Marcus Samuelsson</h3>
+		<h4>Red Rooster Harlem, Ginny’s Super Club, American Table Café and Bar, Kitchen and Table, Norda</h4>
+		<p><p>Chef Marcus Samuelsson is an internationally acclaimed chef who has thrilled the food scene with a blend of culture and artistic excellence. Marcus caught the attention of the culinary world at Aquavit, where during his tenure as executive chef, he received an impressive three-star rating from the <em>New York Times</em>, becoming the youngest person ever to receive such an accolade.</p>
+
+<p>In addition to being a successful cookbook author, Marcus released his <em>New York Times</em> bestseller and James Beard&#8211;wining memoir,<em>Yes, Chef</em>, in 2012 to rave reviews. He has been featured on a number of media platforms including <em>Late Night with Jimmy Fallon</em>, <em>The Martha Stewart Show</em>, <em>Today Show</em>, <em>Regis and Kelly</em>, and <em>Charlie Rose</em>. He was the winner on Bravo&#8217;s <em>Top Chef Masters Season Two</em> as well as the second season of <em>Chopped All-Stars</em>. Marcus also serves as a recurring judge for <em>Chopped</em>, one of Food Network&#8217;s highest-rated series with a following of over 20 million viewers a month, and is a judge on the second season of ABC&#8217;s <em>The Taste</em>, guiding a team of new culinary talent through a series of challenges.</p>
+
+<p>In 2009, Marcus was honored as a guest chef at the White House under the Obama Administration, where he planned and executed the administration&#8217;s first state dinner&#8232;for the first family, Prime Minister Singh of India, and 400 of their guests. He has been a UNICEF ambassador since 2000, focusing his advocacy on water and sanitation issues, specifically the Tap Project. Marcus also had the honor of speaking at the 2011 Annual Meeting of the World Economic Forum in Davos, Switzerland, and at TEDxHarlem in 2012. In the fall of 2012, Marcus was named to the US State Department&#8217;s American Chef Corps, a group of chefs committed to Secretary State Hillary Rodham Clinton&#8217;s message of &#8220;smart power&#8221; diplomacy, which embraces utilizing food, hospitality, and the dining experience as ways to enhance how formal diplomacy is conducted, as well as cultivating cultural understanding and strengthening bilateral relationships through the shared experience of food.</p>
+
+<p>His iconic restaurant Red Rooster Harlem celebrates the roots of American cuisine in&#8232;one of New York City&#8217;s liveliest and culturally rich neighborhoods. It has earned two stars from the New York Times and countless accolades for its food, style, and connection to the community. Named the "Best Neighborhood Joint" by <em>Time Out New York</em>, Red Rooster continues to engage Harlem with the opening of its downstairs supper club, Ginny&#8217;s. Marcus is also the chef behind Norda Grill in Gothenburg, Sweden; American Table; and the Kitchen and Table concept, all partnered with Clarion Hotels. Marcus is also a co-founder of FoodRepublic.com, a website for men who want to eat and drink well and live smart.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/marcus-samuelsson-meatballs">Helga's Meatballs</a></li>
+			
+				<li><a href="/artandappetite/marcus-samuelsson-chicken-nuggets">Chicken Nuggets with Rooster Hot Sauce</a></li>
+			
+				<li><a href="/artandappetite/marcus-samuelsson-pear-pumpkin-salad">Pear-Pumpkin Salad</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="aseger">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Adam-Seger.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Adam Seger</h3>
+		<h4>Mixologist, CCP</h4>
+		<p><p>An alumnus of Michelin-starred restaurants Chez Julien in Strasbourg, TRU in Chicago, and the French Laundry in Napa Valley, certified culinary professional and advanced sommelier Adam Seger takes a chef's approach behind the bar, earning him the moniker “The Grant Achatz of Spirits.”</p>
+
+<p>Called “Chicago's Godfather of Craft Cocktails” by <em>Time Out</em>, Seger has helped to spread the reputation of the Windy City's cocktail culture to the international stage, creating cocktails for the W Singapore, Eric Ripert's Cayman Cookout, the Russian Cocktail Club in Moscow, and closer to home the 84th Academy Awards Governor's Ball, Oprah's celebration for her 25th season finale, and the Reelz Channel's monthly “iPic Now” cocktail segment shown coast-to-coast on the big screen at iPic Theatres.</p>
+
+<p>His creations can be found around the world and include HUM Spirit; Rare Botanical Bitters Company's “Truffe Amere,” “Egyptian Lemon Syrup,” and “Magnolia Shrubbery”; as well as BALSAM, the world's first “Spirit of Vermouth” that he produces with master tea blender Rodrick Markus and master distiller Barry Young.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/adam-seger-homemade-ginger-beer">Homemade Ginger Beer Spiked with Guest's Choice of American Craft Spirits</a></li>
+			
+				<li><a href="/artandappetite/adam-seger-christopher-morley-cocktail">Christopher Morley Cocktail</a></li>
+			
+				<li><a href="/artandappetite/adam-seger-hot-rum-flip">Hot Rum Flip</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="msteuer">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Mark-Steuer.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Mark Steuer</h3>
+		<h4>Carriage House</h4>
+		<p><p>Chef Mark Steuer grew up helping his mother and grandmother in the kitchen, as large gatherings were an important part of his family's traditions. A move to John's Island, South Carolina, introduced Steuer to Lowcountry cuisine, which he grew to love. The coast, sea islands, and marshlands of the area are rich with a unique assortment of ingredients, and the history of the region has established a food culture that is unique in the American South. For Steuer, shrimping, crabbing, and fishing were emblematic of Lowcountry heritage and an integral part of his early culinary experiences. The Carriage House is his homage to this alluring corner of the South, and his small plates allow guests to try a little of everything.</p>
+
+<p>Steuer began his work in the restaurant industry at the James Island restaurant Brett's, owned by renowned Charleston restaurateur Brett McKee. The working environment at the popular eatery piqued his interest in a culinary career, and he continued to educate himself by working at La Chardonnay in Madison while studying at the University of Wisconsin. His big break came when a chef missed his shift and Steuer stepped in, impressing the staff with his organizational skills and fundamental technique.</p>
+
+<p>Steuer worked his way up to sous chef at La Chardonnay before leaving for Chicago to work with James Beard award-winning chef Mindy Segal at Hot Chocolate. This move was a true catalyst for his career, as under Segal's guidance he developed his palate and his expertise in sourcing ingredients. After he rose through the ranks from line cook to executive chef, he earned the restaurant three stars from the <em>Chicago Tribune</em> and numerous accolades from the city's culinary community. He has also worked as a chef consultant for Rootstock and as executive sous chef at the Gage.</p>
+
+<p>Since opening in September 2012, Carriage House has earned a place on <em>Esquire</em>'s "Best New Restaurants 2013" list, has been rated four out of five stars by <em>Time Out Chicago</em>, and has earned three out of four stars in the <em>Chicago Tribune</em>. Steuer is currently also the executive chef at the Bedford, which was rated three out of four stars by the <em>Chicago Tribune</em> and has been featured in the <em>Chicago Sun-Times</em>, Details.com, Oprah.com, and Playboy.com.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/mark-steuer-cornbread-with-foie-gras">Cornbread with Foie Gras Butter and Pear Marmalade</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="hterhune">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Heather-Terhune.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Heather Terhune</h3>
+		<h4>Sable Kitchen and Bar</h4>
+		<p><p>For executive chef Heather Terhune, Sable Kitchen and Bar presents a thrilling opportunity to continually push her ingredient-driven food philosophy in new directions. Focused on New American social plates, Terhune elevates classic dishes with contemporary flavors, building upon a decade of experience perfecting American comfort food at Chicago's beloved Loop mainstay Atwood Café.</p>
+
+<p>A recent contestant on Bravo's <em>Top Chef Texas</em>, Terhune made it to the top ten in the competition, demonstrating her talent, passion, and determination week after week. But before the lights, cameras, and Sweet Corn Créme Brulée (one of Sable's signature menu items), Terhune grew up in picturesque St. Albans, Vermont, and first discovered her passion for cooking while canning vegetables and making preserves under the watchful eyes of her mother and grandmother. Terhune's family knew something was up when she asked for artichokes and spare ribs as a fourth birthday present. The procurement and preparation of sustenance has been on her mind ever since. The Terhunes later moved to Missouri, and Heather graduated from the University of Missouri (Columbia) with a BS in agriculture and hotel/restaurant management and from the New England Culinary Institute in 1995.</p>
+
+<p>Terhune began honing her craft as a professional chef in the Willard Room at Washington, DC's venerable Willard Hotel. Other posts in DC included the Watergate Hotel's famed Jean Louis restaurant, where she worked under Michelin three-star recipient Jean Louis Palladin until his retirement. Terhune then moved to Durham, North Carolina, to work at Pops Trattoria as executive sous chef and pastry chef. She later helped open Mossant Bistro (now South Water Kitchen) and, at age 28, was promoted to executive chef at Atwood Café.</p>
+
+<p>A fan of the "eat local" movement, Terhune has found a way to incorporate Midwestern ingredients into Sable's menu by having many of its supplies delivered by Rink Davee of Green &amp; Green, who helps Terhune to connect with roughly 20 area farmers. Terhune is a major supporter of sustainable and organic agriculture, including Chicago's own Green City Market.</p>
+
+<p>Terhune lives in Chicago's Lincoln Square neighborhood and spends her time outside the kitchen exploring her vibrant city, its lakefront, and culinary scene.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/heather-terhune-pumpkin-mousse-tart">Pumpkin Mousse Tart</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row chef" id="lwolen">
+	
+	<div class="large-4 columns chef-image">
+		<img src="Lee-Wolen.jpg">
+		
+	</div>
+	
+	<div class="large-8 columns chef-bio">
+		<h3>Lee Wolen</h3>
+		<h4>The Lobby at the Peninsula Chicago</h4>
+		<p><p>Lee Wolen joined the Lobby at the Peninsula Chicago as chef de cuisine in May 2012. Chef Wolen came to the Peninsula from Eleven Madison Park in New York, a three-Michelin-star restaurant, where he held the position of sous chef for three years. While Wolen was at Eleven Madison Park, the restaurant achieved <em>The New York Times</em> coveted four stars and earned its Michelin stars and a top-ten ranking in San Pellegrino’s World’s 50 Best Restaurants.</p>
+
+<p>Since the Wolen’s new dinner menu for the Lobby debuted in the autumn of 2012, the dining critics have taken notice. <em>Time Out Chicago</em> awarded the Lobby a perfect five-star rating, the first in the eight years since food Editor David Tamarkin joined the publication. Under Chef Wolen’s direction, the Lobby has also earned a coveted four-star review from Chicago magazine and three stars from Phil Vettel of <em>Chicago Tribune</em>. Wolen was named “Breakout Chef of the Year” by <em>Time Out Chicago</em> and was nominated by <em>Food and Wine</em> as a candidate for “People’s Best New Chef, Great Lakes Region.” “The Peninsula Chicago and the city have developed a strong culinary status, and we believe Lee’s creativity continues to further enhance this reputation,” notes the Peninsula Chicago’s general manager and regional vice president Maria Razumich-Zec.</p>
+
+<p>Wolen, age 31, was born and raised in Cleveland, Ohio. He attended a vocational culinary school during high school and quickly decided this would be his career.  He worked as sous chef in Chicago at Moto and at Butter in 2005 and spent time at Le Manoir aux Quat’Saisons and the famed El Bulli. It was his dream to return to Chicago.</p>
+</p>
+		<div class="contributed-recipes">
+			<h5>Contributed Recipes</h5>
+			<ul>
+			
+				<li><a href="/artandappetite/lee-wolen-molasses-cake">Molasses Cake with Foie Gras Mousse and Rosemary</a></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>

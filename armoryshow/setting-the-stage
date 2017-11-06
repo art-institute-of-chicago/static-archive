@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  
+
+  <title>Setting the Stage</title>
+
+  
+    <meta property="og:title" content="Setting the Stage" itemprop="name">
+  <meta name="twitter:title" content="Setting the Stage">
+
+
+
+    <meta property="og:url" content="/armoryshow/setting-the-stage">
+  <meta name="twitter:url" content="/armoryshow/setting-the-stage">
+
+    <meta property="og:type" content="website"> 
+  
+
+
+  <link rel="shortcut icon" href="http://www.artic.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"/>
+
+  <link href="http://www.artic.edu/apple-touch-icon-196x196-precomposed.png" rel="icon" sizes="196x196" />
+  <link href="http://www.artic.edu/apple-touch-icon-180x180-precomposed.png" rel="apple-touch-icon-precomposed" sizes="180x180" />
+  <link href="http://www.artic.edu/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon-precomposed" sizes="152x152" />
+  <link href="http://www.artic.edu/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+  <link href="http://www.artic.edu/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120" />
+  <link href="http://www.artic.edu/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+  <link href="http://www.artic.edu/apple-touch-icon-76x76-precomposed.png" rel="apple-touch-icon-precomposed" sizes="76x76" />
+  <link href="http://www.artic.edu/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+  <link href="http://www.artic.edu/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+
+  <!-- serif font -->
+  <link href="http://fonts.googleapis.com/css?family=Average" rel="stylesheet" type="text/css"/>
+  
+  <link href="foundation.min.css" rel="stylesheet" type="text/css"/>
+    
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    
+
+  
+  <script src="jquery.js" type="text/javascript"></script>
+    
+  <script src="modernizr.foundation.js" type="text/javascript"></script>
+    
+  <script src="foundation.min.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.navigation.js" type="text/javascript"></script>
+    
+  <script src="jquery.foundation.tooltips.js" type="text/javascript"></script>
+    
+  <script src="gallery.js" type="text/javascript"></script>
+    
+  <script src="jquery.fleximap.js" type="text/javascript"></script>
+    
+  <script src="armoryshow.js" type="text/javascript"></script>
+    
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+
+</head>
+<body class="">
+
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NN5WNP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NN5WNP');</script>
+  <!-- End Google Tag Manager -->
+  
+  
+
+  <style type="text/css">
+
+    html { 
+    
+    background-image: url('11-grand-staircase_2000.jpg');
+    
+    background-position:top center;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+    }
+
+  </style>
+
+  <header>
+    <table width="100%">
+      <tr>
+        <td width="42%">
+
+          <a href="http://www.artic.edu">
+            <img src="armoryshow-logo.png" id="main-logo"/>
+          </a>
+
+        </td>
+        <td width="16%" style="vertical-align:middle">
+
+          <h2>Setting the Stage</h2>
+
+        </td>
+        <td width="42%">
+
+          <nav id="main-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+                <a href="setting-the-stage#">Explore</a><a href="setting-the-stage#" class="flyout-toggle"><span> </span></a>
+                <ul class="flyout small right">
+                  <li ><a href="/armoryshow">Introduction</a></li>
+                  <li class="active"><a href="setting-the-stage">Setting the Stage</a></li>
+                  <li ><a href="/armoryshow/cast">The Cast</a></li>
+                  <li ><a href="/armoryshow/show">The Show</a></li>
+                  <li ><a href="/armoryshow/program-notes">The Program Notes</a></li>
+                  <li ><a href="/armoryshow/audience">The Audience</a></li>
+                  <li ><a href="/armoryshow/finale">The Finale</a></li>
+                  <li ><a href="/armoryshow/legacy">The Legacy</a></li>
+                  <li ><a href="/armoryshow/bibliography">Bibliography</a></li>
+                  <li ><a href="/armoryshow/credits">Credits</a></li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+          <nav id="gallery-nav">
+            <ul class="nav-bar">
+              <li class="has-flyout full-width">
+              <a id="gallery-map-link" class="gallery-map-link" href="setting-the-stage#">Gallery</a><a href="setting-the-stage#" class="flyout-toggle gallery-map-link"><span> </span></a>
+                <ul class="flyout right gallery-map">
+                  <li><div id="floor-plan-map"></div></li> 
+                </ul>
+              </li>
+            </ul>
+          </nav>
+
+        </td>
+      </tr>
+    </table>
+
+    <div style="clear:both;"></div>
+  </header>
+
+  
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+    <div class="row">
+      <div class="ten columns centered">
+        <article class="panel">
+          <div class="article-inset">
+            <p>The 1913 Armory Show was the largest and most widely publicized exhibition of European avant-garde art ever held in the United States to date. It was organized by a small group of progressive East Coast artists who, in December 1911, banded together to form the Association of American Painters and Sculptors (AAPS). Dissatisfied with the conservative standards of New York City's official arbiter of taste, the National Academy of Design, they were determined to hold exhibitions with a wider, more representative range of contemporary American artists. By the late summer of 1912, with the immense 69th Regiment Armory secured as their first exhibition's venue, the AAPS decided to include the most recent developments in art outside the United States as well.</p>
+<p>Prior to the Armory Show, there were few places to see avant-garde art in the United States. European modernism had been slowly appearing on the New York art scene for some time through Alfred Steiglitz's pioneering gallery, 291, while nascent American modernists were welcomed at the Madison and the Macbeth Galleries, as well as at the studio of Gertrude Vanderbilt Whitney. In Chicago, opportunities to see vanguard art prior to 1913 were even more limited. The most advanced art yet exhibited in the city's few progressive art galleries, like those of W. Scott Thurber, Albert Roullier, and J. W. Young&mdash;as well as at the Art Institute&mdash;was French and American Impressionism. In the year preceding the Armory Show's arrival, however, a number of more radical artists infiltrated the city. In March 1912, under a special arrangement with Steiglitz's 291, the Thurber Gallery presented the works of the American artist Arthur Dove to generally positive reviews. Less than a year later, the Art Institute itself mounted two exhibitions of contemporary European art: the <em>Exhibition of Contemporary German Graphic Art</em> (January 1913), which included works by such Expressionist artists as Max Beckmann, Lovis Corinth, Lyonel Feininger, Vassily Kandinsky, K&auml;the Kollwitz, Franz Marc, Emil Nolde, and Hermann Max Pechstein; and the <em>Exhibition of Contemporary Scandinavian Art</em> (March 1913), which consisted mostly of artists working in Post-Impressionist styles and featured Edvard Munch.</p>
+<p>It was not a coincidence that the Art Institute was the only museum to host the Armory Show. Since its founding in 1879, the museum's progressive mission had been not only to educate the public about the history of art, but to serve as "a museum of living thought" that, through temporary exhibitions, lectures, club meetings, concerts, pageants, plays, and parties, would encourage a wide range of the public to take an active interest in the fine arts. Indeed, the regularity and frequency with which the Art Institute mounted exhibitions of works by living artists alongside its collection of antique casts and Old Master paintings was still unusual for the time. In January 1912, in response to recent criticism of the "rough-and-tumble of temporary exhibitions at the Institute," Harriet Monroe, one of the city's premier cultural critics, defended the museum's commitment to contemporary art:</p>
+<blockquote><p>Any museum which would offer only the perfect and absolute to the hard<br />
+pressed, preoccupied American public would offer them in vain, keep them "in cold storage." Such a museum, superior to popular and momentary needs and desires, existing for the instructed and elect, would become cold, empty and soulless, a mere uninhabited treasure house, as so many museums are. The Art Institute may be over-active, over-hospitable, overcrowded with passing exhibitions and students, but at least it is alive. There is always something doing there, its galleries are usually crowded, it is reaching the people. If the temporary exhibitions are too free, at least they try to offer a fair summary of contemporary achievement, to inform us of what is going on.<a href="setting-the-stage#ref"><sup>1</sup></a></p></blockquote>
+  <p>This attitude of the Art Institute is responsible not only for the museum's bringing the Amory Show to Chicago but also for the very way in which it chose to present, advertise, celebrate, and remember the exhibition&mdash;an approach that, to some AAPS organizers, appeared more like the proceedings of a circus than a serious art exhibition.</p>
+
+<div class="ref">
+  <a href="setting-the-stage#" name="ref"></a> 
+  <p><sup>1</sup> Harriet Monroe, "Rothenstein Counsels Perfection as Standard for Museums of Art.," <em>Chicago Daily Tribune</em>, Jan. 14, 1912.</p>
+</div>
+
+          </div>
+        </article>
+      </div>
+    </div> <!-- .row -->
+
+    <div class="row">
+      <div class="twelve columns spacer hide-for-small"></div>
+    </div>
+
+  
+
+  <script type="text/javascript">
+    $.ajax({
+      url: "floor-plan.json",
+      dataType: "json",
+      success: function(data) {
+        floor_plan_data = data;
+
+        // load floor plan fleximap
+        $('#floor-plan-map').flexiMap(floor_plan_data, function() {
+          setupTooltips('#floor-plan-map');
+        });
+
+        // resize it when nav accessed
+        $('.gallery-map-link').bind('touchstart mouseover', function() {
+          $('#floor-plan-map').flexiMap('resize', '540px', '369px');
+        });
+      },
+      error: function(xhr, status, error) {
+        console.error(status + ': ' + error.message);
+      }
+    });
+
+    $(document).foundationNavigation();
+  </script>
+
+  <!-- "AIC_US_Spark" c/o "Audience On Demand",  segment: 'AIC_REM_Armory Show Site_Unsecure' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+  <script src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment&returnType=js"></script>
+  <noscript>
+  <img src="http://segment-pixel.invitemedia.com/pixel?pixelID=139819&partnerID=77&clientID=11393&key=segment" width="1" height="1" />
+  </noscript>
+  <!-- End of pixel tag -->
+
+
+</body>
+</html>
