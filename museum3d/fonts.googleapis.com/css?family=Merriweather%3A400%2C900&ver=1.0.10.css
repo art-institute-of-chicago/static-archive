@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Merriweather'), local('Merriweather-Regular'), url(https://fonts.gstatic.com/s/merriweather/v18/RFda8w1V0eDZheqfcyQ4EInF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Merriweather Black'), local('Merriweather-Black'), url(https://fonts.gstatic.com/s/merriweather/v18/ZvcMqxEwPfh2qDWBPxn6nvzeo8SCrGyBsNQUDsw2Qr8.ttf) format('truetype');
+}
