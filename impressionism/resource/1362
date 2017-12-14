@@ -213,7 +213,7 @@ a depiction of a group of inanimate objects, such as flowers or fruit, usually a
       
 <ul class="menu">
 <li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
-<li class="collapsed"><a href="../Manet">Artworks</a></li>
+<li class="collapsed"><a href="../manet">Artworks</a></li>
 <li class="collapsed"><a href="../lesson">Lesson Plans</a></li>
 <li class="expanded"><a href="../family">Family Activities</a>
 <ul class="menu">
@@ -225,7 +225,7 @@ a depiction of a group of inanimate objects, such as flowers or fruit, usually a
 </li>
 <li class="leaf"><a href="../books-media">Books and Media</a></li>
 <li class="leaf"><a href="../resource/1074">Map</a></li>
-<li class="leaf"><a href="../Glossary">Glossary</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
 <li class="leaf last"><a href="../selectedworks">View All Works</a></li>
 
 </ul>

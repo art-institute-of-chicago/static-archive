@@ -93,7 +93,7 @@
       
    <div id="navigation">
               <div id="breadcrumb">
-        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Fashioning-Object">Fashioning the Object: Bless, Boudicca, Sandra Backlund</a> > <a href="../Boudicca">Boudicca</a> > <span class="sel">Couture 03: Essays</span></div></div>
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Fashioning-Object">Fashioning the Object: Bless, Boudicca, Sandra Backlund</a> > <a href="../boudicca">Boudicca</a> > <span class="sel">Couture 03: Essays</span></div></div>
       </div>
     
     <div id="page-title-wrapper">
@@ -165,18 +165,18 @@ in January 2009. As its title suggests, the film visualizes the inherent ideas a
       
 <ul class="menu">
 <li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/Fashioning-Object/index">Overview</a></li>
-<li class="collapsed"><a href="../Bless">Bless</a></li>
-<li class="expanded"><a href="../Boudicca">Boudicca</a>
+<li class="collapsed"><a href="../bless">Bless</a></li>
+<li class="expanded"><a href="../boudicca">Boudicca</a>
 <ul class="menu">
-<li class="leaf first"><a href="../Boudicca/1"><em>Motion Capture Sequin Dress</em></a></li>
-<li class="leaf"><a href="../Boudicca/2"><em>Wode</em></a></li>
-<li class="leaf"><a href="../Boudicca/3"><em>Tornado Dress</em></a></li>
+<li class="leaf first"><a href="../boudicca/1"><em>Motion Capture Sequin Dress</em></a></li>
+<li class="leaf"><a href="../boudicca/2"><em>Wode</em></a></li>
+<li class="leaf"><a href="../boudicca/3"><em>Tornado Dress</em></a></li>
 <li class="leaf active"><a href="4" class="active"><em>Couture 03: Essays</em></a></li>
-<li class="leaf last"><a href="../Boudicca/selectedworks">Selected Works</a></li>
+<li class="leaf last"><a href="../boudicca/selectedworks">Selected Works</a></li>
 
 </ul>
 </li>
-<li class="collapsed"><a href="../Backlund">Sandra Backlund</a></li>
+<li class="collapsed"><a href="../backlund">Sandra Backlund</a></li>
 <li class="leaf"><a href="../resource/2403">Video</a></li>
 <li class="leaf last"><a href="../events">Related Events</a></li>
 

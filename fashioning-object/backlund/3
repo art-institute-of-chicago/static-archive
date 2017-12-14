@@ -93,7 +93,7 @@
       
    <div id="navigation">
               <div id="breadcrumb">
-        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Fashioning-Object">Fashioning the Object: Bless, Boudicca, Sandra Backlund</a> > <a href="../Backlund">Sandra Backlund</a> > <span class="sel">Ink Blot Test</span></div></div>
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Fashioning-Object">Fashioning the Object: Bless, Boudicca, Sandra Backlund</a> > <a href="../backlund">Sandra Backlund</a> > <span class="sel">Ink Blot Test</span></div></div>
       </div>
     
     <div id="page-title-wrapper">
@@ -162,15 +162,15 @@
       
 <ul class="menu">
 <li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/Fashioning-Object/index">Overview</a></li>
-<li class="collapsed"><a href="../Bless">Bless</a></li>
-<li class="collapsed"><a href="../Boudicca">Boudicca</a></li>
-<li class="expanded"><a href="../Backlund">Sandra Backlund</a>
+<li class="collapsed"><a href="../bless">Bless</a></li>
+<li class="collapsed"><a href="../boudicca">Boudicca</a></li>
+<li class="expanded"><a href="../backlund">Sandra Backlund</a>
 <ul class="menu">
-<li class="leaf first"><a href="../Backlund/1"><em>Pool Position</em></a></li>
-<li class="leaf"><a href="../Backlund/2"><em>In No Time</em></a></li>
+<li class="leaf first"><a href="../backlund/1"><em>Pool Position</em></a></li>
+<li class="leaf"><a href="../backlund/2"><em>In No Time</em></a></li>
 <li class="leaf active"><a href="3" class="active"><em>Ink Blot Test</em></a></li>
-<li class="leaf"><a href="../Backlund/4"><em>Crochet Dress</em></a></li>
-<li class="leaf last"><a href="../Backlund/selectedworks">Selected Works</a></li>
+<li class="leaf"><a href="../backlund/4"><em>Crochet Dress</em></a></li>
+<li class="leaf last"><a href="../backlund/selectedworks">Selected Works</a></li>
 
 </ul>
 </li>

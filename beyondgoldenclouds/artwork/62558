@@ -1,0 +1,240 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_c39ed6992d4ab53a819796aa53e5fab3) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_c39ed6992d4ab53a819796aa53e5fab3) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_c7ea7479e1ff7a8a741a40b970c82818) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_d63aca0b7e6237c7964320bd7fc95644) -->
+<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_c39ed6992d4ab53a819796aa53e5fab3) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_c39ed6992d4ab53a819796aa53e5fab3) -->
+<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_c39ed6992d4ab53a819796aa53e5fab3) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_c39ed6992d4ab53a819796aa53e5fab3) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Dragon Knows Dragon (Ryu wa ryu wo shiru) | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-4450.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_BGC.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/BGC.gif" alt="" title="" width="736" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/BeyondGoldenClouds">Beyond Golden Clouds</a> > <a href="../artwork">Selected Works</a> > <span class="sel">Dragon Knows Dragon (Ryu wa ryu wo shiru)</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Dragon Knows Dragon (Ryu wa ryu wo shiru)</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <img src="../images/143207_2573362.jpg" alt="Dragon Knows Dragon (Ryu wa ryu wo shiru)" title="Morita Shiryu
+Japanese, 1912-1998, Dragon Knows Dragon (Ryu wa ryu wo shiru)"  />          </div>
+
+    <p class="tools">
+                    <a href="../artwork/62558/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
+                    <a href="../artwork/62558/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="../artwork/62558/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    Morita Shiryu<br />
+Japanese, 1912-1998<br />
+    </p>
+    <h3><em>Dragon Knows Dragon (Ryu wa ryu wo shiru)</em>, 1969</h3>
+
+    <p>
+    Four-panel screen; aluminum flake pigment in polyvinyl acetate medium, yellow alkyd varnish, on paper<br />    162 x 307 cm (63 3/4 x 120 7/8 in.)<br />        Gift of Mr. and Mrs. Milton Fisher, 1981.364</p>
+        
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p><BIG><p>&#12513;&#12479;&#12522;&#12483;&#12463;&#38996;&#26009;&#12391;&#26360;&#12363;&#12428;&#12383;&#19977;&#25991;&#23383;&#12399;&#12289;&#12300;&#40845;&#30693;&#40845;&#12301;&#12392;&#35501;&#12415;&#12289;&#65378;&#20553;&#22823;&#12394;&#12418;&#12398;&#12371;&#12381;&#20553;&#22823;&#12394;&#12418;&#12398;&#12434;&#30693;&#12427;&#65379;&#12392;&#24847;&#21619;&#12377;&#12427;&#12290;</p>
+<p>&#34920;&#29694;&#26041;&#27861;&#12392;&#24418;&#24335;&#12395;&#12362;&#12356;&#12390;&#12289;&#26862;&#30000;&#23376;&#40845;&#12399;&#38761;&#26032;&#30340;&#12391;&#12354;&#12427;&#12290;&#26862;&#30000;&#12399;&#12289;&#24040;&#22823;&#12394;&#31558;&#12434;&#29992;&#12356;&#12289;&#40658;&#33394;&#12398;&#22320;&#12398;&#19978;&#12395;&#19968;&#27671;&#12395;&#26360;&#12365;&#19978;&#12370;&#12390;&#12356;&#12427;&#12290;&#26862;&#30000;&#12398;&#21147;&#24375;&#12356;&#25163;&#27861;&#12399;&#12289;&#26178;&#12395;&#12289;&#12418;&#12399;&#12420;&#25991;&#23383;&#12392;&#12399;&#35211;&#12360;&#12396;&#12414;&#12391;&#25277;&#35937;&#21270;&#12377;&#12427;&#12290;&#12371;&#12398;&#20316;&#21697;&#12391;&#40845;&#12398;&#23383;&#12399;&#12289;&#38263;&#12356;&#23614;&#12434;&#25345;&#12385;&#12289;&#31354;&#12434;&#39131;&#12406;&#21205;&#29289;&#12392;&#12375;&#12390;&#12398;&#40845;&#12381;&#12398;&#12418;&#12398;&#12434;&#34920;&#29694;&#12375;&#12390;&#12356;&#12427;&#12290;&#12288;&#12288;&#12288;</p>
+<p>&#25277;&#35937;&#21270;&#12398;&#27010;&#24565;&#12399;&#12289;&#26481;&#12450;&#12472;&#12450;&#12398;&#26360;&#36947;&#12395;&#12362;&#12356;&#12390;&#20309;&#30334;&#24180;&#12418;&#12398;&#38291;&#34892;&#12431;&#12428;&#12390;&#12365;&#12383;&#12364;&#12289;&#26862;&#30000;&#12399;&#12289;&#12375;&#12400;&#12375;&#12400;&#12289;&#20253;&#32113;&#30340;&#12394;&#26085;&#26412;&#12398;&#26360;&#36947;&#12392;&#35199;&#27431;&#12398;&#25277;&#35937;&#32654;&#34899;&#12398;&#30456;&#20114;&#20316;&#29992;&#12395;&#12388;&#12356;&#12390;&#33879;&#12375;&#12390;&#12362;&#12426;&#12289;&#12500;&#12456;&#12540;&#12523;&#12539;&#12450;&#12524;&#12471;&#12531;&#12473;&#12461;&#12540;&#12420;&#12472;&#12519;&#12523;&#12472;&#12517;&#12539;&#12510;&#12481;&#12517;&#12540;&#12394;&#12393;&#12398;&#12520;&#12540;&#12525;&#12483;&#12497;&#25277;&#35937;&#34920;&#29694;&#20027;&#32681;&#12398;&#33464;&#34899;&#23478;&#12392;&#12289;&#21332;&#21516;&#21046;&#20316;&#12434;&#34892;&#12387;&#12383;&#12290;&#12414;&#12383;&#31859;&#22269;&#12398;&#33464;&#34899;&#23478;&#12510;&#12540;&#12463;&#12539;&#12488;&#12499;&#12540;&#12420;&#12501;&#12521;&#12531;&#12484;&#12539;&#12463;&#12521;&#12452;&#12531;&#12399;&#12289;&#21516;&#26178;&#20195;&#12398;&#26085;&#26412;&#12398;&#26360;&#12289;&#20363;&#12360;&#12400;&#26862;&#30000;&#12398;&#20316;&#21697;&#12395;&#12289;&#24433;&#38911;&#12434;&#19982;&#12360;&#12289;&#24433;&#38911;&#12434;&#21463;&#12369;&#12418;&#12375;&#12383;&#12290;</p>
+<p>&#20316;&#21697;&#12399;&#28422;&#12434;&#29992;&#12356;&#12390;&#21046;&#20316;&#12373;&#12428;&#12383;&#12363;&#12395;&#35211;&#12360;&#12427;&#12364;&#12289;&#23455;&#38555;&#12399;&#37504;&#33394;&#12398;&#12513;&#12479;&#12522;&#12483;&#12463;&#38996;&#26009;&#12434;&#29992;&#12356;&#12289;&#31558;&#12391;&#40658;&#22320;&#12398;&#32025;&#12395;&#26360;&#12356;&#12383;&#24460;&#12289;&#40644;&#33394;&#12398;&#12491;&#12473;&#12391;&#34920;&#38754;&#12434;&#12467;&#12540;&#12486;&#12451;&#12531;&#12464;&#12375;&#12383;&#12418;&#12398;&#12391;&#12354;&#12427;&#12290;</p></BIG>
+<p>Three characters brushed with metallic paint read “dragon knows dragon,” a phrase meaning “to recognize greatness is greatness.”</p>
+<p>In terms of style and format, Morita Shiryu’s works are groundbreaking. Here the artist used an extremely large brush, working quickly across the black surface. Morita’s vigorous style often results in nearly abstract forms that no longer appear to be words. In this work, the character for dragon becomes more expressive of the actual animal with a long, sinewy tail flying through the air.</p>
+<p>The notion of abstraction had been part of the practice of East Asian calligraphy for many centuries, and Morita wrote often about the interplay between traditional Japanese calligraphy and abstract art in the West. He collaborated with European artists of the Abstract Expressionist movement such as Pierre Alechinsky and Georges Mathieu, and American artists Mark Tobey and Franz Kline influenced and were influenced by contemporary Japanese calligraphy such as Morita’s works.</p>
+<p>Though the work may appear to be executed with lacquer, in actuality the metallic paint&#8212;which is silver in tone&#8212;was brushed onto black paper and then covered with a coat of yellow varnish.</p>
+<p>This work is on display for the entire exhibition period.</p></p>
+                <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Beyond Golden Clouds </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../overview">Overview</a></li>
+<li class="collapsed"><a href="../exhibthemes">Exhibition Themes</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="collapsed"><a href="../conservation">Conservation</a></li>
+<li class="collapsed"><a href="../resource/850">Additional Resources</a></li>
+<li class="leaf last"><a href="../getinvolved">Get Involved</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="../artwork">Browse selections</a></span>
+      <a href="../artwork/191665?from=62558"><img src="../images/highlight_thumb_arrow_right.png" alt="&gt;" title="" width="22" height="22" /></a>  
+      <a href="../artwork/191650?from=62558"><img src="../images/highlight_thumb_arrow_left.png" alt="&lt;" title="" width="22" height="22" /></a>  </div>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

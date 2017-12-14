@@ -93,7 +93,7 @@
       
    <div id="navigation">
               <div id="breadcrumb">
-        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Fashioning-Object">Fashioning the Object: Bless, Boudicca, Sandra Backlund</a> > <a href="../Bless">Bless</a> > <span class="sel">Perpetual Home Motion Machines</span></div></div>
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Fashioning-Object">Fashioning the Object: Bless, Boudicca, Sandra Backlund</a> > <a href="../bless">Bless</a> > <span class="sel">Perpetual Home Motion Machines</span></div></div>
       </div>
     
     <div id="page-title-wrapper">
@@ -164,19 +164,19 @@
       
 <ul class="menu">
 <li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/Fashioning-Object/index">Overview</a></li>
-<li class="expanded"><a href="../Bless">Bless</a>
+<li class="expanded"><a href="../bless">Bless</a>
 <ul class="menu">
-<li class="leaf first"><a href="../Bless/1"><em>Know Howowow</em></a></li>
-<li class="leaf"><a href="../Bless/2"><em>Hairbrush</em></a></li>
+<li class="leaf first"><a href="../bless/1"><em>Know Howowow</em></a></li>
+<li class="leaf"><a href="../bless/2"><em>Hairbrush</em></a></li>
 <li class="leaf active"><a href="3" class="active"><em>Perpetual Home Motion</em></a></li>
-<li class="leaf"><a href="../Bless/4"><em>Uncool</em></a></li>
-<li class="leaf"><a href="../Bless/5">Bless Artwork</a></li>
-<li class="leaf last"><a href="../Bless/selectedworks">Selected Works</a></li>
+<li class="leaf"><a href="../bless/4"><em>Uncool</em></a></li>
+<li class="leaf"><a href="../bless/5">Bless Artwork</a></li>
+<li class="leaf last"><a href="../bless/selectedworks">Selected Works</a></li>
 
 </ul>
 </li>
-<li class="collapsed"><a href="../Boudicca">Boudicca</a></li>
-<li class="collapsed"><a href="../Backlund">Sandra Backlund</a></li>
+<li class="collapsed"><a href="../boudicca">Boudicca</a></li>
+<li class="collapsed"><a href="../backlund">Sandra Backlund</a></li>
 <li class="leaf"><a href="../resource/2403">Video</a></li>
 <li class="leaf last"><a href="../events">Related Events</a></li>
 

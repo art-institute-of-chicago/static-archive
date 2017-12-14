@@ -1,0 +1,239 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_446fbd499b22c3e86a4d4cb8ecb123fa) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_446fbd499b22c3e86a4d4cb8ecb123fa) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_c7ea7479e1ff7a8a741a40b970c82818) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_d63aca0b7e6237c7964320bd7fc95644) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_446fbd499b22c3e86a4d4cb8ecb123fa) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_446fbd499b22c3e86a4d4cb8ecb123fa) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_446fbd499b22c3e86a4d4cb8ecb123fa) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_446fbd499b22c3e86a4d4cb8ecb123fa) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Bamboo | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-4450.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "citi": { "enlargements": { "..\/images\/143307_2574543.jpg": { "enlargement_image": "..\/images\/143307_2574543.jpg", "object_artist_culture_display": "Kishi Ganku \x3cbr /\x3e\nJapanese, 1749-1838", "object_title": "Bamboo", "object_date_display": "1829", "object_id": "198910", "object_copyright_notice": "" } } } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_BGC.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/BGC.gif" alt="" title="" width="736" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/BeyondGoldenClouds">Beyond Golden Clouds</a> > <a href="../artwork">Selected Works</a> > <span class="sel">Bamboo</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Bamboo</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <a href="..\/images\/143307_2574543.jpg" class="enlargement-link enlargement-link-198910"><img src="../images/143307_2574545.jpg" alt="Bamboo" title="Kishi Ganku 
+Japanese, 1749-1838, Bamboo"  /></a>          </div>
+
+    <p class="tools">
+              <a href="..\/images\/143307_2574543.jpg" class="enlargement-link enlargement-link-198910"><strong>View</strong> enlargement</a><br />
+                    <a href="../artwork/198910/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
+                    <a href="../artwork/198910/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="../artwork/198910/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    Kishi Ganku <br />
+Japanese, 1749-1838<br />
+    </p>
+    <h3><em>Bamboo</em>, 1829</h3>
+
+    <p>
+    Pair six-panel screens; ink and gold on paper<br />    Each 178 x 376 cm (70 x 148 in.)<br />        Russell Tyson Purchase Fund income, 1967.378-1967.379</p>
+        
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p><BIG><p>&#23736;&#39378;&#12399;&#12289;&#12371;&#12398;&#22823;&#32966;&#12394;&#31481;&#12398;&#20316;&#21697;&#12395;&#12362;&#12356;&#12390;&#12289;&#37329;&#31636;&#22320;&#12395;&#22696;&#12391;&#25551;&#20889;&#12375;&#12383;&#12384;&#12369;&#12391;&#12411;&#12392;&#12435;&#12393;&#26448;&#26009;&#12434;&#29992;&#12356;&#12378;&#12289;&#31481;&#12398;&#26412;&#36074;&#12434;&#12392;&#12425;&#12360;&#12390;&#12356;&#12427;&#12290;&#23631;&#39080;&#12398;&#21491;&#38587;&#12391;&#12399;&#12289;&#24029;&#23736;&#12363;&#12425;&#31435;&#12385;&#19978;&#12364;&#12427;&#31481;&#12398;&#33550;&#12364;&#24375;&#35519;&#12373;&#12428;&#12289;&#19968;&#26041;&#24038;&#38587;&#12391;&#12399;&#12289;&#33865;&#12364;&#20316;&#21697;&#12398;&#19978;&#31471;&#12434;&#36234;&#12360;&#12390;&#19978;&#26041;&#12408;&#24195;&#12364;&#12387;&#12390;&#12356;&#12427;&#12363;&#12392;&#24605;&#12431;&#12379;&#12427;&#12290;</p>
+<p>&#23736;&#39378;&#12399;&#65380;&#31558;&#12395;&#22696;&#12434;&#12405;&#12367;&#12414;&#12379;&#12289;&#21516;&#12376;&#24133;&#12434;&#20445;&#12387;&#12390;&#30011;&#38754;&#19978;&#12434;&#36208;&#12425;&#12379;&#12427;&#12371;&#12392;&#12391;&#12289;&#31481;&#12398;&#31680;&#38291;&#12434;&#25551;&#20889;&#12375;&#12390;&#12356;&#12427;&#12290;&#22696;&#12434;&#12399;&#12376;&#12367;&#37329;&#31636;&#19978;&#12398;&#12363;&#12377;&#12428;&#12392;&#22696;&#12395;&#65380;&#33184;&#12434;&#21152;&#12360;&#12427;&#12371;&#12392;&#12391;&#12289;&#31481;&#12398;&#34920;&#38754;&#12398;&#32068;&#32340;&#12392;&#20809;&#12398;&#24433;&#12434;&#33258;&#28982;&#12395;&#26144;&#12377;&#21177;&#26524;&#12434;&#12384;&#12375;&#12390;&#12356;&#12427;&#12290;</p>
+<p>&#31481;&#12398;&#24773;&#26223;&#12398;&#19968;&#37096;&#12434;&#21427;&#26684;&#12395;&#20999;&#12426;&#21462;&#12427;&#12371;&#12392;&#12391;&#12289;&#38291;&#36817;&#12395;&#31435;&#12388;&#12363;&#24231;&#12387;&#12390;&#37969;&#36062;&#12377;&#12428;&#12400;&#12289;&#31481;&#26519;&#12398;&#20013;&#12395;&#12356;&#12427;&#12363;&#12398;&#12424;&#12358;&#12395;&#24863;&#12376;&#12373;&#12379;&#12427;&#12290;&#12371;&#12398;&#20316;&#21697;&#12399;&#12289;&#12381;&#12428;&#12434;&#23436;&#20840;&#12395;&#24847;&#35672;&#12375;&#12390;&#20316;&#25104;&#12373;&#12428;&#12390;&#12356;&#12427;&#12290;&#24403;&#21021;&#12289;&#20116;&#23550;&#19968;&#25539;&#12356;&#12398;&#23631;&#39080;&#12391;&#12354;&#12387;&#12383;&#12371;&#12392;&#12363;&#12425;&#12289;&#25991;&#20154;&#12383;&#12385;&#12398;&#12469;&#12525;&#12531;&#30340;&#12394;&#38598;&#12414;&#12426;&#12398;&#38555;&#12289;&#37096;&#23627;&#12398;&#21608;&#12426;&#12434;&#22258;&#12416;&#12424;&#12358;&#12395;&#31435;&#12390;&#12427;&#12371;&#12392;&#12391;&#12289;&#20253;&#35500;&#12398;&#31481;&#26519;&#12398;&#19971;&#36066;&#12395;&#12394;&#12382;&#12425;&#12360;&#12383;&#12398;&#12391;&#12399;&#12394;&#12356;&#12363;&#12392;&#24605;&#12431;&#12428;&#12427;&#12290;</p></BIG>
+<p>In this bold study of bamboo rendered in monochrome ink against a solid ground of gold leaf, Kishi Ganku has captured the essence of the stalks with as few materials as possible. The screen on the right features the stalks of bamboo rising from the ground by a stream, while on the left we imagine the lofty upper reaches of the leaves beyond the top edge of the work.</p>
+<p>Ganku rendered the sectional trunks of bamboo by loading the brush with ink and moving it evenly across the surface of the painting. In areas where the ink skipped across the non-absorbent gold or was mixed with animal glue, the results are naturalistic effects mimicking the bamboo’s texture or the play of light on its surface.</p>
+<p>The severe cropping of the plants enhances the effect that one has, when standing or sitting close to the screens, of being in the midst of a bamboo grove.  This was completely intentional. Evidence suggests that these screens were part of a set of five pairs originally meant to be set up around the perimeter of a room or rooms during a salonlike gathering of would-be literati who compared themselves to the legendary Seven Sages of the Bamboo Grove.</p>
+<p><strong>Rotation 2: August 15-September 27, 2009</strong></p></p>
+                <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Beyond Golden Clouds </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../overview">Overview</a></li>
+<li class="collapsed"><a href="../exhibthemes">Exhibition Themes</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="collapsed"><a href="../conservation">Conservation</a></li>
+<li class="collapsed"><a href="../resource/850">Additional Resources</a></li>
+<li class="leaf last"><a href="../getinvolved">Get Involved</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="../artwork">Browse selections</a></span>
+      <a href="../artwork/191662?from=198910"><img src="../images/highlight_thumb_arrow_right.png" alt="&gt;" title="" width="22" height="22" /></a>  
+      <a href="../artwork/192018?from=198910"><img src="../images/highlight_thumb_arrow_left.png" alt="&lt;" title="" width="22" height="22" /></a>  </div>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

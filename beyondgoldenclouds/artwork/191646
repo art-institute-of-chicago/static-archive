@@ -1,0 +1,246 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_9cf46c4e62e9a1daca6c21c903f5b77c) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_9cf46c4e62e9a1daca6c21c903f5b77c) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_992dc31941c6b843abe6e5bb497d502c) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_1a906a4de803b11b80046d9550d8921e) -->
+<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_9cf46c4e62e9a1daca6c21c903f5b77c) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_9cf46c4e62e9a1daca6c21c903f5b77c) -->
+<!-- From the cache. (d3d5e458996b1fa09e0038ef60ea62ba_992dc31941c6b843abe6e5bb497d502c) -->
+<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_9cf46c4e62e9a1daca6c21c903f5b77c) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_9cf46c4e62e9a1daca6c21c903f5b77c) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Fans and Stream | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-4450.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_BGC.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/BGC.gif" alt="" title="" width="736" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/BeyondGoldenClouds">Beyond Golden Clouds</a> > <a href="../artwork">Selected Works</a> > <span class="sel">Fans and Stream</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Fans and Stream</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <img src="../images/143290_2574286.jpg" alt="Fans and Stream" title="Sakai Hoitsu
+Japanese, 1761-1828, Fans and Stream"  />          </div>
+
+    <p class="tools">
+                    <a href="../artwork/191646/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
+                    <a href="../artwork/191646/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="../artwork/191646/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    Sakai Hoitsu<br />
+Japanese, 1761-1828<br />
+    </p>
+    <h3><em>Fans and Stream</em>, 1820/28</h3>
+
+    <p>
+    Sliding doors (fusuma) mounted as a pair of two-panel screens; ink, color, gold, and silver on silk<br />    each 166.9 x 174.6 cm<br />        Saint Louis Art Museum, Friends Fund (140:1987.a-b), Obj: 191646</p>
+        
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p><BIG><p>&#37202;&#20117;&#25265;&#19968;&#12399;&#12371;&#12398;&#20316;&#21697;&#12391;&#12289;&#30495;&#23455;&#12394;&#12398;&#12363;&#25216;&#24039;&#12395;&#12424;&#12427;&#12418;&#12398;&#12363;&#12289;&#35211;&#12427;&#20154;&#12434;&#32763;&#24324;&#12373;&#12379;&#12427;&#12290;30&#26412;&#12398;&#25159;&#23376;&#12399;&#12289;&#12356;&#12378;&#12428;&#12418;&#23455;&#29289;&#12364;&#34920;&#38754;&#12395;&#36028;&#12426;&#20184;&#12369;&#12425;&#12428;&#12383;&#12363;&#12395;&#25551;&#20889;&#12373;&#12428;&#12390;&#12356;&#12427;&#12290;&#25265;&#19968;&#12399;&#12371;&#12398;&#24187;&#24433;&#12434;&#12289;&#12381;&#12428;&#12382;&#12428;&#12373;&#12414;&#12374;&#12414;&#12394;&#25159;&#38754;&#12392;&#12375;&#12289;&#39592;&#12398;&#37096;&#20998;&#12395;&#32993;&#31881;&#12434;&#21402;&#12367;&#22615;&#12387;&#12390;&#31435;&#20307;&#24863;&#12434;&#20986;&#12377;&#12371;&#12392;&#12391;&#36948;&#25104;&#12375;&#12390;&#12356;&#12427;&#12290;&#20840;&#38283;&#12354;&#12427;&#12356;&#12399;&#21322;&#38283;&#12398;&#25159;&#23376;&#12399;&#12289;&#21491;&#38587;&#21491;&#19979;&#12398;&#26149;&#12363;&#12425;&#24038;&#38587;&#24038;&#19978;&#12398;&#20908;&#12408;&#12392;&#12289;&#23395;&#31680;&#12398;&#31227;&#12426;&#22793;&#12431;&#12426;&#12395;&#24467;&#12356;&#37197;&#32622;&#12373;&#12428;&#12390;&#12356;&#12427;&#12290;&#12288;</p>
+<p>&#30011;&#38988;&#12398;&#65378;&#25159;&#38754;&#27969;&#12375;&#65379;&#12399;&#12289;&#20140;&#37117;&#12391;&#12398;&#20986;&#26469;&#20107;&#12395;&#30001;&#26469;&#12377;&#12427;&#12392;&#12356;&#12431;&#12428;&#12390;&#12356;&#12427;&#12290;&#23558;&#36557;&#12398;&#34892;&#21015;&#12398;&#38543;&#36523;&#12398;&#25159;&#23376;&#12364;&#39080;&#12395;&#12373;&#12425;&#12431;&#12428;&#12289;&#19979;&#12398;&#24029;&#38754;&#12395;&#28014;&#12363;&#12435;&#12384;&#12290;&#12371;&#12398;&#32654;&#12375;&#12356;&#20986;&#26469;&#20107;&#12434;&#35211;&#12383;&#20182;&#12398;&#21442;&#21015;&#32773;&#12383;&#12385;&#12418;&#12289;&#33258;&#12425;&#12398;&#25159;&#23376;&#12434;&#27700;&#38754;&#12395;&#25237;&#12370;&#12383;&#12290;</p>
+<p>4&#25159;&#12398;&#22259;&#12399;&#12289;&#12363;&#12388;&#12390;&#12289;&#35158;&#32117;&#12392;&#12375;&#12390;&#20181;&#31435;&#12390;&#12425;&#12428;&#12390;&#12356;&#12383;&#12418;&#12398;&#12391;&#12354;&#12427;&#12290;&#19968;&#21452;&#12398;2&#25159;&#23631;&#39080;&#12395;&#22793;&#12360;&#12425;&#12428;&#12383;&#26178;&#26399;&#12395;&#12388;&#12356;&#12390;&#12399;&#19981;&#26126;&#12391;&#12354;&#12427;&#12364;&#12289;&#35158;&#12398;&#24341;&#12365;&#25163;&#12434;&#25244;&#12356;&#12383;&#36321;&#12398;&#31348;&#12399;&#24910;&#37325;&#12395;&#35036;&#12431;&#12428;&#12390;&#12356;&#12427;&#12290;</p></BIG>
+<p>In this work Sakai Hoitsu plays with our notions of reality and artifice. Each of the thirty fans depicted on the screens is painted to appear as an actual object pasted onto the surface. Hoitsu achieved this illusion by giving each fan its own distinct “paper,” and by rendering the ribs of each one with a thick, oyster-shell pigment to make them stand out in relief, mimicking wood or bamboo. The fully opened or partially closed fans are loosely positioned according to season, transitioning from spring in the bottom right corner of the right screen to winter at the upper left corner of the left screen.</p>
+<p>The subject of fans floating in a stream (<em>senmen nagashi</em>) is said to have originated with an event that took place in Kyoto in which a fan belonging to one member of a shogunal procession was swept away by the wind and floated to the river below. The other members of the party found this accident so beautiful, that they too threw their fans down to the water.</p>
+<p>These four panels were once sliding doors (<em>fusuma</em>) set into grooves in the floor.  When the doors were converted into a freestanding pair of two-fold screens is not known, but the holes made by the removal of the door-pull hardware have been carefully patched.</p>
+<p><strong>Rotation 2: August 15-September 27, 2009</strong></p></p>
+                <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Beyond Golden Clouds </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../overview">Overview</a></li>
+<li class="collapsed"><a href="../exhibthemes">Exhibition Themes</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="collapsed"><a href="../conservation">Conservation</a></li>
+<li class="collapsed"><a href="../resource/850">Additional Resources</a></li>
+<li class="leaf last"><a href="../getinvolved">Get Involved</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="../artwork">Browse selections</a></span>
+      <a href="../artwork/192018?from=191646"><img src="../images/highlight_thumb_arrow_right.png" alt="&gt;" title="" width="22" height="22" /></a>  
+      <a href="../artwork/191661?from=191646"><img src="../images/highlight_thumb_arrow_left.png" alt="&lt;" title="" width="22" height="22" /></a>  </div>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_related_resources" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Learn More </h2>
+    <div class="content">
+      <div class="item-list"><ul><li class="first last"><a href="http://www.artic.edu/aic/collections/exhibitions/BeyondGoldenClouds/resource/833">Detail: Fans</a></li></ul></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

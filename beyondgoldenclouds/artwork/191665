@@ -1,0 +1,235 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_72fe901c407b942420285b459a9b4f4c) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_72fe901c407b942420285b459a9b4f4c) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_1a906a4de803b11b80046d9550d8921e) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_72fe901c407b942420285b459a9b4f4c) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_72fe901c407b942420285b459a9b4f4c) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_72fe901c407b942420285b459a9b4f4c) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_72fe901c407b942420285b459a9b4f4c) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Red Rash | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-4450.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_BGC.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/BGC.gif" alt="" title="" width="736" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/BeyondGoldenClouds">Beyond Golden Clouds</a> > <a href="../artwork">Selected Works</a> > <span class="sel">Red Rash</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Red Rash</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <img src="../images/143301_2574435.jpg" alt="Red Rash" title="Sasayama Tadayasu
+Japanese, born 1939, Red Rash"  />          </div>
+
+    <p class="tools">
+                    <a href="../artwork/191665/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
+                    <a href="../artwork/191665/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="../artwork/191665/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    Sasayama Tadayasu<br />
+Japanese, born 1939<br />
+    </p>
+    <h3><em>Red Rash</em>, 1990</h3>
+
+    <p>
+    Six-panel screen; stoneware with metallic and silenium glazes<br />    167 x 363.1 cm<br />        Saint Louis Art Museum, Friends Fund (1927.1992.a-f), Obj: 191665</p>
+        
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p><BIG><p>&#23631;&#39080;&#12391;&#12398;&#12371;&#12398;&#12518;&#12540;&#12514;&#12521;&#12473;&#12394;&#12450;&#12503;&#12525;&#12540;&#12481;&#12399;&#12289;&#25216;&#24039;&#30340;&#12395;&#39640;&#24230;&#12394;&#12418;&#12398;&#12391;&#12354;&#12427;&#12290;&#25968;&#30334;&#12418;&#12398;&#36196;&#12367;&#36637;&#12367;&#28857;&#12364;&#30011;&#38754;&#12434;&#35206;&#12356;&#12289;&#40635;&#30137;&#65288;&#12399;&#12375;&#12363;&#65289;&#12364;&#31361;&#30330;&#12375;&#12390;&#12356;&#12427;&#12363;&#12398;&#12424;&#12358;&#12391;&#12354;&#12427;&#12290;&#20491;&#12293;&#12398;&#30011;&#38754;&#12381;&#12398;&#12418;&#12398;&#12364;&#12289;&#28784;&#33394;&#12398;&#37329;&#23646;&#20809;&#27810;&#12398;&#38518;&#22120;&#12391;&#12391;&#12365;&#12390;&#12356;&#12427;&#12290;&#12371;&#12428;&#12399;&#20449;&#27005;&#12395;&#12354;&#12427;&#22823;&#22618;&#12458;&#12540;&#12511;&#38518;&#26989;&#12398;&#38263;&#12373;50&#65357;&#12398;&#12460;&#12473;&#21152;&#29105;&#12467;&#12531;&#12505;&#12450;&#31407;&#12391;&#12289;30&#26178;&#38291;&#28988;&#25104;&#12375;&#12383;&#12418;&#12398;&#12391;&#12354;&#12427;&#12290;</p>
+<p>&#29305;&#27530;&#12394;&#26448;&#26009;&#12392;&#20027;&#38988;&#12398;&#12371;&#12398;&#20316;&#21697;&#12399;&#12289;&#36890;&#24120;&#12398;&#23631;&#39080;&#12398;&#12424;&#12358;&#12395;&#25240;&#12383;&#12383;&#12417;&#12378;&#12289;&#19978;&#37096;&#12392;&#19979;&#37096;&#12395;&#21462;&#20184;&#37329;&#20855;&#12434;&#32068;&#12415;&#36796;&#12416;&#24517;&#35201;&#12364;&#12354;&#12427;&#12290;&#26356;&#12395;&#12381;&#12428;&#12382;&#12428;&#23550;&#12434;&#12394;&#12377;&#12497;&#12493;&#12523;&#12399;&#12289;&#36890;&#24120;&#12392;&#12399;&#36870;&#12395;&#12289;&#20013;&#24515;&#12398;&#25240;&#12426;&#30446;&#12434;&#25163;&#21069;&#12395;&#12375;&#12390;&#23637;&#31034;&#12373;&#12428;&#12427;&#12290;&#12371;&#12398;&#12383;&#12417;&#31471;&#12398;&#12497;&#12493;&#12523;&#12399;&#12289;&#37969;&#36062;&#32773;&#12363;&#12425;&#36960;&#12374;&#12363;&#12387;&#12390;&#34892;&#12367;&#12363;&#12395;&#35211;&#12360;&#12427;&#12290;</p></BIG>
+<p>This humorous approach to the folding screen is nevertheless highly technical.  Looking like an outbreak of measles, hundreds of red-glaze dots coat the surface of the panels. The individual panels themselves are made of stoneware with a gray metallic glaze, produced by firing them for thirty hours in the fifty-meter-long, gas-fired conveyor kiln at the Otsuka Ohmi Ceramics Co. in Shigaraki, Japan.</p>
+<p>In addition to the work’s unusual materials and subject, this screen also does not fold like conventional ones; instead, it requires assembly with fitted metal brackets at the top and bottom. Furthermore, each pair of panels is arranged in a convex manner rather than in the usual concave way, so that the end panels angle away from the viewer.</p>
+<p>This work is on display for the entire exhibition period.</p></p>
+                <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Beyond Golden Clouds </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../overview">Overview</a></li>
+<li class="collapsed"><a href="../exhibthemes">Exhibition Themes</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="collapsed"><a href="../conservation">Conservation</a></li>
+<li class="collapsed"><a href="../resource/850">Additional Resources</a></li>
+<li class="leaf last"><a href="../getinvolved">Get Involved</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="../artwork">Browse selections</a></span>
+      <a href="../artwork/185359?from=191665"><img src="../images/highlight_thumb_arrow_right.png" alt="&gt;" title="" width="22" height="22" /></a>  
+      <a href="../artwork/62558?from=191665"><img src="../images/highlight_thumb_arrow_left.png" alt="&lt;" title="" width="22" height="22" /></a>  </div>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

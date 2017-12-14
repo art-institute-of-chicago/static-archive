@@ -1,0 +1,254 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a00c53ec97f576c9836d53b41476bdcc) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_a00c53ec97f576c9836d53b41476bdcc) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_243118d31ea8ab67006dc278c6cd3285) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_25117f4b9fd9bb6384d0eb8ea708c8b9) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a00c53ec97f576c9836d53b41476bdcc) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_a00c53ec97f576c9836d53b41476bdcc) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_a00c53ec97f576c9836d53b41476bdcc) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_a00c53ec97f576c9836d53b41476bdcc) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Alfred Stieglitz | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-6032.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "citi": { "enlargements": { "..\/images\/150238_4173425.jpg": { "enlargement_image": "..\/images\/150238_4173425.jpg", "object_artist_culture_display": "Gertrude Käsebier\x3cbr /\x3e\nAmerican, 1852–1934", "object_title": "Alfred Stieglitz", "object_date_display": "1902, printed 1906", "object_id": "66789", "object_copyright_notice": "" } } } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/aic_Apostles.gif" alt="The Art Institute of Chicago" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Apostles_tp.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/ApostlesBeauty">Apostles of Beauty: Arts and Crafts from Britain to Chicago</a> > <a href="../artwork">Selected Works</a> > <span class="sel">Alfred Stieglitz</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Alfred Stieglitz</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <a href="..\/images\/150238_4173425.jpg" class="enlargement-link enlargement-link-66789"><img src="../images/150238_4173427.jpg" alt="Alfred Stieglitz" title="Gertrude Käsebier
+American, 1852–1934, Alfred Stieglitz"  /></a>          </div>
+
+    <p class="tools">
+              <a href="..\/images\/150238_4173425.jpg" class="enlargement-link enlargement-link-66789"><strong>View</strong> enlargement</a><br />
+                    <a href="../artwork/66789/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
+                    <a href="../artwork/66789/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="../artwork/66789/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    Gertrude Käsebier<br />
+American, 1852–1934<br />
+    </p>
+    <h3><em>Alfred Stieglitz</em>, 1902, printed 1906</h3>
+
+    <p>
+    Platinum print<br />    30.2 x 23.4 cm (image); 33.6 x 24 cm (paper); 43.2 x 27.9 cm (mount)<br />    Signed recto, lower right, on image, in yellow pencil: "GERTRUDE KÄSEBIER"; inscribed recto, upper right, on image [possibly on negative]; "ALFRED STIEGLITZ / MCMVI"; inscribed verso, full page, letterpress printed in black ink [upside down]: " I BELIEVE that here are observable the first steps, still somewhat hesitating but already significant, toward an important evolution. Art has held itself aloof from the great movement, which for half a century has engrossed all forms of human activity in profitably exploiting the natural forces that fill heaven and earth. Instead of calling to his aid the enormous forces ever ready to serve the wants of the world, as an assistance in those mechanical and unnecessarily fatiguing portions of his labor, the artist has remained true to processes which are primitive, traditional, narrow, small, egotistical, and over-scrupulous, and thus has lost the better part of his time and energy. These processes date from the days when man believed himself alone in the universe, confronted by innumerable enemies. Little by little he discovers that these innumerable enemies were but allies and mysterious slaves of man which had not been taught to serve him. Man, to-day, is on the point of realizing that everything around him begs to be allowed to come to his assistance, and is ever ready to work with him and for him, if he will but make his wishes understood. This glad message is daily spreading more widely through all the domains of human intelligence. The artist alone, moved by a sort of superannuated pride, has refused to listen to the modern voice. He reminds one of one of those unhappy solitary weavers, still to be found in remote parts of the country, who, though weighed down by the misery of poverty and useless fatigue, yet absolutely continues to weave coarse fabric by an antiquated and obsolete method, and this although but a few steps from his cabin are to be found the power of the torrent, of coal and of wind, which offer to do twenty times in one hour the work which cost him a long month of slavery, and to do it better. / It is already many years since the sun revealed to us its power to portray objects and beings more quickly and more accurately than can pencil or crayon. It seemed to work only its own way and at its own pleasure. At first man was restricted to making permanent that which the impersonal and unsympathetic light had registered. He had not yet been permitted to imbue it with thought. But to-day it sees that thought has found a fissure through which to penetrate the mystery of this anonymous force, invade it, subjugate it, animate it, and compel it to say such things as have not yet been said in all the realm of chiaroscuro, of grace, of beauty and of truth. / MAURICE MAETERLINCK"<br />    Alfred Stieglitz Collection, 1949.862</p>
+        
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p></br><p>For more on the Alfred Stieglitz collection at the Art Institute, along with in-depth object information, please visit the website: <a href="http://media.artic.edu/stieglitz">The Alfred Stieglitz Collection</a>.</p></p>
+                <div id="abbrev">
+      <p><a href="../artwork/more" class="more">Exhibition, Publication and Ownership Histories</a></p>
+      <!--content hidden-->
+    </div>
+    <div id="extended">
+      <p><a href="../artwork/less" class="less">Exhibition, Publication and Ownership Histories</a></p>
+            <h2>Exhibition History</h2>
+      <p>New York, New York, The Metropolitain Museum of Art, "The Art of Seeing: Photographs from the Alfred Stieglitz Collection," Spring 1978. <br />
+<br />
+New York, New York, Whitney Museum of American Art, "Photography Rediscovered: American Photographs from 1900-1930," September 19-November 25, 1979; traveled to Art Institute of Chicago, December 22, 1979-February 4, 1980. (David Travis)<br />
+<br />
+Tokyo Metropolitan Museum of Photography, "Alfred Stieglitz and his Contemporaries," September 9, 1997–November 3, 1997.<br />
+<br />
+Chicago, Art Institute of Chicago, "Apostles of Beauty: Arts and Crafts from Britain to Chicago," November 7, 2009–January 31, 2010. (Judith Barter)<br />
+<br />
+Chicago, Art Institute of Chicago, "Alfred Stieglitz and the 19th Century," October 31, 2015-March 27, 2016.</p>
+                  <h2>Publication History</h2>
+      <p>Travis, David. 1979. "Photography Rediscovered: American Photographs from 1900-1930." Exh. cat. Whitney Museum of American Art. p. 169, fig. 97.<br />
+<br />
+Barter, Judith A. 2009. "Apostles of Beauty: Arts and Crafts from Britain to Chicago." Exh. cat. the Art Institute of Chicago. ch. 4, fig. 26, pl. 74. <br />
+<br />
+Shimbun, Asahi. 1997. "Alfred Stieglitz and his Contemporaries." Tokyo Metropolitan Museum of Photography. p. 27, fig. 3</p>
+                </div>
+        <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Apostles of Beauty: Arts and Crafts from Britain to Chicago </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../overview">Overview</a></li>
+<li class="collapsed"><a href="../exhibitionthemes">Exhibition Themes</a></li>
+<li class="leaf"><a href="../resource/931">Video: Curatorial Overview</a></li>
+<li class="leaf last"><a href="../artwork">Selected Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="../artwork">Browse selections</a></span>
+      <a href="../artwork/195530?from=66789"><img src="../images/highlight_thumb_arrow_right.png" alt="&gt;" title="" width="22" height="22" /></a>  
+      <a href="../artwork/66832?from=66789"><img src="../images/highlight_thumb_arrow_left.png" alt="&lt;" title="" width="22" height="22" /></a>  </div>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

@@ -1,0 +1,246 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_bef6449103c9107f7722cfd488a618fd) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_bef6449103c9107f7722cfd488a618fd) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_3eae5f39f051ae95d91a76ed1f221eb5) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_25117f4b9fd9bb6384d0eb8ea708c8b9) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_bef6449103c9107f7722cfd488a618fd) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_bef6449103c9107f7722cfd488a618fd) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_bef6449103c9107f7722cfd488a618fd) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_bef6449103c9107f7722cfd488a618fd) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>John Marin | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-11815.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "citi": { "enlargements": { "..\/images\/166598_2860930.jpg": { "enlargement_image": "..\/images\/166598_2860930.jpg", "object_artist_culture_display": "Alfred Stieglitz\x3cbr /\x3e\nAmerican, 1864–1946", "object_title": "John Marin", "object_date_display": "1921/22", "object_id": "66356", "object_copyright_notice": "" } } } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/Marin_AIC.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/Marin_hdr.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/Marin">John Marin's Watercolors: A Medium for Modernism</a> > <a href="../artwork">Selected Works</a> > <span class="sel">John Marin</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">John Marin</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <a href="..\/images\/166598_2860930.jpg" class="enlargement-link enlargement-link-66356"><img src="../images/166598_2860932.jpg" alt="John Marin" title="Alfred Stieglitz
+American, 1864–1946, John Marin"  /></a>          </div>
+
+    <p class="tools">
+              <a href="..\/images\/166598_2860930.jpg" class="enlargement-link enlargement-link-66356"><strong>View</strong> enlargement</a><br />
+                    <a href="../artwork/66356/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
+                    <a href="../artwork/66356/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="../artwork/66356/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    Alfred Stieglitz<br />
+American, 1864–1946<br />
+    </p>
+    <h3><em>John Marin</em>, 1921/22</h3>
+
+    <p>
+    Gelatin silver print<br />    23.5 x 19.1 cm (image/paper/first mount); 51 x 38.9 cm (second mount)<br />    Unmarked recto; inscribed verso, on second mount, lower left, in graphite: "35 B"<br />    Alfred Stieglitz Collection, 1949.721</p>
+        
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p></br><p>For more on the Alfred Stieglitz collection at the Art Institute, along with in-depth object information, please visit the website: <a href="http://media.artic.edu/stieglitz">The Alfred Stieglitz Collection</a>.</p></p>
+                <div id="abbrev">
+      <p><a href="../artwork/more" class="more">Exhibition, Publication and Ownership Histories</a></p>
+      <!--content hidden-->
+    </div>
+    <div id="extended">
+      <p><a href="../artwork/less" class="less">Exhibition, Publication and Ownership Histories</a></p>
+            <h2>Exhibition History</h2>
+      <p>Chicago, Art Institute of Chicago, "John Marin's Watercolors: A Medium for Modernism," January 22–April 17, 2011; traveled to High Museum of Art, Atlanta, June 26–September 11, 2011.</p>
+                  <h2>Publication History</h2>
+      <p>Rich, Daniel Catton. "The Stieglitz Collection." Bulletin of the Art Institute of Chicago, 43, 4 (November 15, 1949), p. 72.<br />
+<br />
+Tedeschi, Martha with Kristi Dahm, Ruth Fine, Charles Pietraszewski, and Christine Conniff-O'Shea. 2010. "John Marin's Watercolors: A Medium for Modernism." Exh. cat. Art Institute of Chicago/Yale University Press. pp. 6, 192.</p>
+                </div>
+        <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> John Marin&#039;s Watercolors: A Medium for Modernism </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../overview">Overview</a></li>
+<li class="leaf"><a href="http://www.artic.edu/aic/visitor_info/geninfo.html">Visitor Information</a></li>
+<li class="collapsed"><a href="../themes">Exhibition Themes</a></li>
+<li class="collapsed"><a href="../framing">Framing Marin's Watercolors</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="leaf last"><a href="../videos">Videos</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="../artwork">Browse selections</a></span>
+      <a href="../artwork/65963?from=66356"><img src="../images/highlight_thumb_arrow_right.png" alt="&gt;" title="" width="22" height="22" /></a>  
+      <a href="../artwork/113432?from=66356"><img src="../images/highlight_thumb_arrow_left.png" alt="&lt;" title="" width="22" height="22" /></a>  </div>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

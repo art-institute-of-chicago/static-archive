@@ -1,0 +1,864 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_7f9a5c5646fbf1e070a4413de6b4f464) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_7f9a5c5646fbf1e070a4413de6b4f464) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_cfe54142c5b527a24c9b79272cbda916) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_58a739e325b2205aa775fc0a8dd6d399) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_c8bde69a9f79ca24059e3807f9a3bcf8) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_c8bde69a9f79ca24059e3807f9a3bcf8) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_c8bde69a9f79ca24059e3807f9a3bcf8) -->
+<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_7f9a5c5646fbf1e070a4413de6b4f464) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_7f9a5c5646fbf1e070a4413de6b4f464) -->
+<!-- From the cache. (d3d5e458996b1fa09e0038ef60ea62ba_cfe54142c5b527a24c9b79272cbda916) -->
+<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_7f9a5c5646fbf1e070a4413de6b4f464) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_7f9a5c5646fbf1e070a4413de6b4f464) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_ac66724d0bc38b2093ea51493af380b1) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Paris Street; Rainy Day | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-5454.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "citi": { "enlargements": { "..\/images\/215300_3365286.jpg": { "enlargement_image": "..\/images\/215300_3365286.jpg", "object_artist_culture_display": "Gustave Caillebotte\x3cbr /\x3e\nFrench, 1848-1894", "object_title": "Paris Street; Rainy Day", "object_date_display": "1877", "object_id": "20684", "object_copyright_notice": "" } } } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/ModSeason_aic_0.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/ModSeason_logall.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/500Ways">500 Ways of Looking at Modern</a> > <a href="../artwork">Selected Works</a> > <span class="sel">Paris Street; Rainy Day</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Paris Street; Rainy Day</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <a href="..\/images\/215300_3365286.jpg" class="enlargement-link enlargement-link-20684"><img src="../images/215300_3365288.jpg" alt="Paris Street; Rainy Day" title="Gustave Caillebotte
+French, 1848-1894, Paris Street; Rainy Day"  /></a>          </div>
+
+    <p class="tools">
+              <a href="..\/images\/215300_3365286.jpg" class="enlargement-link enlargement-link-20684"><strong>View</strong> enlargement</a><br />
+                          <a href="../artwork/20684/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="../artwork/20684/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    Gustave Caillebotte<br />
+French, 1848-1894<br />
+    </p>
+    <h3><em>Paris Street; Rainy Day</em>, 1877</h3>
+
+    <p>
+    Oil on canvas<br />    212.2 x 276.2 cm (83 1/2 x 108 3/4 in.)<br />    Inscribed at lower left: G. Caillebotte. 1877<br />    Charles H. and Mary F. S. Worcester Collection, 1964.336</p>
+        
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p><p>This work is featured in the online catalogue <a href="https://publications.artic.edu/caillebotte/reader/paintingsanddrawings/section/491">Caillebotte Paintings and Drawings at the Art Institute of Chicago</a>. This is the museum’s third volume in its scholarly digital series on the Impressionist circle. This catalogue offers in-depth curatorial and technical entries on the five works of art by Gustave Caillebotte in the museum’s collection. The entries feature interactive and layered high-resolution imaging, videos, and previously unpublished technical photographs in addition to archival materials and documentation relating to each artwork.</p><p>In his masterpiece, <em>Paris Street; Rainy Day</em>, Gustave Caillebotte brought an unusual monumentality and compositional control to a typical Impressionist subject, the new boulevards that were changing the Paris cityscape. The result is at once real and contrived, casual and choreographed. With its curiously detached figures, the canvas depicts the anonymity that the boulevards seemed to create. By the time it appeared in the third Impressionist exhibition, held in April 1877, the artist was 29 years old, a man of considerable wealth, and not only the youngest but also the most active member of the Impressionist group. He contributed six of his own canvases to the exhibition; played a leading part in its funding, organization, promotion, and installation; and lent a number of paintings by his colleagues that he owned.</p>
+<p>— Permanent collection label</p></p>
+                <div id="abbrev">
+      <p><a href="../artwork/more" class="more">Exhibition, Publication and Ownership Histories</a></p>
+      <!--content hidden-->
+    </div>
+    <div id="extended">
+      <p><a href="../artwork/less" class="less">Exhibition, Publication and Ownership Histories</a></p>
+            <h2>Exhibition History</h2>
+      <p>Paris, 6, rue le Peletier, 3e exposition de peinture[third Impressionist exhibition], Apr. 1877, cat. 1, as Rue de Paris; Temps de pluie.<br />
+<br />
+Paris, Durand-Ruel, Exposition rétrospective d’oeuvres de G. Caillebotte, June 4–16, 1894, cat. 47.<br />
+ <br />
+Paris, Galerie Beaux-Arts, Rétrospective Gustave Caillebotte, May 25–July 25, 1951, cat. 13.<br />
+ <br />
+Portland (Ore.) Art Museum, Paintings from the Collection of Walter P. Chrysler, Jr., Mar. 2–Apr. 15, 1956, cat. 78 (ill.); Seattle Art Museum, Apr. 27–May 27, 1956; San Francisco, California Palace of the Legion of Honor, opened June 11, 1956; Los Angeles County Museum, July 27–Aug. 26, 1956; Minneapolis Institute of Arts, Sept. 7–Oct. 9, 1956; City Art Museum of Saint Louis, Oct. 20–Nov. 19, 1956; Kansas City, William Rockhill Nelson Gallery of Art, Dec. 2–30, 1956; Detroit Institute of Arts, Jan. 18–Feb. 17, 1957; Museum of Fine Arts, Boston, Mar. 8–Apr. 7, 1957. <br />
+<br />
+Dayton (Ohio) Art Institute, French Paintings, 1789–1929: From the Collection of Walter P. Chrysler, Jr., Mar. 25–May 22, 1960, cat. 56 (ill.).<br />
+<br />
+Minneapolis Institute of Arts, The Past Rediscovered: French Painting, 1800–1900, July 3–Sept. 7, 1969, cat. 7 (ill.).<br />
+<br />
+Museum of Fine Arts, Houston, Gustave Caillebotte: A Retrospective Exhibition, Oct. 22, 1976–Jan. 2, 1977, cat. 25 (ill.); Brooklyn Museum, Feb. 12–Apr. 24, 1977 (Houston only).<br />
+<br />
+Washington, D.C., National Gallery of Art, The New Painting: Impressionism, 1874–1886, Jan. 17–Apr. 6, 1986, cat. 38 (ill.); Fine Arts Museums of San Francisco and M. H. de Young Memorial Museum, Apr. 19–July 6, 1986.<br />
+<br />
+Art Institute of Chicago, The Art of the Edge: European Frames, 1300–1900, Oct. 17–Dec. 14, 1986, not in cat.<br />
+<br />
+Paris, Galeries Nationales du Grand Palais, Gustave Caillebotte, 1848–1894, Sept. 16, 1994–Jan. 9, 1995, cat. 35 (ill.); Art Institute of Chicago, as Gustave Caillebotte: Urban Impressionist, Feb. 18–May 28, 1995; Los Angeles County Museum of Art, June 22–Sept. 10, 1995.<br />
+<br />
+Fort Worth, Tex., Kimbell Museum of Art, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29–Nov. 2, 2008, cat. 18 (ill.).<br />
+<br />
+Essen, Germany, Museum Folkwang, Bilder einer Metropole: Die Impressionisten in Paris, Oct. 2, 2010–Jan. 30, 2011, cat. 11 (ill.).<br />
+<br />
+Paris, Musée d’Orsay, L’impressionnisme et la mode, Sept. 25, 2012–Jan. 20, 2013, cat. 35 (ill.); Metropolitan Museum of Art, New York, asImpressionism, Fashion, and Modernity, Feb. 26–May 27, 2013, cat. 93 (ill.); Art Institute of Chicago, June 26–Sept. 29, 2013.<br />
+ <br />
+Washington, D.C., National Gallery of Art, Gustave Caillebotte: The Painter’s Eye, June 28–Oct. 4, 2015, cat. 4 (ill.); Fort Worth, Tex., Kimbell Art Museum, Nov. 8, 2015–Feb. 14, 2016.</p>
+                  <h2>Publication History</h2>
+      <p>Catalogue de la 3e exposition de peinture, exh. cat. (E. Capiomont et V. Renault, 1877), p. 3, cat. 1.<br />
+<br />
+Léon Mancino, “La descente de la courtille,” L’art 9 (Apr. 1877), p. 70.<br />
+<br />
+Anonymous [possibly Gaston Vassy], “La journée à Paris: L’exposition des impressionnalistes,” L’événement, Apr. 6, 1877, p. 2.<br />
+<br />
+L. G., “Le salon des ‘impressionnistes,’” La presse, Apr. 6, 1877, p. 2.<br />
+<br />
+“Chronique,” Gazette de France, Apr. 7, 1877, p. 2.<br />
+<br />
+Thomas Grimm [Pierre Véron], “Les impressionnistes,” Le petit journal, Apr. 7, 1877, p. 1.<br />
+<br />
+Alexandre Pothey, “Beaux-arts,” Le petit parisien, Apr. 7, 1877, p. 2.<br />
+<br />
+Paul Sébillot, “Exposition des impressionnistes,” Le bien public, Apr. 7, 1877, p. 2.<br />
+<br />
+Anonymous [possibly George Lafenestre], “Le jour et la nuit,” Le moniteur universel, Apr. 8, 1877, p. 2.<br />
+<br />
+C. D., “L’exposition des impressionnistes,” Le petit moniteur universel, Apr. 8, 1877, p. 2.<br />
+<br />
+E. Lepelletier [Edmond-Adolphe de Bouhélier], “Les impressionnistes,” Le radical, Apr. 8, 1877, pp. 2–3.<br />
+<br />
+Baron Schop [Théodore de Banville], “Choses et autres,” Le national, Apr. 8, 1877,pp. 2–3.<br />
+<br />
+Anonymous [possibly Pierre Véron], “Les impressionnistes,” La petite presse, Apr. 9, 1877, p. 3.<br />
+<br />
+Bertall [Charles-Albert d’Arnoux], “Exposition des impressionnistes,” Paris-Journal, Apr. 9, 1877, pp. 1–2.<br />
+<br />
+“Exposition des impressionnistes: 6, rue le Peletier, 6,” La petite république française, Apr. 10, 1877, p. 2.<br />
+<br />
+Léon de Lora [Louis de Fourcaud], “L’exposition des impressionnistes,” Le gaulois, Apr. 10, 1877, p. 2.<br />
+<br />
+Jacques [Edmond Bazire], “Menus propos: Exposition impressionniste,” L’homme libre, Apr. 12, 1877, p. 1.<br />
+<br />
+Roger Ballu, “L’exposition des peintres impressionnistes,” La chronique des arts et de la curiosité, Apr. 14, 1877, p. 147.<br />
+<br />
+Georges Rivière, “L’exposition des impressionnistes,” L’impressionniste, Apr. 14, 1877, p. 4.<br />
+<br />
+Anonymous [possibly Émile Zola], “Noted parisiennes: Une exposition; Les peintres impressionnistes,” Le sémaphore de Marseille, Apr. 19, 1877, p. 1.<br />
+<br />
+A. Descubes [Amédée Descubes-Desgueraines], “L’exposition des impressionnistes,” Gazette des lettres, des sciences et des arts 1, 12 (Apr. 20, 1877), p. 187.<br />
+<br />
+Ernest Fillonneau, “Les impressionnistes,” Moniteur des arts, Apr. 20, 1877, p. 1.<br />
+<br />
+Paul Mantz, “L’exposition des peintres impressionnistes,” Le temps, Apr. 22, 1877, p. 3.<br />
+<br />
+Roger Ballu, “L’exposition des peintres impressionnistes,” Les beaux-arts illustrés, Apr. 23, 1877, p. 392.<br />
+<br />
+Philippe Burty, “Exposition des impressionnistes,” La république française, Apr. 25, 1877, p. 3.<br />
+<br />
+Charles Bigot, “Causerie artistique: L’exposition des ‘impressionnistes,’” La revue politique et littéraire, Apr. 28, 1877, p. 1047.<br />
+<br />
+Frédéric Chevalier, “Les impressionnistes,”L’artiste, May 1, 1877, p. 332.<br />
+<br />
+Ph. M., “Arts: Les impressionnistes,” Revue des idées nouvelles 11 (May 1, 1877), p. 167.<br />
+<br />
+Georges Rivière, “Les intransigeants et les impressionnistes: Souvenir du salon libre de 1877,” L’artiste, Nov. 1, 1877, p. 302.<br />
+<br />
+Durand-Ruel, Paris, Exposition rétrospective d’oeuvres de G. Caillebotte, exh. cat. (E. Moreau, 1894), p. 5, cat. 47.<br />
+<br />
+Jacques Crevelier, “À travers l’art: Caillebotte,” Le soir, June 8, 1894.<br />
+<br />
+Lionello Venturi, Les archives de l’impressionnisme: Lettres de Renoir, Monet, Pissarro, Sisley et autres; Mémoires de Paul Durand-Ruel; Documents, vol. 2 (Durand-Ruel, 1939), p. 319.<br />
+<br />
+Galerie Beaux-Arts, Rétrospective Gustave Caillebotte, au profit du Musée de Rennes, exh. cat. (Galerie Beaux-Arts, 1951), cat. 13.<br />
+<br />
+Marie Berhaut, Caillebotte, with an introduction by Daniel Wildenstein (Wildenstein, 1951), front cover (detail), back cover (detail); cat. 28.<br />
+<br />
+J. Bouret, “Un peintre de notre temps,” Art, beaux-arts, littérature, spectacles, May 25, 1951, p. 1 (ill.).<br />
+<br />
+Raymond Cogniat et al., with the assistance of Robert Maillard, Dictionnaire de la peinture moderne (Hazan, 1954), p. 43.<br />
+<br />
+Henri Perruchot, “Scandale au Luxembourg,” L’oeil 9 (Sept. 1955), pp. 16–17 (ill.).<br />
+<br />
+Portland (Ore.) Art Museum, Paintings from the Collection of Walter P. Chrysler, Jr., exh. cat. (Portland Art Association, 1956), pp. 47, cat. 78; 122, cat. 78 (ill.).<br />
+<br />
+Bob Sanford, “Art of World Importance to Be at Nelson Gallery,” Kansas City Star, Nov. 25, 1956, p. E1 (ill.).<br />
+<br />
+Maurice Sérullaz, Les peintres impressionnistes (Pierre Tisné, 1959), p. 99.<br />
+<br />
+Dayton (Ohio) Art Museum, French Paintings, 1789–1929: From the Collection of Walter P. Chrysler Jr., exh. cat. (Dayton Art Museum, 1960), pp. 64, cat. 56 (ill.); 131, cat. 56.<br />
+<br />
+“Art: U.S. Exhibitions Elsewhere,” New York Times, Apr. 10, 1960, p. 12X (ill.).<br />
+<br />
+Art Institute of Chicago, The Art Institute of Chicago Annual Report, 1964–65 (Art Institute of Chicago, 1965), pp. 15, 29.<br />
+<br />
+John Maxon, “Place de l’Europe on a Rainy Day,” Calendar of the Art Institute of Chicago 59, 3 (May 1965), pp. 8–9 (ill.).<br />
+<br />
+Denys Sutton, “Gustave Caillebotte,” in Gustave Caillebotte, 1848–1894: A Loan Exhibition in Aid of the Hertford British Hospital in Paris, exh. cat. (Wildenstein, 1966), p. 9.<br />
+<br />
+Max Wykes-Joyce, “Maecenas at Work: Gustave Caillebotte,” Art Review 18, 11 (June 11, 1966), p. 269.<br />
+<br />
+John Maxon, “Some Recent Acquisitions,” Apollo 84, 55 (Sept. 1966), front cover (detail); pp. 171, 216.<br />
+<br />
+Marie Berhaut, Caillebotte: The Impressionist, trans. Diana Imber (International Art Book, 1968), pp. 5; 17, fig. 7; 28; 34; 36; 46; 50.<br />
+<br />
+Minneapolis Institute of Arts, The Past Rediscovered: French Paintings, 1800–1900, exh. cat. (Minneapolis Institute of Arts, 1969), front and back covers (details); pp. 38–39, cat. 7 (ill.).<br />
+<br />
+Robert Rosenblum, “The Nineteenth-Century Franc Revalued,” in Minneapolis Institute of Arts, The Past Rediscovered: French Paintings, 1800–1900, exh. cat. (Minneapolis Institute of Arts, 1969), p. 19.<br />
+<br />
+Robert Rosenblum, “The 19th-Century Franc Revalued,” Art News 68, 4 (Summer 1969), front cover (detail); pp. 5 (ill.); 60.<br />
+<br />
+Charles C. Cunningham and Satoshi Takahashi, Shikago bijutsukan [Art Institute of Chicago], Museums of the World 32 (Kodansha, 1970), pp. 62, pl. 49; 163.<br />
+<br />
+John Maxon, The Art Institute of Chicago (Abrams, 1970), pp. 95 (ill.), 278.<br />
+<br />
+Linda Nochlin, Realism, Style and Civilization (Penguin, 1971), pp. 168; 169, fig. 103; 264.<br />
+<br />
+“Summer Gallery Talks,” Calendar of the Art Institute of Chicago 65, 3 (May–Aug. 1971), p. 18.<br />
+<br />
+“Lecturer’s Choice,” Bulletin of the Art Institute of Chicago 67, 3 (May–June 1973), p. 11.<br />
+<br />
+“Lecturer’s Choice,” Bulletin of the Art Institute of Chicago 67, 4 (Jul.–Aug. 1973), p. 11.<br />
+<br />
+Lydie Huyghe, “Notices Bio-Bibliographiques,” in René Huyghe, La relève du réel: La peinture française au XIXe siècle; Impressionisme, symbolisme (Flammarion, 1974), p. 431.<br />
+<br />
+René Huyghe, La relève du réel: La peinture française au XIXe siècle; Impressionisme, symbolisme (Flammarion, 1974), p. 154, no. 133 (ill.).<br />
+<br />
+Gaëtan Picon, Émile Zola: Le bon combat, de Courbet aux impressionnistes (Hermann, 1974), pp. 189, 243.<br />
+<br />
+J. Kirk T. Varnedoe, “Caillebotte’s Pont de l’Europe: A New Slant,” Art International: The Lugano Review 18, 4 (Apr. 20, 1974), pp. 29, fig. 5; 41, 58.<br />
+<br />
+M. Therese Southgate, “About the Cover,” JAMA: The Journal of the American Medical Association 232 (Apr. 14, 1975), front cover (ill.).<br />
+<br />
+Marie Berhaut, introduction to J. Kirk T. Varnedoe and Thomas P. Lee, Gustave Caillebotte: A Retrospective Exhibition, with contributions by J. Kirk T. Varnedoe, Marie Berhaut, Peter Galassi, and Hilarie Faberman, exh. cat. (Museum of Fine Arts, Houston, 1976), p. 15.<br />
+<br />
+Peter Galassi, “Caillebotte’s Method,” in J. Kirk T. Varnedoe and Thomas P. Lee, Gustave Caillebotte: A Retrospective Exhibition, with contributions by J. Kirk T. Varnedoe, Marie Berhaut, Peter Galassi, and Hilarie Faberman, exh. cat. (Museum of Fine Arts, Houston, 1976), pp. 192, 193, 199–200, 201 (ill.), 202–06.<br />
+<br />
+J. Kirk T. Varnedoe, “Caillebotte: An Evolving Perspective,” in J. Kirk T. Varnedoe and Thomas P. Lee, Gustave Caillebotte: A Retrospective Exhibition, with contributions by J. Kirk T. Varnedoe, Marie Berhaut, Peter Galassi, and Hilarie Faberman, exh. cat. (Museum of Fine Arts, Houston, 1976), pp. 47, 56, 57.<br />
+<br />
+J. Kirk T. Varnedoe, with Hilarie Faberman, “Gustave Caillebotte: A Biography,” in J. Kirk T. Varnedoe and Thomas P. Lee, Gustave Caillebotte: A Retrospective Exhibition, with contributions by J. Kirk T. Varnedoe, Marie Berhaut, Peter Galassi, and Hilarie Faberman, exh. cat. (Museum of Fine Arts, Houston, 1976), pp. 36, 40, 46.<br />
+<br />
+J. Kirk T. Varnedoe and Peter Galassi, “Caillebotte’s Space,” in J. Kirk T. Varnedoe and Thomas P. Lee, Gustave Caillebotte: A Retrospective Exhibition, with contributions by J. Kirk T. Varnedoe, Marie Berhaut, Peter Galassi, and Hilarie Faberman, exh. cat. (Museum of Fine Arts, Houston, 1976), pp. 60, 62, 64, 68, 69, 72, 73.<br />
+<br />
+J. Kirk T. Varnedoe and Thomas P. Lee, Gustave Caillebotte: A Retrospective Exhibition, with contributions by J. Kirk T. Varnedoe, Marie Berhaut, Peter Galassi, and Hilarie Faberman, exh. cat. (Museum of Fine Arts, Houston, 1976), pp. 23, cat. 25 (ill.); 74; 106; 108; 110–13, cat. 25 (ill.); 116; 119; 122; 129; 133; 210–11; 212–13; 214–16.<br />
+<br />
+Kirk Varnedoe, “Gustave Caillebotte in Context,” Arts Magazine 50, 9 (May 1976), pp. 95; 96; 97, fig. 8; 98; 99.<br />
+<br />
+Robert Rosenblum, “Gustave Caillebotte: The 1970s and the 1870s,” Artforum 15, 7 (Mar. 1977), pp. 47, 48 (ill.).<br />
+<br />
+Alfred Werner, “Joys Forever?,” Art and Artists 11, 132 (Mar. 1977), pp. 5, 6–7 (ill.).<br />
+Marie Berhaut, “Gustave Caillebotte et le réalisme impressionniste,” L’oeil 268 (Nov. 1977), front cover (detail); pp. 42 (ill.), 43, 46.<br />
+<br />
+Art Institute of Chicago, 100 Masterpieces (Art Institute of Chicago, 1978), pp. 96–97, fig. 53.<br />
+<br />
+Marie Berhaut, Caillebotte: Sa vie et son oeuvre; Catalogue raisonné des peintures et pastels (Bibliothèque des Arts/Fondation Wildenstein, 1978), pp. 43–45 (ill.); 98–99, cat. 52 (ill.); 249; 261.<br />
+<br />
+J. Patrice Marandel, The Art Institute of Chicago: Favorite Impressionist Paintings (Crown, 1979), pp. 76–77 (ill.).<br />
+<br />
+J. Patrice Marandel, “New Installation of Earlier Paintings,” Bulletin of the Art Institute of Chicago 73, 1 (Jan.–Feb. 1979), p. 15.<br />
+<br />
+J. Kirk T. Varnedoe, “In Detail: Gustave Caillebotte’s The Streets of Paris on a Rainy Day,” Portfolio 1, 5 (Dec. 1979–Jan. 1980), front cover (detail); pp. 3 (detail), 4, 42, 43 (ill.), 45–46, 47 (detail).<br />
+<br />
+Diane Kelder, The Great Book of French Impressionism (Abbeville, 1980), pp. 133; 166 (ill.); 167 (detail).<br />
+<br />
+Jennifer A. Martin Bienenstock, “Childe Hassam’s Early Boston Cityscapes,” Arts Magazine 55, 3 (Nov. 1980), p. 170.<br />
+<br />
+Dennis Paul Costanzo, “Cityscape and the Transformation of Paris during the Second Empire” (Ph.D. diss., University of Michigan, 1981), pp. 298–99; 302; 309; 315; 466, pl. 222.<br />
+<br />
+Patricia Failing, “The Objects of Their Affection,” Art News 81, 9 (Nov. 1982), p. 124 (ill.).<br />
+<br />
+Art Institute of Chicago, Pocket Guide to the Art Institute of Chicago (Art Institute of Chicago, 1983), pp. 8 (ill.); 25, no. 28 (ill).<br />
+<br />
+T. J. Clark, The Painting of Modern Life: Paris in the Art of Manet and His Followers (Knopf, 1984), pp. x; 15, fig. 5.<br />
+<br />
+Robert Rosenblum and H. W. Janson, 19th-Century Art (Abrams, 1984), pp. 342, pl. 61; 365.<br />
+<br />
+Art Institute of Chicago, Seibu Museum of Art, Kyoto Municipal Museum of Art, and Fukuoka Art Museum, Shikago bijutsukan insho-ha ten [The Impressionist tradition: Masterpieces from the Art Institute of Chicago], trans. Akihiko Inoue, Hideo Namba, Heisaku Harada, and Yoko Maeda, exh. cat. (Nihon Nippon Television Network, 1985), pp. 20, 21 (ill.).<br />
+<br />
+Michael Bockemühl, “Innocence of the Eye and Innocence of the Meaning: Zum Problem der Wirklichkeit in der realistischen Malerei von Gustave Caillebotte,” Modernität und Tradition: Festschrift für Max Imdahl zum 60 Geburtstag, ed. Gottfried Boehm (Fink, 1985), pp. 13; 15, fig. 3; 31, n. 4; 32, n. 11; 33, n. 22.<br />
+<br />
+Richard R. Brettell, “The ‘First’ Exhibition of Impressionist Painters,” in The New Painting: Impressionism, 1874–1886, ed. Charles S. Moffett, exh. cat. (Fine Arts Museums of San Francisco, 1986), pp. 196–97.<br />
+<br />
+Chantal Georgel, La rue (Hazan, 1986), p. 75.<br />
+<br />
+Charles S. Moffett, ed., The New Painting: Impressionism, 1874–1886, with the assistance of Ruth Berson, Barbara Lee Williams, and Fronia E. Wissman, exh. cat. (Fine Arts Museums of San Francisco, 1986), pp. 203; 208–09, cat. 38 (ill.).<br />
+<br />
+Mark Stevens, “When Impressionism Was New,” Newsweek, Feb. 3, 1986, p. 71 (ill.).<br />
+<br />
+Richard R. Brettell, French Impressionists (Art Institute of Chicago/Abrams, 1987), pp. 44 (detail), 45–46, 47 (ill.), 117.<br />
+<br />
+Anthea Callen, Techniques of the Impressionists (New Burlington, 1987), pp. 92, 94 (ill.).<br />
+<br />
+Kirk Varnedoe, Gustave Caillebotte (Yale University Press, 1987), pp. 2; 4; 11; 18; 80; 84; 88; 89, pl. 18; 90; 91 (detail); 92; 93 (detail); 94–95; 110; 176; 187–91; 206; 207.<br />
+<br />
+Michael Findlay, “The Caillebotte Bequest,” Christie’s 8, 4 (Feb.–Mar. 1987), p. 3 (ill.).<br />
+<br />
+Kathleen Adler, Unknown Impressionists (Phaidon, 1988), pp. 8; 70; 78, pl. 64.<br />
+<br />
+Art Institute of Chicago, Master Paintings in the Art Institute of Chicago, selected by James N. Wood and Katharine C. Lee (Art Institute of Chicago/New York Graphic Society/Little, Brown, 1988), pp. 9, 58 (ill.).<br />
+<br />
+Robert L. Herbert, Impressionism: Art, Leisure, and Parisian Society (Yale University Press, 1988), pp. 20; 22, pl. 26.<br />
+<br />
+John Milner, The Studios of Paris: The Capital of Art in the Late Nineteenth Century (Yale University Press, 1988), pp. 163; 164, pl. 189.<br />
+<br />
+Belinda Thomson and Michael Howard, Impressionism (Bison, 1988), p. 36 (ill.).<br />
+<br />
+Kirk Varnedoe, “Late Recognition for One of the Original Impressionists,” Chronicle of Higher Education, Feb. 3, 1988, p. B27 (ill.).<br />
+<br />
+E. A., “Impressions of Caillebotte,” Connoisseur 218, 915 (Apr. 1988), p. 48 (ill.).<br />
+<br />
+Jack Perry Brown, “The Return of the Salon: Jean Gérôme in the Art Institute,” Art Institute of Chicago Museum Studies 15, 2 (1989), p. 157.<br />
+<br />
+Jean Chardeau, Les dessins de Caillebotte (Hermé, 1989), pp. 9, 12, 62–63 (ill.), 64 (detail), 66 (detail), 67 (detail), 68 (detail), 70 (detail).<br />
+<br />
+Anne Distel, “Charles Deudon (1832–1914), collectionneur,” Revue de l’art 86 (1989), p. 61, n. 16.<br />
+<br />
+Kirk Varnedoe, “Les dessins de Gustave Caillebotte,” in Jean Chardeau, Les dessins de Caillebotte (Hermé, 1989), p. 7.<br />
+<br />
+David McCracken, “Picking Chicago’s Top Art Hits,” Chicago Tribune, Aug. 18, 1989, p. 7.3 (ill.).<br />
+<br />
+Norma Broude, “A World in Light: France and the International Impressionist Movement, 1860–1920,” in World Impressionism: The International Movement, 1860–1920, ed. Norma Broude (Abrams, 1990), pp. 18, pl. 12; 19.<br />
+<br />
+William H. Gerdts, “Impressionism in the United States,” in World Impressionism: The International Movement, 1860–1920, ed. Norma Broude (Abrams, 1990), p. 57.<br />
+<br />
+John Milner, Atelier d’artistes: Paris, capital des arts à la fin du XIXe siècle, trans. Béatrix Blavier (Du May, 1990), p. 155 (ill.).<br />
+<br />
+Katsumi Miyazaki, Insho-ha no miryoku [Attractions of Impressionism], Great History of Art (Dohosha Shuppan, 1990), pp. 92–93 (ill.), 143 (ill.).<br />
+<br />
+John Russell Taylor, Impressionist Dreams: The Artists and the World They Painted (Barrie &amp; Jenkins, 1990), p. 36 (ill.).<br />
+<br />
+Christopher Andreae, “Gustave Caillebotte’s ‘New’ Paris,” Christian Science Monitor, Jan. 29, 1990, pp. 16, 17 (ill.).<br />
+<br />
+Michael Boodro, “Art and Fashion: A Fine Romance,” Art News 89, 7 (Sept. 1990), p. 126 (ill.).<br />
+<br />
+Jean des Cars and Pierre Pinon, Paris-Haussmann: “Le pari d’Haussmann,” exh. cat. (Pavillon de l’Arsenal, 1991), p. 313.<br />
+<br />
+Bernard Denvir, Impressionism: The Painters and the Paintings (Studio Editions, 1991), pp. 244, pl. 233; 418.<br />
+<br />
+Mary Ellen Jordan Haight, Paris Portraits: Renoir to Chanel; Walks on the Right Bank (Gibbs Smith, 1991), pp. 43 (ill.), 44.<br />
+<br />
+Martha Kapos, ed., The Impressionists: A Retrospective (Hugh Lauter Levin/Macmillan, 1991), p. 119, pl. 39.<br />
+<br />
+Michael F. Zimmermann, Les mondes de Seurat: Son oeuvre et le débat artistique de son temps (Fonds Mercator, 1991), p. 126, fig. 236.<br />
+<br />
+Patrick Bade, Renoir (Studio Editions, 1992), pp. 16 (ill.), 142.<br />
+<br />
+Hubert Beck, “Urban Iconography in Nineteenth-Century American Painting: From Impressionism to the Ashcan School,” in Thomas W. Gaehtgens and Heinz Ickstadt, American Icons: Transatlantic Perspectives on Eighteenth- and Nineteenth-Century American Art, Issues and Debates (Getty Center for the History of Art and the Humanities/University of Chicago Press, 1992), pp. 324; 326–27, fig. 5.<br />
+<br />
+Richard R. Brettell, “Camille Pissarro and Urban View Painting: An Introduction,” in Richard R. Brettell and Joachim Pissarro, The Impressionists and the City: Pissarro’s Series Paintings, ed. MaryAnne Stevens, exh. cat. (Royal Academy of Arts, 1992), pp. xv; xvii, fig. 5.<br />
+<br />
+Otto Friedrich, Olympia: Paris in the Age of Manet (HarperCollins, 1992), opp. 77 (ill.).<br />
+<br />
+Kathleen Pyne, “Resisting Modernism: American Painting in the Culture of Conflict,” in Thomas W. Gaehtgens and Heinz Ickstadt, American Icons: Transatlantic Perspectives on Eighteenth- and Nineteenth-Century American Art, Issues and Debates (Getty Center for the History of Art and the Humanities/University of Chicago Press, 1992), p. 290.<br />
+<br />
+MaryAnne Stevens, ed., Alfred Sisley, exh. cat. (Royal Academy of Arts, London/Musée d’Orsay/Walters Art Gallery/Yale University Press, 1992), p. 134.<br />
+<br />
+Art Institute of Chicago, The Art Institute of Chicago: The Essential Guide, selected by James N. Wood and Teri J. Edelstein, entries written and compiled by Sally Ruth May (Art Institute of Chicago, 1993), p. 154 (ill.).<br />
+<br />
+Art Institute of Chicago, Treasures of 19th- and 20th-Century Painting: The Art Institute of Chicago, with an introduction by James N. Wood (Art Institute of Chicago/Abbeville, 1993), pp. 6, 21, 69 (ill.), 325.<br />
+<br />
+Gloria Groom, Édouard Vuillard: Painter-Decorator; Patrons and Projects, 1892–1912 (Yale University Press, 1993), p. 171, pl. 271.<br />
+<br />
+Charles Harrison, “Impressionism, Modernism, and Originality,” in Francis Frascina et al., Modernity and Modernism: French Painting in the Nineteenth Century, Modern Art: Practices and Debates (Yale University Press/Open University, 1993), pp. 158; 159, pl. 150; 169.<br />
+<br />
+Jean-Marie Baron, Caillebotte: Impressionniste (Herscher, 1994), pp. 24–25 (ill.).<br />
+<br />
+Marie Berhaut, Gustave Caillebotte: Catalogue raisonné des peintures et pastels, with assistance by Sophie Pietri (Wildenstein Institute, 1994), pp. 33; 34; 92–93, cat. 57 (ill.); 282.<br />
+<br />
+Éric Darragon, Caillebotte, Tout l’art (Flammarion, 1994), pp. 59, 60–61 (ill.), 62, 131, 147.<br />
+<br />
+Anne Distel, “Chronologie,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, Gustave Caillebotte, 1848–1894, trans. Jeanne Bouniort, exh. cat. (Réunion des Musées Nationaux, 1994), p. 353.<br />
+<br />
+Anne Distel, “Gustave Caillebotte, peintre, mécène et collectionneur,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, Gustave Caillebotte, 1848–1894, trans. Jeanne Bouniort, exh. cat. (Réunion des Musées Nationaux, 1994), pp. 23; 30, n. 49.<br />
+<br />
+Anne Distel, “Naissance d’un impressionniste,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, Gustave Caillebotte, 1848–1894, trans. Jeanne Bouniort, exh. cat. (Réunion des Musées Nationaux, 1994), p. 96.<br />
+<br />
+Anne Distel, “Yerres,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, Gustave Caillebotte, 1848–1894, trans. Jeanne Bouniort, exh. cat. (Réunion des Musées Nationaux, 1994), pp. 104, 110.<br />
+<br />
+Anne Distel and Rodolphe Rapetti, “Au Petit Gennevilliers,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, Gustave Caillebotte, 1848–1894, trans. Jeanne Bouniort, exh. cat. (Réunion des Musées Nationaux, 1994), p. 303.<br />
+<br />
+Bernhard Geyer, Scheinwelten: Die Geschichte der Perspektive (E. A. Seemann, 1994), pp. 77, 79 (ill.).<br />
+<br />
+Gloria Groom, “Fleurs,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, Gustave Caillebotte, 1848–1894, trans. Jeanne Bouniort, exh. cat. (Réunion des Musées Nationaux, 1994), p. 347.<br />
+<br />
+Gloria Groom, “Intérieurs et portraits,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, Gustave Caillebotte, 1848–1894, trans. Jeanne Bouniort, exh. cat. (Réunion des Musées Nationaux, 1994), pp. 217, n 44; 235; 247.<br />
+<br />
+Jean-Jacques Lévêque, Gustave Caillebotte: L’oublié de l’impressionnisme, 1848–1894 (ACR Édition, 1994), pp. 99–101 (ill.).<br />
+<br />
+Rodolphe Rapetti, “Paris, vu d’une fenêtre,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, Gustave Caillebotte, 1848–1894, trans. Jeanne Bouniort, exh. cat. (Réunion des Musées Nationaux, 1994), p. 182.<br />
+<br />
+Julia Sagraves, “La rue,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, Gustave Caillebotte, 1848–1894, trans. Jeanne Bouniort, exh. cat. (Réunion des Musées Nationaux, 1994), pp. 128–129 (ill.); 130; 136–139; 146; 148; 152–156, cat. 35 (ill.).<br />
+<br />
+Kirk Varnedoe, “Cherchez l’intrus: Une brève historiographie des changements de situation de Caillebotte dans l’histoire de l’art,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, Gustave Caillebotte, 1848–1894, trans. Jeanne Bouniort, exh. cat. (Réunion des Musées Nationaux, 1994), pp. 14–15.<br />
+<br />
+H. Barbara Weinberg, Doreen Bolger, and David Park Curry, American Impressionism and Realism: The Painting of Modern Life, 1885–1915, with the assistance of N. Mishoe Brennecke, exh. cat. (Metropolitan Museum of Art, New York/Abrams, 1994), pp. 12; 174; 175, fig. 160.<br />
+<br />
+Marie-Amélie Anquetil, “Caillebotte: Peintre et cinéaste,” Caillebotte, Dossier de l’art 20 (Sept. 1994), pp. 51, 54, 56, 60.<br />
+<br />
+Marie-Amélie Anquetil, “Dans les allées d’une oeuvre,” Caillebotte, Dossier de l’art 20 (Sept. 1994), pp. 12–13 (ill.).<br />
+<br />
+Jérôme Coignard, “Caillebotte: Le blues des grands boulevards,” Beaux-arts 126 (Sept. 1994), front cover (detail); pp. 3 (ill.), 58–59 (detail), 64, 68.<br />
+<br />
+Charles Storch, “Not All Art Institute Visitors Want to Pore Over New ‘Rainy Day,’” Chicago Tribune, Sept. 14, 1994, p. 20.<br />
+<br />
+Russell Ash, ed., Impressionists’ Seasons (Pavilion, 1995), pp. 72–73 (ill.).<br />
+<br />
+Albert Boime, Art and the French Commune: Imagining Paris after War and Revolution, Nineteenth-Century Art, Culture, and Society (Princeton University Press, 1995), pp. xii; 92, fig. 63.<br />
+<br />
+Anne Distel, “The Birth of an Impressionist,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, with Julia Sagraves and an essay by Kirk Varnedoe, Gustave Caillebotte: Urban Impressionist, exh. cat. (Musée d’Orsay/Art Institute of Chicago, 1995), p. 52.<br />
+<br />
+Anne Distel, “Chronology,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, with Julia Sagraves and an essay by Kirk Varnedoe, Gustave Caillebotte: Urban Impressionist, exh. cat. (Musée d’Orsay/Art Institute of Chicago, 1995), p. 313.<br />
+<br />
+Anne Distel, “Introduction: Caillebotte as Painter, Benefactor, and Collector,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, with Julia Sagraves and an essay by Kirk Varnedoe, Gustave Caillebotte: Urban Impressionist, exh. cat. (Musée d’Orsay/Art Institute of Chicago, 1995), pp. 20; 26, n. 49.<br />
+<br />
+Anne Distel, “Yerres,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, with Julia Sagraves and an essay by Kirk Varnedoe, Gustave Caillebotte: Urban Impressionist, exh. cat. (Musée d’Orsay/Art Institute of Chicago, 1995), pp. 60, 66.<br />
+<br />
+Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, with Julia Sagraves and an essay by Kirk Varnedoe, Gustave Caillebotte: Urban Impressionist, exh. cat. (Musée d’Orsay/Art Institute of Chicago, 1995), front cover (detail); p. 11.<br />
+<br />
+Anne Distel and Rodolphe Rapetti, “Petit Gennevilliers and Argenteuil,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, with Julia Sagraves and an essay by Kirk Varnedoe, Gustave Caillebotte: Urban Impressionist, exh. cat. (Musée d’Orsay/Art Institute of Chicago, 1995), p. 291.<br />
+<br />
+Gloria Groom, “Floral Still Lifes,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, with Julia Sagraves and an essay by Kirk Varnedoe, Gustave Caillebotte: Urban Impressionist, exh. cat. (Musée d’Orsay/Art Institute of Chicago, 1995), p. 309.<br />
+<br />
+Gloria Groom, “Interiors and Portraits,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, with Julia Sagraves and an essay by Kirk Varnedoe, Gustave Caillebotte: Urban Impressionist, exh. cat. (Musée d’Orsay/Art Institute of Chicago, 1995), pp. 190, n. 43; 196; 209.<br />
+<br />
+David P. Jordan, Transforming Paris: The Life and Labors of Baron Haussmann (Free Press, 1995), opp. p. 328 (ill.).<br />
+<br />
+Rodolphe Rapetti, “Paris Seen from a Window,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, with Julia Sagraves and an essay by Kirk Varnedoe, Gustave Caillebotte: Urban Impressionist, exh. cat. (Musée d’Orsay/Art Institute of Chicago, 1995), p. 145.<br />
+<br />
+Julia Sagraves, “The Street,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, with Julia Sagraves and an essay by Kirk Varnedoe, Gustave Caillebotte: Urban Impressionist, exh. cat. (Musée d’Orsay/Art Institute of Chicago, 1995), pp. 88; 92; 94–98; 99; 100; 101; 110; 112; 116–22, cat. 35 (ill.).<br />
+<br />
+Kirk Varnedoe, “Odd Man In: A Brief Historiography of Caillebotte’s Changing Roles in the History of Art,” in Anne Distel, Douglas Druick, Gloria Groom, and Rodolphe Rapetti, with Julia Sagraves and an essay by Kirk Varnedoe, Gustave Caillebotte: Urban Impressionist, exh. cat. (Musée d’Orsay/Art Institute of Chicago, 1995), pp. 13, 14.<br />
+<br />
+“Historia del impresionismo,” Saber ver: Lo contemporáneo del arte 20 (Jan.–Feb. 1995), p. 53 (ill.).<br />
+<br />
+Alan Artner, “Urban Landscapes,” Chicago Tribune Magazine, Feb. 12, 1995, p. 26 (ill.).<br />
+<br />
+Richard Brettell, “Gustave Caillebotte and ‘The New Painting’: A Centennial Review,” Apollo 142, 406 (Dec. 1995), pp. 56; 57, fig. 4; 58.<br />
+<br />
+Ruth Berson, ed., The New Painting: Impressionism, 1874–1886; Documentation, vol. 1, Reviews (Fine Arts Museums of San Francisco/University of Washington Press, 1996), pp. 117, 124, 125, 132, 135, 139, 142, 144, 145, 146, 148, 152, 156, 158–59, 163, 164, 165, 167, 169, 173, 175, 176, 183, 187, 188, 190, 191.<br />
+<br />
+Ruth Berson, ed., The New Painting: Impressionism, 1874–1886; Documentation, vol. 2, Exhibited Works (Fine Arts Museums of San Francisco/University of Washington Press, 1996), pp. 69, 85 (ill.).<br />
+<br />
+Robert Boardingham, Impressionist Masterpieces in American Museums (Hugh Lauter Levin, 1996), pp. 68–69 (ill.), 70.<br />
+<br />
+Patty Lurie, Guide to Impressionist Paris (Lilburne/Parigramme, 1996), pp. 88–89 (ill.).<br />
+<br />
+Marietta S. Millet, Light Revealing Architecture (Van Nostrand Reinhold, 1996), pp. 23; 24, fig. 1–31.<br />
+<br />
+Ellen Williams, “Impressions of Paris,” Guggenheim Magazine (Fall 1996), pp. 46 (ill.), 47.<br />
+<br />
+Kerry Brougher, Jeff Wall, exh. cat. (Museum of Contemporary Art, Los Angeles/Scalo, 1997), p. 27 (ill.).<br />
+<br />
+Anne Grevstad-Nordbrock, “A Stolen Kiss: Robert Doisneau’s Photographic Icon,” Visual Resources: An International Journal of Documentation 13, 2 (1997), pp. 192; 193, fig. 2.<br />
+<br />
+M. Therese Southgate, The Art of JAMA: One Hundred Covers and Essays from the Journal of the American Medical Association (Mosby, 1997), pp. 4–5 (ill.).<br />
+<br />
+Clare Kunny, “Taking the Tour: How a Museum Lecturer Looks at the Museum,” New Art Examiner 24, 5 (Feb. 1997), pp. 36; 37; 38, n. 1.<br />
+<br />
+Rose-Marie and Rainer Hagen, “Unter dem Regenschirm herrscht eine noble Einsamkeit,” Art: Das Kunstmagazin 10 (Oct. 1997), pp. 82–83 (ills.), 84 (detail), 85 (detail), 86 (detail), 87 (detail).<br />
+<br />
+Lyn H. Lofland, The Public Realm: Exploring the City’s Quintessential Social Territory (Aldine de Gruyter, 1998), pp. 134; 135, ill. 5.12.<br />
+<br />
+Juliet Wilson-Bareau, Manet, Monet, and the Gare Saint-Lazare, exh. cat. (National Gallery of Art, Washington, D.C./Yale University Press, 1998), pp. 80; 86, fig. 76; 87; 90; 91; 105.<br />
+<br />
+Juliet Wilson-Bareau, Manet, Monet, la gare Saint-Lazare, trans. Isabelle Taudière, exh. cat. (Réunion des Musées Nationaux/Yale University Press, 1998), pp. 80; 86, fig. 76; 87; 88; 90.<br />
+<br />
+Warren Adelson, “Childe Hassam: Cosmopolitan and Patriot,” in Warren Adelson, Jay Cantor, and William H. Gerdts, Childe Hassam: Impressionist (Abbeville, 1999), pp. 12; 14–15, pl. 11.<br />
+<br />
+Art Institute of Chicago, Master Paintings in the Art Institute of Chicago, selected by James N. Wood (Art Institute of Chicago/Hudson Hills, 1999), pp. 8–9, 54 (ill.).<br />
+<br />
+Richard R. Brettell, Modern Art, 1851–1929: Capitalism and Representation (Oxford University Press, 1999), p. 54, fig. 37.<br />
+<br />
+Steve Edwards, Art and Its Histories: A Reader (Yale University Press/Open University, 1999), pp. 196; 197, fig. xix.<br />
+<br />
+Andrea Frey, Der Stadtraum in der französischen Malerei, 1860–1900 (Reimer, 1999), pp. 151; 153; 160; 161; 163–64; 166; 167; 169; 170; 171; 172; fig. 56.<br />
+<br />
+James Henry Rubin, Impressionism, Art and Ideas (Phaidon, 1999), pp. 44, fig. 21; 296–97.<br />
+<br />
+Michael Fried, “Caillebotte’s Impressionism,” Representations 66 (Spring 1999), pp. 25, fig. 16; 26–27; 31; 44; 45.<br />
+<br />
+Sotheby’s, New York, La Belle Epoque: Paintings, Drawings and Sculpture, sale cat. (Sotheby’s, New York, May 5, 1999), pp. 44, 45 (ill.).<br />
+<br />
+Art Institute of Chicago, Impressionism and Post-Impressionism in the Art Institute of Chicago, selected by James N. Wood (Art Institute of Chicago/Hudson Hills, 2000), p. 55 (ill.).<br />
+<br />
+Art Institute of Chicago, Treasures from the Art Institute of Chicago, selected by James N. Wood, with commentaries by Debra N. Mancoff (Art Institute of Chicago/Hudson Hills, 2000), pp. 15, 183, 204 (ill.).<br />
+<br />
+Patrick Shaw Cable, “Questions of Work, Class, Gender, and Style in the Art and Life of Gustave Caillebotte” (Ph.D. diss., Case Western Reserve University, 2000), pp. 11; 28; 31; 66; 67; 127; 146; 214; 244, fig. 1.<br />
+<br />
+Renaud Temperini, La peinture française, under the direction of Pierre Rosenberg, vol. 2 (Mengès, 2001), p. 776 (ill.).<br />
+<br />
+Patricia G. Berman, James Ensor: Christ’s Entry into Brussels in 1889, Getty Museum Studies on Art (J. Paul Getty Museum, 2002), pp. 20; 22–23, fig. 20.<br />
+<br />
+Norma Broude, “Outing Impressionism: Homosexuality and Homosocial Bonding in the Work of Caillebotte and Bazille,” in Gustave Caillebotte and the Fashioning of Identity in Impressionist Paris, ed. Norma Broude (Rutgers University Press, 2002), pp. 124, 127.<br />
+<br />
+Patrick Shaw Cable, “Caillebotte and Modern Realist Concerns during the First Impressionist Exhibitions,” Excavatio 17, 1–2 (2002), pp. 155–56; 166, fig. 2.<br />
+<br />
+Pier Giovanni Castagnoli, Barbara Cinelli, and Maria Mimita Lamberti, De Nittis e la pittura della vita moderna in Europa (Galleria Civica d’Arte Moderna e Contemporanea, 2002), p. 166.<br />
+<br />
+Maria Mimita Lamberti, “Mitografie parigine nel secondo ottocento,” in Pier Giovanni Castagnoli, Barbara Cinelli, and Maria Mimita Lamberti, De Nittis e la pittura della vita moderna in Europa (Galleria Civica d’Arte Moderna e Contemporanea, 2002), pp. 50–51 (ill.).<br />
+<br />
+Sculpture Foundation, Solid Impressions: J. Seward Johnson, Jr. (Sculpture Foundation, 2002), p. 10 (ill.).<br />
+<br />
+Sylvie Patin, L’impressionisme (Bibliothèque des Arts, 2002), pp. 134; 136, fig. 99; 298.<br />
+<br />
+J. Kirk T. Varnedoe, “Caillebotte’s Pont de l’Europe,” in Gustave Caillebotte and the Fashioning of Identity in Impressionist Paris, ed. Norma Broude (Rutgers University Press, 2002), pp. 11; 15; 18, n. 7; 19, n. 11.<br />
+<br />
+Richard R. Brettell, “A View from Portland: 110 Years of Modern French Art in Portland,” in Paris to Portland: Impressionist and Post-Impressionist Masters in Portland Collections, exh. cat. (Portland Art Museum, 2003), p. 30, fig. 2.<br />
+<br />
+Corcoran Gallery of Art, Beyond the Frame: Impressionism Revisited; The Sculptures of J. Seward Johnson, Jr., with an essay by Petra ten-Doesschate Chu (Bulfinch, 2003), pp. 10 (ill.), 122 (ill.).<br />
+<br />
+Petra ten-Doesschate Chu, Nineteenth-Century European Art (Prentice-Hall/Abrams, 2003), pp. 392, fig. 16.39.<br />
+<br />
+Ann Dumas, Degas and the Italians in Paris (National Galleries of Scotland, 2003), pp. 15; 16, fig. 5; 23.<br />
+<br />
+Michel Laclotte, The Art and Spirit of Paris (Abbeville, 2003), pp. 900–903 (detail); 904; 989, fig. 6.76; 997.<br />
+<br />
+Henry Plummer, Masters of Light, vol. 1, Twentieth-Century Pioneers, Architecture and Urbanism (E ando Yu, 2003), pp. 50; 51, fig. 1.<br />
+<br />
+Griselda Pollock, Vision and Difference: Feminism, Femininity, and the Histories of Art (Routledge, 2003), pp. 72; 73, fig. 3.2.<br />
+<br />
+Christie’s, New York, Impressionist and Modern Art (Evening Sale), sale cat. (Christie’s, New York, Nov. 4, 2003), p. 44, fig. 6.<br />
+<br />
+Stephanie L. Herdrich, “Hassam in Paris, 1886–1889,” in H. Barbara Weinberg, Childe Hassam: American Impressionist, with contributions by Elizabeth E. Barker et al., exh. cat. (Metropolitan Museum of Art/Yale University Press, 2004), pp. 43, fig. 37; 44.<br />
+<br />
+Sharon L. Hirsh, Symbolism and Modern Urban Society (Cambridge University Press, 2004), pp. 63; 64, fig. 24; 67; 79.<br />
+<br />
+John House, Impressionism: Paint and Politics (Yale University Press, 2004), pp. 117; 118, pl. 107; 138.<br />
+<br />
+Erik Mørstad, “Christian Krohg i Skagen: Et Norsk Perspektiv,” in Christian Krohg og Skagen, exh. cat. (Skagens Museum/Lillehammer Kunstmuseum, 2004), pp. 17; 23, fig. 1.<br />
+<br />
+Rodolphe Rapetti, “Gustave Caillebotte e la Senna,” in Monet la Senna le ninfee: Il grande fiume e il nuovo secolo, ed. Marco Goldin, exh. cat. (Linea d’Ombra, 2004), p. 79.<br />
+<br />
+H. Barbara Weinberg, “Hassam in New York, 1889–1896,” in H. Barbara Weinberg, Childe Hassam: American Impressionist, with contributions by Elizabeth E. Barker et al., exh. cat. (Metropolitan Museum of Art/Yale University Press, 2004), p. 58.<br />
+<br />
+Christopher Lloyd, “Les dessins de Gustave Caillebotte,” in Juliane Cosandier, Caillebotte: Au coeur de l’impressionnisme, assisted by Sylvie Wuhrmann, exh. cat. (Fondation de l’Hermitage/Bibliothèque des Arts, 2005), pp. 43, 45.<br />
+<br />
+Caroline Mathieu, “Gustave Caillebotte et le nouveau Paris,” in Juliane Cosandier, Caillebotte: Au coeur de l’impressionnisme, assisted by Sylvie Wuhrmann, exh. cat. (Fondation de l’Hermitage/Bibliothèque des Arts, 2005), pp. 27; 28; 29, fig. 3.<br />
+<br />
+Nancy Forgione, “Everyday Life in Motion: The Art of Walking in Late-Nineteenth-Century Paris,” Art Bulletin 86, 4 (Dec. 2005), pp. 675, fig. 10; 676.<br />
+<br />
+Marco Goldin, ed., Turner e gli impressionisti: La grande storia del paesaggio moderno in Europa, exh. cat. (Linea d’Ombra, 2006), p. 274.<br />
+<br />
+Marni Reva Kessler, Sheer Presence: The Veil in Manet’s Paris (University of Minnesota Press, 2006), pp. xvii; xviii, fig. 1; 12.<br />
+<br />
+Caroline Mathieu, “Eugène Haussmann und das Neue Paris,” in Die Eroberung der Strasse: Von Monet bis Grosz, ed. Karin Sagner, Matthias Ulrich, Vittorio Magnago Lampugnani, and Max Hollein, exh. cat. (Hirmer, 2006), p. 89.<br />
+<br />
+Gabriel P. Weisberg, “The Urban Mirror: Contrasts in the Vision of Existence in the Modern City,” in Paris and the Countryside: Modern Life in Late-19th-Century France, exh. cat. (Portland Museum of Art, 2006), pp. 46; 47, fig. 35.<br />
+<br />
+Ruth E. Iskin, Modern Women and Parisian Consumer Culture in Impressionist Painting (Cambridge University Press, 2007), pp. 12; 66; 116–17; 118, fig. 48; 119–23; 124; 125–26; 130; 132; 244; 245; 246.<br />
+<br />
+Robyn Roslak, Neo-Impressionism and Anarchism in Fin-de-Siècle France: Painting, Politics and Landscape (Ashgate, 2007), pp. 68; 69, fig. 3.3.<br />
+<br />
+Clive Scott, Street Photography: From Atget to Cartier-Bresson (I. B. Tauris, 2007), pp. x; 51, fig. 12.<br />
+<br />
+Peter Bürger, “Media Differences: Caillebotte and Maupassant as Storytellers,” in Anne-Birgitte Fonsmark, Dorothee Hansen, and Gary Hedin, Gustave Caillebotte, with additional essays by Peter Bürger et al., exh. cat. (Hatje Cantz, 2008), p. 27.<br />
+<br />
+Daniel Charles, “Caillebotte and Boating,” in Anne-Birgitte Fonsmark, Dorothee Hansen, and Gary Hedin, Gustave Caillebotte, with additional essays by Peter Bürger et al., exh. cat. (Hatje Cantz, 2008), p. 112.<br />
+<br />
+Anne-Birgitte Fonsmark, “Gustave Caillebotte: In the Midst of Impressionism; An Introduction,” in Anne-Birgitte Fonsmark, Dorothee Hansen, and Gary Hedin, Gustave Caillebotte, with additional essays by Peter Bürger et al., exh. cat. (Hatje Cantz, 2008), pp. 12; 13, fig. 3.<br />
+<br />
+Gloria Groom and Douglas Druick, The Impressionists: Master Paintings from the Art Institute of Chicago, with the assistance of Dorota Chudzicka and Jill Shaw, exh. cat. (Art Institute of Chicago/Kimbell Art Museum, 2008), pp. 2 (detail); 4; 19; 55; 56–57, cat. 18 (ill.); 85. Simultaneously published as Gloria Groom and Douglas Druick, The Age of Impressionism at the Art Institute of Chicago, with the assistance of Dorota Chudzicka and Jill Shaw (Art Institute of Chicago/Yale University Press, 2008), pp. 2 (detail); 4; 19; 55; 56–57, cat. 18 (ill.); 85.<br />
+<br />
+Gary Hedin, “Radical Perspectives I: Visions of Modern Paris,” in Anne-Birgitte Fonsmark, Dorothee Hansen, and Gary Hedin, Gustave Caillebotte, with additional essays by Peter Bürger et al., exh. cat. (Hatje Cantz, 2008), p. 56.<br />
+<br />
+Art Institute of Chicago, The Essential Guide (Art Institute of Chicago, 2009), pp. 216 (ill.), 286.<br />
+<br />
+Art Institute of Chicago, Master Paintings in the Art Institute of Chicago, selected by James Cuno (Art Institute of Chicago/Yale University Press, 2009), pp. 9, 54 (ill.).<br />
+<br />
+Richard R. Brettell, Paul Hayes Tucker, and Natalie H. Lee, The Robert Lehman Collection: Nineteenth- and Twentieth-Century Paintings, vol. 3 (Metropolitan Museum of Art, New York/Princeton University Press, 2009), pp. 151; 152, fig. 5.<br />
+R. Samuel Roche and Aric Lasher, Plans of Chicago (Architects Research Foundation/University of Chicago Press, 2009), p. 45, fig. 4.7.<br />
+<br />
+James Rondeau, “New Art/Old Museum: Contemporary Artists Engaging the Encyclopedia,” in Curating Now, ed. Helen O’Donoghue (Irish Museum of Modern Art, 2009), pp. 124, 140 (ill.).<br />
+<br />
+Karin Sagner, Gustave Caillebotte: Neue Perspektiven des Impressionismus (Himer, 2009), pp. 12; 18–19 (detail); 30–31, pl. 1; 33 (detail).<br />
+<br />
+John Russell Taylor, Exactitude: Hyperrealist Art Today, ed. Maggie Bollaert (Thames &amp; Hudson, 2009), pp. 28 (ill.), 29.<br />
+<br />
+Hartwig Fischer, Bilder einer Metropole: Die Impressionisten in Paris, ed. Sandra Gianfreda, exh. cat. (Folkwang/Steidl, 2010), pp. 126–27, cat. 11 (ill.); 302.<br />
+<br />
+James H. Rubin, “Das impressionistische Stadtbild als Emblem der Moderne,” in Hartwig Fischer, Bilder einer Metropole: Die Impressionisten in Paris, ed. Sandra Gianfreda, exh. cat. (Folkwang/Steidl, 2010), pp. 75, 77.<br />
+ <br />
+Malcolm Park, “Three Street Drawings by Gustave Caillebotte,” Burlington Magazine 152, 1289 (Aug. 2010), pp. 536, fig. 30; 538.<br />
+<br />
+Éric Darragon, “Gustave Caillebotte, une nouvelle peinture,” in Serge Lemoine et al., Dans l’intimité des frères Caillebotte: Peintre et photographe, exh. cat. (Flammarion/Culturspaces/Musée National des Beaux-Arts du Québec/Musée Jacquemart-André, Institute de France, 2011), pp. 36, fig. 1; 37; 64.<br />
+<br />
+Burcu Dogramaci, Wechselbeziehungen: Mode, Malerei und Fotografie im 19. Jahrhundert (Jonas, 2011), pp. 28; 29, fig. 13.<br />
+<br />
+Michelle Facos, An Introduction to Nineteenth-Century Art (Routledge, 2011), pp. 308; 309, fig. 12.1; 310.<br />
+<br />
+André Dombrowski, “History, Memory, and Instantaneity in Edgar Degas’s Place de la Concorde,” Art Bulletin 93, 2 (June 2011), p. 199, fig. 6.<br />
+<br />
+Colin B. Bailey, Renoir, Impressionism, and Full-Length Painting, exh. cat. (Frick Collection/Yale University Press, 2012), pp. 150; 151, fig. 15; 154.<br />
+<br />
+Gloria Groom, ed., Impressionism, Fashion, and Modernity, exh. cat. (Art Institute of Chicago/Metropolitan Museum of Art, New York/Musée d’Orsay/Yale University Press, 2012), p. 291, cat. 93 (ill.).<br />
+<br />
+Gloria Groom, ed., L’impressionnisme et la mode, exh. cat. (Musée d’Orsay/Skira Flammarion, 2012), p. 298, cat. 35.<br />
+<br />
+Gloria Groom, “Spaces of Modernity,” in Impressionism, Fashion, and Modernity, ed. Gloria Groom, exh. cat. (Art Institute of Chicago/Metropolitan Museum of Art, New York/Musée d’Orsay/Yale University Press, 2012), pp. 165, 166, 168.<br />
+<br />
+Gloria Groom, “Les espaces de la modernité,” in L’impressionnisme et la mode, ed. Gloria Groom, exh. cat. (Musée d’Orsay/Skira Flammarion, 2012), pp. 46, 47.<br />
+<br />
+Aileen Ribeiro, “Gustave Caillebotte, Paris Street; Rainy Day,” in Impressionism, Fashion, and Modernity, ed. Gloria Groom, exh. cat. (Art Institute of Chicago/Metropolitan Museum of Art, New York/Musée d’Orsay/Yale University Press, 2012), pp. 184; 185 (detail); 188, cat. 93 (ill.); 189–95.<br />
+<br />
+Aileen Ribeiro, “Gustave Caillebotte, Rue de Paris; temps de pluie,” in L’impressionnisme et la mode, ed. Gloria Groom, exh. cat. (Musée d’Orsay/Skira Flammarion, 2012), pp. 64, cat. 35 (ill.); 65–73.<br />
+<br />
+Karin Sagner, “Gustave Caillebotte: An Impressionist and Photography,” in Gustave Caillebotte: An Impressionist and Photography, ed. Karin Sagner and Max Hollein, in cooperation with Ulrich Pohlmann, exh. cat. (Schirn Kunsthalle Frankfurt/Hirmer, 2012), p. 18, fig. 3.<br />
+<br />
+Karin Sagner and Max Hollein, eds., in cooperation with Ulrich Pohlmann, Gustave Caillebotte: An Impressionist and Photography, exh. cat. (Schirn Kunsthalle Frankfurt/Hirmer, 2012), pp. 120, 181, 208, 220.<br />
+<br />
+David van Zanten, “Looking Through, Across, and Up: The Architectural Aesthetics of the Paris Street,” in Impressionism, Fashion, and Modernity, ed. Gloria Groom, exh. cat. (Art Institute of Chicago/Metropolitan Museum of Art, New York/Musée d’Orsay/Yale University Press, 2012), p. 154.<br />
+<br />
+Art Institute of Chicago, Master Paintings in the Art Institute of Chicago, selected by Douglas Druick (Art Institute of Chicago/Yale University Press, 2013), pp. 9, 54 (ill.).<br />
+<br />
+Claude P. J. Ghez and Pietro Galifi della Bagliva, “Deconstructing Gustave Caillebotte’s Le Pont de l’Europe (1876),” in Gustave Caillebotte: Impressionist in Modern Paris, ed. Shimbata Yasuhide, exh. cat. (Bridgestone Museum of Art/Ishibashi Foundation, 2013), pp. 230, 240.<br />
+<br />
+Shimade Norio, “Gustave Caillebotte and the Impressionist Exhibitions: Bonds of Trust with Renoir, Friendship with Monet, Conflict with Degas,” in Gustave Caillebotte: Impressionist in Modern Paris, ed. Shimbata Yasuhide, exh. cat. (Bridgestone Museum of Art/Ishibashi Foundation, 2013), pp. 22, 25, 26, 27.<br />
+<br />
+Virginie Pouzet-Duzer, L’impressionnisme littéraire, Culture et société (Presses Universitaires de Vincennes, 2013), pp. 287; 289, fig. 30; 349.<br />
+<br />
+Kuraishi Shino, “Caillebotte and Photographic Sense of Vision,” in Gustave Caillebotte: Impressionist in Modern Paris, ed. Shimbata Yasuhide, exh. cat. (Bridgestone Museum of Art/Ishibashi Foundation, 2013), p. 271.<br />
+<br />
+Shimbata Yasuhide, “Caillebotte and the Modern City of Paris: In a Time of Upheaval,” in Gustave Caillebotte: Impressionist in Modern Paris, ed. Shimbata Yasuhide, exh. cat. (Bridgestone Museum of Art/Ishibashi Foundation, 2013), p. 268.<br />
+<br />
+Shimbata Yasuhide, ed., Gustave Caillebotte: Impressionist in Modern Paris, exh. cat. (Bridgestone Museum of Art/Ishibashi Foundation, 2013), pp. 102 (ill.), 257, 260, 261.<br />
+<br />
+Shimbata Yasuhide, “Reexamining Gustave Caillebotte’s Young Man Playing the Piano,” in Gustave Caillebotte: Impressionist in Modern Paris, ed. Shimbata Yasuhide, exh. cat. (Bridgestone Museum of Art/Ishibashi Foundation, 2013), p. 44.<br />
+<br />
+Elizabeth Benjamin, “All the Discomforts of Home: Caillebotte and the Nineteenth-Century Bourgeois Interior,” in Mary Morton and George T. M. Shackelford, Gustave Caillebotte: The Painter’s Eye, with essays by Michael Marrinan, Alexandra K. Wettlaufer, Elizabeth Benjamin, Stéphane Guégan, and Sarah Kennel, exh. cat. (National Gallery of Art, Washington, D.C./Kimbell Art Museum, 2015), p. 86.<br />
+<br />
+Sarah Kennel, “Photograph and the Painter’s Eye,” in Mary Morton and George T. M. Shackelford, Gustave Caillebotte: The Painter’s Eye, with essays by Michael Marrinan, Alexandra K. Wettlaufer, Elizabeth Benjamin, Stéphane Guégan, and Sarah Kennel, exh. cat. (National Gallery of Art, Washington, D.C./Kimbell Art Museum, 2015), pp. 108 (detail); 110; 114–15; 116–17; 118; 264, n. 9.<br />
+<br />
+Michael Marrinan, “Caillebotte’s Deep Focus,” in Mary Morton and George T. M. Shackelford, Gustave Caillebotte: The Painter’s Eye, with essays by Michael Marrinan, Alexandra K. Wettlaufer, Elizabeth Benjamin, Stéphane Guégan, and Sarah Kennel, exh. cat. (National Gallery of Art, Washington, D.C./Kimbell Art Museum, 2015), pp. 28, 31, 33–36.<br />
+<br />
+Mary Morton, “Caillebotte in Contemporary Criticism,” in Mary Morton and George T. M. Shackelford, Gustave Caillebotte: The Painter’s Eye, with essays by Michael Marrinan, Alexandra K. Wettlaufer, Elizabeth Benjamin, Stéphane Guégan, and Sarah Kennel, exh. cat. (National Gallery of Art, Washington, D.C./Kimbell Art Museum, 2015), pp. 61–62, 63.<br />
+<br />
+Mary Morton, with Camille Mathieu, Galina Olmsted, and George T. M. Shackelford, “Catalog,” in Mary Morton and George T. M. Shackelford, Gustave Caillebotte: The Painter’s Eye, with essays by Michael Marrinan, Alexandra K. Wettlaufer, Elizabeth Benjamin, Stéphane Guégan, and Sarah Kennel, exh. cat. (National Gallery of Art, Washington, D.C./Kimbell Art Museum, 2015), pp. 124; 125; 133, cat. 4 (ill.); 138.<br />
+<br />
+Mary Morton and George T. M. Shackelford, Gustave Caillebotte: The Painter’s Eye, with essays by Michael Marrinan, Alexandra K. Wettlaufer, Elizabeth Benjamin, Stéphane Guégan, and Sarah Kennel, exh. cat. (National Gallery of Art, Washington, D.C./Kimbell Art Museum, 2015), back cover, cat. 4 (detail); pp. 7, 19, 277.<br />
+<br />
+George T. M. Shackelford, “Man in the Middle,” in Mary Morton and George T. M. Shackelford, Gustave Caillebotte: The Painter’s Eye, with essays by Michael Marrinan, Alexandra K. Wettlaufer, Elizabeth Benjamin, Stéphane Guégan, and Sarah Kennel, exh. cat. (National Gallery of Art, Washington, D.C./Kimbell Art Museum, 2015), pp. 40, 41, 45, 46–47, 48, 49, 55.<br />
+<br />
+Caroline Shields, “Caillebotte’s Posthumous Reputation, 1894–1994,” in Mary Morton and George T. M. Shackelford, Gustave Caillebotte: The Painter’s Eye, with essays by Michael Marrinan, Alexandra K. Wettlaufer, Elizabeth Benjamin, Stéphane Guégan, and Sarah Kennel, exh. cat. (National Gallery of Art, Washington, D.C./Kimbell Art Museum, 2015), pp. 244; 267, n. 14; 248; 249.<br />
+<br />
+Alexandra K. Wettlaufer, “Paintings of Modern Life: Representing Modernity in Baudelaire, Balzac, Zola, and Caillebotte,” in Mary Morton and George T. M. Shackelford, Gustave Caillebotte: The Painter’s Eye, with essays by Michael Marrinan, Alexandra K. Wettlaufer, Elizabeth Benjamin, Stéphane Guégan, and Sarah Kennel, exh. cat. (National Gallery of Art, Washington, D.C./Kimbell Art Museum, 2015), pp. 72, 73.<br />
+<br />
+“Cat. 2: Paris Street; Rainy Day, 1877,” in Caillebotte Paintings and Drawings at the Art Institute of Chicago, ed. Gloria Groom and Genevieve Westerby (Art Institute of Chicago, 2015).</p>
+                  <h2>Ownership History</h2>
+      <p>By descent from the artist (died 1894) to his brother, Martial Caillebotte, and Marie Minoret (Martial’s wife), Paris, 1894. [1]<br />
+<br />
+Placed by Martial Caillebotte, Paris, with his brother-in-law Georges Minoret, Château de Montglat, Provins, France, 1900. [2]<br />
+<br />
+Returned to Albert and Geneviève Chardeau (daughter of Martial Caillebotte), Paris, 1950. [3]<br />
+<br />
+Purchased by Walter P. Chrysler, Jr., New York, 1954. [4]<br />
+<br />
+Sold by Walter P. Chrysler, Jr., New York, to Wildenstein and Company, 1964. [5]<br />
+<br />
+Sold by Wildenstein and Company, New York, to the Art Institute of Chicago, 1964. [6]<br />
+<br />
+NOTES<br />
+<br />
+[1] According to Portland (Ore.) Art Museum, Paintings from the Collection of Walter P. Chrysler, Jr., exh. cat. (Portland Art Association, 1956), p. 47. See also fact sheet provided by Wildenstein and Company, curatorial object file, Art Institute of Chicago.<br />
+<br />
+[2] According to Portland (Ore.) Art Museum, Paintings from the Collection of Walter P. Chrysler, Jr., exh. cat. (Portland Art Association, 1956), p. 47. See also fact sheet provided by Wildenstein and Company, curatorial object file, Art Institute of Chicago.<br />
+<br />
+[3] According to Portland (Ore.) Art Museum, Paintings from the Collection of Walter P. Chrysler, Jr., exh. cat. (Portland Art Association, 1956), p. 47. See also fact sheet provided by Wildenstein and Company, curatorial object file, Art Institute of Chicago.<br />
+<br />
+[4] According to J. Kirk T. Varnedoe and Thomas P. Lee, Gustave Caillebotte: A Retrospective Exhibition, with contributions by J. Kirk T. Varnedoe, Marie Berhaut, Peter Galassi, and Hilarie Faberman, exh. cat. (Museum of Fine Arts, Houston, 1976), p. 110.<br />
+<br />
+[5] See Joseph Baillio, Wildenstein and Company, to Gloria Groom, Feb. 11, 2015, e-mail correspondence, curatorial object file, Art Institute of Chicago, in which Baillio suggests that an agent working on Chrysler’s behalf may have facilitated the sale.<br />
+<br />
+[6] See minutes from the meeting of the Committee on Earlier Painting and Sculpture of the Art Institute of Chicago, Nov. 25, 1964, and minutes from the meeting of the Board of Trustees, Dec. 21, 1964, both on file in Institutional Archives, Art Institute of Chicago.</p>
+          </div>
+        <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> 500 Ways of Looking at Modern </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../overview">Overview</a></li>
+<li class="leaf"><a href="../exhibitions">Exhibitions</a></li>
+<li class="expanded"><a href="../event">Events</a>
+<ul class="menu">
+<li class="leaf first"><a href="../events/6">Concerts and Performances</a></li>
+<li class="leaf"><a href="../events/3">Family Programs</a></li>
+<li class="leaf"><a href="../events/5">Lectures and Conversations</a></li>
+<li class="leaf"><a href="../events/4">Gallery Talks and Tours</a></li>
+<li class="leaf"><a href="../events/8">Readings</a></li>
+<li class="leaf"><a href="../events/9">Symposia</a></li>
+<li class="leaf last"><a href="../events">All Events</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="../partners">Partners</a></li>
+<li class="leaf"><a href="../books">Books</a></li>
+<li class="leaf"><a href="../resource/929">Video</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="leaf last"><a href="http://www.500-ways.com/">Red Cube Project</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="../artwork">Browse selections</a></span>
+      <a href="../artwork/187528?from=20684"><img src="../images/highlight_thumb_arrow_right.png" alt="&gt;" title="" width="22" height="22" /></a>  
+      <a href="../artwork/14591?from=20684"><img src="../images/highlight_thumb_arrow_left.png" alt="&lt;" title="" width="22" height="22" /></a>  </div>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_related_resources" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Learn More </h2>
+    <div class="content">
+      <div class="item-list"><ul><li class="first"><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/412">Analysis: Caillebotte's Modern Aesthetic</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/466">Artist Biography: Gustave Caillebotte</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/364">Gustave Caillebotte's Paris Street; Rainy Day, 1876-77</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/502">Impressionism and Post-Impressionism</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/505">Lesson Plan: Urban Space</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/507">Map: Impressionism in France</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/1074">Map: Impressionism in France</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/3375">Online Catalogue: Caillebotte Paintings and Drawings at the Art Institute of Chicago</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/103">Overview: Caillebotte's <em>Paris Street, Rainy Day</em></a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/173">Quick Facts: Caillebotte's <em>Paris Street; Rainy Day</em></a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/24">Scale Illustration: Caillebotte's <em>Paris Street; Rainy Day</em></a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/1629">Teacher Manual: Chicago: The City in Art: A Curriculum Guide for Teachers</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/1515">Teacher Manual: Gustave Caillebotte and the City in Art</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/1522">Teacher Manual: Impressionism, Post-Impressionism</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/2400">Turning the Pages: Gustave Caillebotte (1848-1894), Sketchbook, June 1883-September 1886</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/2937">Video Postcard: <em>Paris Street; Rainy Day</em> (1877)</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/3116">Video: A Thousand and One Swabs—The Transformation of <em>Paris Street; Rainy Day</em></a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/1386">Video: Caillebotte and the Modern City</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/1385">Video: Caillebotte and the Streets of Paris</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/3109">Video: Caillebotte Urban Expressionist</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/1371">Video: Teaching Example of Caillebotte and the Streets of Paris</a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/500Ways/resource/1921">Website: Art Access: Impressionist and Post-Impressionist Art</a></li></ul></div>    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_related_categories" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Works </h2>
+    <div class="content">
+      <a href="../artwork/category/801">Art Resource</a>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

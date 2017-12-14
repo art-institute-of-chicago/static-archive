@@ -33,7 +33,7 @@ if (Drupal.jsEnabled) {
         }
       }
       // IE7 throws errors often when dealing with irregular links, such as:
-      // <a href="node/10"></a> Empty tags.
+      // <a href="http://www.artic.edu/aic/collections/sites/all/modules/extlink/node/10"></a> Empty tags.
       // <a href="http://user:pass@example.com">example</a> User:pass syntax.
       catch(error) {
         return false;

@@ -1,0 +1,236 @@
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_5c728e4aa0cd80e31532c3952013135f) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_5c728e4aa0cd80e31532c3952013135f) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_c7ea7479e1ff7a8a741a40b970c82818) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_d63aca0b7e6237c7964320bd7fc95644) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_5c728e4aa0cd80e31532c3952013135f) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_5c728e4aa0cd80e31532c3952013135f) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_5c728e4aa0cd80e31532c3952013135f) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_5c728e4aa0cd80e31532c3952013135f) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Bamboo Grove | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-4450.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-artwork citi-exhib-site">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_BGC.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/BGC.gif" alt="" title="" width="736" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/BeyondGoldenClouds">Beyond Golden Clouds</a> > <a href="../artwork">Selected Works</a> > <span class="sel">Bamboo Grove</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Bamboo Grove</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> 
+<script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+
+        <div id="artwork-image">
+            <img src="../images/143236_2573617.jpg" alt="Bamboo Grove" title="Imao Keinen
+Japanese, 1845-1924, Bamboo Grove"  />          </div>
+
+    <p class="tools">
+                    <a href="../artwork/160016/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
+                    <a href="../artwork/160016/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="../artwork/160016/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+    <!--/tools-->
+  
+    <div id="artwork-details">
+    <div id="tombstone">
+
+    <p>    Imao Keinen<br />
+Japanese, 1845-1924<br />
+    </p>
+    <h3><em>Bamboo Grove</em>, early 1920s</h3>
+
+    <p>
+    Pair of six-panel screens; ink and gold on paper<br />    Each 174.3 x 372 cm<br />        Margaret Gentles Fund; Frederick and Natalie Gookin and Russell Tyson endowments, 2002.366.1-2</p>
+        
+        <!--<p id="dept-gallery">--><!--<br />-->
+         <!--</p>-->
+    </p>
+    </div><!--/tombstone-->
+
+  </div>
+  <!--/artwork-details-->
+
+    
+      <div id="artwork-body">
+        <p><BIG><p>20&#19990;&#32000;&#12395;&#20837;&#12387;&#12390;&#12418;&#12289;&#26085;&#26412;&#12398;&#29305;&#24500;&#12391;&#12354;&#12427;&#12289;&#20889;&#23455;&#12392;&#31354;&#24819;&#30340;&#25551;&#20889;&#12398;&#34701;&#21512;&#12399;&#32154;&#12365;&#12289;&#29305;&#12395;&#12289;&#20778;&#32654;&#12394;&#37329;&#31636;&#12395;&#32080;&#12403;&#20184;&#12369;&#12425;&#12428;&#12383;&#12289;&#20889;&#23455;&#30340;&#12394;&#26893;&#29289;&#12398;&#25551;&#20889;&#12399;&#12289;&#12381;&#12398;&#26368;&#12383;&#12427;&#12418;&#12398;&#12391;&#12354;&#12387;&#12383;&#12290;&#12371;&#12398;&#19968;&#21452;&#12398;&#23631;&#39080;&#12391;&#12399;&#12289;&#20316;&#32773;&#12399;&#22696;&#12395;&#28611;&#28129;&#12434;&#12388;&#12369;&#12289;&#26178;&#12395;&#12399;&#31481;&#12364;&#12354;&#12383;&#12363;&#12418;&#37329;&#33394;&#12398;&#38695;&#12398;&#32972;&#24460;&#12395;&#38560;&#12373;&#12428;&#12427;&#12363;&#12395;&#25551;&#12356;&#12390;&#12356;&#12427;&#12290;</p>
+<p>&#20170;&#23614;&#26223;&#24180;&#12399;&#12289;&#26126;&#27835;&#26178;&#20195;&#65288;1868&#65374;1912&#65289;&#12398;&#20778;&#12428;&#12383;&#30011;&#23478;&#12391;&#12354;&#12427;&#12290;&#24444;&#12399;&#20140;&#37117;&#24220;&#30011;&#23398;&#26657;&#12391;&#25945;&#12360;&#12289;&#24403;&#26178;&#12398;&#22269;&#12398;&#32117;&#30011;&#23637;&#12408;&#12398;&#20986;&#21697;&#32773;&#12391;&#12354;&#12426;&#12289;&#12414;&#12383;&#23529;&#26619;&#21729;&#12391;&#12418;&#12354;&#12387;&#12383;&#12290;&#12371;&#12398;&#19968;&#21452;&#12398;&#23631;&#39080;&#12399;&#12288;&#26217;&#24180;&#12398;&#20316;&#21697;&#12391;&#12289;&#24093;&#23460;&#25216;&#33464;&#21729;&#12395;&#20219;&#12376;&#12425;&#12428;&#12383;&#24460;&#12398;&#12418;&#12398;&#12391;&#12354;&#12427;&#12290;</p></BIG>
+<p>Even in the 20th century, the characteristically Japanese blend of realism and otherworldliness continued, particularly in the realistic portrayal of plants combined with ethereal gold leaf. In this pair of screens, the artist painted the bamboo with varying tones of ink to make it appear as though the stalks are occasionally disappearing behind a golden mist.</p>
+<p>Imao Keinen was a prominent, Meiji-period (1868&#8211;1912) artist. He taught at the prestigious Kyoto Prefecture Painting School, and he was an exhibitor and judge at many national painting competitions of the time. This pair of screens is from his later years, after he was appointed an artist of the Imperial Household.</p>
+<p><strong>Rotation 1: June 26-August 9, 2009</strong></p></p>
+                <!--/jq hide show-->
+  </div>
+  <!--/artwork-body-->
+    <br />
+  <br />
+  <br />
+</div>
+<!--/artwork-content-->
+<div class="clear-block"> </div>
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Beyond Golden Clouds </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="../overview">Overview</a></li>
+<li class="collapsed"><a href="../exhibthemes">Exhibition Themes</a></li>
+<li class="leaf"><a href="../artwork">Selected Works</a></li>
+<li class="collapsed"><a href="../conservation">Conservation</a></li>
+<li class="collapsed"><a href="../resource/850">Additional Resources</a></li>
+<li class="leaf last"><a href="../getinvolved">Get Involved</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-artwork_browser" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div id="browse"><span class="page-words"><a href="../artwork">Browse selections</a></span>
+      <a href="../artwork/191664?from=160016"><img src="../images/highlight_thumb_arrow_right.png" alt="&gt;" title="" width="22" height="22" /></a>  
+      <a href="../artwork/191598?from=160016"><img src="../images/highlight_thumb_arrow_left.png" alt="&lt;" title="" width="22" height="22" /></a>  </div>
+    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>
