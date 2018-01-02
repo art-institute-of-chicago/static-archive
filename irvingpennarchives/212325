@@ -209,7 +209,7 @@ See also archive prints, accession numbers <a href="http://www.artic.edu/aic/col
 <li class="collapsed"><a href="permanent">Images</a></li>
 <li class="collapsed"><a href="timelines">Timelines</a></li>
 <li class="collapsed"><a href="resource/1971">About the Artist and Archive</a></li>
-<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/cameras-techniques">Cameras and Techniques</a></li>
+<li class="collapsed"><a href="cameras-techniques">Cameras and Techniques</a></li>
 <li class="collapsed"><a href="additionalresources">Audio and Other Resources</a></li>
 <li class="leaf"><a href="search">Search</a></li>
 <li class="leaf last"><a href="thanks">Acknowledgements</a></li>
@@ -232,7 +232,7 @@ See also archive prints, accession numbers <a href="http://www.artic.edu/aic/col
   <div class="blockinner">
     <h2 class="title"> Learn More </h2>
     <div class="content">
-      <div class="item-list"><ul><li class="first last"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/resource/1991">Philadelphia Museum School of Art, school catalog 1955–57</a></li></ul></div>    </div>    
+      <div class="item-list"><ul><li class="first last"><a href="resource/1991">Philadelphia Museum School of Art, school catalog 1955–57</a></li></ul></div>    </div>    
   </div>
 </div>
 <div id="block-aicexhibitions-artwork_related_categories" class="block block-aicexhibitions">  

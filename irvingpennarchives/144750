@@ -4,7 +4,7 @@
 <!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_06f2c8bb67d769a75a481d3b331f918b) -->
 <!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
 <!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
-<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_25117f4b9fd9bb6384d0eb8ea708c8b9) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_25117f4b9fd9bb6384d0eb8ea708c8b9) -->
 <!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
 <!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
 <!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_dd81d93597e6f6c37f49d9d3ccc6f2a3) -->
@@ -226,7 +226,7 @@ Chicago, Art Institute of Chicago, Gallery 10 Permanent Collection Rotation, May
 <li class="collapsed"><a href="permanent">Images</a></li>
 <li class="collapsed"><a href="timelines">Timelines</a></li>
 <li class="collapsed"><a href="resource/1971">About the Artist and Archive</a></li>
-<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/cameras-techniques">Cameras and Techniques</a></li>
+<li class="collapsed"><a href="cameras-techniques">Cameras and Techniques</a></li>
 <li class="collapsed"><a href="additionalresources">Audio and Other Resources</a></li>
 <li class="leaf"><a href="search">Search</a></li>
 <li class="leaf last"><a href="thanks">Acknowledgements</a></li>
@@ -249,7 +249,7 @@ Chicago, Art Institute of Chicago, Gallery 10 Permanent Collection Rotation, May
   <div class="blockinner">
     <h2 class="title"> Learn More </h2>
     <div class="content">
-      <div class="item-list"><ul><li class="first"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/resource/2005">Photograph: Irving Penn's <em>Vermeer Still Life</em> recreated in a store window</a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/resource/2402">Website: Irving Penn Archives</a></li></ul></div>    </div>    
+      <div class="item-list"><ul><li class="first"><a href="resource/2005">Photograph: Irving Penn's <em>Vermeer Still Life</em> recreated in a store window</a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/resource/2402">Website: Irving Penn Archives</a></li></ul></div>    </div>    
   </div>
 </div>
 <div id="block-aicexhibitions-artwork_related_categories" class="block block-aicexhibitions">  

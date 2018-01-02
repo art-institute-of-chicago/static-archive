@@ -5,11 +5,11 @@
 <!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
 <!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
 <!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
-<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_9cb9a7343e331d55c8b54dec1fa268e3) -->
-<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_9cb9a7343e331d55c8b54dec1fa268e3) -->
-<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_4a9e7ffd722da30542d494fba1ce741d) -->
-<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_9cb9a7343e331d55c8b54dec1fa268e3) -->
-<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_9cb9a7343e331d55c8b54dec1fa268e3) -->
+<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_9cb9a7343e331d55c8b54dec1fa268e3) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_9cb9a7343e331d55c8b54dec1fa268e3) -->
+<!-- From the cache. (d3d5e458996b1fa09e0038ef60ea62ba_4a9e7ffd722da30542d494fba1ce741d) -->
+<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_9cb9a7343e331d55c8b54dec1fa268e3) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_9cb9a7343e331d55c8b54dec1fa268e3) -->
 <!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_1a2b9912f43f36a6a35d45d8b0d42503) -->
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
@@ -239,7 +239,7 @@ Penn, Irving. 2004. “A Notebook at Random.” Bulfinch Press. p. 113. (other p
 <li class="collapsed"><a href="permanent">Images</a></li>
 <li class="collapsed"><a href="timelines">Timelines</a></li>
 <li class="collapsed"><a href="resource/1971">About the Artist and Archive</a></li>
-<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/cameras-techniques">Cameras and Techniques</a></li>
+<li class="collapsed"><a href="cameras-techniques">Cameras and Techniques</a></li>
 <li class="collapsed"><a href="additionalresources">Audio and Other Resources</a></li>
 <li class="leaf"><a href="search">Search</a></li>
 <li class="leaf last"><a href="thanks">Acknowledgements</a></li>
@@ -262,7 +262,7 @@ Penn, Irving. 2004. “A Notebook at Random.” Bulfinch Press. p. 113. (other p
   <div class="blockinner">
     <h2 class="title"> Learn More </h2>
     <div class="content">
-      <div class="item-list"><ul><li class="first"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/resource/2120">Archival Material: Irving Penn Notebook A2, n.d.</a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/resource/2402">Website: Irving Penn Archives</a></li></ul></div>    </div>    
+      <div class="item-list"><ul><li class="first"><a href="resource/2120">Archival Material: Irving Penn Notebook A2, n.d.</a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/resource/2402">Website: Irving Penn Archives</a></li></ul></div>    </div>    
   </div>
 </div>
 <div id="block-aicexhibitions-artwork_related_categories" class="block block-aicexhibitions">  

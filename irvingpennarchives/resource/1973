@@ -1,6 +1,6 @@
-<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_46fd040abdb73d6d7781d079a5718ac0) -->
-<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_3a15108a3fb472bec4203ff12a7dce3c) -->
-<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_46fd040abdb73d6d7781d079a5718ac0) -->
+<!-- From the cache. (d3d5e458996b1fa09e0038ef60ea62ba_46fd040abdb73d6d7781d079a5718ac0) -->
+<!-- From the cache. (666fc1cf98adeca5cf4f61ba96997a4e_3a15108a3fb472bec4203ff12a7dce3c) -->
+<!-- From the cache. (d3d5e458996b1fa09e0038ef60ea62ba_46fd040abdb73d6d7781d079a5718ac0) -->
 <!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
@@ -189,7 +189,7 @@
 <li class="collapsed"><a href="../permanent">Images</a></li>
 <li class="collapsed"><a href="../timelines">Timelines</a></li>
 <li class="collapsed"><a href="../resource/1971">About the Artist and Archive</a></li>
-<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/cameras-techniques">Cameras and Techniques</a></li>
+<li class="collapsed"><a href="../cameras-techniques">Cameras and Techniques</a></li>
 <li class="expanded"><a href="../additionalresources">Audio and Other Resources</a>
 <ul class="menu">
 <li class="leaf first"><a href="../resource/1951">Recording: 1950 MoMA Symposium</a></li>

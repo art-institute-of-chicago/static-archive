@@ -174,7 +174,7 @@ Your browser does not support the video tag.
 <li class="collapsed"><a href="../permanent">Images</a></li>
 <li class="collapsed"><a href="../timelines">Timelines</a></li>
 <li class="collapsed"><a href="../resource/1971">About the Artist and Archive</a></li>
-<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/cameras-techniques">Cameras and Techniques</a></li>
+<li class="collapsed"><a href="../cameras-techniques">Cameras and Techniques</a></li>
 <li class="expanded"><a href="../additionalresources">Audio and Other Resources</a>
 <ul class="menu">
 <li class="leaf active first"><a href="1951" class="active">Recording: 1950 MoMA Symposium</a></li>

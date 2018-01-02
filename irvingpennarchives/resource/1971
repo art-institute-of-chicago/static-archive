@@ -1,7 +1,7 @@
 <!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_a19b3fb0e2b0d5347a44ff547e5b76af) -->
-<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_9f168619a974c65a7c76f359c9640811) -->
+<!-- From the cache. (666fc1cf98adeca5cf4f61ba96997a4e_9f168619a974c65a7c76f359c9640811) -->
 <!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_a19b3fb0e2b0d5347a44ff547e5b76af) -->
-<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
+<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
 -->
@@ -202,7 +202,7 @@
 
 </ul>
 </li>
-<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/cameras-techniques">Cameras and Techniques</a></li>
+<li class="collapsed"><a href="../cameras-techniques">Cameras and Techniques</a></li>
 <li class="collapsed"><a href="../additionalresources">Audio and Other Resources</a></li>
 <li class="leaf"><a href="../search">Search</a></li>
 <li class="leaf last"><a href="../thanks">Acknowledgements</a></li>

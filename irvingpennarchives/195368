@@ -2,8 +2,8 @@
 <!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_b107009c8011e71e8da985bfc6866e17) -->
 <!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_6e7a14be06aa4e363c30229289c2c095) -->
 <!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_581adaab6e64e9827f322df69dfbe29f) -->
-<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
-<!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_8fb924d6bbf7e26db72d9dcede9c4af9) -->
 <!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_b107009c8011e71e8da985bfc6866e17) -->
 <!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_b107009c8011e71e8da985bfc6866e17) -->
 <!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_6e7a14be06aa4e363c30229289c2c095) -->
@@ -209,7 +209,7 @@ See also collection print, accession number <a href="http://www.artic.edu/aic/co
 <li class="collapsed"><a href="permanent">Images</a></li>
 <li class="collapsed"><a href="timelines">Timelines</a></li>
 <li class="collapsed"><a href="resource/1971">About the Artist and Archive</a></li>
-<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/cameras-techniques">Cameras and Techniques</a></li>
+<li class="collapsed"><a href="cameras-techniques">Cameras and Techniques</a></li>
 <li class="collapsed"><a href="additionalresources">Audio and Other Resources</a></li>
 <li class="leaf"><a href="search">Search</a></li>
 <li class="leaf last"><a href="thanks">Acknowledgements</a></li>
@@ -232,7 +232,7 @@ See also collection print, accession number <a href="http://www.artic.edu/aic/co
   <div class="blockinner">
     <h2 class="title"> Learn More </h2>
     <div class="content">
-      <div class="item-list"><ul><li class="first"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/resource/1985">Archival Material: Irving Penn's hand sketches for <em>Inventive Paris Clothes</em></a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/resource/2401">Timeline: Irving Penn</a></li></ul></div>    </div>    
+      <div class="item-list"><ul><li class="first"><a href="resource/1985">Archival Material: Irving Penn's hand sketches for <em>Inventive Paris Clothes</em></a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/IrvingPennArchives/resource/2401">Timeline: Irving Penn</a></li></ul></div>    </div>    
   </div>
 </div>
 <div id="block-aicexhibitions-artwork_related_categories" class="block block-aicexhibitions">  
