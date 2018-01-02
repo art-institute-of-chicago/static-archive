@@ -11,7 +11,7 @@
   <meta property="og:url" content="/mcqueen" />
   <meta property="og:title" content="Steve McQueen" />
   <meta property="og:description" content="Steve McQueen has had a nearly 20-year career as a visual artist working primarily in moving images. As the holder of the largest collection of work by McQueen in any museum in the United States, the Art Institute of Chicago is proud to present, in the first large-scale survey ever devoted to the artist, 15 of his works, including one created specially for the exhibition and on view for the first time." />
-  <meta property="og:image" content="works/charlotte_480.png" />
+  <meta property="og:image" content="charlotte_480.png" />
 
   <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width" />
@@ -163,7 +163,7 @@
       if(!$('#' + id + '-modal').length) {
         var title = $(area).data('title') ? $(area).data('title') : '';
         var text = $(area).data('text') ? $(area).data('text') : '';
-        var image = $(area).data('image') ? '<img src="/' + $(area).data('image') + '" class="modal-thumbnail"/>' : '';
+        var image = $(area).data('image') ? '<img src="' + $(area).data('image') + '" class="modal-thumbnail"/>' : '';
         var medium = $(area).data('medium') ? $(area).data('medium') : '';
         var caption = $(area).data('caption') ? $(area).data('caption') : '';
         var modal = '<div class="reveal-modal medium panel radius" id="' + id + '-modal">' + 
