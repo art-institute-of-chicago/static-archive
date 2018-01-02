@@ -1,0 +1,245 @@
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_bfdd203ca465dd4842a4e920d851ab50) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_7c6d8fd24f136e2368eb87a5ee506a7b) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_7c6d8fd24f136e2368eb87a5ee506a7b) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_2003997eed72d12df2d88795cb72e3a4) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_76aa4e49306b56e76366c5e17e904e93) -->
+<!-- From the cache. (d3d5e458996b1fa09e0038ef60ea62ba_bfdd203ca465dd4842a4e920d851ab50) -->
+<!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_ad411cbc1eca82d78d755e3af46a28e3) -->
+<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_7c6d8fd24f136e2368eb87a5ee506a7b) -->
+<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_7c6d8fd24f136e2368eb87a5ee506a7b) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Postage Stamp Contest | The Art Institute of Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../js/roll.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
+<style type="text/css">
+      #nav a#exhibitnav {
+      color: #fff;
+      background: #666666;
+    }
+  </style>
+<style type="text/css" media="all">@import "../css/aicportal.css";</style>
+<style type="text/css" media="all">@import "../css/node.css";</style>
+<style type="text/css" media="all">@import "../css/user.css";</style>
+<style type="text/css" media="all">@import "../css/content.css";</style>
+<style type="text/css" media="all">@import "../css/gallery.css";</style>
+<style type="text/css" media="all">@import "../css/colorpicker.css";</style>
+<style type="text/css" media="all">@import "../css/exhibition-8942.css";</style>
+<style type="text/css" media="all">@import "../css/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "../css/devel.css";</style>
+<style type="text/css" media="all">@import "../css/style.css";</style>
+<style type="text/css" media="all">@import "../css/reset-fonts-grids.css";</style>
+<style type="text/css" media="all">@import "../css/system-menus.css";</style>
+<style type="text/css" media="all">@import "../css/system.css";</style>
+<style type="text/css" media="all">@import "../css/main.css";</style>
+<style type="text/css" media="all">@import "../css/collage-managed.css";</style>
+<style type="text/css" media="all">@import "../css/citi-exhib-front.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork.css";</style>
+<style type="text/css" media="all">@import "../css/citi-artwork-illustrated-list.css";</style>
+<style type="text/css" media="print">@import "../css/print.css";</style>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/drupal.js"></script>
+<script type="text/javascript" src="../js/jquery.compat-1.0.js"></script>
+<script type="text/javascript" src="../js/extlink.js"></script>
+<script type="text/javascript" src="../js/devel.js"></script>
+<script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/jqModal.js"></script>
+<script type="text/javascript" src="../js/redirect.js"></script>
+<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/flv.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<!--[if IE 6]>
+<style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
+<![endif]-->
+
+	<script type="text/javascript">
+  $(document).ready(function(){
+    $("img.lazyLoad").lazyload({
+      threshold : 200,
+      placeholder : "../images//aic/collections/sites/default/themes/aicexhibitionstheme/images/blank.gif",
+    });
+  });
+ </script>
+   <!--urchin webstats utm-->
+   <script src="../js/__utm.js" type="text/javascript"></script>
+		<!--/var/www/drupal-collections/sites/default/themes/aicexhibitionstheme/page.tpl.php-->
+</head>
+<body class="not-front not-logged-in sidebar-right citi-exhib-site citi-resource">
+  <div id="header">
+      <div id="header-region">
+    <div id="logo-title">
+                        <a href="http://www.artic.edu/aic/" title="Home" rel="home" id="logo">
+                          <img src="../images/AIC_afr.gif" alt="" title="" width="325" height="15" /></a>
+                    <div id="name-and-slogan">
+                <h1 id="site-name"> <a href="http://www.artic.edu/aic/collections/" title="Home" rel="home"><span>The Art Institute of Chicago</span></a> </h1>
+                      </div>
+      <!-- /name-and-slogan -->
+
+    </div>
+    <!-- /logo-title -->
+   <div id="exhib-banner"><img src="../images/AAhdr_afr.gif" alt="" title="" width="735" height="131" /></div>
+     </div><!--/header-region-->
+
+  </div>
+  <!-- /header -->
+
+<div id="pagewrapper">
+<div id="page">
+  <div id="container" class="clear-block">
+
+           <!--<div id="sidebar-left" class="column sidebar"> </div>-->
+        <!-- /sidebar-left -->
+
+    <div id="main" class="column">
+    
+      <div id="main-squeeze">
+      
+   <div id="navigation">
+              <div id="breadcrumb">
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhbitions/African">Art Access: African Art</a> > <a href="../lesson">Lesson Plans</a> > <span class="sel">Postage Stamp Contest</span></div></div>
+      </div>
+    
+
+    <div id="page-title-wrapper">
+              <h1 class="title">Postage Stamp Contest</h1>
+        </div>
+
+    
+    </div>
+   <!-- /navigation -->
+
+                				        <div id="content">
+                    <div id="content-content" class="clear-block"> <script type="text/javascript">var re="";</script>
+<div class="artwork-content">
+    <div id="artwork-details">
+        <div id="tombstone">
+   
+    <p><strong>Lesson Plan: Postage Stamp Contest</strong><br />       <div class="content">
+<p>The continuity and social well-being of many African communities depends upon the ability to grow abundant crops. The Bamana of southern <a href="../resource/1869">Mali</a>  consider farming to be the most noble of professions. In this lesson, students look at a pair of headdresses used by the Bamana in the spectacular ceremonial Ci Wara masquerade, held to encourage hard work and ensure good crops. Students examine the objects’ forms and learn about their agricultural associations. Then they design a block of four stamps, each one depicting a view of the headdresses that portrays their ceremonial use.</p><br />
+<p><strong>Suggested Grade Level:</strong> 2–6<br />
+<strong>Estimated Time:</strong> 1–2 hours</p>
+<div class="image wrap"><img src="../images/E33781.jpg" border="0" class="inline" /></div>
+<h3>Lesson Objectives</h3>
+<ul>
+<li>Explore an art object’s origin and function.</li><li>Represent a work of art from multiple viewpoints.</li>
+</ul>
+<h3>Key Terms</h3>
+<ul>
+<li><a href="../resource/1869">Western Sudan</a></li>
+<li><a href="../resource/1869">Mali</a></li>
+<li>agriculture</li>
+<li>headdress</li>
+<li>ceremony</li>
+<li>abstract</li>
+<li>symbol</li>
+</ul>
+<h3>Instructional Materials</h3>
+<ul><li><a href="http://www.artic.edu/aic/collections/citi/resources/what_I_see.pdf">What I See When I Really Look Activity Sheet</a></li><li><a href="http://www.artic.edu/aic/collections/citi/resources/stamp_contest.pdf">Postage Stamp Contest activity sheet</a></li><li>pencils</li><li>colored pencils</li><li>watercolors</li><li>watercolor brushes</li>
+</ul><h3>Procedures</h3><p><strong>Discussion</strong></p><ul>
+<li>Show students the <a href="../Pair"><em>Pair of Headdresses (Ci Wara Kunw)</em></a>. If using the Web to view the objects, take advantage of the <a href="../artwork/189595/zoomify">close-up view</a>. </li><li>Have students fill out the <a href="http://www.artic.edu/aic/collections/citi/resources/what_I_see.pdf">What I See When I Really Look Activity Sheet</a>. After they have completed this, make the following observations and ask the following questions to encourage discussion of the objects’ forms: </li>
+<ul><li>Look carefully and think about what you see. What do these objects look like? What elements give you that impression?</li><li>The headdresses combine recognizable forms and abstract shapes. Name all of the animal forms you see. (<em>antelope</em>, <em>anteater</em>, or <em>aardvark</em>) What do you think the repeated triangular shapes represent?</li><li>How do the angles and curves work together to create one visually pleasing object? </li><li>Examine and describe the interesting play between the “positive” shapes (made of wood and metal) and the “negative” shapes (the open spaces in between the solid shapes). Do your eyes focus on the two large basic forms of the sculptures, on the smaller shapes, or do you tend to concentrate on the rich surface of dots and lines?</li><li>What materials were used to make these sculptures? (<em>wood</em>, <em>brass tacks</em>, <em>hammered metal</em>, <em>stiff grasses</em>)</li><li>Which figure represents a man and which one represents a woman? Why might both have been included here? What might the baby suggest? </li>
+</ul><li>Explain to students that these headdresses were worn during ceremonial dances just before planting or harvest. Tell them that the male and female headdresses are always worn in pairs so that they appear to dance together. They represent the cooperation and unity required for successful farming. </li><li>Note again the animals represented by these sculptures. Discuss the physical attributes that make them ideal choices for suggesting the human qualities vital for successful farming.</li><li>Explain that a special Bamana association teaches about farming seasons, soils, and plants. Ask students the following questions: </li>
+<ul><li>How do American farmers learn to farm?</li><li>Can you name social events in the past or present that take place at planting or harvesting times in the United States? (<em>square dances</em>, <em>husking bees</em>, <em>county and state fairs</em>)? What purpose do you think they serve?</li>
+</ul>
+</ul><p><strong>Activity</strong></p><ul>
+<li>Tell students that they have been selected to design a block of four postage stamps celebrating the Bamana culture. Give them two or more postage-stamp activity sheets and encourage them to use one or more to sketch their ideas and another to draw and paint their final images.</li><li>Tell them that all four designs must be based on the headdresses. The images may include: the entire object, parts of the object, the object being used in a ceremony, or the object with the tools and products of agriculture.</li>
+</ul><h3>Evaluation</h3>
+<p>Base students’ evaluations on their participation in class discussion and their ability to analyze an art object by producing distinct views of it.</p><p><strong>Follow-up:</strong></p><p>Have students create a set of four stamps based on another African object in the <a href="http://www.artic.edu/aic/collections/exhibitions/African/index">Arts of Africa Art Access</a> unit. Alternatively, have them create a stamp set based on an African country. Ask them to explore four different aspects of that country, such as terrain, ethnic groups, art, vegetation, lifestyle, exports, animals, national flag, or cities. Encourage them to develop designs that relate to each other.</p><br />
+<p><a href="http://www.isbe.state.il.us/ils/" target="_blank">Illinois Learning Standards</a><br />
+Fine Arts: 25–27<br />
+Social Science: 17–18</p>
+</div><br /><br />
+    	 Art Access<br />    	    </p>
+
+    </div><!--/tombstone-->
+    </div><!--/artwork-details-->
+        <div id="artwork-body">
+
+                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001010.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001010.pdf</a></p>		</div>
+    <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
+
+</div><!--/artwork-content-->
+ </div>
+          <!-- /content-content -->
+           </div>
+        <!-- /content -->
+      </div>
+   
+      <div id="footer-wrapper">
+    <div id="footer"> 
+            <!--Collage footer include-->
+		     
+            <div id="footer_nav">
+        <ul>
+          <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/contact-us">Contact</a> </li>
+          <li class="footer_link"><a href="http://www.artinstituteimages.org">Image Licensing </a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
+          <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+        </ul>
+      </div>
+        <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
+        <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
+ 
+
+		      <!--/Collage footer include-->
+
+    </div>
+    <!-- /footer -->
+  </div>
+  <!-- /footer-wrapper -->
+   </div>
+    <!-- /main-squeeze /main -->
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+  <div class="blockinner">
+    <h2 class="title"> Art Access: African Art </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
+<li class="collapsed"><a href="../Horse">Artworks</a></li>
+<li class="expanded"><a href="../lesson">Lesson Plans</a>
+<ul class="menu">
+<li class="leaf active first"><a href="1010" class="active">Postage Stamp Contest</a></li>
+<li class="leaf"><a href="../resource/1011">Proverbs Are Universal</a></li>
+<li class="leaf last"><a href="../resource/1009">African Myths and Stories</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="../family">Family Activities</a></li>
+<li class="leaf"><a href="../books-media">Books and Media</a></li>
+<li class="leaf"><a href="../resource/1869">Map</a></li>
+<li class="leaf"><a href="../glossary">Glossary</a></li>
+<li class="leaf last"><a href="../selectedworks">View All Works</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+  <div class="blockinner">
+    <h2 class="title"> Related Artworks </h2>
+    <div class="content">
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"><div class="relatedimage"><a href="../artwork/189595"><img src="../images/3935_3060806.jpg" alt="Pair of Headdresses (Ci Wara Kunw)" title="Bamana
+Baninko region, Mali, Pair of Headdresses (Ci Wara Kunw)"  /></a></div> <span class="italic"><a href="../artwork/189595">Pair of Headdresses (Ci Wara Kunw)</a></span>, Mid-19th/early 20th century</li></ul></div></div>    </div>    
+  </div>
+</div>
+ <div id="hoverify-target"></div></div>
+    <!-- /sidebar-right -->
+    
+  </div>
+  <!-- /container --></div>
+<!-- /page -->
+
+   </div><!--/pagewrapper--><!--collage managed!-->
+</body>
+</html>

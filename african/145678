@@ -3,11 +3,11 @@
 <!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_04b105f54f50355ff1d2f66cc1cea1bd) -->
 <!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_af50ca8d91edd2e986aaa3c08ea87649) -->
 <!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_d4745e82aecb406b29b31e88c9ff0e4a) -->
-<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_36bef99ad1563e4e8e4ed1125a38159a) -->
-<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_36bef99ad1563e4e8e4ed1125a38159a) -->
-<!-- From the cache. (d3d5e458996b1fa09e0038ef60ea62ba_04b105f54f50355ff1d2f66cc1cea1bd) -->
-<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_36bef99ad1563e4e8e4ed1125a38159a) -->
-<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_36bef99ad1563e4e8e4ed1125a38159a) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_36bef99ad1563e4e8e4ed1125a38159a) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_36bef99ad1563e4e8e4ed1125a38159a) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_04b105f54f50355ff1d2f66cc1cea1bd) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_36bef99ad1563e4e8e4ed1125a38159a) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_36bef99ad1563e4e8e4ed1125a38159a) -->
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
 -->
@@ -127,9 +127,9 @@ South Africa, Neck Rest (Isicamelo)"  /></a>          </div>
 
     <p class="tools">
               <a href="..\/images\/6163_1659954.jpg" class="enlargement-link enlargement-link-145678"><strong>View</strong> enlargement</a><br />
-                    <a href="http://www.artic.edu/aic/collections/exhibitions/African/artwork/145678/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
-                    <a href="http://www.artic.edu/aic/collections/exhibitions/African/artwork/145678/email"><strong>Email</strong> to a friend</a><br />
-                    <a href="http://www.artic.edu/aic/collections/exhibitions/African/artwork/145678/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+                    <a href="artwork/145678/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
+                    <a href="artwork/145678/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="artwork/145678/print" target="_blank"><strong>Print</strong> this page</a>          </p>
     <!--/tools-->
   
     <div id="artwork-details">
@@ -213,11 +213,11 @@ South Africa<br />
       
 <ul class="menu">
 <li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
-<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/African/Horse">Artworks</a></li>
+<li class="collapsed"><a href="Horse">Artworks</a></li>
 <li class="collapsed"><a href="lesson">Lesson Plans</a></li>
 <li class="collapsed"><a href="family">Family Activities</a></li>
 <li class="leaf"><a href="books-media">Books and Media</a></li>
-<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1869">Map</a></li>
+<li class="leaf"><a href="resource/1869">Map</a></li>
 <li class="leaf"><a href="glossary">Glossary</a></li>
 <li class="leaf last"><a href="selectedworks">View All Works</a></li>
 
@@ -239,7 +239,7 @@ South Africa<br />
   <div class="blockinner">
     <h2 class="title"> Learn More </h2>
     <div class="content">
-      <div class="item-list"><ul><li class="first"><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1869">Map: African Art</a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1928">Website: Art Access: African Art</a></li></ul></div>    </div>    
+      <div class="item-list"><ul><li class="first"><a href="resource/1869">Map: African Art</a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1928">Website: Art Access: African Art</a></li></ul></div>    </div>    
   </div>
 </div>
  <div id="hoverify-target"></div></div>

@@ -129,9 +129,9 @@ Owned by the dagburewe (king) of Idowa, Crown (Ade)"  /></a>          </div>
 
     <p class="tools">
               <a href="..\/images\/6005_1656954.jpg" class="enlargement-link enlargement-link-132676"><strong>View</strong> enlargement</a><br />
-                    <a href="http://www.artic.edu/aic/collections/exhibitions/African/artwork/132676/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
-                    <a href="http://www.artic.edu/aic/collections/exhibitions/African/artwork/132676/email"><strong>Email</strong> to a friend</a><br />
-                    <a href="http://www.artic.edu/aic/collections/exhibitions/African/artwork/132676/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+                    <a href="artwork/132676/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
+                    <a href="artwork/132676/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="artwork/132676/print" target="_blank"><strong>Print</strong> this page</a>          </p>
     <!--/tools-->
   
     <div id="artwork-details">
@@ -228,11 +228,11 @@ Moyo Okediji, "Art of the Yoruba," African Art at the Art Institute of Chicago, 
       
 <ul class="menu">
 <li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
-<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/African/Horse">Artworks</a></li>
+<li class="collapsed"><a href="Horse">Artworks</a></li>
 <li class="collapsed"><a href="lesson">Lesson Plans</a></li>
 <li class="collapsed"><a href="family">Family Activities</a></li>
 <li class="leaf"><a href="books-media">Books and Media</a></li>
-<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1869">Map</a></li>
+<li class="leaf"><a href="resource/1869">Map</a></li>
 <li class="leaf"><a href="glossary">Glossary</a></li>
 <li class="leaf last"><a href="selectedworks">View All Works</a></li>
 

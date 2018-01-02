@@ -4,11 +4,11 @@
 <!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_ba94a5a782a2ac48a1765721347e0910) -->
 <!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_d4745e82aecb406b29b31e88c9ff0e4a) -->
 <!-- From the cache. (6845e122228dc6319504cbffc26a6b5f_d4745e82aecb406b29b31e88c9ff0e4a) -->
-<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_9b8dc0e1a63f1cc2602094dd4871eb6d) -->
-<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_9b8dc0e1a63f1cc2602094dd4871eb6d) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_9b8dc0e1a63f1cc2602094dd4871eb6d) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_9b8dc0e1a63f1cc2602094dd4871eb6d) -->
 <!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_6e56d02504fa12af22237affee578811) -->
-<!-- From the cache. (112c333cf82139afb9e5f7b1dae242ba_9b8dc0e1a63f1cc2602094dd4871eb6d) -->
-<!-- From the cache. (74d0db3aaed1436fc2d6b05906452960_9b8dc0e1a63f1cc2602094dd4871eb6d) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_9b8dc0e1a63f1cc2602094dd4871eb6d) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_9b8dc0e1a63f1cc2602094dd4871eb6d) -->
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
 -->
@@ -127,9 +127,9 @@
 
     <p class="tools">
               <a href="..\/images\/8387_1684533.jpg" class="enlargement-link enlargement-link-158772"><strong>View</strong> enlargement</a><br />
-                    <a href="http://www.artic.edu/aic/collections/exhibitions/African/artwork/158772/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
-                    <a href="http://www.artic.edu/aic/collections/exhibitions/African/artwork/158772/email"><strong>Email</strong> to a friend</a><br />
-                    <a href="http://www.artic.edu/aic/collections/exhibitions/African/artwork/158772/print" target="_blank"><strong>Print</strong> this page</a>          </p>
+                    <a href="artwork/158772/zoomify" class="zoomify-link"><strong>Zoom</strong> image</a><br />
+                    <a href="artwork/158772/email"><strong>Email</strong> to a friend</a><br />
+                    <a href="artwork/158772/print" target="_blank"><strong>Print</strong> this page</a>          </p>
     <!--/tools-->
   
     <div id="artwork-details">
@@ -229,11 +229,11 @@ Mary Gerhart and Fabian E. Udoh, eds. The Christianity Reader (Chicago: The Univ
       
 <ul class="menu">
 <li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
-<li class="collapsed"><a href="http://www.artic.edu/aic/collections/exhibitions/African/Horse">Artworks</a></li>
+<li class="collapsed"><a href="Horse">Artworks</a></li>
 <li class="collapsed"><a href="lesson">Lesson Plans</a></li>
 <li class="collapsed"><a href="family">Family Activities</a></li>
 <li class="leaf"><a href="books-media">Books and Media</a></li>
-<li class="leaf"><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1869">Map</a></li>
+<li class="leaf"><a href="resource/1869">Map</a></li>
 <li class="leaf"><a href="glossary">Glossary</a></li>
 <li class="leaf last"><a href="selectedworks">View All Works</a></li>
 
@@ -255,7 +255,7 @@ Mary Gerhart and Fabian E. Udoh, eds. The Christianity Reader (Chicago: The Univ
   <div class="blockinner">
     <h2 class="title"> Learn More </h2>
     <div class="content">
-      <div class="item-list"><ul><li class="first"><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1979">Book: The Miracles of Mary: A Seventeenth-Century Ethiopian Manuscript</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1869">Map: African Art</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1633">Timeline: When in Africa, When in the World</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/2621">Turning the Pages: Gonder, Ethiopia, <em>Miracles of Mary (Te'amire Maryam)</em> manuscript, late 17th century</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1885">Video: 13th-Century St. George Church, Lalibela, Ethiopia</a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1928">Website: Art Access: African Art</a></li></ul></div>    </div>    
+      <div class="item-list"><ul><li class="first"><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1979">Book: The Miracles of Mary: A Seventeenth-Century Ethiopian Manuscript</a></li><li><a href="resource/1869">Map: African Art</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1633">Timeline: When in Africa, When in the World</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/2621">Turning the Pages: Gonder, Ethiopia, <em>Miracles of Mary (Te'amire Maryam)</em> manuscript, late 17th century</a></li><li><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1885">Video: 13th-Century St. George Church, Lalibela, Ethiopia</a></li><li class="last"><a href="http://www.artic.edu/aic/collections/exhibitions/African/resource/1928">Website: Art Access: African Art</a></li></ul></div>    </div>    
   </div>
 </div>
  <div id="hoverify-target"></div></div>
