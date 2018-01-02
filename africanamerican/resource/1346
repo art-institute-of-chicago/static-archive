@@ -1,22 +1,23 @@
-<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_7a6ad3217b582f61f93095ce55f5668a) -->
-<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_44732a8182aac64613f64ca6a8f55957) -->
-<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_44732a8182aac64613f64ca6a8f55957) -->
-<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_d550d80d746be8c293bd01c6bc0b5036) -->
-<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_c05042fbe63a4d059bbe8fb1acb9462d) -->
-<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_7a6ad3217b582f61f93095ce55f5668a) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_6bb9781a6f8c17a9c10dbc51b23ccb72) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_60f4f70bf106a4c5e1a87136f20b3521) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_60f4f70bf106a4c5e1a87136f20b3521) -->
+<!-- From CITI. (666fc1cf98adeca5cf4f61ba96997a4e_64cbc4c88894132eb272fc0adaf64dfe) -->
+<!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_966dfc3f2054eaaa268e1aca3a14721c) -->
+<!-- From the cache. (d3d5e458996b1fa09e0038ef60ea62ba_6bb9781a6f8c17a9c10dbc51b23ccb72) -->
 <!-- From CITI. (6845e122228dc6319504cbffc26a6b5f_247f1aae5f06c95ea518d54ead797fc4) -->
-<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_44732a8182aac64613f64ca6a8f55957) -->
-<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_44732a8182aac64613f64ca6a8f55957) -->
+<!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_60f4f70bf106a4c5e1a87136f20b3521) -->
+<!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_60f4f70bf106a4c5e1a87136f20b3521) -->
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- Drupal 6 code: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
 -->
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
-<title>Frame Your Portrait | The Art Institute of Chicago</title>
+<title>Map | The Art Institute of Chicago</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <script type="text/javascript" src="../js/roll.js"></script>
 <link type="text/css" rel="stylesheet" media="all" href="../css/roll.css" />
+<script type='text/javascript' src='http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAAFF_WC1caP8MqSY2IpK3vRRTfpeXB0ZEvC_rFQysW8umeeP2sRTji4Bjd-_ZUZ5uq7yaOW1VqbWgfQ'></script>
 <link rel="shortcut icon" href="../images/aicexhibitionstheme_favicon.png" type="image/x-icon" />
 <style type="text/css">
       #nav a#exhibitnav {
@@ -49,12 +50,13 @@
 <script type="text/javascript" src="../js/extlink.js"></script>
 <script type="text/javascript" src="../js/devel.js"></script>
 <script type="text/javascript" src="../js/autocomplete.js"></script>
+<script type="text/javascript" src="../js/aicmaps-gmaps.js"></script>
 <script type="text/javascript" src="../js/jqModal.js"></script>
 <script type="text/javascript" src="../js/redirect.js"></script>
 <script type="text/javascript" src="../js/jquery.lazyload.js"></script>
 <script type="text/javascript" src="../js/scripts.js"></script>
 <script type="text/javascript" src="../js/flv.js"></script>
-<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 } } });</script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "aicmaps": { "map": "aicmap", "kml": "http://www.artic.edu/aic/collections/citi/resources/Rsrc_001346.kml" } } });</script>
 <!--[if IE 6]>
 <style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
 <![endif]-->
@@ -103,12 +105,12 @@
       
    <div id="navigation">
               <div id="breadcrumb">
-        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican">Art Access: African American Art</a> > <a href="../family">Family Activities</a> > <span class="sel">Frame Your Portrait</span></div></div>
+        <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican">Art Access: African American Art</a> > <span class="sel">Map</span></div></div>
       </div>
     
 
     <div id="page-title-wrapper">
-              <h1 class="title">Frame Your Portrait</h1>
+              <h1 class="title">Map</h1>
         </div>
 
     
@@ -121,58 +123,17 @@
     <div id="artwork-details">
         <div id="tombstone">
    
-    <p><strong>Family Activity: Frame Your Portrait</strong><br />       <div class="content">
-<p>See how portraits, like this <a href="../Douglass">daguerrotype of abolitionist Frederick Douglass</a>, capture a person's appearance and personality. Includes discussion questions and an art-making activity.</p>
-<h3>Introduction</h3>
-<p>When photography was new, many people, including the famous <a href="1035#abolitionist">abolitionist</a> <a href="1035#FrederickDouglass">Frederick Douglass</a>, wanted to have their portraits made. Douglass had this <a href="1035#daguerreotype">daguerreotype</a> taken while he was on a speaking tour. To protect them, daguerrotypes like this one were placed in metal frames with covers.</p>
-<div class="image wrap"><img src="../images/6162_661470.jpg" border="0" class="inline" /></div>
-
-<h3>Discussion Questions</h3>
-<ul>
-  <li>How do you think Douglass was feeling when this <a href="1035#portrait">portrait</a> was made?</li>
-  <li>How can you tell?</li>
-<li>How can you tell that this is an old photograph?</li>
-</ul><br />
- <h3>Activity</h3>
-<p>Make a frame and cover for a portrait of yourself.</p>
-<div class="image wrap"><img src="../images/afam-familyportrait.jpg" border="0" class="inline" /></div>
-<h3>Materials Needed:</h3>
-<ul>
-<li>Poster board or thin cardboard cut 10" x 7"</li>
-<li>Construction paper cut 4 1/2" x 6 1/2"</li>
-<li>Aluminum foil</li>
-<li>Glue</li>
-<li>Camera</li>
-<li>Paper</li>
-<li>Colored pencils</li>
-</ul>
-<h3>Steps:</h3>
-<ol>
-  <li>Cut an oval out of the center of the construction paper.</li>
-  <li>Fold the cardboard in half so that it forms a 5" x 7" frame with a cover. Cover the cardboard completely with aluminum foil. You may need to use glue to secure the edges.</li>
-<li>Sit in a chair and strike a serious pose like Douglass. Ask a friend or family member to take your photograph and then have it developed into a 4" x 6" print. As an alternative, use an existing 4" x 6" photograph or a draw your own <a href="1035#selfportrait">self-portrait</a>.</li>
-<li>Glue the photograph or drawing to the inside of your foil case. Center the construction paper over the photograph and glue it in place. </li>
-</ol>
-<h3>Glossary</h3>
-<p><strong><a name="abolitionist" id="abolitionist"></a>abolitionist</strong>  (<em>n</em>; <em>adj</em>)
-<br />
-a person who spoke, wrote, or fought against slavery. Some abolitionists were free African Americans, others were escaped slaves, and many were Caucasian; of or relating to the anti-slavery movement </p>
-<p><strong><a name="daguerreotype" id="daguerreotype"></a>daguerreotype</strong> (<em>n</em>)<br />
-invented in France in 1839, one of the two original forms of photography. Daguerreotypes are unique, non-reproducible images produced on copper plates coated with silver that has been made sensitive to light. Daguerreotype images are remarkably clear and detailed, which makes them perfect for portraits.</p>
-<p><strong><a name="FrederickDouglass" id="FrederickDouglass"></a>Frederick Douglass</strong> (1857-1895)<br />
-black American ex-slave whose speeches and writings brought him to the forefront of the American abolitionist movement. Douglass became the first black citizen to hold high rank in the U.S. government as minister and consul general to Haiti.</p>
-<p> <strong><a name="portrait" id="portrait"></a>portrait</strong> (<em>n</em>)<br />
-the likeness of a person (especially a face) in a work of art, such as a painting, drawing, sculpture, or photograph</p>
-<p><strong><a name="selfportrait" id="selfportrait"></a>self-portrait</strong> (<em>n</em>)<br />
-a portrait of oneself done by oneself</p>
-</div><br /><br />
+    <p><strong>Map: African-American Art</strong><br />       <p>Click on the markers on the map below to see the contexts of various works of African-American art.</p><br /><br />
     	 Art Access<br />    	    </p>
 
     </div><!--/tombstone-->
     </div><!--/artwork-details-->
         <div id="artwork-body">
 
-                		<p><a href="http://www.artic.edu/aic/collections/citi/resources/Rsrc_001035.pdf">http://www.artic.edu/aic/collections/citi/resources/Rsrc_001035.pdf</a></p>		</div>
+                		  
+
+
+<div id='aicmap' style='width: 545px; height: 331px'></div>		</div>
     <div class="relatedworks"><div class="item-list"><ul></ul></div></div>
 
 </div><!--/artwork-content-->
@@ -218,15 +179,9 @@ a portrait of oneself done by oneself</p>
 <li class="leaf first"><a href="http://www.artic.edu/aic/collections/exhibitions/ArtAccess">Art Access Home</a></li>
 <li class="collapsed"><a href="../Douglass">Artworks</a></li>
 <li class="collapsed"><a href="../lesson">Lesson Plans</a></li>
-<li class="expanded"><a href="../family">Family Activities</a>
-<ul class="menu">
-<li class="leaf active first"><a href="1035" class="active">Frame Your Portrait</a></li>
-<li class="leaf last"><a href="../resource/1034">Finding Art</a></li>
-
-</ul>
-</li>
+<li class="collapsed"><a href="../family">Family Activities</a></li>
 <li class="leaf"><a href="../books-media">Books and Media</a></li>
-<li class="leaf"><a href="../resource/1346">Map</a></li>
+<li class="leaf active"><a href="1346" class="active">Map</a></li>
 <li class="leaf"><a href="../glossary">Glossary</a></li>
 <li class="leaf last"><a href="../selectedworks">View All Works</a></li>
 
@@ -238,7 +193,10 @@ a portrait of oneself done by oneself</p>
   <div class="blockinner">
     <h2 class="title"> Related Artworks </h2>
     <div class="content">
-      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/145681">Frederick Douglass</a></span>, 1847/52</li></ul></div></div>    </div>    
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/117319">Sharecropper</a></span>, 1952, printed 1970</li><li><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/118282"><img src="../images/31562_3061278.jpg" alt="Study for Aspects of Negro Life: The Negro in an African Setting" title="Aaron Douglas
+American, 1899-1979, Study for Aspects of Negro Life: The Negro in an African Setting"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/118282">Study for Aspects of Negro Life: The Negro in an African Setting</a></span>, 1934</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/105800">Train Station</a></span>, 1935</li></ul><p><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/resource/morerelatedartworks" class="morerelatedartworks">More related artworks&hellip;</a></p></div><div id="relatedArtworksMore"><ul><li class="first"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/117319">Sharecropper</a></span>, 1952, printed 1970</li><li><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/118282"><img src="../images/31562_3061278.jpg" alt="Study for Aspects of Negro Life: The Negro in an African Setting" title="Aaron Douglas
+American, 1899-1979, Study for Aspects of Negro Life: The Negro in an African Setting"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/118282">Study for Aspects of Negro Life: The Negro in an African Setting</a></span>, 1934</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/105800">Train Station</a></span>, 1935</li><li><div class="relatedimage"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/8633"><img src="../images/3370_3060766.jpg" alt="Hero Construction" title="Richard Hunt
+American, born 1935, Hero Construction"  /></a></div> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/8633">Hero Construction</a></span>, 1958</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/125660">The Wedding</a></span>, 1948</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/137125">Many Mansions</a></span>, 1994</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/145681">Frederick Douglass</a></span>, 1847/52</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/117266">Nightlife</a></span>, 1943</li><li> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/87643">The Two Disciples at the Tomb</a></span>, c. 1906</li><li class="last"> <span class="italic"><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/artwork/129884">Starry Night and the Astronauts</a></span>, 1972</li></ul><p><a href="http://www.artic.edu/aic/collections/exhibitions/AfricanAmerican/resource/lessrelatedartworks" class="lessrelatedartworks">&hellip;Fewer related artworks</a></p></div></div>    </div>    
   </div>
 </div>
  <div id="hoverify-target"></div></div>
