@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+   
+  <Placemark>
+    <name>Atlantic Ocean</name>
+    <description>
+    <![CDATA[
+    	<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/Herring-Net"><img style="margin-right:10px; margin-bottom:10px" alt="The Herring Net" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/E11025_small.jpg" align="left"></a>
+Winslow Homer, <a href="http://www.artic.edu/aic/collections/exhibitions/American/Herring-Net"><em>The Herring Net</em></a>, 1885<br />
+    ]]>
+    </description>
+    <Point>
+      <coordinates>-65.390625,38.065392</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Chicago, Illinois</name>
+    <description>
+    <![CDATA[
+    	<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/At-Mouquins"><img style="margin-right:10px; margin-bottom:10px" alt="At Mouquin's" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/G35175_small.jpg" align="left"></a>
+William Glackens, <a href="http://www.artic.edu/aic/collections/exhibitions/American/At-Mouquins"><em>At Mouquin's</em></a>, 1905<br />
+    ]]>
+    </description>
+    <Point>
+      <coordinates>-87.6500,41.8500</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Boston, Massachusetts</name>
+    <description>
+    <![CDATA[
+    	<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/MrsHubbard"><img style="margin-right:10px; margin-bottom:10px" alt="Mrs. Daniel Hubbard" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/E26551_small.jpg" align="left"></a>
+John Singleton Copley, <a href="http://www.artic.edu/aic/collections/exhibitions/American/MrsHubbard"><em>Mrs. Daniel Hubbard (Mary Greene)</em></a>, c. 1764<br /><br /><br /><br />
+<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/MrsHubbard#daniel"><img style="margin-right:10px; margin-bottom:10px" alt="Daniel Hubbard" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/E31177_small.jpg" align="left"></a>
+John Singleton Copley, <a href="http://www.artic.edu/aic/collections/exhibitions/American/MrsHubbard#daniel"><em>Daniel Hubbard</em></a>, 1764<br /><br /><br /><br /><br />
+<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/high-chest"><img style="margin-right:10px; margin-bottom:10px" alt="High Chest" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/E33825_small.jpg" align="left"></a>
+Attributed to John Goddard, <a href="http://www.artic.edu/aic/collections/exhibitions/American/high-chest"><em>High Chest</em></a>, 1755/75<br />
+    ]]>
+    </description>
+    <Point>
+      <coordinates>-71.0500, 42.3500</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Newport, Rhode Island</name>
+    <description>
+    <![CDATA[
+    	<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/high-chest"><img style="margin-right:10px; margin-bottom:10px" alt="High Chest" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/E33825_small.jpg" align="left"></a>
+Attributed to John Goddard, <a href="http://www.artic.edu/aic/collections/exhibitions/American/high-chest"><em>High Chest</em></a>, 1755/75<br />
+    ]]>
+    </description>
+    <Point>
+      <coordinates>-71.3000,41.4833</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Prout's Neck, Maine</name>
+    <description>
+    <![CDATA[
+    	<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/Herring-Net"><img style="margin-right:10px; margin-bottom:10px" alt="The Herring Net" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/E11025_small.jpg" align="left"></a>
+Winslow Homer, <a href="http://www.artic.edu/aic/collections/exhibitions/American/Herring-Net"><em>The Herring Net</em></a>, 1885<br />
+    ]]>
+    </description>
+    <Point>
+      <coordinates>-70.3000,43.5333</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>New York, New York</name>
+    <description>
+    <![CDATA[
+    	<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/high-chest"><img style="margin-right:10px; margin-bottom:10px" alt="High Chest" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/E33825_small.jpg" align="left"></a>
+Attributed to John Goddard, <a href="http://www.artic.edu/aic/collections/exhibitions/American/high-chest"><em>High Chest</em></a>, 1755/75<br /><br /><br /><br /><br />
+		<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/Bar-room"><img style="margin-right:10px; margin-bottom:10px" alt="Bar-room Scene" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/G29104_small.jpg" align="left"></a>
+William Sidney Mount, <a href="http://www.artic.edu/aic/collections/exhibitions/American/Bar-room"><em>Bar-room Scene</em></a>, 1835<br /><br /><br /><br />
+    	<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/Dinner"><img style="margin-right:10px; margin-bottom:10px" alt="For Sunday's Dinner" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/E12795_small.jpg" align="left"></a>
+William Michael Harnett, <a href="http://www.artic.edu/aic/collections/exhibitions/American/Dinner"><em>For Sunday's Dinner</em></a>, 1988<br /><br /><br /><br /><br />
+		<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/At-Mouquins"><img style="margin-right:10px; margin-bottom:10px" alt="At Mouquin's" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/G35175_small.jpg" align="left"></a>
+William Glackens, <a href="http://www.artic.edu/aic/collections/exhibitions/American/At-Mouquins"><em>At Mouquin's</em></a>, 1905<br />
+    ]]>
+    </description>
+    <Point>
+      <coordinates>-74.0000,40.7000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Philadelphia, Pennsylvania</name>
+    <description>
+    <![CDATA[
+    	<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/high-chest"><img style="margin-right:10px; margin-bottom:10px" alt="High Chest" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/E33825_small.jpg" align="left"></a>
+Attributed to John Goddard, <a href="http://www.artic.edu/aic/collections/exhibitions/American/high-chest"><em>High Chest</em></a>, 1755/75<br /><br /><br /><br /><br />
+		<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/Dinner"><img style="margin-right:10px; margin-bottom:10px" alt="For Sunday's Dinner" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/E12795_small.jpg" align="left"></a>
+William Michael Harnett, <a href="http://www.artic.edu/aic/collections/exhibitions/American/Dinner"><em>For Sunday's Dinner</em></a>, 1988<br />
+    ]]>
+    </description>
+    <Point>
+      <coordinates>-75.1500,39.9500</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Setauket, New York</name>
+    <description>
+    <![CDATA[
+    	<br /><a href="http://www.artic.edu/aic/collections/exhibitions/American/Bar-room"><img style="margin-right:10px; margin-bottom:10px" alt="Bar-room Scene" src="http://www.artic.edu/aic/collections/citi/resources/_erfimages/G29104_small.jpg" align="left"></a>
+William Sidney Mount, <a href="http://www.artic.edu/aic/collections/exhibitions/American/Bar-room"><em>Bar-room Scene</em></a>, 1835<br />
+    ]]>
+    </description>
+    <Point>
+      <coordinates>-73.1167,40.9333</coordinates>
+    </Point>
+  </Placemark>
+  
+ 
+</Document>
+</kml>

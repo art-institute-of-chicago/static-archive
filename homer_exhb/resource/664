@@ -3,7 +3,7 @@
 <!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_f469fcdb6331cd9020582bd8818c905d) -->
 <!-- From the cache. (666fc1cf98adeca5cf4f61ba96997a4e_e9499002baec2b0a77e86196458577bd) -->
 <!-- From CITI. (5ba087ae279ab2d4e494d281ebe0e853_d9d134a8f5b90afcf2419ed1dd27f6b4) -->
-<!-- From the cache. (d3d5e458996b1fa09e0038ef60ea62ba_ac4dcb06811aa719db6478262d233bcf) -->
+<!-- From CITI. (d3d5e458996b1fa09e0038ef60ea62ba_ac4dcb06811aa719db6478262d233bcf) -->
 <!-- From CITI. (112c333cf82139afb9e5f7b1dae242ba_7db41724c1bdb956cfca7280a0fcd37a) -->
 <!-- From CITI. (74d0db3aaed1436fc2d6b05906452960_7db41724c1bdb956cfca7280a0fcd37a) -->
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -97,20 +97,20 @@
         <!-- /sidebar-left -->
 
     <div id="main" class="column">
-    
+
       <div id="main-squeeze">
-      
+
    <div id="navigation">
               <div id="breadcrumb">
         <div class="breadcrumb"><div class="breadcrumb"><a href="http://www.artic.edu/aic/">Home</a> > <a href="http://www.artic.edu/aic/exhibitions/">Exhibitions</a> > <a href="http://www.artic.edu/aic/collections/exhibitions/homer_exhb">Winslow Homer: The Color of Light</a> > <a href="../resource">Resources</a> > <span class="sel">Resource details</span></div></div>
       </div>
-    
+
 
     <div id="page-title-wrapper">
               <h1 class="title">Resource details</h1>
         </div>
 
-    
+
     </div>
    <!-- /navigation -->
 
@@ -119,7 +119,7 @@
 <div class="artwork-content">
     <div id="artwork-details">
         <div id="tombstone">
-   
+
     <p><strong>Audio Lecture: Winslow Homer, Artist and Angler</strong><br />       <p>Patricia Junker looks closely at Homer's avid pursuit of fly-fishing and the inspiration it provided for his art.</p><br /><br />
     	 Public lecture<br />
 27 March 2008<br />
@@ -129,7 +129,7 @@ Patricia Junker, Seattle Art Museum<br />    	    </p>
     </div><!--/artwork-details-->
         <div id="artwork-body">
 
-                		<audio src="664_junker.mp3" controls>
+                		<audio src="../assets/664_junker.mp3" controls>
 <p>Your browser does not support the <code>audio</code> element.</p>
 </audio>
 		</div>
@@ -141,11 +141,11 @@ Patricia Junker, Seattle Art Museum<br />    	    </p>
            </div>
         <!-- /content -->
       </div>
-   
+
       <div id="footer-wrapper">
-    <div id="footer"> 
+    <div id="footer">
             <!--Collage footer include-->
-		     
+
             <div id="footer_nav">
         <ul>
           <li class="first footer_link"><a href="http://www.artic.edu/about">About</a> </li>
@@ -154,12 +154,12 @@ Patricia Junker, Seattle Art Museum<br />    	    </p>
           <li class="footer_link"><a href="http://www.artic.edu/copyright">Terms of Use </a> </li>
           <li class="footer_link"><a href="http://www.saic.edu/">SAIC</a> </li>
           <li class="footer_link"><a href="http://www.artic.edu/employment">Employment</a> </li>
-          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li> 
+          <li class="footer_link"><a href="http://www.artic.edu/e-news">E-news</a> </li>
         </ul>
       </div>
         <p>&copy; 2013 The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, Illinois, 60603-6404<br />
         <a href="http://www.artic.edu/copyright">Terms and Conditions</a> | All text and images on this site are protected by U.S. and international copyright laws. Unauthorized use is prohibited.</p>
- 
+
 
 		      <!--/Collage footer include-->
 
@@ -169,11 +169,11 @@ Patricia Junker, Seattle Art Museum<br />    	    </p>
   <!-- /footer-wrapper -->
    </div>
     <!-- /main-squeeze /main -->
-        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">  
+        <div id="sidebar-right" class="column sidebar"> <div id="block-menu_trim-475" class="block block-menu_trim">
   <div class="blockinner">
     <h2 class="title"> Winslow Homer: The Color of Light </h2>
     <div class="content">
-      
+
 <ul class="menu">
 <li class="leaf first"><a href="../overview">Overview</a></li>
 <li class="collapsed"><a href="../exhibthemes">Exhibition Themes</a></li>
@@ -183,19 +183,19 @@ Patricia Junker, Seattle Art Museum<br />    	    </p>
 <li class="leaf last"><a href="http://www.artic.edu/aic/collections/exhibitions/homer/behindscenes">Behind the Scenes</a></li>
 
 </ul>
-    </div>    
+    </div>
   </div>
 </div>
-<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">  
+<div id="block-aicexhibitions-resource_related_artworks" class="block block-aicexhibitions">
   <div class="blockinner">
     <h2 class="title"> Related Artworks </h2>
     <div class="content">
-      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="../artwork/16823">The Rapids, Hudson River, Adirondacks</a></span>, 1894</li></ul></div></div>    </div>    
+      <div class="item-list"><div id="relatedArtworksLess"><ul ><li class="first last"> <span class="italic"><a href="../artwork/16823">The Rapids, Hudson River, Adirondacks</a></span>, 1894</li></ul></div></div>    </div>
   </div>
 </div>
  <div id="hoverify-target"></div></div>
     <!-- /sidebar-right -->
-    
+
   </div>
   <!-- /container --></div>
 <!-- /page -->

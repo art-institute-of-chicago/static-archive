@@ -54,7 +54,7 @@
 <script type="text/javascript" src="../js/jquery.lazyload.js"></script>
 <script type="text/javascript" src="../js/scripts.js"></script>
 <script type="text/javascript" src="../js/flv.js"></script>
-<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "aicmaps": { "map": "aicmap", "kml": "http://www.artic.edu/aic/collections/citi/resources/Rsrc_001870.kml" } } });</script>
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1 }, "aicmaps": { "map": "aicmap", "kml": "../assets/Rsrc_001870.kml" } } });</script>
 <!--[if IE 6]>
 <style type="text/css" media="all">@import "../css//aic/collections/sites/default/themes/aicexhibitionstheme/css/ie6-styles.css";</style>
 <![endif]-->

@@ -72,14 +72,14 @@ $(document).ready(function() {
 
       $('<div class="enlargement">')
   			.append($('<div class="banner">')
-  							.append('<div class="close"><a href="#" class="jqmClose">X</a></div>')
+  							.append('<div class="close"><a href="scripts.js#" class="jqmClose">X</a></div>')
   							.append($('<div class="caption">')
   											.append('<div class="enlargement-artist">' + Drupal.settings.citi.enlargements[href].object_artist_culture_display + '</div>')
   											.append('<div class="enlargement-title-date"><em>' + Drupal.settings.citi.enlargements[href].object_title + '</em>, ' + Drupal.settings.citi.enlargements[href].object_date_display + '</div>')
 												.append('<div class="enlargement-copyright">' + (Drupal.settings.citi.enlargements[href].object_copyright_notice || '') + '</div>')
   											)
   							)
-  			.append('<img class="enlargement-image" src="' + href + '" />')
+  			.append('<img class="enlargement-image" src="http://www.artic.edu/aic/collections/sites/default/themes/aicexhibitionstheme/' + href + '" />')
   			.css({
           display: 'none',
           position: 'absolute',
@@ -104,7 +104,7 @@ $(document).ready(function() {
   // We want to exclude only Firefox on the Mac, because for some reason that one browser is buggy
   // and doesn't render this properly.
   if (!(/Mac/.test(navigator.platform) && /Firefox/.test(navigator.userAgent))) {
-    $('<div class="zoomify enlargement"><div class="banner"><div class="close"><a href="#" class="jqmClose">X</a></div><div class="zoom-image"></div></div>')
+    $('<div class="zoomify enlargement"><div class="banner"><div class="close"><a href="scripts.js#" class="jqmClose">X</a></div><div class="zoom-image"></div></div>')
       .css({
         display: 'none',
         position: 'absolute',
