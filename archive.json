@@ -308,7 +308,7 @@
 			"description": "The arts of Africa are diverse and powerful vehicles for creative expression. Artistic traditions reach back 70,000 years to the time of rock art but are also vital, new, and ever-changing in the present world. The Art Institute’s collection, widely recognized for its fine quality, features noteworthy examples of wood sculpture, masks, ceramics, furniture, textiles, and beadwork from western, central, southern, and eastern Africa. (Art made north of the Sahara Desert, as in Egypt, is often kept in other areas of the museum.) While some of the art forms in the collection are no longer produced, others remain vitally important in community life. Although we do not know that names of many of the artists who created these objects, we should not assume they were anonymous.",
 			"exhibition_ids": [],
 			"agent_ids": [],
-			"artwork_ids": []
+                        "artwork_ids": [158772, 65187, 146961, 189595, 189597, 15457, 51809, 99539, 125774, 111401, 146941, 151358, 102611, 132676, 189596, 145678]
 		},
 		{
 			"id": 32,
@@ -318,7 +318,7 @@
 			"description": "The Art Institute of Chicago's collection of African American art provides a rich introduction to over 100 years of noted achievements in painting, sculpture, and printmaking. Ranging chronologically from the Civil War era to the Harlem Renaissance and from the civil-rights struggles following World War II to the contemporary period, these works constitute a dynamic visual legacy.",
 			"exhibition_ids": [],
 			"agent_ids": [],
-			"artwork_ids": []
+                        "artwork_ids": [145681, 87643, 118282, 105800, 125660, 117266, 8633, 117319, 129884, 93903, 137125, 152428, 62452]
 		},
 		{
 			"id": 33,
@@ -328,7 +328,7 @@
 			"description": "The objects in the Art Institute of Chicago's collection of American art range from skillful portraits and finely crafted furniture of the colonial period to sculptures and landscape and genre paintings of the 19th and early 20th centuries. These objects reflect the changing values of the land and its people over two centuries that saw the establishment of national independence, a civil war, westward expansion, and the United States' development as an international power. Since its founding in the late 19th century, the Art Institute has collected and supported American art in numerous ways. A series of annual exhibitions initiated in 1888 created a showcase for the work of contemporary American artists until the 1980s. The 1893 World's Columbian Exposition in Chicago included an exhibition of American art that featured Winslow Homer's 1885 The Herring Net. This monumental work was then purchased by one of the museum's largest donors and American art advocates, Martin A. Ryerson. Among the Art Institute's donors, the Friends of American Art, a purchasing group founded in 1910 and still active, has worked to continually enhance the American collection.",
 			"exhibition_ids": [],
 			"agent_ids": [],
-			"artwork_ids": []
+                        "artwork_ids": [59787, 59784, 74072, 30709, 76571, 125652, 104048, 149776, 81574, 139288, 25865, 44018, 111377, 135454, 110761, 69780, 15401]
 		},
 		{
 			"id": 34,
@@ -338,7 +338,7 @@
 			"description": "For thousands of years, the southwestern portion of what is now the United States and the Mesoamerican and Andean regions had been inhabited by great civilizations preceded only by the cultures of the ancient Middle East and China. The Art Institute’s holdings of Amerindian art from 2000 B.C. to A.D. 1492 are widely recognized for their exceptional quality. The collection includes sculpture, ceramics, metalwork, and textiles (which are part of the department of textiles) created by Native Americans, the inhabitants of Teotihuacan, and the Olmec, Maya, and Aztecs of ancient Mesoamerica—the geographical area comprising New Mexico, Mexico, Guatemala, Belize, and parts of Honduras and El Salvador. The figurative art of ancient South American Indians, particularly those who lived in the mountainous Andean region of Ecuador, Peru, and Bolivia, is well represented in the collection.",
 			"exhibition_ids": [],
 			"agent_ids": [],
-			"artwork_ids": []
+                        "artwork_ids": [55249, 36138, 75238, 14968, 110246, 126858, 75644, 99520, 33772, 91377, 91573, 86178, 18757, 91620]
 		},
 		{
 			"id": 35,
@@ -448,7 +448,7 @@
 			"description": "The arts of China are as varied and complicated as its history. What we now refer to as China covers a vast geographical area that has been controlled, conquered, and divided by a succession of different peoples over the centuries. The Art Institute’s collection of Chinese art includes objects that span nearly five millennia, ranging from the earliest evidence of Chinese stonework from the Neolithic period through elegant personal accessories of the late Bronze Age as well as a remarkable collection of ceramic tomb figures that exemplify the highest level of mortuary sculpture from the Han through Tang dynasties. The Art Institute’s collection reflects China’s changing history, religion, and culture. In it one can trace the development of Confucianism, Buddhism, and Taoism in China, changes in imperial rule, and technological advances in the Art Institute’s works.",
 			"exhibition_ids": [],
 			"agent_ids": [],
-			"artwork_ids": []
+                        "artwork_ids": [4450, 4453, 11690, 21418, 26882, 27925, 31955, 34075, 35367, 35381, 37716, 37729, 42879, 59448, 70003, 70115, 76251, 147007, 68711, 75538, 183278, 76275]
 		},
 		{
 			"id": 46,
@@ -538,7 +538,7 @@
 			"description": "In the late 19th century, the Impressionists defied academic tradition in French art with their emphasis on modern subjects, sketchlike technique, and practice of painting in the open air with pure, high-keyed color. In the wake of the Impressionist revolution, a new generation of artists pushed the basic pictorial components of color, line, and composition into new psychological and formal territories, influencing many abstract artists of the early 20th century. Thanks to such pioneering donors as Mrs. Potter Palmer and Frederic Clay Bartlett, the Art Institute of Chicago houses one of the largest and most significant collections of Impressionist and Post-Impressionist art in the world.",
 			"exhibition_ids": [],
 			"agent_ids": [],
-			"artwork_ids": []
+			"artwork_ids": [81535, 81539, 16571, 81555, 81558, 20684, 14572, 111442, 27992, 28560, 80607, 27943, 111436, 61128, 109926]
 		},
 		{
 			"id": 55,
@@ -548,7 +548,7 @@
 			"description": "The Art Institute's collection of art from India, the Himalayas, and Southeast Asia includes more than 1,900 objects that span nearly five millennia. Indian and Southeast Asian sculpture and Indian and Persian miniature paintings are among the museum's archaeologically and artistically significant works. As objects of worship or accounts of history, these works present a fascinating picture of the region's religions, including Hinduism, Buddhism, and Islam, and its governments and politics.",
 			"exhibition_ids": [],
 			"agent_ids": [],
-			"artwork_ids": []
+                        "artwork_ids": [142506, 32285, 148357, 24548, 151090, 130677, 152836, 144401, 146556, 151086, 36812, 144397, 8374, 148361, 76816]
 		},
 		{
 			"id": 56,
@@ -628,7 +628,7 @@
 			"description": "The Art Institute's collection of modern and contemporary art is one of the most comprehensive of any museum and includes two icons of 20th-century American art: Grant Wood's American Gothic and Edward Hopper's Nighthawks. The museum has a longstanding commitment to contemporary art, reflected in the 1913 decision to exhibit the Armory Show, the largest modernist, mostly European, art exhibition ever presented in America. The Art Intitute’s extensive galleries present examples of abstraction from the early years of the 20th century by Vasily Kandinsky, Henri Matisse, and Pablo Picasso to challenging contemporary works in a variety of media by artists such as Katharina Fritsch, Bruce Nauman, and Cindy Sherman.",
 			"exhibition_ids": [],
 			"agent_ids": [],
-			"artwork_ids": []
+		    "artwork_ids": [28067, 111060, 8991, 79307, 46327, 100858, 6565, 34181, 111628, 83642, 47149, 40619, 146989, 154232]
 		},
 		{
 			"id": 64,
@@ -658,7 +658,7 @@
 			"description": "During the Middle Ages, the Catholic Church’s emphasis on the spiritual realm discouraged realistic representation of the physical world in art. The Renaissance saw the reemergence, or rebirth, of realistic portrayals of nature and the human figure by artists inspired by ancient Greek and Roman art and culture. Early Renaissance works of the 14th and 15th centuries show lingering medieval features, while Renaissance masterpieces of the late 15th and early 16th century reveal the harmonious proportions and balanced compositions associated with the ideals of the Classical world. Art of the Baroque period of the 17th century embodied a dynamic energy that mirrored the restless spirit of its age. In painting, dramatic images of faith driven by the Catholic Church’s Counter-Reformation contrast with lively presentations of the everyday, secular world commonly produced in the Protestant north. The Art Institute's collection of Renaissance and Baroque objects dates back to the earliest years of the museum's history. It has been enhanced by the contributions of major collectors such as the Deering family and continues to grow today.",
 			"exhibition_ids": [],
 			"agent_ids": [],
-			"artwork_ids": []
+                        "artwork_ids": [15468, 106187, 110760, 23972, 59856, 87479, 80084, 44741, 95998, 75520, 62042, 27310, 149716, 11434, 5848, 60755, 561]
 		},
 		{
 			"id": 67,
@@ -678,7 +678,7 @@
 			"description": "From the early 18th to the mid-19th century, dynamic transformations in European art mirrored turbulent political and social changes, including revolutions, imperial conquests, and the emergence of the modern industrial age. The refined, decorative aesthetics of Rococo art mirrored an aristocracy engaged in the pursuit of pleasure prior to the French Revolution of 1789. Neoclassicism, the severe style embraced by the revolutionaries who did away with France’s monarchy, was grounded in ancient Greek and Roman culture and was often used to reinforce political messages. After the fall of the short-lived empire of Napoléon Bonaparte, Romantic artists of the early 19th century focused more keenly on exotic and turbulent themes, often executed with loose and colorfully bold brushwork. Later in the century, proponents of the newer Realist movement turned to sober depictions of working people as the Industrial Revolution swept through Europe. Some Realists turned to nature, using landscape to convey a sense of direct experience of a specific place and time. The movements from Rococo to Realism flourished extensively in France but were international in scope—as demonstrated by artists such as John Constable (England), Francisco Goya (Spain), and Giovanni Tiepolo (Italy). Thanks to the patronage of local collectors of the late 19th and early 20th centuries, including Mr. and Mrs. Martin A. Ryerson and Mr. and Mrs. Henry Field, the Art Institute of Chicago has developed an extensive collection of works from these critical chapters in the history of art.",
 			"exhibition_ids": [],
 			"agent_ids": [],
-			"artwork_ids": []
+                        "artwork_ids": [107938, 16488, 16485, 16492, 16495, 111559, 44742, 4788, 57996, 27307, 17161, 16362, 20692, 16354, 16355, 16359, 16365, 110663, 152851, 4758, 25806, 4428, 111648, 18751, 18754, 16499, 44892]
 		},
 		{
 			"id": 69,
