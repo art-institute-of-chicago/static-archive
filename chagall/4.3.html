@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+<link href="kiosk5.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="jquery-1.4.2.min.js"></script>
+<!--<script type="text/javascript" src="http://malsup.github.com/chili-1.7.pack.js"></script>-->
+<script type="text/javascript" src="jquery.cycle.all.min.js"></script>
+<script type="text/javascript">
+$(function() {
+    $('#s1').cycle({ 
+        timeout: 0, 
+        speed:   1000,
+        startingSlide:0,
+		 after:     function() {
+            $('#caption').html(this.alt);
+        }
+    });
+    $('#goto1').click(function() { 
+        $('#s1').cycle(0); 
+		
+        return false; 
+    });
+    $('#goto2').click(function() { 
+        $('#s1').cycle(1); 
+        return false; 
+    });
+	  $('#goto3').click(function() { 
+        $('#s1').cycle(2); 
+        return false; 
+    });
+	    $('#goto4').click(function() { 
+        $('#s1').cycle(3); 
+        return false; 
+    });
+		  $('#goto5').click(function() { 
+        $('#s1').cycle(4); 
+        return false; 
+    });
+		    $('#goto6').click(function() { 
+        $('#s1').cycle(5); 
+        return false; 
+    });
+});
+</script>
+</head>
+<body>
+<div class="container">
+  <div class="rowhead paddingtop "><img src="images/logo.png" alt="logo" width="150" height="150" class="marginleft180" /><img src="images/textonly.png" alt="title" width="919" height="151" class="marginleft" /><img src="images/backnext2.png" alt="nav" width="470" height="150" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="144,48,257,107" href="4.2.html" target="_self" alt="goto4" />
+      <area shape="rect" coords="333,43,438,106" href="4.4.html" target="_self" alt="goto3" />
+      
+    </map>
+  </div>
+  <div class="rowtopnav"> 
+    <!--<div class="boxtopnav  right marginright"></div>--> 
+  </div>
+  <div class="rowcontent left marginbottom">
+    <div class="colnav left">
+      <ul>
+        <li>
+          <a href="1.1.html"><h2>CHAGALL<br />
+          <span class="titleheavy">and Stained Glass</span></h2></a>
+        </li>
+        <li class="paddingtop">
+          <a href="2.1.html"><h2>CHAGALL<br />
+          <span class="titleheavy">and Chicago</span></h2></a>
+        </li>
+        <li class="paddingtop">
+          <a href="3.1.html"><h2>THE AMERICA WINDOWS</h2></a>
+        </li>
+        <li class="paddingtop">
+          <a href="4.1.html"><h2>CHAGALL AND MARQ<br />
+          <span class="titleheavy">Making America Windows</span></h2></a>
+        </li>
+        <li class="paddingtop">
+          <a href="5.1.html"><h2>CONSERVATION<br />
+          <span class="titleheavy">of the Windows</span></h2></a>
+        </li>
+      </ul>
+    </div>
+    <div class="colright marginleft left">
+      <div class="boxtop">
+        <div class="boxtext">
+          <h2>CHAGALL AND MARQ <span class="titleheavy">Making America Windows</span></h2>
+          <p>Next, a full-scale black-and-white photographic enlargement of the maquette was made and placed on a wall in the Reims studio. This enlargement enabled the artisans to consider the windows at their full scale and served as the basis of the work to transfer the design to glass.</p>
+          
+        </div>
+      </div>
+      <div class="boxbottom">
+        <div class="thumb  margintop left"><a id="goto1" value="Goto Slide 1 "href="#" title="Image 2">
+        	</a> </div>
+        <div class="thumb marginleft margintop left"><a id="goto2" value="Goto Slide 2 "href="#" title="Image 2">
+        	</a> </div>
+        <div class="thumb marginleft margintop left"><a id="goto3" value="Goto Slide 3 "href="#" title="Image 2">
+        	</a></div>
+        <div class="thumb  margintop left"><a id="goto4" value="Goto Slide 4 "href="#" title="Image 2">
+        	</a></div>
+        <div class="thumb marginleft margintop left"><a id="goto5" value="Goto Slide 5 "href="#" title="Image 2">
+        	</a> </div>
+        <div class="thumb marginleft margintop left"><a id="goto6" value="Goto Slide 6 "href="#" title="Image 2">
+        	</a> </div>
+      </div>
+    </div>
+    <div id="s1" class="colmain marginleft left">
+    	<img src="images/4.3.1.jpg" />
+        
+	</div>
+
+    
+  </div>
+
+<!--captions-->
+	<div class="rowfoot clear ">
+    <div class="capbox marginleft1093">
+    <div id="caption">Artisans hang a full-scale enlargement of Chagall's design in the studio.</div>
+    </div>
+  </div>
+  
+  
+  
+</div>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQBCFS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQBCFS');</script>
+<!-- End Google Tag Manager -->
+</body>
+</html>

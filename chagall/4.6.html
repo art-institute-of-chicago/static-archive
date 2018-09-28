@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+<link href="kiosk5.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="jquery-1.4.2.min.js"></script>
+<!--<script type="text/javascript" src="http://malsup.github.com/chili-1.7.pack.js"></script>-->
+<script type="text/javascript" src="jquery.cycle.all.min.js"></script>
+<script type="text/javascript">
+$(function() {
+    $('#s1').cycle({ 
+        timeout: 0, 
+        speed:   1000,
+        startingSlide:0,
+		 after:     function() {
+            $('#caption').html(this.alt);
+        }
+    });
+    $('#goto1').click(function() { 
+        $('#s1').cycle(0); 
+		
+        return false; 
+    });
+    $('#goto2').click(function() { 
+        $('#s1').cycle(1); 
+        return false; 
+    });
+	  $('#goto3').click(function() { 
+        $('#s1').cycle(2); 
+        return false; 
+    });
+	    $('#goto4').click(function() { 
+        $('#s1').cycle(3); 
+        return false; 
+    });
+		  $('#goto5').click(function() { 
+        $('#s1').cycle(4); 
+        return false; 
+    });
+		    $('#goto6').click(function() { 
+        $('#s1').cycle(5); 
+        return false; 
+    });
+});
+</script>
+</head>
+<body>
+<div class="container">
+  <div class="rowhead paddingtop "><img src="images/logo.png" alt="logo" width="150" height="150" class="marginleft180" /><img src="images/textonly.png" alt="title" width="" height="151" class="marginleft" /><img src="images/backnext2.png" alt="nav" width="470" height="150" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="144,48,257,107" href="4.5.html" target="_self" alt="goto4" />
+      <area shape="rect" coords="333,43,438,106" href="4.7.html" target="_self" alt="goto3" />
+      
+    </map>
+  </div>
+  <div class="rowtopnav"> 
+    <!--<div class="boxtopnav  right marginright"></div>--> 
+  </div>
+  <div class="rowcontent left marginbottom">
+    <div class="colnav left">
+      <ul>
+        <li>
+          <a href="1.1.html"><h2>CHAGALL<br />
+          <span class="titleheavy">and Stained Glass</span></h2></a>
+        </li>
+        <li class="paddingtop">
+          <a href="2.1.html"><h2>CHAGALL<br />
+          <span class="titleheavy">and Chicago</span></h2></a>
+        </li>
+        <li class="paddingtop">
+          <a href="3.1.html"><h2>THE AMERICA WINDOWS</h2></a>
+        </li>
+        <li class="paddingtop">
+          <a href="4.1.html"><h2>CHAGALL AND MARQ<br />
+          <span class="titleheavy">Making America Windows</span></h2></a>
+        </li>
+        <li class="paddingtop">
+          <a href="5.1.html"><h2>CONSERVATION<br />
+          <span class="titleheavy">of the Windows</span></h2></a>
+        </li>
+      </ul>
+    </div>
+    <div class="col175 marginleft left">
+      <h2>CHAGALL AND MARQ <span class="titleheavy">Making America Windows</span></h2>
+      <p>Next, working from the cartoon, artisans began to transfer and cut the design for each of the panels of the windows. In this example, workers followed the pattern for the dance panel, matching the cartoon to the already selected pieces of glass, while glaziers cut and reassembled them.</p>
+    </div>
+    <div class="col1526 margintop marginleft left">
+			<!--second image-->
+				<div class="box595 right"><div id="flashContent">
+
+			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="594" height="485" id="4_9" align="middle">
+				<param name="movie" value="movies/IV_6.swf" />
+				<param name="quality" value="high" />
+				<param name="bgcolor" value="#000000" />
+				<param name="play" value="true" />
+				<param name="loop" value="true" />
+				<param name="wmode" value="window" />
+				<param name="scale" value="showall" />
+				<param name="menu" value="true" />
+
+				<param name="devicefont" value="false" />
+				<param name="salign" value="" />
+				<param name="allowScriptAccess" value="sameDomain" />
+				
+			</object>
+		</div></div>
+          <!--first image-->
+				<div class="box595"><img src="images/4.6.1.jpg" /></div>
+    </div>
+  </div>
+
+<!--captions-->
+	<div class="rowfoot clear ">
+		<div class="box595cap marginleft364 left">
+			Detail from the center-right section of the dance panel of <em>America Windows</em>.
+		</div>
+        
+		<div class="box595cap marginleft336 left">
+    		Excerpt from <em>A Palette of Glass</em>, by Chuck Olin (1977): An artisan traces the cartoon to begin making a hard-paper pattern, and uses it to cut and reassemble the glass for the dance panel.
+		</div>
+	</div>
+
+</div>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQBCFS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQBCFS');</script>
+<!-- End Google Tag Manager -->
+</body>
+</html>

@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+<link href="kiosk5.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="jquery-1.4.2.min.js"></script>
+<!--<script type="text/javascript" src="http://malsup.github.com/chili-1.7.pack.js"></script>-->
+<script type="text/javascript" src="jquery.cycle.all.min.js"></script>
+<script type="text/javascript">
+$(function() {
+    $('#s1').cycle({ 
+        timeout: 0, 
+        speed:   1000,
+        startingSlide:0,
+		 after:     function() {
+            $('#caption').html(this.alt);
+        }
+    });
+    $('#goto1').click(function() { 
+        $('#s1').cycle(0); 
+		
+        return false; 
+    });
+    $('#goto2').click(function() { 
+        $('#s1').cycle(1); 
+        return false; 
+    });
+	  $('#goto3').click(function() { 
+        $('#s1').cycle(2); 
+        return false; 
+    });
+	    $('#goto4').click(function() { 
+        $('#s1').cycle(3); 
+        return false; 
+    });
+		  $('#goto5').click(function() { 
+        $('#s1').cycle(4); 
+        return false; 
+    });
+		    $('#goto6').click(function() { 
+        $('#s1').cycle(5); 
+        return false; 
+    });
+});
+</script>
+</head>
+<body>
+<div class="container">
+  <div class="rowhead paddingtop  paddingtop"><img src="images/logo.png" alt="logo" width="150" height="150" class="marginleft180" /><img src="images/textonly.png" alt="title" width="" height="151" class="marginleft" /><img src="images/backnext2.png" alt="nav" width="470" height="150" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="137,43,261,110" href="3.4.html" target="_self" alt="goto3" />
+      <area shape="rect" coords="327,41,441,107" href="3.6.html" target="_self" alt="goto5" />
+    </map>
+  </div>
+  <div class="rowtopnav"> 
+    <!--<div class="boxtopnav  right marginright"></div>--> 
+  </div>
+  <div class="rowcontent left marginbottom">
+    <div class="colnav left">
+      <ul>
+        <li>
+          <a href="1.1.html"><h2>CHAGALL<br />
+          <span class="titleheavy">and Stained Glass</span></h2></a>
+        </li>
+        <li class="paddingtop">
+          <a href="2.1.html"><h2>CHAGALL<br />
+          <span class="titleheavy">and Chicago</span></h2></a>
+        </li>
+        <li class="paddingtop">
+          <a href="3.1.html"><h2>THE AMERICA WINDOWS</h2></a>
+        </li>
+        <li class="paddingtop">
+          <a href="4.1.html">
+          <h2>CHAGALL AND MARQ<br />
+          <span class="titleheavy">Making America Windows</span></h2></a>
+        </li>
+        <li class="paddingtop">
+          <a href="5.1.html"><h2>CONSERVATION<br />
+          <span class="titleheavy">of the Windows</span></h2></a>
+        </li>
+      </ul>
+    </div>
+    <div class="colright marginleft left">
+      <div class="boxtop">
+        <div class="boxtext">
+          <h2>THE AMERICA WINDOWS</h2>
+          <p>Reading from left to right, the first panel of <em>America Windows</em> represents music, with figures of musicians, a musical score, violins, and a horn with a few nonmusical elements. The second panel celebrates the art of painting, showcasing its traditional tools&mdash;a palette, brushes, and an easel&mdash;as well as examples of various painting genres (florals, landscapes, and still lifes). Comparing Chagall's earlier sketches (1&ndash;2) with the completed glass panels (5), it is clear that while the composition did not dramatically change from its early stages to its final form, Chagall abstracted elements and made slight modifications, such as shifting the skyline (in the second panel) toward the left to make it more prevalent.</p>
+          
+          
+        </div>
+      </div>
+      <div class="boxbottom">
+        <div class="box385mid marginleft150"><table width="385">
+
+    <td height="382"><img src="images/3.5.5.jpg" /></td></table></div>
+        <div class="numbercaption385  marginleft150">5</div>
+      </div>
+    </div>
+    <div class="colmain marginleft left">
+    <div class="box415">
+      <div class="box385  left"><img src="images/3.5.1.jpg" /></div>
+        
+      <div class="box385bottom marginleft left"><img src="images/3.5.2.jpg" class="imgbottom" /></div>
+      <div class="numbercaption385 left">1</div>
+         <div class="numbercaption385 marginleft left">2</div>
+      </div>
+    <div class="box415 ">
+      <div class="box385 left"><img src="images/3.5.3.jpg" height="385" /></div> 
+      <div class="box385bottom marginleft left"> <img src="images/3.5.4.jpg" class="imgbottom"/></div>
+      <div class="numbercaption385 left">3</div>
+        <div class="numbercaption385 marginleft left">4</div>
+      
+      </div>
+    </div>
+  </div>
+  <div class="rowfoot clear ">
+    <div class="rowfoottext1526 marginleft364">(1) Marc Chagall. <em>Chicago, Art Institute, Preparatory Study</em> (detail), 1976. Pencil and ink on paper; 20.5 x 60 cm (8 1/16 x 23 5/8 in.). Mus&eacute;e National d'Art Moderne, AM 1998-81; (2) <em>Chicago, Art Institute, Sketch for Window (1 & 2)</em>, 1976. Pencil and ink on paper; 28.5 x 38.7 cm (11 5/8 x 15 1/4 in.). Mus&eacute;e National d'Art Moderne, AM 1998-79; (3) <em>Chicago, Art Institute, Preparatory Maquette</em> (detail), 1976. Pencil, gouache, watercolor, and collage on paper; 20.4 x 59.2 cm (8 1/16 x 23 5/16 in.). Mus&eacute;e National d'Art Moderne, AM 1998-83; (4) <em>Chicago, Art Institute, Final Maquette (1 & 2)</em>, 1976. Pencil, gouache, and watercolor on paper; 28.3 x 37.9 cm (11 1/8 x 14 15/16 in.). Mus&eacute;e National d'Art Moderne, AM 1998-85; (5) <em>America Windows</em> (detail), 1977. Stained glass; 244 x 978 cm (96 x 385 in.). The Art Institute of Chicago, a gift of Marc Chagall, the City of Chicago, and the Auxiliary Board of The Art Institute of Chicago, commemorating the American Bicentennial in memory of Mayor Richard J. Daley, 1977.938.</div>
+  </div>
+</div>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQBCFS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQBCFS');</script>
+<!-- End Google Tag Manager -->
+</body>
+</html>
