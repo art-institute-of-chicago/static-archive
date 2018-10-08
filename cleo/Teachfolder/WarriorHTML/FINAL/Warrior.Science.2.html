@@ -1,0 +1,408 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Cleopatra</title>
+		<csactions>
+			<csaction name="B5064CC83" class="Open Window" type="ONEVENT" val0="MovWar2.html" val1 val2="340" val3="275" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+		</csactions>
+		<csscriptdict>
+			<script><!--
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+CSStopExecution = false;
+
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+function CSOpenWindow(action) {
+	var wf = "";	
+	wf = wf + "width=" + action[3];
+	wf = wf + ",height=" + action[4];
+	wf = wf + ",resizable=" + (action[5] ? "yes" : "no");
+	wf = wf + ",scrollbars=" + (action[6] ? "yes" : "no");
+	wf = wf + ",menubar=" + (action[7] ? "yes" : "no");
+	wf = wf + ",toolbar=" + (action[8] ? "yes" : "no");
+	wf = wf + ",directories=" + (action[9] ? "yes" : "no");
+	wf = wf + ",location=" + (action[10] ? "yes" : "no");
+	wf = wf + ",status=" + (action[11] ? "yes" : "no");		
+	window.open(action[1],action[2],wf);
+}
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSAct[/*CMP*/ 'B5064CC83'] = new Array(CSOpenWindow,/*URL*/ 'MovWar2.html','',340,275,true,false,false,false,false,false,true);
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body background="../../allbkgstrip.gif" link="#1f2b54">
+		<table cool width="787" height="2350" border="0" cellpadding="0" cellspacing="0" gridx="16" showgridx gridy="16" showgridy>
+			<tr height="1" cntrlrow>
+				<td width="1" height="1"></td>
+				<td width="10" height="1"><spacer type="block" width="10" height="1"></td>
+				<td width="13" height="1"><spacer type="block" width="13" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="49" height="1"><spacer type="block" width="49" height="1"></td>
+				<td width="12" height="1"><spacer type="block" width="12" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="6" height="1"><spacer type="block" width="6" height="1"></td>
+				<td width="32" height="1"><spacer type="block" width="32" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="218" height="1"><spacer type="block" width="218" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="179" height="1"><spacer type="block" width="179" height="1"></td>
+				<td width="217" height="1"><spacer type="block" width="217" height="1"></td>
+			</tr>
+			<tr height="17">
+				<td width="1" height="17"><spacer type="block" width="1" height="17"></td>
+				<td width="10" height="17"></td>
+				<td width="13" height="17"></td>
+				<td width="3" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="3" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="49" height="17"></td>
+				<td width="12" height="17"></td>
+				<td width="4" height="17"></td>
+				<td width="6" height="17"></td>
+				<td width="32" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="218" height="17"></td>
+				<td width="5" height="17"></td>
+				<td width="179" height="17"></td>
+				<td width="217" height="17"></td>
+			</tr>
+			<tr height="6">
+				<td width="1" height="6"><spacer type="block" width="1" height="6"></td>
+				<td width="10" height="6"></td>
+				<td width="13" height="6"></td>
+				<td width="3" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="3" height="6"></td>
+				<td width="16" height="6"></td>
+				<td width="49" height="6"></td>
+				<td width="12" height="6"></td>
+				<td width="4" height="6"></td>
+				<td width="6" height="6"></td>
+				<td width="32" height="6"></td>
+				<td width="16" height="6"></td>
+				<td width="218" height="6"></td>
+				<td width="184" height="46" colspan="2" rowspan="2" valign="top" align="left" xpos="385"><img height="35" width="154" src="../../cleotitlesmall.gif"></td>
+				<td width="217" height="6"></td>
+			</tr>
+			<tr height="40">
+				<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+				<td width="10" height="40"></td>
+				<td width="141" height="100" colspan="12" rowspan="3" valign="top" align="left" xpos="10"><img height="90" width="120" src="warriorless.jpg"></td>
+				<td width="16" height="40"></td>
+				<td width="218" height="40"></td>
+				<td width="217" height="40"></td>
+			</tr>
+			<tr height="43">
+				<td width="1" height="43"><spacer type="block" width="1" height="43"></td>
+				<td width="10" height="43"></td>
+				<td width="16" height="43"></td>
+				<td width="218" height="43"></td>
+				<td width="5" height="43"></td>
+				<td width="179" height="43" colspan="1" rowspan="1" valign="top" align="left" xpos="390" content csheight="31">
+					<center>
+						<font size="6"><i><b>Lesson Plans</b></i></font></center>
+				</td>
+				<td width="217" height="43"></td>
+			</tr>
+			<tr height="17">
+				<td width="1" height="17"><spacer type="block" width="1" height="17"></td>
+				<td width="10" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="619" height="17" colspan="4" rowspan="1" valign="top" align="left" xpos="167">
+					<hr width="410" size="2">
+				</td>
+			</tr>
+			<tr height="9">
+				<td width="1" height="9"><spacer type="block" width="1" height="9"></td>
+				<td width="10" height="9"></td>
+				<td width="13" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="16" height="9"></td>
+				<td width="49" height="42" colspan="1" rowspan="2" valign="top" align="left" xpos="48" content csheight="31">
+					<center>
+						<a href="../../../warrior/warrior.html">Fallen Warrior</a></center>
+				</td>
+				<td width="12" height="9"></td>
+				<td width="4" height="9"></td>
+				<td width="6" height="9"></td>
+				<td width="32" height="9"></td>
+				<td width="16" height="9"></td>
+				<td width="218" height="9"></td>
+				<td width="5" height="9"></td>
+				<td width="179" height="9"></td>
+				<td width="217" height="9"></td>
+			</tr>
+			<tr height="33">
+				<td width="1" height="33"><spacer type="block" width="1" height="33"></td>
+				<td width="10" height="33"></td>
+				<td width="13" height="33"></td>
+				<td width="3" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="3" height="33"></td>
+				<td width="16" height="33"></td>
+				<td width="12" height="33"></td>
+				<td width="4" height="33"></td>
+				<td width="6" height="33"></td>
+				<td width="32" height="33"></td>
+				<td width="635" height="2217" colspan="5" rowspan="8" valign="top" align="left" xpos="151" content csheight="2217">
+					<center>
+						<font face="Times" size="3"><b>Medicine: Then and Now</b></font>
+						<p><font face="Times" size="3"><b><br>
+						<br>
+						</b></font></p>
+					</center>
+					<p><font face="Times">Lesson plan based on <b>Fallen Warrior</b></font></p>
+					<p><font face="Times">Read ancient Greek texts to explore ancient healing practices and compare them to modern&#151;day medicine.</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Skills and Focus: </b>Biology</font></p>
+					<p><font face="Times"><b>Subject Area: </b>Science</font></p>
+					<p><font face="Times"><b>Thematic Connection: </b>Comparing Cultures</font></p>
+					<p><font face="Times"><b>Grade Level:</b> Middle School</font></p>
+					<p><font face="Times"><b>Time Needed: </b>100 minutes</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Objectives</b></font></p>
+					<blockquote>
+						<p><font face="Times">&#149; Understand Greek healing practices for wounds.</font></p>
+						<p><font face="Times">&#149; Compare ancient healing practices to those of modern times.</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Instructional Materials Needed</b></font></p>
+					<dir>
+						<p><font face="Times">Story: <a href="(Empty Reference!)" csclick="B5064CC83" onclick="CSAction(new Array(/*CMP*/'B5064CC83'));return CSClickReturn();"><i>The Shield of Athena</i></a></font></p>
+					</dir>
+					<blockquote>
+						<p><a href="WarText.html"><font face="Times">Warrior.text</font></a></p>
+						<p><font face="Times">Patroclus bandage</font></p>
+						<p><font face="Times">(found at <a href="http://www.perseus.tufts.edu/cgi-bin/image?lookup=1992.07.0327&type=vase"><u>http://www.perseus.tufts.edu/cgi-bin/image?lookup=1992.07.0327&amp;type=vase</u></a><u>)</u></font></p>
+						<p><font face="Times"><u><br>
+						<br>
+						</u></font></p>
+					</blockquote>
+					<p><font face="Times"><b>Activity</b></font></p>
+					<blockquote>
+						<p><font face="Times"><b>Step 1:</b> Have the class read the passages provided. Then ask the following questions:</font></p>
+						<p><font face="Times">&#149; What are the main techniques of healing wounds?</font></p>
+						<p><font face="Times">&#149; How did the Greeks treat problems like infection, wounds, and bleeding?</font></p>
+						<p><font face="Times">&#149; Was a special doctor needed to perform medical procedures in ancient Greece?</font></p>
+						<p><font face="Times"><b>Step 2:</b> Direct the class to study the image of Achilles binding the wound of Patroclus. Ask the following questions:</font></p>
+						<p><font face="Times">&#149; How different do ancient Greek medical practices seem to be from today&#146;s?</font></p>
+						<p><font face="Times">&#149; Is this a surprising scene for a 2,500 year&#151;old vase? Why?</font></p>
+						<p><font face="Times"><b>Step 3:</b> Have students conduct research into modern first-aid practices, using a standard medical reference. Ask students to compare and contrast today&#146;s approach to emergency medicine with the techniques used in the ancient world.</font></p>
+						<p><font face="Times"><br>
+						<br>
+						</font></p>
+					</blockquote>
+					<p><font face="Times"><b>Goals</b></font></p>
+					<blockquote>
+						<p><font face="Times">This activity meets <b>Illinois State Goal 12:</b> Have a working knowledge of the fundamental concepts and principles of the life, physical, and earth/space sciences and their connections.</font></p>
+						<p><font face="Times">This activity meets <b>Illinois State Goal 13:</b> Have a working knowledge of the relationships among science, technology, and society in historical and contemporary contexts.</font></p>
+						<p><font face="Times">&nbsp;</font></p>
+					</blockquote>
+					<p><font face="Times">&nbsp;</font></p>
+					<p><font face="Times">Pseudo-Apollodorus <i>Library</i> e.3.20 (Loeb)</font></p>
+					<p><font face="Times">[E.3.20] But Telephus, because his wound was unhealed, and Apollo had told him that he could be cured when the one who wounded him should turn physician, came from Mysia to Argos, clad in rags, and begged the help of Achilles, promising to show the course to steer for Troy. So Achilles healed him by scraping off the rust of his Pelian spear.</font></p>
+					<p><font face="Times">&nbsp;</font></p>
+					<p><font face="Times">Aristotle <i>Posterior Analytics</i> 1.13 (Loeb)</font></p>
+					<p><font face="Times">To know the fact of the rainbow's existence is for the natural scientist; to know the reason is for the optician, either simply as such or as a mathematical optician. Many of the sciences which are not strictly subordinate stand in this relation; e.g., medicine to geometry. It is for the doctor to know the fact that circular wounds heal more slowly, but it is for the geometrician to know the reason for the fact.*</font></p>
+					<p><font face="Times">* Philoponus offers two explanations: (1) because such wounds have the greatest area in relation to their perimeter, (2) because the healing surfaces are farther apart and nature has difficulty in joining them.</font></p>
+					<p><font face="Times">&nbsp;</font></p>
+					<p><font face="Times">Homer, <i>Iliad</i>, XI.963 ff. (Fagles 1990 trans.)</font></p>
+					<p><font face="Times">&quot;Sprinting close to king Odysseus&#146; fleet</font></p>
+					<p><font face="Times">where the Argives (Greeks) met and handed down their laws,</font></p>
+					<p><font face="Times">the grounds where they built their altars to the gods,</font></p>
+					<p><font face="Times">there he met Eurypylus, Euaemon&#146;s gallant son,</font></p>
+					<p><font face="Times">wounded, the arrow planted deep in his thigh,</font></p>
+					<p><font face="Times">and limping out of battle&#133;</font></p>
+					<p><font face="Times">&quot;Save me at least. Take me back to my black ship.</font></p>
+					<p><font face="Times">Cut this shaft from my thigh. And the dark blood&#150;</font></p>
+					<p><font face="Times">wash it out of the wound with clean warm water.</font></p>
+					<p><font face="Times">And spread the soothing, healing salves across it,</font></p>
+					<p><font face="Times">the powerful drugs that they say you learned from Achilles</font></p>
+					<p><font face="Times">and Chiron, most humane of Centaurs taught your friend&#133;</font></p>
+					<p><font face="Times">&quot;&#133; Patroclus stretched him out,</font></p>
+					<p><font face="Times">knelt with a knife and cut the sharp, stabbing arrow</font></p>
+					<p><font face="Times">out of Eurypylus&#146; thigh and washed the wound clean</font></p>
+					<p><font face="Times">of the dark running blood with clear warm water.</font></p>
+					<p><font face="Times">Pounding it in his palms, he crushed a bitter root</font></p>
+					<p><font face="Times">and covered over the gash to kill his comrade&#146;s pain,</font></p>
+					<p><font face="Times">a cure that fought off every kind of pain&#133;</font></p>
+					<p><font face="Times">and the wound dried and the flowing blood stopped.</font></p>
+					<p><font face="Times">Homer, <i>Iliad</i> XVI.26 ff. (Fagles 1990 trans.)</font></p>
+					<p><font face="Times">&quot;Our former champions, all laid up in the ships,</font></p>
+					<p><font face="Times">are all hit by arrows or run through with spears.</font></p>
+					<p><font face="Times">There&#146;s powerful Diomedes, brought down by an archer,</font></p>
+					<p><font face="Times">Odysseus wounded, and Agamemnon too, the famous spearman,</font></p>
+					<p><font face="Times">and Eurypylus took an arrow-shot in the thigh&#133;</font></p>
+					<p><font face="Times">Healers are working over them, using all their drugs,</font></p>
+					<p><font face="Times">trying to bind the wounds&#133;&quot;</font></p>
+					<p><font face="Times">&nbsp;</font></p>
+					<p><font face="Times">Euripides <i>Trojan Women</i> 1232</font></p>
+					<p><font face="Times">Hecuba: Your wounds in part I will bind up with bandages, a wretched healer in name alone, without reality; but for the rest your father must look to that among the dead.</font></p>
+					<p><font face="Times">&nbsp;</font></p>
+					<p></p>
+					<p></p>
+					<p><font size="2">&copy; 2000, by The Art Institute of Chicago. All rights reserved. Use of this program is subject to the terms below. No part of this program may be reproduced, transmitted or distributed in any form or by any means, except for personal or classroom use. All Copyright in and to the program, in whole or in part, belongs to the publisher and its licensors and is registered with the U.S. Copyright Office</font></td>
+			</tr>
+			<tr height="21">
+				<td width="1" height="21"><spacer type="block" width="1" height="21"></td>
+				<td width="10" height="21"></td>
+				<td width="13" height="21"></td>
+				<td width="3" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="80" height="21" colspan="4" rowspan="1" valign="top" align="left" xpos="29">
+					<hr size="2" width="79">
+				</td>
+				<td width="4" height="21"></td>
+				<td width="6" height="21"></td>
+				<td width="32" height="21"></td>
+			</tr>
+			<tr height="68">
+				<td width="1" height="68"><spacer type="block" width="1" height="68"></td>
+				<td width="10" height="68"></td>
+				<td width="13" height="68"></td>
+				<td width="96" height="68" colspan="10" rowspan="1" valign="top" align="left" xpos="23" content csheight="50">
+					<center>
+						<a href="../../LPMainSearch.html"><font size="3" face="Times New Roman,Georgia,Times"><b>Lesson Plans Home</b></font></a></center>
+				</td>
+				<td width="32" height="68"></td>
+			</tr>
+			<tr height="62">
+				<td width="1" height="62"><spacer type="block" width="1" height="62"></td>
+				<td width="10" height="62"></td>
+				<td width="13" height="62"></td>
+				<td width="3" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="3" height="62"></td>
+				<td width="77" height="62" colspan="3" rowspan="1" valign="top" align="left" xpos="32" content csheight="49">
+					<center>
+						<a href="../../../index.html"><font size="3"><b>Cleopatra Home</b></font></a></center>
+				</td>
+				<td width="4" height="62"></td>
+				<td width="6" height="62"></td>
+				<td width="32" height="62"></td>
+			</tr>
+			<tr height="58">
+				<td width="1" height="58"><spacer type="block" width="1" height="58"></td>
+				<td width="10" height="58"></td>
+				<td width="13" height="58"></td>
+				<td width="3" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="80" height="58" colspan="4" rowspan="1" valign="top" align="left" xpos="29" content csheight="43">
+					<center>
+						<a href="../../lessonprint.html"><font size="3"><b>Print Lessons</b></font></a></center>
+				</td>
+				<td width="4" height="58"></td>
+				<td width="6" height="58"></td>
+				<td width="32" height="58"></td>
+			</tr>
+			<tr height="10">
+				<td width="1" height="10"><spacer type="block" width="1" height="10"></td>
+				<td width="10" height="10"></td>
+				<td width="13" height="10"></td>
+				<td width="3" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="81" height="10" colspan="5" rowspan="1" valign="top" align="left" xpos="28">
+					<hr size="2" width="79">
+				</td>
+				<td width="4" height="10"></td>
+				<td width="6" height="10"></td>
+				<td width="32" height="10"></td>
+			</tr>
+			<tr height="37">
+				<td width="1" height="37"><spacer type="block" width="1" height="37"></td>
+				<td width="10" height="37"></td>
+				<td width="13" height="37"></td>
+				<td width="3" height="37"></td>
+				<td width="87" height="37" colspan="8" rowspan="1" valign="top" align="left" xpos="26" content csheight="37">
+					<center>
+						<a href="http://www.artic.edu/aic/index.html"><font size="3">The Art Institute of Chicago</font></a></center>
+				</td>
+				<td width="6" height="37"></td>
+				<td width="32" height="37"></td>
+			</tr>
+			<tr height="1928">
+				<td width="1" height="1928"><spacer type="block" width="1" height="1928"></td>
+				<td width="10" height="1928"></td>
+				<td width="13" height="1928"></td>
+				<td width="3" height="1928"></td>
+				<td width="1" height="1928"></td>
+				<td width="86" height="1928" colspan="7" rowspan="1" valign="top" align="left" xpos="27"><a href="http://www.artic.edu/aic/index.html"><img height="45" width="79" src="../../AICbuttonNEW.gif"></a></td>
+				<td width="6" height="1928"></td>
+				<td width="32" height="1928"></td>
+			</tr>
+		</table>
+	</body>
+
+</html>

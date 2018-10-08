@@ -1,0 +1,424 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Cleopatra</title>
+		<csactions>
+			<csaction name="B50663B17" class="Open Window" type="ONEVENT" val0="../../../mosaic/MovMov1.html" val1 val2="340" val3="300" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+		</csactions>
+		<csscriptdict>
+			<script><!--
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+CSStopExecution = false;
+
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+function CSOpenWindow(action) {
+	var wf = "";	
+	wf = wf + "width=" + action[3];
+	wf = wf + ",height=" + action[4];
+	wf = wf + ",resizable=" + (action[5] ? "yes" : "no");
+	wf = wf + ",scrollbars=" + (action[6] ? "yes" : "no");
+	wf = wf + ",menubar=" + (action[7] ? "yes" : "no");
+	wf = wf + ",toolbar=" + (action[8] ? "yes" : "no");
+	wf = wf + ",directories=" + (action[9] ? "yes" : "no");
+	wf = wf + ",location=" + (action[10] ? "yes" : "no");
+	wf = wf + ",status=" + (action[11] ? "yes" : "no");		
+	window.open(action[1],action[2],wf);
+}
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSAct[/*CMP*/ 'B50663B17'] = new Array(CSOpenWindow,/*URL*/ '../../../mosaic/MovMov1.html','',340,300,true,false,false,false,false,false,true);
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body background="../../allbkgstrip.gif" link="#1f2b54">
+		<table cool width="787" height="1888" border="0" cellpadding="0" cellspacing="0" gridx="16" showgridx gridy="16" showgridy>
+			<tr height="1" cntrlrow>
+				<td width="1" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="6" height="1"><spacer type="block" width="6" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="2" height="1"><spacer type="block" width="2" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="14" height="1"><spacer type="block" width="14" height="1"></td>
+				<td width="49" height="1"><spacer type="block" width="49" height="1"></td>
+				<td width="14" height="1"><spacer type="block" width="14" height="1"></td>
+				<td width="2" height="1"><spacer type="block" width="2" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="33" height="1"><spacer type="block" width="33" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="218" height="1"><spacer type="block" width="218" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="179" height="1"><spacer type="block" width="179" height="1"></td>
+				<td width="217" height="1"><spacer type="block" width="217" height="1"></td>
+			</tr>
+			<tr height="17">
+				<td width="1" height="17"><spacer type="block" width="1" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="6" height="17"></td>
+				<td width="4" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="2" height="17"></td>
+				<td width="3" height="17"></td>
+				<td width="14" height="17"></td>
+				<td width="49" height="17"></td>
+				<td width="14" height="17"></td>
+				<td width="2" height="17"></td>
+				<td width="5" height="17"></td>
+				<td width="33" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="218" height="17"></td>
+				<td width="5" height="17"></td>
+				<td width="179" height="17"></td>
+				<td width="217" height="17"></td>
+			</tr>
+			<tr height="13">
+				<td width="1" height="13"><spacer type="block" width="1" height="13"></td>
+				<td width="16" height="13"></td>
+				<td width="6" height="13"></td>
+				<td width="4" height="13"></td>
+				<td width="1" height="13"></td>
+				<td width="1" height="13"></td>
+				<td width="1" height="13"></td>
+				<td width="2" height="13"></td>
+				<td width="3" height="13"></td>
+				<td width="14" height="13"></td>
+				<td width="49" height="13"></td>
+				<td width="14" height="13"></td>
+				<td width="2" height="13"></td>
+				<td width="5" height="13"></td>
+				<td width="33" height="13"></td>
+				<td width="16" height="13"></td>
+				<td width="218" height="13"></td>
+				<td width="184" height="46" colspan="2" rowspan="2" valign="top" align="left" xpos="385"><img height="35" width="154" src="../../cleotitlesmall.gif"></td>
+				<td width="217" height="13"></td>
+			</tr>
+			<tr height="33">
+				<td width="1" height="33"><spacer type="block" width="1" height="33"></td>
+				<td width="16" height="33"></td>
+				<td width="135" height="93" colspan="13" rowspan="3" valign="top" align="left" xpos="16"><img height="83" width="110" src="mosaic.gif"></td>
+				<td width="16" height="33"></td>
+				<td width="218" height="33"></td>
+				<td width="217" height="33"></td>
+			</tr>
+			<tr height="43">
+				<td width="1" height="43"><spacer type="block" width="1" height="43"></td>
+				<td width="16" height="43"></td>
+				<td width="16" height="43"></td>
+				<td width="218" height="43"></td>
+				<td width="5" height="43"></td>
+				<td width="179" height="43" colspan="1" rowspan="1" valign="top" align="left" xpos="390" content csheight="31">
+					<center>
+						<font size="6"><i><b>Lesson Plans</b></i></font></center>
+				</td>
+				<td width="217" height="43"></td>
+			</tr>
+			<tr height="17">
+				<td width="1" height="17"><spacer type="block" width="1" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="619" height="17" colspan="4" rowspan="1" valign="top" align="left" xpos="167">
+					<hr width="410" size="2">
+				</td>
+			</tr>
+			<tr height="9">
+				<td width="1" height="9"><spacer type="block" width="1" height="9"></td>
+				<td width="16" height="9"></td>
+				<td width="6" height="9"></td>
+				<td width="4" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="2" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="14" height="9"></td>
+				<td width="49" height="42" colspan="1" rowspan="2" valign="top" align="left" xpos="48" content csheight="31">
+					<center>
+						<a href="../../../mosaic/mosaic.html">Mosaic Floor</a></center>
+				</td>
+				<td width="14" height="9"></td>
+				<td width="2" height="9"></td>
+				<td width="5" height="9"></td>
+				<td width="33" height="9"></td>
+				<td width="16" height="9"></td>
+				<td width="218" height="9"></td>
+				<td width="5" height="9"></td>
+				<td width="179" height="9"></td>
+				<td width="217" height="9"></td>
+			</tr>
+			<tr height="33">
+				<td width="1" height="33"><spacer type="block" width="1" height="33"></td>
+				<td width="16" height="33"></td>
+				<td width="6" height="33"></td>
+				<td width="4" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="2" height="33"></td>
+				<td width="3" height="33"></td>
+				<td width="14" height="33"></td>
+				<td width="14" height="33"></td>
+				<td width="2" height="33"></td>
+				<td width="5" height="33"></td>
+				<td width="33" height="33"></td>
+				<td width="635" height="1755" colspan="5" rowspan="8" valign="top" align="left" xpos="151" content csheight="1755">
+					<center>
+						<font face="Times" size="3"><b>Animals in Ancient Rome</b></font>
+						<p><font face="Times" size="3"><b><br>
+						<br>
+						</b></font></p>
+					</center>
+					<p><font face="Times">Lesson plan based on <b>Mosaic Floor</b></font></p>
+					<p><font face="Times">Explore the role of animals in ancient Rome through the interpretation of a fictional account.</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Skills and Focus:</b> Reading, Discussion, Critical Analysis</font></p>
+					<p><font face="Times"><b>Subject Area:</b> English Language Arts</font></p>
+					<p><font face="Times"><b>Thematic Connection: </b>Animals</font></p>
+					<p><font face="Times"><b>Grade Level: </b>Middle School</font></p>
+					<p><font face="Times"><b>Time Needed: </b>90 minutes</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Objectives</b></font></p>
+					<blockquote>
+						<p><font face="Times">&#149; Understand the role of animals in ancient Rome.</font></p>
+						<p><font face="Times">&#149; Comprehend a fictional account of a criminal pitted against an animal in a public display similar to those that took place in the ancient Roman amphitheaters.</font></p>
+						<p><font face="Times">&#149; Discuss this account and students&#146; reactions to its inconclusive ending.</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Instructional Materials Needed</b></font></p>
+					<blockquote>
+						<p><font face="Times">Story: <a href="(Empty Reference!)" csclick="B50663B17" onclick="CSAction(new Array(/*CMP*/'B50663B17'));return CSClickReturn();"><i>What Animal Is This?</i></a></font></p>
+						<p><a href="Mosaic.chart.html"><font face="Times"><u>chart</u></font></a></p>
+						<p><font face="Times">Print Resources:</font></p>
+						<p><font face="Times">&#149; Stockton, Frank R. &quot;The Lady or the Tiger?&quot; in <i>Prentice Hall Literature: Gold.</i> New York: Prentice Hall Books. pp. 49&#151;53.</font></p>
+						<p><font face="Times">&#149; Corbishley, Mike. <i>The Roman World</i>. New York: Warwick Press, 1986.</font></p>
+						<p><font face="Times">&#149; James, Simon. <i>Eyewitness Books: Ancient Rome</i>. New York: Alfred A. Knopf, 1979. Pp. 24&#151;25, 28&#151;35.</font></p>
+						<p><font face="Times">Online Resources:</font></p>
+						<p><font face="Times">&#149; Images of the colosseum: Encyclopaedia Britannica Online:</font></p>
+						<p><a href="http://www.eb.com"><font face="Times"><u>http://www.eb.com</u></font></a><font face="Times"> (search for colosseum)</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Activity</b></font></p>
+					<blockquote>
+						<p><font face="Times"><b>Step 1:</b> After showing the story <i>What Animal Is This?</i>, introduce students to the role of animals in ancient Rome. Animals served many purposes. Some were used in sporting events, others were sacrificed to the gods in religious ceremonies, and many served as symbols for gods or geographic areas. If possible, show some of the images in the James book. Also, distribute the chart.</font></p>
+						<p><font face="Times"><b>Step 2:</b> Have students read Stockton's short story, &quot;The Lady or the Tiger?&quot;. Explain to students that the story demonstrates the popularity of public games and combat involving animals among ancient Roman people.</font></p>
+						<p><font face="Times"><b>Step 3:</b> After students have read the story, encourage them to discuss the conclusion. The inconclusive ending is certain to inspire some discussion about whether the lady or the tiger came out of the chosen door, as well as some criticism of the story and perhaps of the author, who left his work open to interpretation. Encourage the students to support their arguments with evidence from the text.</font></p>
+						<p><font face="Times"><b>Step 4:</b> In conclusion, refer back to the factual information presented, especially in James's text on pages 30&#151;33, pointing out differences and similarities between Stockton's text and ancient history.</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Goals</b></font></p>
+					<blockquote>
+						<p><font face="Times">This activity meets <b>Illinois State Goal 1</b>: Read for understanding and fluency.</font></p>
+						<p><font face="Times">This activity meets <b>Illinois State Goal 4</b>: Listen and speak in a variety of situations.</font></p>
+						<p><font face="Times">This activity meets <b>Illinois State Goal 5</b>: Use the language arts for inquiry and research to acquire, organize, analyze, evaluate, and communicate information.</font></p>
+						<p><font face="Times">&nbsp;</font></p>
+						<p>
+						<table border="1" cellspacing="1" cellpadding="5" width="442">
+							<tr>
+								<td valign="top" colspan="2">
+									<center>
+										<font face="Times"><b>&nbsp;</b></font></center>
+									<center>
+										<p><font face="Times"><b>The Place of Animals in Ancient Rome</b></font></center>
+								</td>
+							</tr>
+							<tr>
+								<td width="50%" valign="top"><font face="Times">&nbsp;</font>
+									<center>
+										<p><font face="Times"><b>Sports and Personal Use</b></font></center>
+								</td>
+								<td width="50%" valign="top"><font face="Times"><b>&nbsp;</b></font>
+									<center>
+										<p><font face="Times"><b>Religious or Symbolic Use</b></font></center>
+								</td>
+							</tr>
+							<tr>
+								<td width="50%" valign="top"><font face="Times"><u><b>lions, tigers</b></u></font>
+									<p><font face="Times">&#149; gladiatorial combat</font></p>
+									<p><font face="Times">&#149; capital punishment</font></p>
+									<p><font face="Times"><u><b>horses</b></u></font></p>
+									<p><font face="Times">&#149; contests</font></p>
+									<p><font face="Times">&#149; races</font></p>
+									<p><font face="Times"><u><b>bears, giraffes, elephants</b></u></font></p>
+									<p><font face="Times">&#149; parades</font></p>
+									<p><font face="Times">&#149; park displays</font></p>
+									<p><font face="Times"><u><b>wild boars, fish, fowl</b></u></font></p>
+									<p><font face="Times">&#149; hunting</font></p>
+									<p><font face="Times"><u><b>cats, dogs, insects</b></u></font></p>
+									<p><font face="Times">&#149; personal pets</font></td>
+								<td width="50%" valign="top"><font face="Times">&nbsp;</font>
+									<p><font face="Times"><u><b>Venus and dove, Jupiter and eagle</b></u></font></p>
+									<p><font face="Times">&#149; association with gods</font></p>
+									<p><font face="Times"><u><b>she-wolf</b></u></font></p>
+									<p><font face="Times">&#149; founding of Rome</font></p>
+									<p><font face="Times"><u><b>goats, boars, small birds</b></u></font></p>
+									<p><font face="Times">&#149; sacrificial offerings to gods</font></td>
+							</tr>
+						</table>
+						</p>
+						<p></p>
+						<p></p>
+						<p></p>
+						<p></p>
+						<p></p>
+						<p></p>
+						<p><font size="2">&copy; 2000, by The Art Institute of Chicago. All rights reserved. Use of this program is subject to the terms below. No part of this program may be reproduced, transmitted or distributed in any form or by any means, except for personal or classroom use. All Copyright in and to the program, in whole or in part, belongs to the publisher and its licensors and is registered with the U.S. Copyright Office</font></p>
+					</blockquote>
+					<p><font face="Times">&nbsp;</font></td>
+			</tr>
+			<tr height="21">
+				<td width="1" height="21"><spacer type="block" width="1" height="21"></td>
+				<td width="16" height="21"></td>
+				<td width="6" height="21"></td>
+				<td width="4" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="82" height="21" colspan="5" rowspan="1" valign="top" align="left" xpos="29">
+					<hr size="2" width="79">
+				</td>
+				<td width="2" height="21"></td>
+				<td width="5" height="21"></td>
+				<td width="33" height="21"></td>
+			</tr>
+			<tr height="68">
+				<td width="1" height="68"><spacer type="block" width="1" height="68"></td>
+				<td width="16" height="68"></td>
+				<td width="6" height="68"></td>
+				<td width="96" height="68" colspan="11" rowspan="1" valign="top" align="left" xpos="22" content csheight="50">
+					<center>
+						<a href="../../LPMainSearch.html"><font size="3" face="Times New Roman,Georgia,Times"><b>Lesson Plans Home</b></font></a></center>
+				</td>
+				<td width="33" height="68"></td>
+			</tr>
+			<tr height="62">
+				<td width="1" height="62"><spacer type="block" width="1" height="62"></td>
+				<td width="16" height="62"></td>
+				<td width="6" height="62"></td>
+				<td width="4" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="2" height="62"></td>
+				<td width="3" height="62"></td>
+				<td width="77" height="62" colspan="3" rowspan="1" valign="top" align="left" xpos="34" content csheight="49">
+					<center>
+						<a href="../../../index.html"><font size="3"><b>Cleopatra Home</b></font></a></center>
+				</td>
+				<td width="2" height="62"></td>
+				<td width="5" height="62"></td>
+				<td width="33" height="62"></td>
+			</tr>
+			<tr height="58">
+				<td width="1" height="58"><spacer type="block" width="1" height="58"></td>
+				<td width="16" height="58"></td>
+				<td width="6" height="58"></td>
+				<td width="4" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="2" height="58"></td>
+				<td width="80" height="58" colspan="4" rowspan="1" valign="top" align="left" xpos="31" content csheight="43">
+					<center>
+						<a href="../../lessonprint.html"><font size="3"><b>Print Lessons</b></font></a></center>
+				</td>
+				<td width="2" height="58"></td>
+				<td width="5" height="58"></td>
+				<td width="33" height="58"></td>
+			</tr>
+			<tr height="10">
+				<td width="1" height="10"><spacer type="block" width="1" height="10"></td>
+				<td width="16" height="10"></td>
+				<td width="6" height="10"></td>
+				<td width="4" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="83" height="10" colspan="6" rowspan="1" valign="top" align="left" xpos="28">
+					<hr size="2" width="79">
+				</td>
+				<td width="2" height="10"></td>
+				<td width="5" height="10"></td>
+				<td width="33" height="10"></td>
+			</tr>
+			<tr height="37">
+				<td width="1" height="37"><spacer type="block" width="1" height="37"></td>
+				<td width="16" height="37"></td>
+				<td width="6" height="37"></td>
+				<td width="4" height="37"></td>
+				<td width="87" height="37" colspan="9" rowspan="1" valign="top" align="left" xpos="26" content csheight="37">
+					<center>
+						<a href="http://www.artic.edu/aic/index.html"><font size="3">The Art Institute of Chicago</font></a></center>
+				</td>
+				<td width="5" height="37"></td>
+				<td width="33" height="37"></td>
+			</tr>
+			<tr height="1466">
+				<td width="1" height="1466"><spacer type="block" width="1" height="1466"></td>
+				<td width="16" height="1466"></td>
+				<td width="6" height="1466"></td>
+				<td width="4" height="1466"></td>
+				<td width="1" height="1466"></td>
+				<td width="86" height="1466" colspan="8" rowspan="1" valign="top" align="left" xpos="27"><a href="http://www.artic.edu/aic/index.html"><img height="45" width="79" src="../../AICbuttonNEW.gif"></a></td>
+				<td width="5" height="1466"></td>
+				<td width="33" height="1466"></td>
+			</tr>
+		</table>
+	</body>
+
+</html>

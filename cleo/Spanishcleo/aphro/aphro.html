@@ -1,0 +1,347 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Cleopatra</title>
+		<csactions>
+			<csaction name="B39D46110" class="Open Window" type="ONEVENT" val0="AphroLabel.html" val1 val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+		</csactions>
+		<csscriptdict>
+			<script><!--
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+CSStopExecution = false;
+
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+function CSOpenWindow(action) {
+	var wf = "";	
+	wf = wf + "width=" + action[3];
+	wf = wf + ",height=" + action[4];
+	wf = wf + ",resizable=" + (action[5] ? "yes" : "no");
+	wf = wf + ",scrollbars=" + (action[6] ? "yes" : "no");
+	wf = wf + ",menubar=" + (action[7] ? "yes" : "no");
+	wf = wf + ",toolbar=" + (action[8] ? "yes" : "no");
+	wf = wf + ",directories=" + (action[9] ? "yes" : "no");
+	wf = wf + ",location=" + (action[10] ? "yes" : "no");
+	wf = wf + ",status=" + (action[11] ? "yes" : "no");		
+	window.open(action[1],action[2],wf);
+}
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSAct[/*CMP*/ 'B39D46110'] = new Array(CSOpenWindow,/*URL*/ 'AphroLabel.html','',400,240,true,false,false,false,false,false,false);
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body background="../Teachfolder/allbkgstrip.gif" link="#1f2b54">
+		<table cool width="696" height="586" border="0" cellpadding="0" cellspacing="0" gridx="16" showgridx gridy="16" showgridy>
+			<tr height="1" cntrlrow>
+				<td width="1" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="6" height="1"><spacer type="block" width="6" height="1"></td>
+				<td width="9" height="1"><spacer type="block" width="9" height="1"></td>
+				<td width="7" height="1"><spacer type="block" width="7" height="1"></td>
+				<td width="82" height="1"><spacer type="block" width="82" height="1"></td>
+				<td width="6" height="1"><spacer type="block" width="6" height="1"></td>
+				<td width="7" height="1"><spacer type="block" width="7" height="1"></td>
+				<td width="8" height="1"><spacer type="block" width="8" height="1"></td>
+				<td width="13" height="1"><spacer type="block" width="13" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="9" height="1"><spacer type="block" width="9" height="1"></td>
+				<td width="45" height="1"><spacer type="block" width="45" height="1"></td>
+				<td width="279" height="1"><spacer type="block" width="279" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="48" height="1"><spacer type="block" width="48" height="1"></td>
+				<td width="74" height="1"><spacer type="block" width="74" height="1"></td>
+				<td width="32" height="1"><spacer type="block" width="32" height="1"></td>
+				<td width="59" height="1"><spacer type="block" width="59" height="1"></td>
+			</tr>
+			<tr height="6">
+				<td width="1" height="6"><spacer type="block" width="1" height="6"></td>
+				<td width="3" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="6" height="6"></td>
+				<td width="9" height="6"></td>
+				<td width="7" height="6"></td>
+				<td width="82" height="6"></td>
+				<td width="6" height="6"></td>
+				<td width="7" height="6"></td>
+				<td width="8" height="6"></td>
+				<td width="13" height="6"></td>
+				<td width="3" height="6"></td>
+				<td width="9" height="6"></td>
+				<td width="45" height="6"></td>
+				<td width="279" height="6"></td>
+				<td width="4" height="6"></td>
+				<td width="48" height="6"></td>
+				<td width="74" height="6"></td>
+				<td width="32" height="6"></td>
+				<td width="59" height="6"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="111" height="32" colspan="5" rowspan="4" valign="top" align="left" xpos="10" content csheight="32">
+					<center>
+						<a href="../index.html"><b>P&aacute;gina inicial de Cleopatra</b></a></center>
+				</td>
+				<td width="8" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="9" height="1"></td>
+				<td width="45" height="1"></td>
+				<td width="279" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="48" height="1"></td>
+				<td width="74" height="1"></td>
+				<td width="32" height="1"></td>
+				<td width="59" height="1"></td>
+			</tr>
+			<tr height="11">
+				<td width="1" height="11"><spacer type="block" width="1" height="11"></td>
+				<td width="3" height="11"></td>
+				<td width="1" height="11"></td>
+				<td width="6" height="11"></td>
+				<td width="8" height="11"></td>
+				<td width="13" height="11"></td>
+				<td width="336" height="65" colspan="4" rowspan="4" valign="top" align="left" xpos="142"><a href="../boat/boatcard.html" csclick="B39D46110" onclick="CSAction(new Array(/*CMP*/'B39D46110'));return CSClickReturn();"><img height="34" width="252" src="aphroditeButton.gif"></a></td>
+				<td width="4" height="11"></td>
+				<td width="48" height="11"></td>
+				<td width="74" height="11"></td>
+				<td width="32" height="11"></td>
+				<td width="59" height="11"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="126" height="54" colspan="3" rowspan="3" valign="top" align="left" xpos="478"><a href="aphroZoom.html"><img height="35" width="85" src="../boat/close-upbutton.gif"></a></td>
+				<td width="32" height="1"></td>
+				<td width="59" height="1"></td>
+			</tr>
+			<tr height="19">
+				<td width="1" height="19"><spacer type="block" width="1" height="19"></td>
+				<td width="3" height="19"></td>
+				<td width="1" height="19"></td>
+				<td width="6" height="19"></td>
+				<td width="8" height="19"></td>
+				<td width="13" height="19"></td>
+				<td width="91" height="53" colspan="2" rowspan="2" valign="top" align="left" xpos="604"><a href="aphroMovie.html"><img height="34" width="85" src="../boat/Storiesbutton.gif"></a></td>
+			</tr>
+			<tr height="34">
+				<td width="1" height="34"><spacer type="block" width="1" height="34"></td>
+				<td width="3" height="34"></td>
+				<td width="1" height="34"></td>
+				<td width="125" height="34" colspan="7" rowspan="1" valign="top" align="left" xpos="4">
+					<hr size="2" width="123">
+				</td>
+				<td width="13" height="34"></td>
+			</tr>
+			<tr height="7">
+				<td width="1" height="7"><spacer type="block" width="1" height="7"></td>
+				<td width="3" height="7"></td>
+				<td width="1" height="7"></td>
+				<td width="6" height="7"></td>
+				<td width="9" height="7"></td>
+				<td width="95" height="103" colspan="3" rowspan="3" valign="top" align="left" xpos="19" content csheight="103">
+					<center>
+						<a href="../tlineframes.html"><b>Cronologia</b></a>
+						<p><a href="../Glosario/GlossFrames.html"><b>Glosario</b></a></p>
+						<p><a href="../Map.html"><b>Mapas</b></a></p>
+						<p><a href="../Help.html"><b>Ayuda</b></a></center>
+				</td>
+				<td width="7" height="7"></td>
+				<td width="8" height="7"></td>
+				<td width="13" height="7"></td>
+				<td width="3" height="7"></td>
+				<td width="9" height="7"></td>
+				<td width="45" height="7"></td>
+				<td width="279" height="7"></td>
+				<td width="4" height="7"></td>
+				<td width="48" height="7"></td>
+				<td width="74" height="7"></td>
+				<td width="32" height="7"></td>
+				<td width="59" height="7"></td>
+			</tr>
+			<tr height="2">
+				<td width="1" height="2"><spacer type="block" width="1" height="2"></td>
+				<td width="3" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="6" height="2"></td>
+				<td width="9" height="2"></td>
+				<td width="7" height="2"></td>
+				<td width="8" height="2"></td>
+				<td width="13" height="2"></td>
+				<td width="3" height="2"></td>
+				<td width="9" height="2"></td>
+				<td width="45" height="2"></td>
+				<td width="279" height="2"></td>
+				<td width="4" height="2"></td>
+				<td width="48" height="2"></td>
+				<td width="165" height="433" colspan="3" rowspan="8" valign="top" align="left" xpos="530"><img height="327" width="113" src="aphrosmall.jpg"></td>
+			</tr>
+			<tr height="94">
+				<td width="1" height="94"><spacer type="block" width="1" height="94"></td>
+				<td width="3" height="94"></td>
+				<td width="1" height="94"></td>
+				<td width="6" height="94"></td>
+				<td width="9" height="94"></td>
+				<td width="7" height="94"></td>
+				<td width="8" height="94"></td>
+				<td width="13" height="94"></td>
+				<td width="3" height="94"></td>
+				<td width="337" height="94" colspan="4" rowspan="1" valign="top" align="left" xpos="145" content csheight="69"><font size="4"><b>Aqu&iacute; vemos a Afrodita, la diosa del amor, la belleza y la fertilidad, mientras se ba&ntilde;a. Esta es una copia de la Afrodita de Cnido que fue la primera estatua de la diosa que la mostr&oacute; desnuda. </b></font></td>
+				<td width="48" height="94"></td>
+			</tr>
+			<tr height="16">
+				<td width="1" height="16"><spacer type="block" width="1" height="16"></td>
+				<td width="3" height="16"></td>
+				<td width="126" height="16" colspan="8" rowspan="1" valign="top" align="left" xpos="3">
+					<hr size="2" width="123">
+				</td>
+				<td width="13" height="16"></td>
+				<td width="3" height="16"></td>
+				<td width="9" height="16"></td>
+				<td width="45" height="16"></td>
+				<td width="279" height="16"></td>
+				<td width="4" height="16"></td>
+				<td width="48" height="16"></td>
+			</tr>
+			<tr height="4">
+				<td width="1" height="4"><spacer type="block" width="1" height="4"></td>
+				<td width="3" height="4"></td>
+				<td width="126" height="22" colspan="8" rowspan="2" valign="top" align="left" xpos="3" content csheight="22">
+					<center>
+						<a href="../CleoIntro2.html"><b>Planes de Lecc&oacute;n</b></a></center>
+				</td>
+				<td width="13" height="4"></td>
+				<td width="3" height="4"></td>
+				<td width="9" height="4"></td>
+				<td width="45" height="4"></td>
+				<td width="279" height="4"></td>
+				<td width="4" height="4"></td>
+				<td width="48" height="4"></td>
+			</tr>
+			<tr height="18">
+				<td width="1" height="18"><spacer type="block" width="1" height="18"></td>
+				<td width="3" height="18"></td>
+				<td width="13" height="18"></td>
+				<td width="3" height="18"></td>
+				<td width="9" height="18"></td>
+				<td width="376" height="317" colspan="4" rowspan="4" valign="top" align="left" xpos="154"><img height="249" width="352" src="aphro.jpg"></td>
+			</tr>
+			<tr height="15">
+				<td width="1" height="15"><spacer type="block" width="1" height="15"></td>
+				<td width="3" height="15"></td>
+				<td width="1" height="15"></td>
+				<td width="125" height="15" colspan="7" rowspan="1" valign="top" align="left" xpos="4">
+					<hr size="2" width="123">
+				</td>
+				<td width="13" height="15"></td>
+				<td width="3" height="15"></td>
+				<td width="9" height="15"></td>
+			</tr>
+			<tr height="43">
+				<td width="1" height="43"><spacer type="block" width="1" height="43"></td>
+				<td width="3" height="43"></td>
+				<td width="1" height="43"></td>
+				<td width="6" height="43"></td>
+				<td width="9" height="43"></td>
+				<td width="7" height="43"></td>
+				<td width="82" height="43" colspan="1" rowspan="1" valign="top" align="left" xpos="26" content csheight="43">
+					<center>
+						<a href="http://www.artic.edu/aic/index.html">The Art Institute of Chicago</a></center>
+				</td>
+				<td width="6" height="43"></td>
+				<td width="7" height="43"></td>
+				<td width="8" height="43"></td>
+				<td width="13" height="43"></td>
+				<td width="3" height="43"></td>
+				<td width="9" height="43"></td>
+			</tr>
+			<tr height="241">
+				<td width="1" height="241"><spacer type="block" width="1" height="241"></td>
+				<td width="3" height="241"></td>
+				<td width="1" height="241"></td>
+				<td width="6" height="241"></td>
+				<td width="9" height="241"></td>
+				<td width="7" height="241"></td>
+				<td width="88" height="241" colspan="2" rowspan="1" valign="top" align="left" xpos="26"><a href="http://www.artic.edu/aic/index.html"><img height="45" width="79" src="../Teachfolder/AICbuttonNEW.gif"></a></td>
+				<td width="7" height="241"></td>
+				<td width="8" height="241"></td>
+				<td width="13" height="241"></td>
+				<td width="3" height="241"></td>
+				<td width="9" height="241"></td>
+			</tr>
+			<tr height="73">
+				<td width="1" height="73"><spacer type="block" width="1" height="73"></td>
+				<td width="3" height="73"></td>
+				<td width="1" height="73"></td>
+				<td width="6" height="73"></td>
+				<td width="9" height="73"></td>
+				<td width="7" height="73"></td>
+				<td width="82" height="73"></td>
+				<td width="6" height="73"></td>
+				<td width="7" height="73"></td>
+				<td width="8" height="73"></td>
+				<td width="13" height="73"></td>
+				<td width="3" height="73"></td>
+				<td width="9" height="73"></td>
+				<td width="45" height="73"></td>
+				<td width="437" height="73" colspan="5" rowspan="1" valign="top" align="left" xpos="199" content csheight="68">
+					<center>
+						<font size="2">&copy; 2000, by The Art Institute of Chicago. All rights reserved. Use of this program is subject to the terms below. No part of this program may be reproduced, transmitted or distributed in any form or by any means, except for personal or classroom use. All Copyright in and to the program, in whole or in part, belongs to the publisher and its licensors and is registered with the U.S. Copyright Office.</font></center>
+				</td>
+				<td width="59" height="73"></td>
+			</tr>
+		</table>
+		</a>
+	</body>
+
+</html>

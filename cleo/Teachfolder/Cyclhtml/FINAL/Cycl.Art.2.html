@@ -1,0 +1,407 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Cleopatra</title>
+		<csactions>
+			<csaction name="B505030678" class="Open Window" type="ONEVENT" val0="MovCyc3.html" val1 val2="340" val3="300" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+			<csaction name="B505031079" class="Open Window" type="ONEVENT" val0="MovCyc1.html" val1 val2="340" val3="300" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+		</csactions>
+		<csscriptdict>
+			<script><!--
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+CSStopExecution = false;
+
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+function CSOpenWindow(action) {
+	var wf = "";	
+	wf = wf + "width=" + action[3];
+	wf = wf + ",height=" + action[4];
+	wf = wf + ",resizable=" + (action[5] ? "yes" : "no");
+	wf = wf + ",scrollbars=" + (action[6] ? "yes" : "no");
+	wf = wf + ",menubar=" + (action[7] ? "yes" : "no");
+	wf = wf + ",toolbar=" + (action[8] ? "yes" : "no");
+	wf = wf + ",directories=" + (action[9] ? "yes" : "no");
+	wf = wf + ",location=" + (action[10] ? "yes" : "no");
+	wf = wf + ",status=" + (action[11] ? "yes" : "no");		
+	window.open(action[1],action[2],wf);
+}
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSAct[/*CMP*/ 'B505030678'] = new Array(CSOpenWindow,/*URL*/ 'MovCyc3.html','',340,300,true,false,false,false,false,false,true);
+CSAct[/*CMP*/ 'B505031079'] = new Array(CSOpenWindow,/*URL*/ 'MovCyc1.html','',340,300,true,false,false,false,false,false,true);
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body background="../../allbkgstrip.gif" link="#1f2b54">
+		<table cool width="787" height="1882" border="0" cellpadding="0" cellspacing="0" gridx="16" showgridx gridy="16" showgridy>
+			<tr height="1" cntrlrow>
+				<td width="1" height="1"></td>
+				<td width="24" height="1"><spacer type="block" width="24" height="1"></td>
+				<td width="2" height="1"><spacer type="block" width="2" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="11" height="1"><spacer type="block" width="11" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="49" height="1"><spacer type="block" width="49" height="1"></td>
+				<td width="12" height="1"><spacer type="block" width="12" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="7" height="1"><spacer type="block" width="7" height="1"></td>
+				<td width="31" height="1"><spacer type="block" width="31" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="218" height="1"><spacer type="block" width="218" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="179" height="1"><spacer type="block" width="179" height="1"></td>
+				<td width="217" height="1"><spacer type="block" width="217" height="1"></td>
+			</tr>
+			<tr height="8">
+				<td width="1" height="8"><spacer type="block" width="1" height="8"></td>
+				<td width="24" height="8"></td>
+				<td width="2" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="3" height="8"></td>
+				<td width="11" height="8"></td>
+				<td width="5" height="8"></td>
+				<td width="49" height="8"></td>
+				<td width="12" height="8"></td>
+				<td width="4" height="8"></td>
+				<td width="7" height="8"></td>
+				<td width="31" height="8"></td>
+				<td width="16" height="8"></td>
+				<td width="218" height="8"></td>
+				<td width="5" height="8"></td>
+				<td width="179" height="8"></td>
+				<td width="217" height="8"></td>
+			</tr>
+			<tr height="9">
+				<td width="1" height="9"><spacer type="block" width="1" height="9"></td>
+				<td width="24" height="9"></td>
+				<td width="2" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="11" height="9"></td>
+				<td width="66" height="115" colspan="3" rowspan="4" valign="top" align="left" xpos="43"><img height="111" width="61" src="../../cycladicicon.gif"></td>
+				<td width="4" height="9"></td>
+				<td width="7" height="9"></td>
+				<td width="31" height="9"></td>
+				<td width="16" height="9"></td>
+				<td width="218" height="9"></td>
+				<td width="5" height="9"></td>
+				<td width="179" height="9"></td>
+				<td width="217" height="9"></td>
+			</tr>
+			<tr height="46">
+				<td width="1" height="46"><spacer type="block" width="1" height="46"></td>
+				<td width="24" height="46"></td>
+				<td width="2" height="46"></td>
+				<td width="1" height="46"></td>
+				<td width="1" height="46"></td>
+				<td width="1" height="46"></td>
+				<td width="3" height="46"></td>
+				<td width="11" height="46"></td>
+				<td width="4" height="46"></td>
+				<td width="7" height="46"></td>
+				<td width="31" height="46"></td>
+				<td width="16" height="46"></td>
+				<td width="218" height="46"></td>
+				<td width="184" height="46" colspan="2" rowspan="1" valign="top" align="left" xpos="385"><img height="35" width="154" src="../../cleotitlesmall.gif"></td>
+				<td width="217" height="46"></td>
+			</tr>
+			<tr height="43">
+				<td width="1" height="43"><spacer type="block" width="1" height="43"></td>
+				<td width="24" height="43"></td>
+				<td width="2" height="43"></td>
+				<td width="1" height="43"></td>
+				<td width="1" height="43"></td>
+				<td width="1" height="43"></td>
+				<td width="3" height="43"></td>
+				<td width="11" height="43"></td>
+				<td width="4" height="43"></td>
+				<td width="7" height="43"></td>
+				<td width="31" height="43"></td>
+				<td width="16" height="43"></td>
+				<td width="218" height="43"></td>
+				<td width="5" height="43"></td>
+				<td width="179" height="43" colspan="1" rowspan="1" valign="top" align="left" xpos="390" content csheight="31">
+					<center>
+						<font size="6"><i><b>Lesson Plans</b></i></font></center>
+				</td>
+				<td width="217" height="43"></td>
+			</tr>
+			<tr height="17">
+				<td width="1" height="17"><spacer type="block" width="1" height="17"></td>
+				<td width="24" height="17"></td>
+				<td width="2" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="3" height="17"></td>
+				<td width="11" height="17"></td>
+				<td width="4" height="17"></td>
+				<td width="7" height="17"></td>
+				<td width="31" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="619" height="17" colspan="4" rowspan="1" valign="top" align="left" xpos="167">
+					<hr width="410" size="2">
+				</td>
+			</tr>
+			<tr height="9">
+				<td width="1" height="9"><spacer type="block" width="1" height="9"></td>
+				<td width="24" height="9"></td>
+				<td width="2" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="11" height="9"></td>
+				<td width="5" height="9"></td>
+				<td width="49" height="42" colspan="1" rowspan="2" valign="top" align="left" xpos="48" content csheight="31">
+					<center>
+						<a href="../../../cycladic/cycladic.html">Cycladic Figure</a></center>
+				</td>
+				<td width="12" height="9"></td>
+				<td width="4" height="9"></td>
+				<td width="7" height="9"></td>
+				<td width="31" height="9"></td>
+				<td width="16" height="9"></td>
+				<td width="218" height="9"></td>
+				<td width="5" height="9"></td>
+				<td width="179" height="9"></td>
+				<td width="217" height="9"></td>
+			</tr>
+			<tr height="33">
+				<td width="1" height="33"><spacer type="block" width="1" height="33"></td>
+				<td width="24" height="33"></td>
+				<td width="2" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="3" height="33"></td>
+				<td width="11" height="33"></td>
+				<td width="5" height="33"></td>
+				<td width="12" height="33"></td>
+				<td width="4" height="33"></td>
+				<td width="7" height="33"></td>
+				<td width="31" height="33"></td>
+				<td width="635" height="1749" colspan="5" rowspan="8" valign="top" align="left" xpos="151" content csheight="1749">
+					<center>
+						<font face="Times" size="3"><b>Human Abstraction</b></font>
+						<p><font face="Times" size="3"><b><br>
+						<br>
+						<img height="175" width="236" src="finished_wkidblueCC.jpg"></b></font></p>
+					</center>
+					<p><font face="Times">Lesson plan based on <b>Cycladic Figure</b></font></p>
+					<p><font face="Times">Explore and compare abstraction of human forms in various ancient cultures and by creating self&#151;portraits using geometric shapes.</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Skills and Focus: </b>Art Appreciation, Studio</font></p>
+					<p><font face="Times"><b>Subject Area:</b> Fine Arts</font></p>
+					<p><font face="Times"><b>Thematic Connection:</b> Connecting Past and Present</font></p>
+					<p><font face="Times"><b>Grade Level:</b> Middle School</font></p>
+					<p><font face="Times"><b>Time Needed: </b>60 minutes</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Objective</b></font></p>
+					<blockquote>
+						<p><font face="Times">&#149; Identify the Cycladic figure as an example of abstraction utilizing geometric shapes.</font></p>
+						<p><font face="Times">&#149; Identify how the artist used geometric shapes to indicate the parts of the body on the figure.</font></p>
+						<p><font face="Times">&#149; Compare and contrast the use of abstraction in the Cycladic figure to an abstracted image from another culture, such as the ancient Mexican <i>Seated Male &quot;Storyteller&quot; Figure</i>, or Barbara Hepworth's <i>Two Figures (Menhirs)</i>.</font></p>
+						<p><font face="Times">&#149; Use this knowledge of abstraction, form, and shape to create an abstract self-portrait.</font></p>
+						<p><font face="Times"><br>
+						<br>
+						</font></p>
+					</blockquote>
+					<p><font face="Times"><b>Instructional Materials Needed</b></font></p>
+					<blockquote>
+						<p><font face="Times">Stories: <a href="(Empty Reference!)" csclick="B505031079" onclick="CSAction(new Array(/*CMP*/'B505031079'));return CSClickReturn();"><i>Who Is This?</i></a> and <a href="(Empty Reference!)" csclick="B505030678" onclick="CSAction(new Array(/*CMP*/'B505030678'));return CSClickReturn();"><i>The Human Form in Cycladic Art</i></a> </font></p>
+						<p><a href="CycFig.html"><font face="Times">Cycladic figure</font></a></p>
+						<p><a href="MexicanFig.html"><font face="Times">mexicanfigure</font></a></p>
+						<p><a href="2figures.html"><font face="Times">twofigures</font></a></p>
+						<p><font face="Times">Drawing paper</font></p>
+						<p><font face="Times">Pencils, pastels, oil crayons, and/or tempera paints</font></p>
+					</blockquote>
+					<center>
+						<p><font face="Times"><br>
+						<br>
+						<img height="175" width="220" src="process_portraitCC.jpg"></font></p>
+					</center>
+					<p><font face="Times"><b>Activity</b></font></p>
+					<p><font face="Times"><b>Step 1:</b> Discuss how and why the Cycladic figure is an example of abstraction.</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Critical Thinking</b> Ask students to</font></p>
+					<blockquote>
+						<p><font face="Times">&#149; <b>explain</b> how you know this statue represents a human figure.</font></p>
+						<p><font face="Times">&#149; <b>describe</b> the human features the artist included to communicate the figure&#146;s humanity.</font></p>
+						<p><font face="Times">&#149; <b>identify</b> which geometric shapes form the following features: face, nose, arms, torso, legs, feet.</font></p>
+						<p><font face="Times">Finally, have each student draw or label these shapes on the Cycladic figure template.</font></p>
+						<p><font face="Times"><b>Step 2: </b>Have students compare the Cycladic figure to the abstraction of the ancient Mexican sculpture or Hepworth's <i>Two Figures.</i></font></p>
+					</blockquote>
+					<p><font face="Times"><i><br>
+					<br>
+					</i></font></p>
+					<p><font face="Times"><b>Critical Thinking</b> Ask students to</font></p>
+					<blockquote>
+						<p><font face="Times">&#149; <b>identify</b> those features the other artists have emphasized.</font></p>
+						<p><font face="Times">&#149; <b>explain</b> whether these other artists have used the same shapes seen in the Cycladic figure or different shapes.</font></p>
+						<p><font face="Times">&#149; <b>describe</b> how the materials used to create the pieces differ?</font></p>
+						<p><font face="Times">&#149; <b>explain </b>what these materials enable the artists to do differently.</font></p>
+						<p><font face="Times"><b>Step 3: </b>Instruct students to create their own abstract self-portraits (including hair styles, clothing, jewelry, and so on) using paper and the medium of their choice. Remind students to use geometric shapes as much as possible. Display the self&#151;portraits in class.</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Goals</b></font></p>
+					<blockquote>
+						<p><font face="Times">This activity meets <b>Illinois State Goal 25: </b>Know the language of the arts.</font></p>
+						<p><font face="Times">This activity meets <b>Illinois State Goal 26: </b>Through creating and performing, understand how works of art are produced.</font></p>
+						<p></p>
+						<p></p>
+						<p></p>
+						<p></p>
+						<p></p>
+						<p><font size="2">&copy; 2000, by The Art Institute of Chicago. All rights reserved. Use of this program is subject to the terms below. No part of this program may be reproduced, transmitted or distributed in any form or by any means, except for personal or classroom use. All Copyright in and to the program, in whole or in part, belongs to the publisher and its licensors and is registered with the U.S. Copyright Office</font></blockquote>
+				</td>
+			</tr>
+			<tr height="21">
+				<td width="1" height="21"><spacer type="block" width="1" height="21"></td>
+				<td width="24" height="21"></td>
+				<td width="2" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="80" height="21" colspan="5" rowspan="1" valign="top" align="left" xpos="29">
+					<hr size="2" width="79">
+				</td>
+				<td width="4" height="21"></td>
+				<td width="7" height="21"></td>
+				<td width="31" height="21"></td>
+			</tr>
+			<tr height="68">
+				<td width="1" height="68"><spacer type="block" width="1" height="68"></td>
+				<td width="24" height="68"></td>
+				<td width="96" height="68" colspan="11" rowspan="1" valign="top" align="left" xpos="24" content csheight="50">
+					<center>
+						<a href="../../LPMainSearch.html"><font size="3" face="Times New Roman,Georgia,Times"><b>Lesson Plans Home</b></font></a></center>
+				</td>
+				<td width="31" height="68"></td>
+			</tr>
+			<tr height="62">
+				<td width="1" height="62"><spacer type="block" width="1" height="62"></td>
+				<td width="24" height="62"></td>
+				<td width="2" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="3" height="62"></td>
+				<td width="77" height="62" colspan="4" rowspan="1" valign="top" align="left" xpos="32" content csheight="49">
+					<center>
+						<a href="../../../index.html"><font size="3"><b>Cleopatra Home</b></font></a></center>
+				</td>
+				<td width="4" height="62"></td>
+				<td width="7" height="62"></td>
+				<td width="31" height="62"></td>
+			</tr>
+			<tr height="58">
+				<td width="1" height="58"><spacer type="block" width="1" height="58"></td>
+				<td width="24" height="58"></td>
+				<td width="2" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="80" height="58" colspan="5" rowspan="1" valign="top" align="left" xpos="29" content csheight="43">
+					<center>
+						<a href="../../lessonprint.html"><font size="3"><b>Print Lessons</b></font></a></center>
+				</td>
+				<td width="4" height="58"></td>
+				<td width="7" height="58"></td>
+				<td width="31" height="58"></td>
+			</tr>
+			<tr height="10">
+				<td width="1" height="10"><spacer type="block" width="1" height="10"></td>
+				<td width="24" height="10"></td>
+				<td width="2" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="81" height="10" colspan="6" rowspan="1" valign="top" align="left" xpos="28">
+					<hr size="2" width="79">
+				</td>
+				<td width="4" height="10"></td>
+				<td width="7" height="10"></td>
+				<td width="31" height="10"></td>
+			</tr>
+			<tr height="37">
+				<td width="1" height="37"><spacer type="block" width="1" height="37"></td>
+				<td width="24" height="37"></td>
+				<td width="2" height="37"></td>
+				<td width="87" height="37" colspan="9" rowspan="1" valign="top" align="left" xpos="26" content csheight="37">
+					<center>
+						<a href="http://www.artic.edu/aic/index.html"><font size="3">The Art Institute of Chicago</font></a></center>
+				</td>
+				<td width="7" height="37"></td>
+				<td width="31" height="37"></td>
+			</tr>
+			<tr height="1460">
+				<td width="1" height="1460"><spacer type="block" width="1" height="1460"></td>
+				<td width="24" height="1460"></td>
+				<td width="2" height="1460"></td>
+				<td width="1" height="1460"></td>
+				<td width="86" height="1460" colspan="8" rowspan="1" valign="top" align="left" xpos="27"><a href="http://www.artic.edu/aic/index.html"><img height="45" width="79" src="../../AICbuttonNEW.gif"></a></td>
+				<td width="7" height="1460"></td>
+				<td width="31" height="1460"></td>
+			</tr>
+		</table>
+	</body>
+
+</html>

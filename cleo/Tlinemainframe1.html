@@ -1,0 +1,1875 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Cleopatra</title>
+		<csactions>
+			<csaction name="B4CEEBB32" class="Open Window" type="ONEVENT" val0="tline/popups/Narmer.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEEBE93" class="Open Window" type="ONEVENT" val0="tline/popups/Narmer.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEEC0B4" class="Open Window" type="ONEVENT" val0="tline/popups/Pyramids.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEEC395" class="Open Window" type="ONEVENT" val0="tline/popups/Pyramids.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEEC576" class="Open Window" type="ONEVENT" val0="tline/popups/Sphinx.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEEC717" class="Open Window" type="ONEVENT" val0="tline/popups/Sphinx.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEEC938" class="Open Window" type="ONEVENT" val0="tline/popups/Tut.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEECAB9" class="Open Window" type="ONEVENT" val0="tline/popups/Tut.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEECCC10" class="Open Window" type="ONEVENT" val0="tline/popups/Ramses.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEECF811" class="Open Window" type="ONEVENT" val0="tline/popups/Ramses.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEED1F12" class="Open Window" type="ONEVENT" val0="tline/popups/Amphora.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEED6013" class="Open Window" type="ONEVENT" val0="tline/popups/Amphora.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEED8314" class="Open Window" type="ONEVENT" val0="tline/popups/Mask.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4CEED9A15" class="Open Window" type="ONEVENT" val0="tline/popups/Mask.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4FE5F6F11" class="Open Window" type="ONEVENT" val0="tline/popups/Dagger.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="B4FE5F8612" class="Open Window" type="ONEVENT" val0="tline/popups/Dagger.html" val1="_blank" val2="400" val3="240" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+		</csactions>
+		<csscriptdict>
+			<script><!--
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+CSStopExecution = false;
+
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+function CSOpenWindow(action) {
+	var wf = "";	
+	wf = wf + "width=" + action[3];
+	wf = wf + ",height=" + action[4];
+	wf = wf + ",resizable=" + (action[5] ? "yes" : "no");
+	wf = wf + ",scrollbars=" + (action[6] ? "yes" : "no");
+	wf = wf + ",menubar=" + (action[7] ? "yes" : "no");
+	wf = wf + ",toolbar=" + (action[8] ? "yes" : "no");
+	wf = wf + ",directories=" + (action[9] ? "yes" : "no");
+	wf = wf + ",location=" + (action[10] ? "yes" : "no");
+	wf = wf + ",status=" + (action[11] ? "yes" : "no");		
+	window.open(action[1],action[2],wf);
+}
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSAct[/*CMP*/ 'B4CEEBB32'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Narmer.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEEBE93'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Narmer.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEEC0B4'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Pyramids.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEEC395'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Pyramids.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEEC576'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Sphinx.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEEC717'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Sphinx.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEEC938'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Tut.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEECAB9'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Tut.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEECCC10'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Ramses.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEECF811'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Ramses.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEED1F12'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Amphora.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEED6013'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Amphora.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEED8314'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Mask.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4CEED9A15'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Mask.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4FE5F6F11'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Dagger.html','_blank',400,240,true,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'B4FE5F8612'] = new Array(CSOpenWindow,/*URL*/ 'tline/popups/Dagger.html','_blank',400,240,true,false,false,false,false,false,false);
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body background="tlinebkgstrip.gif" link="#000066">
+		<table cool width="1110" height="532" border="0" cellpadding="0" cellspacing="0" gridx="8" showgridx gridy="8" showgridy>
+			<tr height="1" cntrlrow>
+				<td width="1" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="12" height="1"><spacer type="block" width="12" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="39" height="1"><spacer type="block" width="39" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="14" height="1"><spacer type="block" width="14" height="1"></td>
+				<td width="8" height="1"><spacer type="block" width="8" height="1"></td>
+				<td width="44" height="1"><spacer type="block" width="44" height="1"></td>
+				<td width="32" height="1"><spacer type="block" width="32" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="24" height="1"><spacer type="block" width="24" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="26" height="1"><spacer type="block" width="26" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="2" height="1"><spacer type="block" width="2" height="1"></td>
+				<td width="45" height="1"><spacer type="block" width="45" height="1"></td>
+				<td width="22" height="1"><spacer type="block" width="22" height="1"></td>
+				<td width="2" height="1"><spacer type="block" width="2" height="1"></td>
+				<td width="17" height="1"><spacer type="block" width="17" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="11" height="1"><spacer type="block" width="11" height="1"></td>
+				<td width="28" height="1"><spacer type="block" width="28" height="1"></td>
+				<td width="52" height="1"><spacer type="block" width="52" height="1"></td>
+				<td width="6" height="1"><spacer type="block" width="6" height="1"></td>
+				<td width="71" height="1"><spacer type="block" width="71" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="15" height="1"><spacer type="block" width="15" height="1"></td>
+				<td width="59" height="1"><spacer type="block" width="59" height="1"></td>
+				<td width="15" height="1"><spacer type="block" width="15" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="20" height="1"><spacer type="block" width="20" height="1"></td>
+				<td width="33" height="1"><spacer type="block" width="33" height="1"></td>
+				<td width="2" height="1"><spacer type="block" width="2" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="17" height="1"><spacer type="block" width="17" height="1"></td>
+				<td width="65" height="1"><spacer type="block" width="65" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="2" height="1"><spacer type="block" width="2" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="9" height="1"><spacer type="block" width="9" height="1"></td>
+				<td width="25" height="1"><spacer type="block" width="25" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="15" height="1"><spacer type="block" width="15" height="1"></td>
+				<td width="12" height="1"><spacer type="block" width="12" height="1"></td>
+				<td width="35" height="1"><spacer type="block" width="35" height="1"></td>
+				<td width="6" height="1"><spacer type="block" width="6" height="1"></td>
+				<td width="8" height="1"><spacer type="block" width="8" height="1"></td>
+				<td width="53" height="1"><spacer type="block" width="53" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="2" height="1"><spacer type="block" width="2" height="1"></td>
+				<td width="42" height="1"><spacer type="block" width="42" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="6" height="1"><spacer type="block" width="6" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="30" height="1"><spacer type="block" width="30" height="1"></td>
+				<td width="19" height="1"><spacer type="block" width="19" height="1"></td>
+				<td width="13" height="1"><spacer type="block" width="13" height="1"></td>
+				<td width="46" height="1"><spacer type="block" width="46" height="1"></td>
+				<td width="7" height="1"><spacer type="block" width="7" height="1"></td>
+			</tr>
+			<tr height="18">
+				<td width="1" height="18"><spacer type="block" width="1" height="18"></td>
+				<td width="16" height="18"></td>
+				<td width="1" height="18"></td>
+				<td width="12" height="18"></td>
+				<td width="554" height="18" colspan="29" rowspan="1" valign="top" align="left" xpos="29">
+					<table border="0" cellpadding="0" cellspacing="0" bgcolor="#cccc99" align="left">
+						<tr height="18">
+							<td width="110" height="18">
+								<center>
+									<font size="5"><b>&nbsp;</b></font>&nbsp;<font size="5"><b>3100 BC</b></font></center>
+							</td>
+							<td width="110" height="18">
+								<div align="right">
+									<font size="5"><b>&nbsp;</b></font>&nbsp;<font size="5"><b>2700</b></font></div>
+							</td>
+							<td width="110" height="18">
+								<div align="right">
+									<font size="5"><b>&nbsp;</b></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="5"><b>2500</b></font></div>
+							</td>
+							<td width="110" height="18">
+								<div align="right">
+									<font size="5"><b>&nbsp;</b></font>&nbsp;<font size="5"><b>2000</b></font></div>
+							</td>
+							<td width="110" height="18">
+								<div align="right">
+									&nbsp;<font size="5"><b>1900&nbsp;</b></font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td width="473" height="18" colspan="31" rowspan="1" valign="top" align="left" xpos="583">
+					<table border="0" cellpadding="0" cellspacing="0" bgcolor="#cccc99" align="left">
+						<tr height="18">
+							<td width="110" height="18" bgcolor="#cccc99">
+								<center>
+									<font size="5"><b>&nbsp;</b></font>&nbsp;<font size="5"><b>1500</b></font></center>
+							</td>
+							<td width="110" height="18" bgcolor="#cccc99">
+								<center>
+									<font size="5"><b>&nbsp;</b></font></center>
+							</td>
+							<td width="110" height="18" bgcolor="#cccc99">
+								<div align="right">
+									<font size="5"><b>&nbsp;</b></font>&nbsp;<font size="5"><b>1200</b></font></div>
+							</td>
+							<td width="140" height="18" bgcolor="#cccc99">
+								<div align="right">
+									<font size="5"><b>&nbsp;</b></font>&nbsp;<font size="5"><b>900</b></font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td width="46" height="18"></td>
+				<td width="7" height="18"></td>
+			</tr>
+			<tr height="4">
+				<td width="1" height="4"><spacer type="block" width="1" height="4"></td>
+				<td width="16" height="4"></td>
+				<td width="1" height="4"></td>
+				<td width="12" height="4"></td>
+				<td width="1027" height="4" colspan="60" rowspan="1" valign="top" align="left" xpos="29"><img height="4" width="1024" src="egypt1.gif"></td>
+				<td width="46" height="4"></td>
+				<td width="7" height="4"></td>
+			</tr>
+			<tr height="2">
+				<td width="1" height="2"><spacer type="block" width="1" height="2"></td>
+				<td width="16" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="12" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="39" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="3" height="2"></td>
+				<td width="14" height="2"></td>
+				<td width="8" height="2"></td>
+				<td width="44" height="2"></td>
+				<td width="32" height="2"></td>
+				<td width="16" height="2"></td>
+				<td width="24" height="2"></td>
+				<td width="3" height="2"></td>
+				<td width="26" height="2"></td>
+				<td width="4" height="2"></td>
+				<td width="2" height="2"></td>
+				<td width="45" height="2"></td>
+				<td width="22" height="2"></td>
+				<td width="2" height="2"></td>
+				<td width="111" height="68" colspan="5" rowspan="10" valign="top" align="left" xpos="316"><a href="tline/popups/Sphinx.html" target="_top" csclick="B4CEEC576" onclick="CSAction(new Array(/*CMP*/'B4CEEC576'));return CSClickReturn();"><img height="68" width="73" src="tlinepics/3100/sphynx.jpg" border="0"></a></td>
+				<td width="6" height="2"></td>
+				<td width="71" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="4" height="2"></td>
+				<td width="15" height="2"></td>
+				<td width="59" height="2"></td>
+				<td width="15" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="5" height="2"></td>
+				<td width="20" height="2"></td>
+				<td width="33" height="2"></td>
+				<td width="2" height="2"></td>
+				<td width="4" height="2"></td>
+				<td width="17" height="2"></td>
+				<td width="65" height="2"></td>
+				<td width="5" height="2"></td>
+				<td width="2" height="2"></td>
+				<td width="5" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="9" height="2"></td>
+				<td width="25" height="2"></td>
+				<td width="16" height="2"></td>
+				<td width="15" height="2"></td>
+				<td width="12" height="2"></td>
+				<td width="35" height="2"></td>
+				<td width="6" height="2"></td>
+				<td width="8" height="2"></td>
+				<td width="53" height="2"></td>
+				<td width="3" height="2"></td>
+				<td width="2" height="2"></td>
+				<td width="42" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="6" height="2"></td>
+				<td width="3" height="2"></td>
+				<td width="30" height="2"></td>
+				<td width="19" height="2"></td>
+				<td width="13" height="2"></td>
+				<td width="46" height="2"></td>
+				<td width="7" height="2"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="39" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="14" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="44" height="1"></td>
+				<td width="32" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="24" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="26" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="45" height="1"></td>
+				<td width="22" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="71" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="59" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="20" height="1"></td>
+				<td width="33" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="17" height="1"></td>
+				<td width="65" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="65" height="92" colspan="4" rowspan="10" valign="top" align="left" xpos="758"><a href="tline/popups/Tut.html" target="_top" csclick="B4CEEC938" onclick="CSAction(new Array(/*CMP*/'B4CEEC938'));return CSClickReturn();"><img height="86" width="64" src="tlinepics/3100/1500/tut.jpg" border="0"></a></td>
+				<td width="12" height="1"></td>
+				<td width="35" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="53" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="42" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="30" height="1"></td>
+				<td width="19" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="46" height="1"></td>
+				<td width="7" height="1"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="39" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="14" height="1"></td>
+				<td width="84" height="92" colspan="3" rowspan="10" valign="top" align="left" xpos="88"><a href="tline/popups/Narmer.html" target="_top" csclick="B4CEEBB32" onclick="CSAction(new Array(/*CMP*/'B4CEEBB32'));return CSClickReturn();"><img height="92" width="60" src="tlinepics/3100/shield.jpg" border="0"></a></td>
+				<td width="16" height="1"></td>
+				<td width="24" height="1"></td>
+				<td width="80" height="57" colspan="5" rowspan="7" valign="top" align="left" xpos="212" content csheight="43">
+					<center>
+						<font size="4"><b>Old Kingdom</b></font></center>
+				</td>
+				<td width="22" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="71" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="59" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="20" height="1"></td>
+				<td width="33" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="17" height="1"></td>
+				<td width="65" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="35" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="53" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="42" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="30" height="1"></td>
+				<td width="19" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="46" height="1"></td>
+				<td width="7" height="1"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="39" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="14" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="24" height="1"></td>
+				<td width="22" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="71" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="59" height="1"></td>
+				<td width="80" height="56" colspan="7" rowspan="6" valign="top" align="left" xpos="583" content csheight="37">
+					<center>
+						<font size="4"><b>New Kingdom</b></font></center>
+				</td>
+				<td width="17" height="1"></td>
+				<td width="65" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="35" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="53" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="42" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="30" height="1"></td>
+				<td width="19" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="46" height="1"></td>
+				<td width="7" height="1"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="39" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="14" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="24" height="1"></td>
+				<td width="22" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="77" height="89" colspan="2" rowspan="7" valign="top" align="left" xpos="427"><a href="boat/boat.html" target="_top"><img height="78" width="69" src="tlinepics/3100/e,boat.gif"></a></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="59" height="1"></td>
+				<td width="17" height="1"></td>
+				<td width="65" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="35" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="53" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="42" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="30" height="1"></td>
+				<td width="19" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="46" height="1"></td>
+				<td width="7" height="1"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="58" height="54" colspan="7" rowspan="4" valign="top" align="left" xpos="16" content csheight="22"><font size="4"><b>EGYPT</b></font></td>
+				<td width="14" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="24" height="1"></td>
+				<td width="22" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="59" height="1"></td>
+				<td width="17" height="1"></td>
+				<td width="65" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="35" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="108" height="88" colspan="5" rowspan="6" valign="top" align="left" xpos="876"><a href="tline/popups/Ramses.html" csclick="B4CEECCC10" onclick="CSAction(new Array(/*CMP*/'B4CEECCC10'));return CSClickReturn();"><img height="86" width="78" src="tlinepics/3100/1500/ramsses.jpg" border="0"></a></td>
+				<td width="1" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="30" height="1"></td>
+				<td width="19" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="46" height="1"></td>
+				<td width="7" height="1"></td>
+			</tr>
+			<tr height="2">
+				<td width="1" height="2"><spacer type="block" width="1" height="2"></td>
+				<td width="16" height="2"></td>
+				<td width="14" height="2"></td>
+				<td width="16" height="2"></td>
+				<td width="24" height="2"></td>
+				<td width="22" height="2"></td>
+				<td width="2" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="4" height="2"></td>
+				<td width="15" height="2"></td>
+				<td width="59" height="2"></td>
+				<td width="82" height="87" colspan="2" rowspan="5" valign="top" align="left" xpos="663"><a href="kohl/kohl.html" target="_top"><img height="78" width="69" src="tlinepics/3100/1500/e,kohl.jpg"></a></td>
+				<td width="5" height="2"></td>
+				<td width="2" height="2"></td>
+				<td width="5" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="12" height="2"></td>
+				<td width="35" height="2"></td>
+				<td width="6" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="6" height="2"></td>
+				<td width="3" height="2"></td>
+				<td width="30" height="2"></td>
+				<td width="19" height="2"></td>
+				<td width="13" height="2"></td>
+				<td width="46" height="2"></td>
+				<td width="7" height="2"></td>
+			</tr>
+			<tr height="4">
+				<td width="1" height="4"><spacer type="block" width="1" height="4"></td>
+				<td width="16" height="4"></td>
+				<td width="14" height="4"></td>
+				<td width="16" height="4"></td>
+				<td width="24" height="4"></td>
+				<td width="22" height="4"></td>
+				<td width="2" height="4"></td>
+				<td width="1" height="4"></td>
+				<td width="4" height="4"></td>
+				<td width="74" height="85" colspan="2" rowspan="4" valign="top" align="left" xpos="509"><a href="funerary/funerary.html" target="_top"><img height="78" width="68" src="tlinepics/3100/e,mural.jpg"></a></td>
+				<td width="5" height="4"></td>
+				<td width="2" height="4"></td>
+				<td width="5" height="4"></td>
+				<td width="1" height="4"></td>
+				<td width="12" height="4"></td>
+				<td width="35" height="4"></td>
+				<td width="6" height="4"></td>
+				<td width="1" height="4"></td>
+				<td width="6" height="4"></td>
+				<td width="3" height="4"></td>
+				<td width="30" height="4"></td>
+				<td width="19" height="4"></td>
+				<td width="13" height="4"></td>
+				<td width="46" height="4"></td>
+				<td width="7" height="4"></td>
+			</tr>
+			<tr height="47">
+				<td width="1" height="47"><spacer type="block" width="1" height="47"></td>
+				<td width="16" height="47"></td>
+				<td width="14" height="47"></td>
+				<td width="16" height="47"></td>
+				<td width="24" height="47"></td>
+				<td width="22" height="47"></td>
+				<td width="2" height="47"></td>
+				<td width="1" height="47"></td>
+				<td width="4" height="47"></td>
+				<td width="5" height="47"></td>
+				<td width="2" height="47"></td>
+				<td width="5" height="47"></td>
+				<td width="1" height="47"></td>
+				<td width="12" height="47"></td>
+				<td width="35" height="47"></td>
+				<td width="6" height="47"></td>
+				<td width="118" height="84" colspan="7" rowspan="5" valign="top" align="left" xpos="984"><a href="re/re.html" target="_top"><img height="78" width="69" src="tlinepics/3100/1500/e,reHorak.jpg"></a></td>
+				<td width="7" height="47"></td>
+			</tr>
+			<tr height="8">
+				<td width="1" height="8"><spacer type="block" width="1" height="8"></td>
+				<td width="16" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="12" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="39" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="3" height="8"></td>
+				<td width="14" height="8"></td>
+				<td width="120" height="47" colspan="7" rowspan="7" valign="top" align="left" xpos="172"><a href="tline/popups/Pyramids.html" target="_top" csclick="B4CEEC0B4" onclick="CSAction(new Array(/*CMP*/'B4CEEC0B4'));return CSClickReturn();"><img height="46" width="85" src="tlinepics/3100/pyramid.jpg" border="0"></a></td>
+				<td width="22" height="8"></td>
+				<td width="2" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="4" height="8"></td>
+				<td width="15" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="5" height="8"></td>
+				<td width="20" height="8"></td>
+				<td width="33" height="8"></td>
+				<td width="2" height="8"></td>
+				<td width="4" height="8"></td>
+				<td width="5" height="8"></td>
+				<td width="2" height="8"></td>
+				<td width="5" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="12" height="8"></td>
+				<td width="35" height="8"></td>
+				<td width="6" height="8"></td>
+				<td width="7" height="8"></td>
+			</tr>
+			<tr height="26">
+				<td width="1" height="26"><spacer type="block" width="1" height="26"></td>
+				<td width="16" height="26"></td>
+				<td width="1" height="26"></td>
+				<td width="12" height="26"></td>
+				<td width="1" height="26"></td>
+				<td width="1" height="26"></td>
+				<td width="39" height="26"></td>
+				<td width="1" height="26"></td>
+				<td width="3" height="26"></td>
+				<td width="14" height="26"></td>
+				<td width="22" height="26"></td>
+				<td width="2" height="26"></td>
+				<td width="17" height="26"></td>
+				<td width="42" height="26" colspan="3" rowspan="1" valign="top" align="left" xpos="333" content csheight="19"><a href="tline/popups/Sphinx.html" target="_top" csclick="B4CEEC717" onclick="CSAction(new Array(/*CMP*/'B4CEEC717'));return CSClickReturn();">Sphinx</a></td>
+				<td width="52" height="26"></td>
+				<td width="1" height="26"></td>
+				<td width="4" height="26"></td>
+				<td width="15" height="26"></td>
+				<td width="1" height="26"></td>
+				<td width="5" height="26"></td>
+				<td width="20" height="26"></td>
+				<td width="33" height="26"></td>
+				<td width="2" height="26"></td>
+				<td width="4" height="26"></td>
+				<td width="5" height="26"></td>
+				<td width="2" height="26"></td>
+				<td width="5" height="26"></td>
+				<td width="1" height="26"></td>
+				<td width="12" height="26"></td>
+				<td width="35" height="26"></td>
+				<td width="6" height="26"></td>
+				<td width="7" height="26"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="39" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="14" height="1"></td>
+				<td width="22" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="17" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="11" height="1"></td>
+				<td width="28" height="1"></td>
+				<td width="52" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="71" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="59" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="20" height="1"></td>
+				<td width="33" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="17" height="1"></td>
+				<td width="65" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="73" height="43" colspan="7" rowspan="8" valign="top" align="left" xpos="750" content csheight="32">
+					<center>
+						<a href="tline/popups/Tut.html" target="_top" csclick="B4CEECAB9" onclick="CSAction(new Array(/*CMP*/'B4CEECAB9'));return CSClickReturn();">King Tutankhamun</a></center>
+				</td>
+				<td width="12" height="1"></td>
+				<td width="35" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="53" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="42" height="1"></td>
+				<td width="7" height="1"></td>
+			</tr>
+			<tr height="2">
+				<td width="1" height="2"><spacer type="block" width="1" height="2"></td>
+				<td width="16" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="12" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="39" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="3" height="2"></td>
+				<td width="14" height="2"></td>
+				<td width="8" height="2"></td>
+				<td width="44" height="2"></td>
+				<td width="32" height="2"></td>
+				<td width="22" height="2"></td>
+				<td width="2" height="2"></td>
+				<td width="17" height="2"></td>
+				<td width="3" height="2"></td>
+				<td width="11" height="2"></td>
+				<td width="80" height="42" colspan="2" rowspan="7" valign="top" align="left" xpos="347" content csheight="37">
+					<center>
+						<font size="4"><b>Middle Kingdom</b></font></center>
+				</td>
+				<td width="6" height="2"></td>
+				<td width="71" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="4" height="2"></td>
+				<td width="15" height="2"></td>
+				<td width="59" height="2"></td>
+				<td width="15" height="2"></td>
+				<td width="1" height="2"></td>
+				<td width="5" height="2"></td>
+				<td width="20" height="2"></td>
+				<td width="33" height="2"></td>
+				<td width="2" height="2"></td>
+				<td width="4" height="2"></td>
+				<td width="17" height="2"></td>
+				<td width="65" height="2"></td>
+				<td width="5" height="2"></td>
+				<td width="12" height="2"></td>
+				<td width="35" height="2"></td>
+				<td width="6" height="2"></td>
+				<td width="8" height="2"></td>
+				<td width="56" height="42" colspan="2" rowspan="7" valign="top" align="left" xpos="884" content csheight="31">
+					<center>
+						<a href="tline/popups/Ramses.html" csclick="B4CEECF811" onclick="CSAction(new Array(/*CMP*/'B4CEECF811'));return CSClickReturn();">Ramsses the Great</a></center>
+				</td>
+				<td width="2" height="2"></td>
+				<td width="42" height="2"></td>
+				<td width="7" height="2"></td>
+			</tr>
+			<tr height="6">
+				<td width="1" height="6"><spacer type="block" width="1" height="6"></td>
+				<td width="16" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="12" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="39" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="3" height="6"></td>
+				<td width="14" height="6"></td>
+				<td width="8" height="6"></td>
+				<td width="44" height="6"></td>
+				<td width="32" height="6"></td>
+				<td width="22" height="6"></td>
+				<td width="2" height="6"></td>
+				<td width="17" height="6"></td>
+				<td width="3" height="6"></td>
+				<td width="11" height="6"></td>
+				<td width="6" height="6"></td>
+				<td width="71" height="40" colspan="1" rowspan="6" valign="top" align="left" xpos="433" content csheight="19"><a href="boat/boat.html" target="_top">Model Boat</a></td>
+				<td width="1" height="6"></td>
+				<td width="4" height="6"></td>
+				<td width="15" height="6"></td>
+				<td width="59" height="6"></td>
+				<td width="15" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="5" height="6"></td>
+				<td width="20" height="6"></td>
+				<td width="33" height="6"></td>
+				<td width="2" height="6"></td>
+				<td width="4" height="6"></td>
+				<td width="17" height="6"></td>
+				<td width="65" height="6"></td>
+				<td width="5" height="6"></td>
+				<td width="12" height="6"></td>
+				<td width="35" height="6"></td>
+				<td width="6" height="6"></td>
+				<td width="8" height="6"></td>
+				<td width="2" height="6"></td>
+				<td width="42" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="6" height="6"></td>
+				<td width="3" height="6"></td>
+				<td width="30" height="6"></td>
+				<td width="19" height="6"></td>
+				<td width="13" height="6"></td>
+				<td width="46" height="6"></td>
+				<td width="7" height="6"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="39" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="14" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="44" height="34" colspan="1" rowspan="5" valign="top" align="left" xpos="96" content csheight="32">
+					<center>
+						<a href="tline/popups/Narmer.html" target="_top" csclick="B4CEEBE93" onclick="CSAction(new Array(/*CMP*/'B4CEEBE93'));return CSClickReturn();">Narmer Palette</a></center>
+				</td>
+				<td width="32" height="1"></td>
+				<td width="22" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="17" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="11" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="59" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="20" height="1"></td>
+				<td width="33" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="17" height="1"></td>
+				<td width="65" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="35" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="42" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="30" height="1"></td>
+				<td width="19" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="46" height="1"></td>
+				<td width="7" height="1"></td>
+			</tr>
+			<tr height="3">
+				<td width="1" height="3"><spacer type="block" width="1" height="3"></td>
+				<td width="16" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="12" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="39" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="3" height="3"></td>
+				<td width="14" height="3"></td>
+				<td width="8" height="3"></td>
+				<td width="32" height="3"></td>
+				<td width="22" height="3"></td>
+				<td width="2" height="3"></td>
+				<td width="17" height="3"></td>
+				<td width="3" height="3"></td>
+				<td width="11" height="3"></td>
+				<td width="6" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="4" height="3"></td>
+				<td width="15" height="3"></td>
+				<td width="59" height="3"></td>
+				<td width="15" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="5" height="3"></td>
+				<td width="20" height="3"></td>
+				<td width="33" height="3"></td>
+				<td width="88" height="33" colspan="4" rowspan="4" valign="top" align="left" xpos="657" content csheight="19"><a href="kohl/kohl.html" target="_top">Kohl Container</a></td>
+				<td width="5" height="3"></td>
+				<td width="12" height="3"></td>
+				<td width="35" height="3"></td>
+				<td width="6" height="3"></td>
+				<td width="8" height="3"></td>
+				<td width="2" height="3"></td>
+				<td width="42" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="6" height="3"></td>
+				<td width="3" height="3"></td>
+				<td width="30" height="3"></td>
+				<td width="19" height="3"></td>
+				<td width="13" height="3"></td>
+				<td width="46" height="3"></td>
+				<td width="7" height="3"></td>
+			</tr>
+			<tr height="3">
+				<td width="1" height="3"><spacer type="block" width="1" height="3"></td>
+				<td width="16" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="12" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="39" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="3" height="3"></td>
+				<td width="14" height="3"></td>
+				<td width="8" height="3"></td>
+				<td width="32" height="3"></td>
+				<td width="16" height="3"></td>
+				<td width="24" height="3"></td>
+				<td width="3" height="3"></td>
+				<td width="26" height="3"></td>
+				<td width="4" height="3"></td>
+				<td width="2" height="3"></td>
+				<td width="45" height="3"></td>
+				<td width="22" height="3"></td>
+				<td width="2" height="3"></td>
+				<td width="17" height="3"></td>
+				<td width="3" height="3"></td>
+				<td width="11" height="3"></td>
+				<td width="6" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="93" height="30" colspan="4" rowspan="3" valign="top" align="left" xpos="505" content csheight="19"><a href="funerary/funerary.html" target="_top">Wall Fragment</a></td>
+				<td width="1" height="3"></td>
+				<td width="5" height="3"></td>
+				<td width="20" height="3"></td>
+				<td width="33" height="3"></td>
+				<td width="5" height="3"></td>
+				<td width="12" height="3"></td>
+				<td width="35" height="3"></td>
+				<td width="6" height="3"></td>
+				<td width="8" height="3"></td>
+				<td width="2" height="3"></td>
+				<td width="42" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="6" height="3"></td>
+				<td width="3" height="3"></td>
+				<td width="30" height="3"></td>
+				<td width="19" height="3"></td>
+				<td width="13" height="3"></td>
+				<td width="46" height="3"></td>
+				<td width="7" height="3"></td>
+			</tr>
+			<tr height="5">
+				<td width="1" height="5"><spacer type="block" width="1" height="5"></td>
+				<td width="16" height="5"></td>
+				<td width="1" height="5"></td>
+				<td width="12" height="5"></td>
+				<td width="1" height="5"></td>
+				<td width="1" height="5"></td>
+				<td width="39" height="5"></td>
+				<td width="1" height="5"></td>
+				<td width="3" height="5"></td>
+				<td width="14" height="5"></td>
+				<td width="8" height="5"></td>
+				<td width="32" height="5"></td>
+				<td width="16" height="5"></td>
+				<td width="24" height="5"></td>
+				<td width="3" height="5"></td>
+				<td width="26" height="5"></td>
+				<td width="4" height="5"></td>
+				<td width="2" height="5"></td>
+				<td width="45" height="5"></td>
+				<td width="22" height="5"></td>
+				<td width="2" height="5"></td>
+				<td width="17" height="5"></td>
+				<td width="3" height="5"></td>
+				<td width="11" height="5"></td>
+				<td width="6" height="5"></td>
+				<td width="1" height="5"></td>
+				<td width="1" height="5"></td>
+				<td width="5" height="5"></td>
+				<td width="20" height="5"></td>
+				<td width="33" height="5"></td>
+				<td width="5" height="5"></td>
+				<td width="12" height="5"></td>
+				<td width="35" height="5"></td>
+				<td width="6" height="5"></td>
+				<td width="8" height="5"></td>
+				<td width="2" height="5"></td>
+				<td width="42" height="5"></td>
+				<td width="72" height="27" colspan="6" rowspan="2" valign="top" align="left" xpos="984" content csheight="19"><a href="re/re.html" target="_top">Re Horakhty</a></td>
+				<td width="46" height="5"></td>
+				<td width="7" height="5"></td>
+			</tr>
+			<tr height="22">
+				<td width="1" height="22"><spacer type="block" width="1" height="22"></td>
+				<td width="16" height="22"></td>
+				<td width="1" height="22"></td>
+				<td width="12" height="22"></td>
+				<td width="1" height="22"></td>
+				<td width="1" height="22"></td>
+				<td width="39" height="22"></td>
+				<td width="1" height="22"></td>
+				<td width="3" height="22"></td>
+				<td width="14" height="22"></td>
+				<td width="8" height="22"></td>
+				<td width="32" height="22"></td>
+				<td width="16" height="22"></td>
+				<td width="53" height="22" colspan="3" rowspan="1" valign="top" align="left" xpos="188" content csheight="19"><a href="tline/popups/Pyramids.html" target="_top" csclick="B4CEEC395" onclick="CSAction(new Array(/*CMP*/'B4CEEC395'));return CSClickReturn();">Pyramids</a></td>
+				<td width="4" height="22"></td>
+				<td width="2" height="22"></td>
+				<td width="45" height="22"></td>
+				<td width="22" height="22"></td>
+				<td width="2" height="22"></td>
+				<td width="17" height="22"></td>
+				<td width="3" height="22"></td>
+				<td width="11" height="22"></td>
+				<td width="6" height="22"></td>
+				<td width="1" height="22"></td>
+				<td width="1" height="22"></td>
+				<td width="5" height="22"></td>
+				<td width="20" height="22"></td>
+				<td width="33" height="22"></td>
+				<td width="5" height="22"></td>
+				<td width="12" height="22"></td>
+				<td width="35" height="22"></td>
+				<td width="6" height="22"></td>
+				<td width="8" height="22"></td>
+				<td width="2" height="22"></td>
+				<td width="42" height="22"></td>
+				<td width="46" height="22"></td>
+				<td width="7" height="22"></td>
+			</tr>
+			<tr height="10">
+				<td width="1" height="10"><spacer type="block" width="1" height="10"></td>
+				<td width="16" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="12" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="1026" height="10" colspan="59" rowspan="1" valign="top" align="left" xpos="30"><img height="4" width="1024" src="greece1.gif" align="top"></td>
+				<td width="46" height="10"></td>
+				<td width="7" height="10"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="39" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="14" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="44" height="1"></td>
+				<td width="32" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="24" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="26" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="86" height="84" colspan="4" rowspan="8" valign="top" align="left" xpos="247"><a href="cycladic/cycladic.html" target="_top"><img height="78" width="69" src="tlinepics/3100/g,cycladic.jpg"></a></td>
+				<td width="3" height="1"></td>
+				<td width="11" height="1"></td>
+				<td width="28" height="1"></td>
+				<td width="52" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="71" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="75" height="63" colspan="3" rowspan="6" valign="top" align="left" xpos="524" content csheight="61">
+					<center>
+						<font size="4"><b>Minoans rule Crete</b></font></center>
+				</td>
+				<td width="5" height="1"></td>
+				<td width="20" height="1"></td>
+				<td width="33" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="17" height="1"></td>
+				<td width="65" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="9" height="1"></td>
+				<td width="25" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="35" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="53" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="42" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="30" height="1"></td>
+				<td width="19" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="46" height="1"></td>
+				<td width="7" height="1"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="72" height="54" colspan="8" rowspan="4" valign="top" align="left" xpos="16" content csheight="22"><font size="4"><b>GREECE</b></font></td>
+				<td width="8" height="1"></td>
+				<td width="44" height="1"></td>
+				<td width="32" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="24" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="26" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="11" height="1"></td>
+				<td width="28" height="1"></td>
+				<td width="52" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="71" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="20" height="1"></td>
+				<td width="33" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="17" height="1"></td>
+				<td width="65" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="9" height="1"></td>
+				<td width="25" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="35" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="53" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="42" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="30" height="1"></td>
+				<td width="19" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="46" height="1"></td>
+				<td width="7" height="1"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="44" height="1"></td>
+				<td width="32" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="24" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="26" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="11" height="1"></td>
+				<td width="28" height="1"></td>
+				<td width="52" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="71" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="76" height="82" colspan="5" rowspan="6" valign="top" align="left" xpos="604"><a href="tline/popups/Mask.html" target="_top" csclick="B4CEED8314" onclick="CSAction(new Array(/*CMP*/'B4CEED8314'));return CSClickReturn();"><img height="75" width="73" src="tlinepics/3100/1500/mask.jpg" border="0"></a></td>
+				<td width="65" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="9" height="1"></td>
+				<td width="25" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="12" height="1"></td>
+				<td width="35" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="53" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="42" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="30" height="1"></td>
+				<td width="19" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="46" height="1"></td>
+				<td width="7" height="1"></td>
+			</tr>
+			<tr height="7">
+				<td width="1" height="7"><spacer type="block" width="1" height="7"></td>
+				<td width="16" height="7"></td>
+				<td width="8" height="7"></td>
+				<td width="44" height="7"></td>
+				<td width="32" height="7"></td>
+				<td width="16" height="7"></td>
+				<td width="24" height="7"></td>
+				<td width="3" height="7"></td>
+				<td width="26" height="7"></td>
+				<td width="4" height="7"></td>
+				<td width="2" height="7"></td>
+				<td width="3" height="7"></td>
+				<td width="11" height="7"></td>
+				<td width="28" height="7"></td>
+				<td width="52" height="7"></td>
+				<td width="6" height="7"></td>
+				<td width="71" height="7"></td>
+				<td width="1" height="7"></td>
+				<td width="4" height="7"></td>
+				<td width="15" height="7"></td>
+				<td width="5" height="7"></td>
+				<td width="65" height="7"></td>
+				<td width="5" height="7"></td>
+				<td width="2" height="7"></td>
+				<td width="5" height="7"></td>
+				<td width="1" height="7"></td>
+				<td width="9" height="7"></td>
+				<td width="25" height="7"></td>
+				<td width="16" height="7"></td>
+				<td width="15" height="7"></td>
+				<td width="12" height="7"></td>
+				<td width="35" height="7"></td>
+				<td width="6" height="7"></td>
+				<td width="8" height="7"></td>
+				<td width="53" height="7"></td>
+				<td width="3" height="7"></td>
+				<td width="2" height="7"></td>
+				<td width="42" height="7"></td>
+				<td width="1" height="7"></td>
+				<td width="6" height="7"></td>
+				<td width="3" height="7"></td>
+				<td width="62" height="102" colspan="3" rowspan="7" valign="top" align="left" xpos="994"><a href="tline/popups/Amphora.html" target="_top" csclick="B4CEED1F12" onclick="CSAction(new Array(/*CMP*/'B4CEED1F12'));return CSClickReturn();"><img height="93" width="51" src="tlinepics/3100/amp.jpg" border="0"></a></td>
+				<td width="46" height="7"></td>
+				<td width="7" height="7"></td>
+			</tr>
+			<tr height="45">
+				<td width="1" height="45"><spacer type="block" width="1" height="45"></td>
+				<td width="16" height="45"></td>
+				<td width="8" height="45"></td>
+				<td width="44" height="45"></td>
+				<td width="32" height="45"></td>
+				<td width="16" height="45"></td>
+				<td width="24" height="45"></td>
+				<td width="3" height="45"></td>
+				<td width="26" height="45"></td>
+				<td width="4" height="45"></td>
+				<td width="2" height="45"></td>
+				<td width="3" height="45"></td>
+				<td width="11" height="45"></td>
+				<td width="28" height="45"></td>
+				<td width="52" height="45"></td>
+				<td width="6" height="45"></td>
+				<td width="71" height="45"></td>
+				<td width="1" height="45"></td>
+				<td width="4" height="45"></td>
+				<td width="15" height="45"></td>
+				<td width="5" height="45"></td>
+				<td width="65" height="45"></td>
+				<td width="5" height="45"></td>
+				<td width="2" height="45"></td>
+				<td width="185" height="45" colspan="11" rowspan="1" valign="top" align="left" xpos="752"><a href="tline/popups/Dagger.html" target="_top" csclick="B4FE5F6F11" onclick="CSAction(new Array(/*CMP*/'B4FE5F6F11'));return CSClickReturn();"><img height="43" width="144" src="tlinepics/3100/1500/sword.jpg" border="0"></a></td>
+				<td width="3" height="45"></td>
+				<td width="2" height="45"></td>
+				<td width="42" height="45"></td>
+				<td width="1" height="45"></td>
+				<td width="6" height="45"></td>
+				<td width="3" height="45"></td>
+				<td width="46" height="45"></td>
+				<td width="7" height="45"></td>
+			</tr>
+			<tr height="8">
+				<td width="1" height="8"><spacer type="block" width="1" height="8"></td>
+				<td width="16" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="12" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="39" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="3" height="8"></td>
+				<td width="14" height="8"></td>
+				<td width="8" height="8"></td>
+				<td width="44" height="8"></td>
+				<td width="32" height="8"></td>
+				<td width="16" height="8"></td>
+				<td width="24" height="8"></td>
+				<td width="3" height="8"></td>
+				<td width="26" height="8"></td>
+				<td width="4" height="8"></td>
+				<td width="2" height="8"></td>
+				<td width="3" height="8"></td>
+				<td width="11" height="8"></td>
+				<td width="28" height="8"></td>
+				<td width="52" height="8"></td>
+				<td width="6" height="8"></td>
+				<td width="71" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="4" height="8"></td>
+				<td width="15" height="8"></td>
+				<td width="5" height="8"></td>
+				<td width="65" height="8"></td>
+				<td width="5" height="8"></td>
+				<td width="2" height="8"></td>
+				<td width="5" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="9" height="8"></td>
+				<td width="25" height="8"></td>
+				<td width="43" height="29" colspan="3" rowspan="3" valign="top" align="left" xpos="792" content csheight="19"><a href="tline/popups/Dagger.html" target="_top" csclick="B4FE5F8612" onclick="CSAction(new Array(/*CMP*/'B4FE5F8612'));return CSClickReturn();">Dagger</a></td>
+				<td width="35" height="8"></td>
+				<td width="6" height="8"></td>
+				<td width="8" height="8"></td>
+				<td width="53" height="8"></td>
+				<td width="3" height="8"></td>
+				<td width="2" height="8"></td>
+				<td width="42" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="6" height="8"></td>
+				<td width="3" height="8"></td>
+				<td width="46" height="8"></td>
+				<td width="7" height="8"></td>
+			</tr>
+			<tr height="6">
+				<td width="1" height="6"><spacer type="block" width="1" height="6"></td>
+				<td width="16" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="12" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="39" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="3" height="6"></td>
+				<td width="14" height="6"></td>
+				<td width="8" height="6"></td>
+				<td width="44" height="6"></td>
+				<td width="32" height="6"></td>
+				<td width="16" height="6"></td>
+				<td width="24" height="6"></td>
+				<td width="3" height="6"></td>
+				<td width="26" height="6"></td>
+				<td width="4" height="6"></td>
+				<td width="2" height="6"></td>
+				<td width="3" height="6"></td>
+				<td width="11" height="6"></td>
+				<td width="28" height="6"></td>
+				<td width="52" height="6"></td>
+				<td width="6" height="6"></td>
+				<td width="71" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="4" height="6"></td>
+				<td width="15" height="6"></td>
+				<td width="59" height="6"></td>
+				<td width="15" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="5" height="6"></td>
+				<td width="65" height="6"></td>
+				<td width="5" height="6"></td>
+				<td width="2" height="6"></td>
+				<td width="5" height="6"></td>
+				<td width="1" height="6"></td>
+				<td width="9" height="6"></td>
+				<td width="25" height="6"></td>
+				<td width="35" height="6"></td>
+				<td width="6" height="6"></td>
+				<td width="8" height="6"></td>
+				<td width="53" height="6"></td>
+				<td width="48" height="42" colspan="4" rowspan="4" valign="top" align="left" xpos="937" content csheight="37">
+					<center>
+						<font size="4"><b>Dark Age</b></font></center>
+				</td>
+				<td width="6" height="6"></td>
+				<td width="3" height="6"></td>
+				<td width="46" height="6"></td>
+				<td width="7" height="6"></td>
+			</tr>
+			<tr height="15">
+				<td width="1" height="15"><spacer type="block" width="1" height="15"></td>
+				<td width="16" height="15"></td>
+				<td width="1" height="15"></td>
+				<td width="12" height="15"></td>
+				<td width="1" height="15"></td>
+				<td width="1" height="15"></td>
+				<td width="39" height="15"></td>
+				<td width="1" height="15"></td>
+				<td width="144" height="25" colspan="8" rowspan="2" valign="top" align="left" xpos="71" content csheight="25"><font size="4"><b>Cycladic Culture</b></font></td>
+				<td width="26" height="15"></td>
+				<td width="4" height="15"></td>
+				<td width="2" height="15"></td>
+				<td width="3" height="15"></td>
+				<td width="11" height="15"></td>
+				<td width="28" height="15"></td>
+				<td width="52" height="15"></td>
+				<td width="6" height="15"></td>
+				<td width="71" height="15"></td>
+				<td width="1" height="15"></td>
+				<td width="4" height="15"></td>
+				<td width="15" height="15"></td>
+				<td width="59" height="15"></td>
+				<td width="15" height="15"></td>
+				<td width="1" height="15"></td>
+				<td width="5" height="15"></td>
+				<td width="65" height="15"></td>
+				<td width="5" height="15"></td>
+				<td width="2" height="15"></td>
+				<td width="5" height="15"></td>
+				<td width="1" height="15"></td>
+				<td width="9" height="15"></td>
+				<td width="25" height="15"></td>
+				<td width="35" height="15"></td>
+				<td width="6" height="15"></td>
+				<td width="8" height="15"></td>
+				<td width="53" height="15"></td>
+				<td width="6" height="15"></td>
+				<td width="3" height="15"></td>
+				<td width="46" height="15"></td>
+				<td width="7" height="15"></td>
+			</tr>
+			<tr height="10">
+				<td width="1" height="10"><spacer type="block" width="1" height="10"></td>
+				<td width="16" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="12" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="39" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="26" height="10"></td>
+				<td width="4" height="10"></td>
+				<td width="2" height="10"></td>
+				<td width="45" height="10"></td>
+				<td width="22" height="10"></td>
+				<td width="2" height="10"></td>
+				<td width="17" height="10"></td>
+				<td width="3" height="10"></td>
+				<td width="11" height="10"></td>
+				<td width="28" height="10"></td>
+				<td width="52" height="10"></td>
+				<td width="6" height="10"></td>
+				<td width="71" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="4" height="10"></td>
+				<td width="15" height="10"></td>
+				<td width="59" height="10"></td>
+				<td width="15" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="5" height="10"></td>
+				<td width="20" height="10"></td>
+				<td width="35" height="21" colspan="2" rowspan="2" valign="top" align="left" xpos="624" content csheight="19"><a href="tline/popups/Mask.html" target="_top" csclick="B4CEED9A15" onclick="CSAction(new Array(/*CMP*/'B4CEED9A15'));return CSClickReturn();">Mask</a></td>
+				<td width="4" height="10"></td>
+				<td width="17" height="10"></td>
+				<td width="65" height="10"></td>
+				<td width="5" height="10"></td>
+				<td width="2" height="10"></td>
+				<td width="5" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="9" height="10"></td>
+				<td width="25" height="10"></td>
+				<td width="16" height="10"></td>
+				<td width="15" height="10"></td>
+				<td width="12" height="10"></td>
+				<td width="35" height="10"></td>
+				<td width="6" height="10"></td>
+				<td width="8" height="10"></td>
+				<td width="53" height="10"></td>
+				<td width="6" height="10"></td>
+				<td width="3" height="10"></td>
+				<td width="46" height="10"></td>
+				<td width="7" height="10"></td>
+			</tr>
+			<tr height="11">
+				<td width="1" height="11"><spacer type="block" width="1" height="11"></td>
+				<td width="16" height="11"></td>
+				<td width="1" height="11"></td>
+				<td width="12" height="11"></td>
+				<td width="1" height="11"></td>
+				<td width="1" height="11"></td>
+				<td width="39" height="11"></td>
+				<td width="1" height="11"></td>
+				<td width="3" height="11"></td>
+				<td width="14" height="11"></td>
+				<td width="8" height="11"></td>
+				<td width="44" height="11"></td>
+				<td width="32" height="11"></td>
+				<td width="16" height="11"></td>
+				<td width="24" height="11"></td>
+				<td width="3" height="11"></td>
+				<td width="26" height="11"></td>
+				<td width="4" height="11"></td>
+				<td width="91" height="40" colspan="6" rowspan="2" valign="top" align="left" xpos="245" content csheight="19"><a href="cycladic/cycladic.html" target="_top">Female Figure</a></td>
+				<td width="11" height="11"></td>
+				<td width="28" height="11"></td>
+				<td width="52" height="11"></td>
+				<td width="6" height="11"></td>
+				<td width="71" height="11"></td>
+				<td width="1" height="11"></td>
+				<td width="4" height="11"></td>
+				<td width="15" height="11"></td>
+				<td width="59" height="11"></td>
+				<td width="15" height="11"></td>
+				<td width="1" height="11"></td>
+				<td width="5" height="11"></td>
+				<td width="20" height="11"></td>
+				<td width="4" height="11"></td>
+				<td width="17" height="11"></td>
+				<td width="87" height="40" colspan="6" rowspan="2" valign="top" align="left" xpos="680" content csheight="37">
+					<center>
+						<font size="4"><b>Mycenaean Culture</b></font></center>
+				</td>
+				<td width="25" height="11"></td>
+				<td width="16" height="11"></td>
+				<td width="62" height="40" colspan="3" rowspan="2" valign="top" align="left" xpos="808" content csheight="37">
+					<center>
+						<font size="4"><b>Trojan War</b></font></center>
+				</td>
+				<td width="6" height="11"></td>
+				<td width="8" height="11"></td>
+				<td width="53" height="11"></td>
+				<td width="6" height="11"></td>
+				<td width="3" height="11"></td>
+				<td width="46" height="11"></td>
+				<td width="7" height="11"></td>
+			</tr>
+			<tr height="29">
+				<td width="1" height="29"><spacer type="block" width="1" height="29"></td>
+				<td width="16" height="29"></td>
+				<td width="1" height="29"></td>
+				<td width="12" height="29"></td>
+				<td width="1" height="29"></td>
+				<td width="1" height="29"></td>
+				<td width="39" height="29"></td>
+				<td width="1" height="29"></td>
+				<td width="3" height="29"></td>
+				<td width="14" height="29"></td>
+				<td width="8" height="29"></td>
+				<td width="44" height="29"></td>
+				<td width="32" height="29"></td>
+				<td width="16" height="29"></td>
+				<td width="24" height="29"></td>
+				<td width="3" height="29"></td>
+				<td width="26" height="29"></td>
+				<td width="4" height="29"></td>
+				<td width="11" height="29"></td>
+				<td width="28" height="29"></td>
+				<td width="52" height="29"></td>
+				<td width="6" height="29"></td>
+				<td width="71" height="29"></td>
+				<td width="1" height="29"></td>
+				<td width="4" height="29"></td>
+				<td width="15" height="29"></td>
+				<td width="59" height="29"></td>
+				<td width="15" height="29"></td>
+				<td width="1" height="29"></td>
+				<td width="5" height="29"></td>
+				<td width="20" height="29"></td>
+				<td width="33" height="29"></td>
+				<td width="2" height="29"></td>
+				<td width="4" height="29"></td>
+				<td width="17" height="29"></td>
+				<td width="25" height="29"></td>
+				<td width="16" height="29"></td>
+				<td width="6" height="29"></td>
+				<td width="8" height="29"></td>
+				<td width="53" height="29"></td>
+				<td width="3" height="29"></td>
+				<td width="2" height="29"></td>
+				<td width="42" height="29"></td>
+				<td width="1" height="29"></td>
+				<td width="6" height="29"></td>
+				<td width="52" height="29" colspan="3" rowspan="1" valign="top" align="left" xpos="991" content csheight="19"><a href="tline/popups/Amphora.html" target="_top" csclick="B4CEED6013" onclick="CSAction(new Array(/*CMP*/'B4CEED6013'));return CSClickReturn();">Amphora</a></td>
+				<td width="13" height="29"></td>
+				<td width="46" height="29"></td>
+				<td width="7" height="29"></td>
+			</tr>
+			<tr height="16">
+				<td width="1" height="16"><spacer type="block" width="1" height="16"></td>
+				<td width="16" height="16"></td>
+				<td width="1" height="16"></td>
+				<td width="12" height="16"></td>
+				<td width="1" height="16"></td>
+				<td width="1" height="16"></td>
+				<td width="1025" height="16" colspan="58" rowspan="1" valign="top" align="left" xpos="31"><img height="4" width="1024" src="italy1.gif" align="top"></td>
+				<td width="46" height="16"></td>
+				<td width="7" height="16"></td>
+			</tr>
+			<tr height="4">
+				<td width="1" height="4"><spacer type="block" width="1" height="4"></td>
+				<td width="16" height="4"></td>
+				<td width="1" height="4"></td>
+				<td width="53" height="81" colspan="4" rowspan="2" valign="top" align="left" xpos="17" content csheight="22"><font size="4"><b>ITALY</b></font></td>
+				<td width="1" height="4"></td>
+				<td width="3" height="4"></td>
+				<td width="14" height="4"></td>
+				<td width="8" height="4"></td>
+				<td width="44" height="4"></td>
+				<td width="32" height="4"></td>
+				<td width="16" height="4"></td>
+				<td width="24" height="4"></td>
+				<td width="3" height="4"></td>
+				<td width="26" height="4"></td>
+				<td width="4" height="4"></td>
+				<td width="2" height="4"></td>
+				<td width="45" height="4"></td>
+				<td width="22" height="4"></td>
+				<td width="2" height="4"></td>
+				<td width="17" height="4"></td>
+				<td width="3" height="4"></td>
+				<td width="11" height="4"></td>
+				<td width="28" height="4"></td>
+				<td width="52" height="4"></td>
+				<td width="6" height="4"></td>
+				<td width="71" height="4"></td>
+				<td width="1" height="4"></td>
+				<td width="4" height="4"></td>
+				<td width="15" height="4"></td>
+				<td width="59" height="4"></td>
+				<td width="15" height="4"></td>
+				<td width="1" height="4"></td>
+				<td width="5" height="4"></td>
+				<td width="20" height="4"></td>
+				<td width="33" height="4"></td>
+				<td width="2" height="4"></td>
+				<td width="4" height="4"></td>
+				<td width="17" height="4"></td>
+				<td width="65" height="4"></td>
+				<td width="5" height="4"></td>
+				<td width="2" height="4"></td>
+				<td width="5" height="4"></td>
+				<td width="1" height="4"></td>
+				<td width="9" height="4"></td>
+				<td width="25" height="4"></td>
+				<td width="16" height="4"></td>
+				<td width="15" height="4"></td>
+				<td width="12" height="4"></td>
+				<td width="35" height="4"></td>
+				<td width="6" height="4"></td>
+				<td width="8" height="4"></td>
+				<td width="53" height="4"></td>
+				<td width="3" height="4"></td>
+				<td width="2" height="4"></td>
+				<td width="42" height="4"></td>
+				<td width="1" height="4"></td>
+				<td width="6" height="4"></td>
+				<td width="3" height="4"></td>
+				<td width="30" height="4"></td>
+				<td width="19" height="4"></td>
+				<td width="13" height="4"></td>
+				<td width="46" height="4"></td>
+				<td width="7" height="4"></td>
+			</tr>
+			<tr height="77">
+				<td width="1" height="77"><spacer type="block" width="1" height="77"></td>
+				<td width="16" height="77"></td>
+				<td width="1" height="77"></td>
+				<td width="1" height="77"></td>
+				<td width="3" height="77"></td>
+				<td width="14" height="77"></td>
+				<td width="8" height="77"></td>
+				<td width="44" height="77"></td>
+				<td width="32" height="77"></td>
+				<td width="16" height="77"></td>
+				<td width="24" height="77"></td>
+				<td width="3" height="77"></td>
+				<td width="26" height="77"></td>
+				<td width="4" height="77"></td>
+				<td width="2" height="77"></td>
+				<td width="45" height="77"></td>
+				<td width="22" height="77"></td>
+				<td width="2" height="77"></td>
+				<td width="17" height="77"></td>
+				<td width="3" height="77"></td>
+				<td width="11" height="77"></td>
+				<td width="28" height="77"></td>
+				<td width="52" height="77"></td>
+				<td width="6" height="77"></td>
+				<td width="71" height="77"></td>
+				<td width="1" height="77"></td>
+				<td width="4" height="77"></td>
+				<td width="15" height="77"></td>
+				<td width="59" height="77"></td>
+				<td width="15" height="77"></td>
+				<td width="1" height="77"></td>
+				<td width="5" height="77"></td>
+				<td width="20" height="77"></td>
+				<td width="33" height="77"></td>
+				<td width="2" height="77"></td>
+				<td width="4" height="77"></td>
+				<td width="17" height="77"></td>
+				<td width="65" height="77"></td>
+				<td width="5" height="77"></td>
+				<td width="2" height="77"></td>
+				<td width="5" height="77"></td>
+				<td width="1" height="77"></td>
+				<td width="9" height="77"></td>
+				<td width="25" height="77"></td>
+				<td width="16" height="77"></td>
+				<td width="15" height="77"></td>
+				<td width="12" height="77"></td>
+				<td width="35" height="77"></td>
+				<td width="6" height="77"></td>
+				<td width="8" height="77"></td>
+				<td width="53" height="77"></td>
+				<td width="3" height="77"></td>
+				<td width="2" height="77"></td>
+				<td width="160" height="77" colspan="8" rowspan="1" valign="top" align="left" xpos="942" content csheight="43">
+					<center>
+						<font size="4"><b>Iron Age and Villanovan Culture</b></font></center>
+				</td>
+				<td width="7" height="77"></td>
+			</tr>
+			<tr height="70">
+				<td width="1" height="70"><spacer type="block" width="1" height="70"></td>
+				<td width="16" height="70"></td>
+				<td width="1" height="70"></td>
+				<td width="12" height="70"></td>
+				<td width="1" height="70"></td>
+				<td width="1" height="70"></td>
+				<td width="39" height="70"></td>
+				<td width="1" height="70"></td>
+				<td width="3" height="70"></td>
+				<td width="14" height="70"></td>
+				<td width="8" height="70"></td>
+				<td width="44" height="70"></td>
+				<td width="32" height="70"></td>
+				<td width="16" height="70"></td>
+				<td width="24" height="70"></td>
+				<td width="3" height="70"></td>
+				<td width="26" height="70"></td>
+				<td width="4" height="70"></td>
+				<td width="2" height="70"></td>
+				<td width="45" height="70"></td>
+				<td width="22" height="70"></td>
+				<td width="2" height="70"></td>
+				<td width="17" height="70"></td>
+				<td width="3" height="70"></td>
+				<td width="11" height="70"></td>
+				<td width="28" height="70"></td>
+				<td width="52" height="70"></td>
+				<td width="6" height="70"></td>
+				<td width="71" height="70"></td>
+				<td width="1" height="70"></td>
+				<td width="4" height="70"></td>
+				<td width="15" height="70"></td>
+				<td width="59" height="70"></td>
+				<td width="15" height="70"></td>
+				<td width="1" height="70"></td>
+				<td width="5" height="70"></td>
+				<td width="20" height="70"></td>
+				<td width="33" height="70"></td>
+				<td width="2" height="70"></td>
+				<td width="4" height="70"></td>
+				<td width="17" height="70"></td>
+				<td width="65" height="70"></td>
+				<td width="5" height="70"></td>
+				<td width="2" height="70"></td>
+				<td width="5" height="70"></td>
+				<td width="1" height="70"></td>
+				<td width="9" height="70"></td>
+				<td width="25" height="70"></td>
+				<td width="16" height="70"></td>
+				<td width="15" height="70"></td>
+				<td width="12" height="70"></td>
+				<td width="35" height="70"></td>
+				<td width="6" height="70"></td>
+				<td width="8" height="70"></td>
+				<td width="53" height="70"></td>
+				<td width="3" height="70"></td>
+				<td width="2" height="70"></td>
+				<td width="42" height="70"></td>
+				<td width="1" height="70"></td>
+				<td width="6" height="70"></td>
+				<td width="3" height="70"></td>
+				<td width="30" height="70"></td>
+				<td width="85" height="70" colspan="4" rowspan="1" valign="top" align="left" xpos="1024"><a href="Tlinemainframe2.html"><img height="25" width="79" src="tline/picts/TlineRightButton.gif"></a></td>
+			</tr>
+			<tr height="61">
+				<td width="1" height="61"><spacer type="block" width="1" height="61"></td>
+				<td width="16" height="61"></td>
+				<td width="1" height="61"></td>
+				<td width="12" height="61"></td>
+				<td width="1" height="61"></td>
+				<td width="1" height="61"></td>
+				<td width="39" height="61"></td>
+				<td width="1" height="61"></td>
+				<td width="3" height="61"></td>
+				<td width="14" height="61"></td>
+				<td width="8" height="61"></td>
+				<td width="44" height="61"></td>
+				<td width="32" height="61"></td>
+				<td width="16" height="61"></td>
+				<td width="24" height="61"></td>
+				<td width="3" height="61"></td>
+				<td width="26" height="61"></td>
+				<td width="4" height="61"></td>
+				<td width="2" height="61"></td>
+				<td width="45" height="61"></td>
+				<td width="22" height="61"></td>
+				<td width="443" height="61" colspan="24" rowspan="1" valign="top" align="left" xpos="314" content csheight="55">
+					<center>
+						<font size="2">&copy; 2000, by The Art Institute of Chicago. All rights reserved. Use of this program is subject to the terms below. No part of this program may be reproduced, transmitted or distributed in any form or by any means, except for personal or classroom use. All Copyright in and to the program, in whole or in part, belongs to the publisher and its licensors and is registered with the U.S. Copyright Office</font></center>
+				</td>
+				<td width="1" height="61"></td>
+				<td width="9" height="61"></td>
+				<td width="25" height="61"></td>
+				<td width="16" height="61"></td>
+				<td width="15" height="61"></td>
+				<td width="12" height="61"></td>
+				<td width="35" height="61"></td>
+				<td width="6" height="61"></td>
+				<td width="8" height="61"></td>
+				<td width="53" height="61"></td>
+				<td width="3" height="61"></td>
+				<td width="2" height="61"></td>
+				<td width="42" height="61"></td>
+				<td width="1" height="61"></td>
+				<td width="6" height="61"></td>
+				<td width="3" height="61"></td>
+				<td width="30" height="61"></td>
+				<td width="19" height="61"></td>
+				<td width="13" height="61"></td>
+				<td width="46" height="61"></td>
+				<td width="7" height="61"></td>
+			</tr>
+		</table>
+	</body>
+
+</html>
