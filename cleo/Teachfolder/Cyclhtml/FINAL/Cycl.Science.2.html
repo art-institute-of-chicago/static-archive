@@ -1,0 +1,465 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Cleopatra</title>
+		<csactions>
+			<csaction name="B505025C71" class="Open Window" type="ONEVENT" val0="MovCyc1.html" val1 val2="340" val3="300" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+		</csactions>
+		<csscriptdict>
+			<script><!--
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+CSStopExecution = false;
+
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+function CSOpenWindow(action) {
+	var wf = "";	
+	wf = wf + "width=" + action[3];
+	wf = wf + ",height=" + action[4];
+	wf = wf + ",resizable=" + (action[5] ? "yes" : "no");
+	wf = wf + ",scrollbars=" + (action[6] ? "yes" : "no");
+	wf = wf + ",menubar=" + (action[7] ? "yes" : "no");
+	wf = wf + ",toolbar=" + (action[8] ? "yes" : "no");
+	wf = wf + ",directories=" + (action[9] ? "yes" : "no");
+	wf = wf + ",location=" + (action[10] ? "yes" : "no");
+	wf = wf + ",status=" + (action[11] ? "yes" : "no");		
+	window.open(action[1],action[2],wf);
+}
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSAct[/*CMP*/ 'B505025C71'] = new Array(CSOpenWindow,/*URL*/ 'MovCyc1.html','',340,300,true,false,false,false,false,false,true);
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body background="../../allbkgstrip.gif" link="#1f2b54">
+		<table cool width="797" height="3281" border="0" cellpadding="0" cellspacing="0" gridx="16" showgridx gridy="16" showgridy>
+			<tr height="1" cntrlrow>
+				<td width="1" height="1"></td>
+				<td width="23" height="1"><spacer type="block" width="23" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="11" height="1"><spacer type="block" width="11" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="49" height="1"><spacer type="block" width="49" height="1"></td>
+				<td width="12" height="1"><spacer type="block" width="12" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="6" height="1"><spacer type="block" width="6" height="1"></td>
+				<td width="32" height="1"><spacer type="block" width="32" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="218" height="1"><spacer type="block" width="218" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="179" height="1"><spacer type="block" width="179" height="1"></td>
+				<td width="217" height="1"><spacer type="block" width="217" height="1"></td>
+				<td width="10" height="1"><spacer type="block" width="10" height="1"></td>
+			</tr>
+			<tr height="8">
+				<td width="1" height="8"><spacer type="block" width="1" height="8"></td>
+				<td width="23" height="8"></td>
+				<td width="3" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="1" height="8"></td>
+				<td width="3" height="8"></td>
+				<td width="11" height="8"></td>
+				<td width="5" height="8"></td>
+				<td width="49" height="8"></td>
+				<td width="12" height="8"></td>
+				<td width="4" height="8"></td>
+				<td width="6" height="8"></td>
+				<td width="32" height="8"></td>
+				<td width="16" height="8"></td>
+				<td width="218" height="8"></td>
+				<td width="5" height="8"></td>
+				<td width="179" height="8"></td>
+				<td width="217" height="8"></td>
+				<td width="10" height="8"></td>
+			</tr>
+			<tr height="9">
+				<td width="1" height="9"><spacer type="block" width="1" height="9"></td>
+				<td width="23" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="11" height="9"></td>
+				<td width="66" height="115" colspan="3" rowspan="4" valign="top" align="left" xpos="43"><img height="111" width="61" src="../../cycladicicon.gif"></td>
+				<td width="4" height="9"></td>
+				<td width="6" height="9"></td>
+				<td width="32" height="9"></td>
+				<td width="16" height="9"></td>
+				<td width="218" height="9"></td>
+				<td width="5" height="9"></td>
+				<td width="179" height="9"></td>
+				<td width="217" height="9"></td>
+				<td width="10" height="9"></td>
+			</tr>
+			<tr height="46">
+				<td width="1" height="46"><spacer type="block" width="1" height="46"></td>
+				<td width="23" height="46"></td>
+				<td width="3" height="46"></td>
+				<td width="1" height="46"></td>
+				<td width="1" height="46"></td>
+				<td width="1" height="46"></td>
+				<td width="3" height="46"></td>
+				<td width="11" height="46"></td>
+				<td width="4" height="46"></td>
+				<td width="6" height="46"></td>
+				<td width="32" height="46"></td>
+				<td width="16" height="46"></td>
+				<td width="218" height="46"></td>
+				<td width="184" height="46" colspan="2" rowspan="1" valign="top" align="left" xpos="385"><img height="35" width="154" src="../../cleotitlesmall.gif"></td>
+				<td width="217" height="46"></td>
+				<td width="10" height="46"></td>
+			</tr>
+			<tr height="43">
+				<td width="1" height="43"><spacer type="block" width="1" height="43"></td>
+				<td width="23" height="43"></td>
+				<td width="3" height="43"></td>
+				<td width="1" height="43"></td>
+				<td width="1" height="43"></td>
+				<td width="1" height="43"></td>
+				<td width="3" height="43"></td>
+				<td width="11" height="43"></td>
+				<td width="4" height="43"></td>
+				<td width="6" height="43"></td>
+				<td width="32" height="43"></td>
+				<td width="16" height="43"></td>
+				<td width="218" height="43"></td>
+				<td width="5" height="43"></td>
+				<td width="179" height="43" colspan="1" rowspan="1" valign="top" align="left" xpos="390" content csheight="31">
+					<center>
+						<font size="6"><i><b>Lesson Plans</b></i></font></center>
+				</td>
+				<td width="217" height="43"></td>
+				<td width="10" height="43"></td>
+			</tr>
+			<tr height="17">
+				<td width="1" height="17"><spacer type="block" width="1" height="17"></td>
+				<td width="23" height="17"></td>
+				<td width="3" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="3" height="17"></td>
+				<td width="11" height="17"></td>
+				<td width="4" height="17"></td>
+				<td width="6" height="17"></td>
+				<td width="32" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="619" height="17" colspan="4" rowspan="1" valign="top" align="left" xpos="167">
+					<hr width="410" size="2">
+				</td>
+				<td width="10" height="17"></td>
+			</tr>
+			<tr height="9">
+				<td width="1" height="9"><spacer type="block" width="1" height="9"></td>
+				<td width="23" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="11" height="9"></td>
+				<td width="5" height="9"></td>
+				<td width="49" height="42" colspan="1" rowspan="2" valign="top" align="left" xpos="48" content csheight="31">
+					<center>
+						<a href="../../../cycladic/cycladic.html">Cycladic Figure</a></center>
+				</td>
+				<td width="12" height="9"></td>
+				<td width="4" height="9"></td>
+				<td width="6" height="9"></td>
+				<td width="32" height="9"></td>
+				<td width="16" height="9"></td>
+				<td width="218" height="9"></td>
+				<td width="5" height="9"></td>
+				<td width="179" height="9"></td>
+				<td width="217" height="9"></td>
+				<td width="10" height="9"></td>
+			</tr>
+			<tr height="33">
+				<td width="1" height="33"><spacer type="block" width="1" height="33"></td>
+				<td width="23" height="33"></td>
+				<td width="3" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="3" height="33"></td>
+				<td width="11" height="33"></td>
+				<td width="5" height="33"></td>
+				<td width="12" height="33"></td>
+				<td width="4" height="33"></td>
+				<td width="6" height="33"></td>
+				<td width="32" height="33"></td>
+				<td width="635" height="3148" colspan="5" rowspan="8" valign="top" align="left" xpos="151" content csheight="3148">
+					<center>
+						<font face="Times New Roman,Georgia,Times" size="3"><b>Excavate and Explore</b></font>
+						<p><font face="Times New Roman,Georgia,Times" size="3"><b><br>
+						<br>
+						</b></font></p>
+					</center>
+					<p><font face="Times New Roman,Georgia,Times">Lesson plan based on <b>Cycladic</b> <b>Figure</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times">Simulate an archeological excavation to understand how archeologists identify, date, and make inferences about their findings.</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Skills and Focus: </b>Earth Sciences, Scientific Inquiry</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Subject Area: </b>Science</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Thematic Connection:</b> Connecting Past and Present</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Grade Level: </b>Middle School</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Time Needed: </b>120-200 minutes</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Objectives</b></font></p>
+					<blockquote>
+						<p><font face="Times New Roman,Georgia,Times">&#149; Gain a general acquaintance with the principles of archaeological excavation.</font></p>
+						<p><font face="Times New Roman,Georgia,Times">&#149; Understand how archaeological inferences are made.</font></p>
+						<p><font face="Times New Roman,Georgia,Times">&#149; Understand the importance of spatial and stratigraphic contexts in archaeology.</font></p>
+					</blockquote>
+					<p><font face="Times New Roman,Georgia,Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Instructional Materials Needed</b></font></p>
+					<blockquote>
+						<p><font face="Times New Roman,Georgia,Times">Story: <a href="(Empty Reference!)" csclick="B505025C71" onclick="CSAction(new Array(/*CMP*/'B505025C71'));return CSClickReturn();"><i>Who Is This?</i></a></font></p>
+						<p><a href="Forms.Tags.html"><font face="Times New Roman,Georgia,Times">Tags and Forms</font></a></p>
+						<p><font face="Times New Roman,Georgia,Times">4 large (at least 2&#146;-3&#146; square), sturdy cardboard boxes.</font></p>
+						<p><font face="Times New Roman,Georgia,Times">Bricks</font></p>
+						<p><font face="Times New Roman,Georgia,Times">Ashes, charred wood, and bones (boil to clean and sterilize)</font></p>
+						<p><font face="Times New Roman,Georgia,Times">Soil (preferably 2 different kinds)</font></p>
+						<p><font face="Times New Roman,Georgia,Times">Digging equipment: serving spoons, buckets, dustpans, and brushes</font></p>
+						<p><font face="Times New Roman,Georgia,Times">Recording equipment: rulers, pencils papers, notebooks</font></p>
+						<p><font face="Times New Roman,Georgia,Times">Masking tape</font></p>
+						<p><font face="Times New Roman,Georgia,Times">Suggested Print Resource:</font></p>
+						<p><font face="Times New Roman,Georgia,Times">&#149; M. S. Joukowsky. <i>A Complete Manual of Field Archaeology</i>.</font></p>
+					</blockquote>
+					<p><font face="Times New Roman,Georgia,Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Activity</b></font></p>
+					<blockquote>
+						<p><font face="Times New Roman,Georgia,Times"><b>Steps 1-4 should be completed in preparation for classroom activities.</b></font></p>
+						<p><font face="Times New Roman,Georgia,Times"><b>Step 1:</b> Trim the four boxes to the same height so that the top of each box can be used as a standard beginning elevation for the excavation. Elevations will be measured from the top down rather than from the bottom up.</font></p>
+						<p><font face="Times New Roman,Georgia,Times"><b>Step 2:</b> Prepare an excavation site using or adapting the plan provided. Your site should consist of two levels: a top level that was deposited after the site was abandoned and a lower level that was associated with the use of the site. If possible, use two different soil types to distinguish between the layers. Remember, the students will not be able to excavate the entire site, so be sure that the remains in the excavation trenches conform to the master plan.</font></p>
+						<p><font face="Times New Roman,Georgia,Times"><b>Step 3:</b> Use bricks to outline the walls of the building. It is alright if the walls protrude into the upper (post abandonment) level in places. In the lower (occupation) layer, distinguish the interior of the building from the exterior. You may wish to mix ashes into the soil (suggesting the building burned down) and artifacts that suggest what the building was used for. Place artifacts in different contexts (within the building, outside the building, in the hearth, and so on) that suggest distinct activities. Also, place newer items (plastic, aluminum, new coins) in the upper level and older items in the lower level.</font></p>
+						<p><font face="Times New Roman,Georgia,Times"><b>Step 4:</b> In order to define the hearth, mix ashes with burnt wood and food debris (e.g., bones).</font></p>
+					</blockquote>
+					<p><font face="Times New Roman,Georgia,Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>The following steps should be completed with the students in the classroom:</b></font></p>
+					<blockquote>
+						<p><font face="Times New Roman,Georgia,Times"><b>Step 5:</b> After watching <i>Who is This?</i>, discuss why it is important to remove these artifacts in a controlled excavation rather than just digging them up and putting them in a museum.</font></p>
+						<p><font face="Times New Roman,Georgia,Times"><b>Step 6:</b> Divide the class into teams of 3 or 4 students and distribute a set of tools to each group. One student should be responsible for excavating, a second for measuring and taking notes, and a third for helping to measure, labeling, and storing finds. Students should rotate job responsibilities. The trenches should start out in place within the 5 x 5 m site (marked in advance with masking tape). The position of each trench can be marked in masking tape and then the boxes moved to make room for each group to work.</font></p>
+						<p><font face="Times New Roman,Georgia,Times">As students dig through layers, make sure they carefully measure at what depth from the top of the box they encountered the new layers. They should carefully note whether artifacts come from the upper layer or the lower, and whether they come from inside the building/hearth or outside.</font></p>
+						<p><font face="Times New Roman,Georgia,Times">All artifacts should be tagged and bagged using printouts of the tags provided. All archaeological features (e.g., pits, structures) and layers should be recorded and drawn on the forms provided. Bricks, artifacts, and other features should be carefully measured and drawn to scale on the forms. Finds from different sides of an architectural feature (e.g., a wall) or in distinctly different contexts (hearth versus ordinary soil) should be labeled and stored separately. Each trench should have a full record of the distribution of evidence both vertically and horizontally at the end of the dig.</font></p>
+						<p><font face="Times New Roman,Georgia,Times"><b>Step 7: Analysis</b></font></p>
+						<p><font face="Times New Roman,Georgia,Times">Ask each team to draw a master plan of the excavation, trying to distinguish the interior and exterior of the building.</font></p>
+						<p><font face="Times New Roman,Georgia,Times">Reconstruct the layers (stratigraphy) on the site and construct a section (cut-away) diagram using information from the various trenches.</font></p>
+						<p><font face="Times New Roman,Georgia,Times">Try to establish a date for the upper and lower levels. The most recent item found in a level establishes the date after which the level was deposited.</font></p>
+						<p><font face="Times New Roman,Georgia,Times">Interpret the results for the whole site, synthesizing the evidence from the different trenches.</font></p>
+					</blockquote>
+					<p><font face="Times New Roman,Georgia,Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times New Roman,Georgia,Times">&nbsp;</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Goals</b></font></p>
+					<blockquote>
+						<p><font face="Times New Roman,Georgia,Times">This activity meets<b> Illinois State Goal 11:</b> Have a working knowledge of the processes of scientific inquiry and technological design to investigate questions, conduct experiments and solve problems.</font></p>
+					</blockquote>
+					<p><font face="Times New Roman,Georgia,Times"><b>Artifact Control Tag</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times">Date:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Trench #:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Tag #:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Excavators&#146; initials:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Layer:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">&nbsp;</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Artifact Control Tag</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times">Date:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Trench #:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Tag #:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Excavators&#146; initials:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Layer:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">&nbsp;</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Artifact Control Tag</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times">Date:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Trench #:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Tag #:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Excavators&#146; initials:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Layer:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">&nbsp;</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Artifact Control Tag</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times">Date:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Trench #:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Tag #:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Excavators&#146; initials:</font></p>
+					<p><font face="Times New Roman,Georgia,Times">Layer:<br>
+					<br>
+					<br>
+					<br>
+					</font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Excavation Record Form</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Date:</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Trench #</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Recorder:</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Feature #</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Layer:</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>&nbsp;</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Soil Characteristics</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Color:</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Texture:</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Inclusions:</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Finds (tag #s):</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>&nbsp;</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Sketch plan of Trench # _____ Layer # _____</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times"><b>Mark elevations on plan.</b></font></p>
+					<p><font face="Times New Roman,Georgia,Times">&nbsp;</font></p>
+					<p></p>
+					<p></p>
+					<p><font size="2">&copy; 2000, by The Art Institute of Chicago. All rights reserved. Use of this program is subject to the terms below. No part of this program may be reproduced, transmitted or distributed in any form or by any means, except for personal or classroom use. All Copyright in and to the program, in whole or in part, belongs to the publisher and its licensors and is registered with the U.S. Copyright Office</font></td>
+				<td width="10" height="33"></td>
+			</tr>
+			<tr height="21">
+				<td width="1" height="21"><spacer type="block" width="1" height="21"></td>
+				<td width="23" height="21"></td>
+				<td width="3" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="80" height="21" colspan="5" rowspan="1" valign="top" align="left" xpos="29">
+					<hr size="2" width="79">
+				</td>
+				<td width="4" height="21"></td>
+				<td width="6" height="21"></td>
+				<td width="32" height="21"></td>
+				<td width="10" height="21"></td>
+			</tr>
+			<tr height="68">
+				<td width="1" height="68"><spacer type="block" width="1" height="68"></td>
+				<td width="23" height="68"></td>
+				<td width="96" height="68" colspan="11" rowspan="1" valign="top" align="left" xpos="23" content csheight="50">
+					<center>
+						<a href="../../LPMainSearch.html"><font size="3" face="Times New Roman,Georgia,Times"><b>Lesson Plans Home</b></font></a></center>
+				</td>
+				<td width="32" height="68"></td>
+				<td width="10" height="68"></td>
+			</tr>
+			<tr height="62">
+				<td width="1" height="62"><spacer type="block" width="1" height="62"></td>
+				<td width="23" height="62"></td>
+				<td width="3" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="3" height="62"></td>
+				<td width="77" height="62" colspan="4" rowspan="1" valign="top" align="left" xpos="32" content csheight="49">
+					<center>
+						<a href="../../../index.html"><font size="3"><b>Cleopatra Home</b></font></a></center>
+				</td>
+				<td width="4" height="62"></td>
+				<td width="6" height="62"></td>
+				<td width="32" height="62"></td>
+				<td width="10" height="62"></td>
+			</tr>
+			<tr height="58">
+				<td width="1" height="58"><spacer type="block" width="1" height="58"></td>
+				<td width="23" height="58"></td>
+				<td width="3" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="80" height="58" colspan="5" rowspan="1" valign="top" align="left" xpos="29" content csheight="43">
+					<center>
+						<a href="../../lessonprint.html"><font size="3"><b>Print Lessons</b></font></a></center>
+				</td>
+				<td width="4" height="58"></td>
+				<td width="6" height="58"></td>
+				<td width="32" height="58"></td>
+				<td width="10" height="58"></td>
+			</tr>
+			<tr height="10">
+				<td width="1" height="10"><spacer type="block" width="1" height="10"></td>
+				<td width="23" height="10"></td>
+				<td width="3" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="81" height="10" colspan="6" rowspan="1" valign="top" align="left" xpos="28">
+					<hr size="2" width="79">
+				</td>
+				<td width="4" height="10"></td>
+				<td width="6" height="10"></td>
+				<td width="32" height="10"></td>
+				<td width="10" height="10"></td>
+			</tr>
+			<tr height="37">
+				<td width="1" height="37"><spacer type="block" width="1" height="37"></td>
+				<td width="23" height="37"></td>
+				<td width="3" height="37"></td>
+				<td width="87" height="37" colspan="9" rowspan="1" valign="top" align="left" xpos="26" content csheight="37">
+					<center>
+						<a href="http://www.artic.edu/aic/index.html"><font size="3">The Art Institute of Chicago</font></a></center>
+				</td>
+				<td width="6" height="37"></td>
+				<td width="32" height="37"></td>
+				<td width="10" height="37"></td>
+			</tr>
+			<tr height="2859">
+				<td width="1" height="2859"><spacer type="block" width="1" height="2859"></td>
+				<td width="23" height="2859"></td>
+				<td width="3" height="2859"></td>
+				<td width="1" height="2859"></td>
+				<td width="86" height="2859" colspan="8" rowspan="1" valign="top" align="left" xpos="27"><a href="http://www.artic.edu/aic/index.html"><img height="45" width="79" src="../../AICbuttonNEW.gif"></a></td>
+				<td width="6" height="2859"></td>
+				<td width="32" height="2859"></td>
+				<td width="10" height="2859"></td>
+			</tr>
+		</table>
+	</body>
+
+</html>

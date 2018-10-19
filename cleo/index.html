@@ -1,0 +1,573 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>CleoMain.htm</title>
+		<csactions>
+			<csaction name="B50688C70" class="Open Window" type="ONEVENT" val0="EgyptFrame.html" val1="_blank" val2="700" val3="300" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+			<csaction name="B510CF4F2" class="Open Window" type="ONEVENT" val0="GreeceFrame.html" val1="_blank" val2="700" val3="300" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+			<csaction name="B510CF763" class="Open Window" type="ONEVENT" val0="ItalyFrame.html" val1="_blank" val2="700" val3="300" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+		</csactions>
+		<csscriptdict>
+			<script><!--
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+CSStopExecution = false;
+
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+function CSOpenWindow(action) {
+	var wf = "";	
+	wf = wf + "width=" + action[3];
+	wf = wf + ",height=" + action[4];
+	wf = wf + ",resizable=" + (action[5] ? "yes" : "no");
+	wf = wf + ",scrollbars=" + (action[6] ? "yes" : "no");
+	wf = wf + ",menubar=" + (action[7] ? "yes" : "no");
+	wf = wf + ",toolbar=" + (action[8] ? "yes" : "no");
+	wf = wf + ",directories=" + (action[9] ? "yes" : "no");
+	wf = wf + ",location=" + (action[10] ? "yes" : "no");
+	wf = wf + ",status=" + (action[11] ? "yes" : "no");		
+	window.open(action[1],action[2],wf);
+}
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSAct[/*CMP*/ 'B50688C70'] = new Array(CSOpenWindow,/*URL*/ 'EgyptFrame.html','_blank',700,300,true,false,false,false,false,false,true);
+CSAct[/*CMP*/ 'B510CF4F2'] = new Array(CSOpenWindow,/*URL*/ 'GreeceFrame.html','_blank',700,300,true,false,false,false,false,false,true);
+CSAct[/*CMP*/ 'B510CF763'] = new Array(CSOpenWindow,/*URL*/ 'ItalyFrame.html','_blank',700,300,true,false,false,false,false,false,true);
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body link="#1f2b54" background="bkgfinal.gif" vlink="#660099" bgcolor="silver">
+		<table cool width="674" height="574" border="0" cellpadding="0" cellspacing="0" gridx="16" showgridx gridy="16" showgridy>
+			<tr height="1" cntrlrow>
+				<td width="1" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="2" height="1"><spacer type="block" width="2" height="1"></td>
+				<td width="9" height="1"><spacer type="block" width="9" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="19" height="1"><spacer type="block" width="19" height="1"></td>
+				<td width="52" height="1"><spacer type="block" width="52" height="1"></td>
+				<td width="14" height="1"><spacer type="block" width="14" height="1"></td>
+				<td width="15" height="1"><spacer type="block" width="15" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="8" height="1"><spacer type="block" width="8" height="1"></td>
+				<td width="13" height="1"><spacer type="block" width="13" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="22" height="1"><spacer type="block" width="22" height="1"></td>
+				<td width="58" height="1"><spacer type="block" width="58" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="95" height="1"><spacer type="block" width="95" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="79" height="1"><spacer type="block" width="79" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="94" height="1"><spacer type="block" width="94" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="79" height="1"><spacer type="block" width="79" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="32" height="1"><spacer type="block" width="32" height="1"></td>
+				<td width="59" height="1"><spacer type="block" width="59" height="1"></td>
+			</tr>
+			<tr height="14">
+				<td width="1" height="14"><spacer type="block" width="1" height="14"></td>
+				<td width="5" height="14"></td>
+				<td width="4" height="14"></td>
+				<td width="2" height="14"></td>
+				<td width="9" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="4" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="19" height="14"></td>
+				<td width="52" height="14"></td>
+				<td width="14" height="14"></td>
+				<td width="15" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="8" height="14"></td>
+				<td width="13" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="22" height="14"></td>
+				<td width="58" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="95" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="79" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="94" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="79" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="32" height="14"></td>
+				<td width="59" height="14"></td>
+			</tr>
+			<tr height="85">
+				<td width="1" height="85"><spacer type="block" width="1" height="85"></td>
+				<td width="5" height="85"></td>
+				<td width="4" height="85"></td>
+				<td width="664" height="85" colspan="27" rowspan="1" valign="top" align="left" xpos="9"><img height="74" width="609" src="Teachfolder/cleomaintitle.gif"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="9" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="19" height="1"></td>
+				<td width="52" height="1"></td>
+				<td width="14" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="22" height="1"></td>
+				<td width="58" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="95" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="79" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="94" height="1"></td>
+				<td width="173" height="56" colspan="6" rowspan="3" valign="top" align="left" xpos="500"><a href="ItalyFrame.html" csclick="B510CF763" onclick="CSAction(new Array(/*CMP*/'B510CF763'));return CSClickReturn();"><img height="34" width="148" src="ItaltButton.jpg"></a></td>
+			</tr>
+			<tr height="31">
+				<td width="1" height="31"><spacer type="block" width="1" height="31"></td>
+				<td width="5" height="31"></td>
+				<td width="4" height="31"></td>
+				<td width="2" height="31"></td>
+				<td width="9" height="31"></td>
+				<td width="1" height="31"></td>
+				<td width="4" height="31"></td>
+				<td width="1" height="31"></td>
+				<td width="19" height="31"></td>
+				<td width="52" height="31"></td>
+				<td width="14" height="31"></td>
+				<td width="15" height="31"></td>
+				<td width="1" height="31"></td>
+				<td width="8" height="31"></td>
+				<td width="13" height="31"></td>
+				<td width="177" height="55" colspan="5" rowspan="2" valign="top" align="left" xpos="148"><a href="EgyptFrame.html" csclick="B50688C70" onclick="CSAction(new Array(/*CMP*/'B50688C70'));return CSClickReturn();"><img height="33" width="149" src="EgyptButton.jpg"></a></td>
+				<td width="1" height="31"></td>
+				<td width="174" height="55" colspan="3" rowspan="2" valign="top" align="left" xpos="326"><a href="GreeceFrame.html" csclick="B510CF4F2" onclick="CSAction(new Array(/*CMP*/'B510CF4F2'));return CSClickReturn();"><img height="33" width="148" src="GreeceButton.jpg"></a></td>
+			</tr>
+			<tr height="24">
+				<td width="1" height="24"><spacer type="block" width="1" height="24"></td>
+				<td width="5" height="24"></td>
+				<td width="4" height="24"></td>
+				<td width="2" height="24"></td>
+				<td width="9" height="24"></td>
+				<td width="115" height="24" colspan="9" rowspan="1" valign="top" align="left" xpos="20" content csheight="19">
+					<div align="left">
+						<a href="WhyCleo.html"><b><font size="2">Why Cleopatra ?</font></b></a></div>
+				</td>
+				<td width="13" height="24"></td>
+				<td width="1" height="24"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="9" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="106" height="19" colspan="7" rowspan="2" valign="top" align="left" xpos="21" content csheight="19">
+					<div align="left">
+						<a href="tlineframes.html"><b><font size="2">Timeline</font></b></a></div>
+				</td>
+				<td width="8" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="22" height="1"></td>
+				<td width="58" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="95" height="1"></td>
+				<td width="80" height="100" colspan="2" rowspan="6" valign="top" align="left" xpos="325"><a href="stele/stele.html"><img height="78" width="69" src="Teachfolder/g,AtticaSteele.jpg"></a></td>
+				<td width="95" height="100" colspan="2" rowspan="6" valign="top" align="left" xpos="405"><a href="chicago/chicago.html"><img height="78" width="69" src="Teachfolder/g,ChicagoPainter.jpg"></a></td>
+				<td width="1" height="1"></td>
+				<td width="80" height="100" colspan="2" rowspan="6" valign="top" align="left" xpos="501"><a href="hadrian/hadrian.html"><img height="78" width="69" src="Teachfolder/i,hadrian.jpg"></a></td>
+				<td width="92" height="100" colspan="3" rowspan="6" valign="top" align="left" xpos="581"><a href="herc/herc.html"><img height="78" width="69" src="Teachfolder/i,herakles.jpg"></a></td>
+			</tr>
+			<tr height="18">
+				<td width="1" height="18"><spacer type="block" width="1" height="18"></td>
+				<td width="5" height="18"></td>
+				<td width="4" height="18"></td>
+				<td width="2" height="18"></td>
+				<td width="9" height="18"></td>
+				<td width="1" height="18"></td>
+				<td width="8" height="18"></td>
+				<td width="13" height="18"></td>
+				<td width="81" height="99" colspan="3" rowspan="5" valign="top" align="left" xpos="148"><a href="boat/boat.html"><img height="78" width="69" src="Teachfolder/e,boat.jpg"></a></td>
+				<td width="1" height="18"></td>
+				<td width="95" height="99" colspan="1" rowspan="5" valign="top" align="left" xpos="230"><a href="kohl/kohl.html"><img height="78" width="69" src="Teachfolder/e,kohl.jpg"></a></td>
+				<td width="1" height="18"></td>
+			</tr>
+			<tr height="19">
+				<td width="1" height="19"><spacer type="block" width="1" height="19"></td>
+				<td width="5" height="19"></td>
+				<td width="4" height="19"></td>
+				<td width="2" height="19"></td>
+				<td width="9" height="19"></td>
+				<td width="106" height="19" colspan="7" rowspan="1" valign="top" align="left" xpos="20" content csheight="19">
+					<div align="left">
+						<a href="glossary/GlossFrames.html"><b><font size="2">Glossary</font></b></a></div>
+				</td>
+				<td width="1" height="19"></td>
+				<td width="8" height="19"></td>
+				<td width="13" height="19"></td>
+				<td width="1" height="19"></td>
+				<td width="1" height="19"></td>
+			</tr>
+			<tr height="19">
+				<td width="1" height="19"><spacer type="block" width="1" height="19"></td>
+				<td width="5" height="19"></td>
+				<td width="4" height="19"></td>
+				<td width="2" height="19"></td>
+				<td width="9" height="19"></td>
+				<td width="106" height="19" colspan="7" rowspan="1" valign="top" align="left" xpos="20" content csheight="19">
+					<div align="left">
+						<a href="Map.html"><b><font size="2">Maps</font></b></a></div>
+				</td>
+				<td width="1" height="19"></td>
+				<td width="8" height="19"></td>
+				<td width="13" height="19"></td>
+				<td width="1" height="19"></td>
+				<td width="1" height="19"></td>
+			</tr>
+			<tr height="19">
+				<td width="1" height="19"><spacer type="block" width="1" height="19"></td>
+				<td width="5" height="19"></td>
+				<td width="4" height="19"></td>
+				<td width="2" height="19"></td>
+				<td width="9" height="19"></td>
+				<td width="106" height="19" colspan="7" rowspan="1" valign="top" align="left" xpos="20" content csheight="19">
+					<div align="left">
+						<a href="Help.html"><b><font size="2">Help</font></b></a></div>
+				</td>
+				<td width="1" height="19"></td>
+				<td width="8" height="19"></td>
+				<td width="13" height="19"></td>
+				<td width="1" height="19"></td>
+				<td width="1" height="19"></td>
+			</tr>
+			<tr height="24">
+				<td width="1" height="24"><spacer type="block" width="1" height="24"></td>
+				<td width="5" height="24"></td>
+				<td width="4" height="24"></td>
+				<td width="2" height="24"></td>
+				<td width="9" height="24"></td>
+				<td width="106" height="24" colspan="7" rowspan="1" valign="top" align="left" xpos="20" content csheight="19">
+					<div align="left">
+						<a href="Credits.html"><b><font size="2">Credits</font></b></a></div>
+				</td>
+				<td width="1" height="24"></td>
+				<td width="8" height="24"></td>
+				<td width="13" height="24"></td>
+				<td width="1" height="24"></td>
+				<td width="1" height="24"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="9" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="19" height="1"></td>
+				<td width="52" height="1"></td>
+				<td width="14" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="22" height="1"></td>
+				<td width="58" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="95" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="79" height="101" colspan="1" rowspan="6" valign="top" align="left" xpos="326"><a href="cycladic/cycladic.html"><img height="78" width="69" src="Teachfolder/g,cycladic.jpg"></a></td>
+				<td width="1" height="1"></td>
+				<td width="94" height="101" colspan="1" rowspan="6" valign="top" align="left" xpos="406"><a href="griffin/griffin.html"><img height="78" width="69" src="Teachfolder/g,griffin.jpg"></a></td>
+				<td width="1" height="1"></td>
+				<td width="80" height="101" colspan="2" rowspan="6" valign="top" align="left" xpos="501"><a href="mirror/mirror.html"><img height="78" width="69" src="Teachfolder/i,mirror.jpg"></a></td>
+				<td width="92" height="101" colspan="3" rowspan="6" valign="top" align="left" xpos="581"><a href="mosaic/mosaic.html"><img height="78" width="69" src="Teachfolder/i,mosaic.jpg"></a></td>
+			</tr>
+			<tr height="18">
+				<td width="1" height="18"><spacer type="block" width="1" height="18"></td>
+				<td width="5" height="18"></td>
+				<td width="4" height="18"></td>
+				<td width="2" height="18"></td>
+				<td width="9" height="18"></td>
+				<td width="1" height="18"></td>
+				<td width="4" height="18"></td>
+				<td width="1" height="18"></td>
+				<td width="19" height="18"></td>
+				<td width="52" height="18"></td>
+				<td width="14" height="18"></td>
+				<td width="15" height="18"></td>
+				<td width="1" height="18"></td>
+				<td width="8" height="18"></td>
+				<td width="13" height="18"></td>
+				<td width="81" height="100" colspan="3" rowspan="5" valign="top" align="left" xpos="148"><a href="imhotep/imhotep.html"><img height="77" width="69" src="Teachfolder/e,imhotep.jpg"></a></td>
+				<td width="96" height="100" colspan="2" rowspan="5" valign="top" align="left" xpos="229"><a href="mummy/mummy.html"><img height="78" width="70" src="Teachfolder/e,mummy.jpg"></a></td>
+				<td width="1" height="18"></td>
+				<td width="1" height="18"></td>
+				<td width="1" height="18"></td>
+			</tr>
+			<tr height="18">
+				<td width="1" height="18"><spacer type="block" width="1" height="18"></td>
+				<td width="5" height="18"></td>
+				<td width="130" height="18" colspan="12" rowspan="1" valign="top" align="left" xpos="5">
+					<hr size="2" width="123">
+				</td>
+				<td width="13" height="18"></td>
+				<td width="1" height="18"></td>
+				<td width="1" height="18"></td>
+				<td width="1" height="18"></td>
+			</tr>
+			<tr height="23">
+				<td width="1" height="23"><spacer type="block" width="1" height="23"></td>
+				<td width="5" height="23"></td>
+				<td width="4" height="23"></td>
+				<td width="2" height="23"></td>
+				<td width="9" height="23"></td>
+				<td width="77" height="23" colspan="5" rowspan="1" valign="top" align="left" xpos="20" content csheight="22">
+					<div align="left">
+						<a href="CleoIntro2.html"><b><font size="2">Lesson Plans</font></b></a></div>
+				</td>
+				<td width="14" height="23"></td>
+				<td width="15" height="23"></td>
+				<td width="1" height="23"></td>
+				<td width="8" height="23"></td>
+				<td width="13" height="23"></td>
+				<td width="1" height="23"></td>
+				<td width="1" height="23"></td>
+				<td width="1" height="23"></td>
+			</tr>
+			<tr height="18">
+				<td width="1" height="18"><spacer type="block" width="1" height="18"></td>
+				<td width="5" height="18"></td>
+				<td width="130" height="18" colspan="12" rowspan="1" valign="top" align="left" xpos="5">
+					<hr size="2" width="123">
+				</td>
+				<td width="13" height="18"></td>
+				<td width="1" height="18"></td>
+				<td width="1" height="18"></td>
+				<td width="1" height="18"></td>
+			</tr>
+			<tr height="23">
+				<td width="1" height="23"><spacer type="block" width="1" height="23"></td>
+				<td width="5" height="23"></td>
+				<td width="4" height="23"></td>
+				<td width="2" height="23"></td>
+				<td width="9" height="23"></td>
+				<td width="1" height="23"></td>
+				<td width="4" height="23"></td>
+				<td width="86" height="55" colspan="4" rowspan="3" valign="top" align="left" xpos="25" content csheight="55">
+					<center>
+						<a href="http://www.artic.edu/aic/index.html"><font size="2">The Art Institute of Chicago</font></a></center>
+				</td>
+				<td width="15" height="23"></td>
+				<td width="1" height="23"></td>
+				<td width="8" height="23"></td>
+				<td width="13" height="23"></td>
+				<td width="1" height="23"></td>
+				<td width="1" height="23"></td>
+				<td width="1" height="23"></td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="2" height="1"></td>
+				<td width="9" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="13" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="22" height="1"></td>
+				<td width="58" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="95" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="79" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="94" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="79" height="106" colspan="1" rowspan="3" valign="top" align="left" xpos="502"><a href="aphro/aphro.html"><img height="78" width="69" src="Teachfolder/i,aphrodite.jpg"></a></td>
+				<td width="1" height="1"></td>
+				<td width="91" height="106" colspan="2" rowspan="3" valign="top" align="left" xpos="582"><a href="warrior/warrior.html"><img height="78" width="69" src="Teachfolder/i,fallenSoldier.jpg"></a></td>
+			</tr>
+			<tr height="31">
+				<td width="1" height="31"><spacer type="block" width="1" height="31"></td>
+				<td width="5" height="31"></td>
+				<td width="4" height="31"></td>
+				<td width="2" height="31"></td>
+				<td width="9" height="31"></td>
+				<td width="1" height="31"></td>
+				<td width="4" height="31"></td>
+				<td width="15" height="31"></td>
+				<td width="1" height="31"></td>
+				<td width="8" height="31"></td>
+				<td width="13" height="31"></td>
+				<td width="1" height="31"></td>
+				<td width="80" height="105" colspan="2" rowspan="2" valign="top" align="left" xpos="149"><a href="funerary/funerary.html"><img height="78" width="68" src="Teachfolder/e,mural.jpg"></a></td>
+				<td width="1" height="31"></td>
+				<td width="95" height="105" colspan="1" rowspan="2" valign="top" align="left" xpos="230"><a href="re/re.html"><img height="78" width="69" src="Teachfolder/e,reHorak.jpg"></a></td>
+				<td width="1" height="31"></td>
+				<td width="79" height="105" colspan="1" rowspan="2" valign="top" align="left" xpos="326"><a href="alex/alex.html"><img height="77" width="69" src="Teachfolder/alexander.gif"></a></td>
+				<td width="1" height="31"></td>
+				<td width="94" height="105" colspan="1" rowspan="2" valign="top" align="left" xpos="406"><a href="amphora/amphora.html"><img height="78" width="69" src="Teachfolder/amphoraFinal.gif"></a></td>
+				<td width="1" height="31"></td>
+				<td width="1" height="31"></td>
+				<td width="1" height="31"></td>
+			</tr>
+			<tr height="74">
+				<td width="1" height="74"><spacer type="block" width="1" height="74"></td>
+				<td width="5" height="74"></td>
+				<td width="4" height="74"></td>
+				<td width="2" height="74"></td>
+				<td width="9" height="74"></td>
+				<td width="1" height="74"></td>
+				<td width="4" height="74"></td>
+				<td width="1" height="74"></td>
+				<td width="85" height="74" colspan="3" rowspan="1" valign="top" align="left" xpos="26"><a href="http://www.artic.edu/aic/index.html"><img height="45" width="79" src="Teachfolder/AICbuttonNEW.gif"></a></td>
+				<td width="15" height="74"></td>
+				<td width="1" height="74"></td>
+				<td width="8" height="74"></td>
+				<td width="13" height="74"></td>
+				<td width="1" height="74"></td>
+				<td width="1" height="74"></td>
+				<td width="1" height="74"></td>
+				<td width="1" height="74"></td>
+				<td width="1" height="74"></td>
+				<td width="1" height="74"></td>
+				<td width="1" height="74"></td>
+			</tr>
+			<tr height="44">
+				<td width="1" height="44"><spacer type="block" width="1" height="44"></td>
+				<td width="5" height="44"></td>
+				<td width="4" height="44"></td>
+				<td width="2" height="44"></td>
+				<td width="9" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="4" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="19" height="44"></td>
+				<td width="52" height="47" colspan="1" rowspan="2" valign="top" align="left" xpos="45"><a href="mailto:cleopatra@artic.edu"><img height="41" width="42" src="eyesmall.jpg"></a></td>
+				<td width="14" height="44"></td>
+				<td width="15" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="8" height="44"></td>
+				<td width="13" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="22" height="44"></td>
+				<td width="58" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="95" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="79" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="94" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="79" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="32" height="44"></td>
+				<td width="59" height="44"></td>
+			</tr>
+			<tr height="3">
+				<td width="1" height="3"><spacer type="block" width="1" height="3"></td>
+				<td width="5" height="3"></td>
+				<td width="4" height="3"></td>
+				<td width="2" height="3"></td>
+				<td width="9" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="4" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="19" height="3"></td>
+				<td width="14" height="3"></td>
+				<td width="15" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="8" height="3"></td>
+				<td width="13" height="3"></td>
+				<td width="1" height="3"></td>
+				<td width="22" height="3"></td>
+				<td width="443" height="67" colspan="12" rowspan="2" valign="top" align="left" xpos="171" content csheight="67">
+					<center>
+						<font size="2">&copy; 2000, by The Art Institute of Chicago. All rights reserved. Use of this program is subject to the terms below. No part of this program may be reproduced, transmitted or distributed in any form or by any means, except for personal or classroom use. All Copyright in and to the program, in whole or in part, belongs to the publisher and its licensors and is registered with the U.S. Copyright Office</font></center>
+				</td>
+				<td width="59" height="3"></td>
+			</tr>
+			<tr height="64">
+				<td width="1" height="64"><spacer type="block" width="1" height="64"></td>
+				<td width="5" height="64"></td>
+				<td width="4" height="64"></td>
+				<td width="2" height="64"></td>
+				<td width="116" height="64" colspan="9" rowspan="1" valign="top" align="left" xpos="11" content csheight="31">
+					<center>
+						<a href="mailto:cleopatra@artic.edu"><font size="2">Contact us about<br>
+						Cleopatra</font></a></center>
+				</td>
+				<td width="8" height="64"></td>
+				<td width="13" height="64"></td>
+				<td width="1" height="64"></td>
+				<td width="22" height="64"></td>
+				<td width="59" height="64"></td>
+			</tr>
+		</table>
+	</body>
+
+</html>

@@ -1,0 +1,433 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Cleopatra</title>
+		<csactions>
+			<csaction name="B5051D8185" class="Open Window" type="ONEVENT" val0="MovHad2.html" val1 val2="340" val3="275" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+		</csactions>
+		<csscriptdict>
+			<script><!--
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+CSStopExecution = false;
+
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+function CSOpenWindow(action) {
+	var wf = "";	
+	wf = wf + "width=" + action[3];
+	wf = wf + ",height=" + action[4];
+	wf = wf + ",resizable=" + (action[5] ? "yes" : "no");
+	wf = wf + ",scrollbars=" + (action[6] ? "yes" : "no");
+	wf = wf + ",menubar=" + (action[7] ? "yes" : "no");
+	wf = wf + ",toolbar=" + (action[8] ? "yes" : "no");
+	wf = wf + ",directories=" + (action[9] ? "yes" : "no");
+	wf = wf + ",location=" + (action[10] ? "yes" : "no");
+	wf = wf + ",status=" + (action[11] ? "yes" : "no");		
+	window.open(action[1],action[2],wf);
+}
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSAct[/*CMP*/ 'B5051D8185'] = new Array(CSOpenWindow,/*URL*/ 'MovHad2.html','',340,275,true,false,false,false,false,false,true);
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body background="../../allbkgstrip.gif" link="#1f2b54">
+		<table cool width="787" height="2156" border="0" cellpadding="0" cellspacing="0" gridx="16" showgridx gridy="16" showgridy>
+			<tr height="1" cntrlrow>
+				<td width="1" height="1"></td>
+				<td width="23" height="1"><spacer type="block" width="23" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="15" height="1"><spacer type="block" width="15" height="1"></td>
+				<td width="49" height="1"><spacer type="block" width="49" height="1"></td>
+				<td width="12" height="1"><spacer type="block" width="12" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="6" height="1"><spacer type="block" width="6" height="1"></td>
+				<td width="32" height="1"><spacer type="block" width="32" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="218" height="1"><spacer type="block" width="218" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="179" height="1"><spacer type="block" width="179" height="1"></td>
+				<td width="217" height="1"><spacer type="block" width="217" height="1"></td>
+			</tr>
+			<tr height="17">
+				<td width="1" height="17"><spacer type="block" width="1" height="17"></td>
+				<td width="23" height="17"></td>
+				<td width="3" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="3" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="15" height="17"></td>
+				<td width="49" height="17"></td>
+				<td width="12" height="17"></td>
+				<td width="4" height="17"></td>
+				<td width="6" height="17"></td>
+				<td width="32" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="218" height="17"></td>
+				<td width="5" height="17"></td>
+				<td width="179" height="17"></td>
+				<td width="217" height="17"></td>
+			</tr>
+			<tr height="5">
+				<td width="1" height="5"><spacer type="block" width="1" height="5"></td>
+				<td width="23" height="5"></td>
+				<td width="3" height="5"></td>
+				<td width="1" height="5"></td>
+				<td width="1" height="5"></td>
+				<td width="1" height="5"></td>
+				<td width="3" height="5"></td>
+				<td width="1" height="5"></td>
+				<td width="15" height="5"></td>
+				<td width="49" height="5"></td>
+				<td width="12" height="5"></td>
+				<td width="4" height="5"></td>
+				<td width="6" height="5"></td>
+				<td width="32" height="5"></td>
+				<td width="16" height="5"></td>
+				<td width="218" height="5"></td>
+				<td width="184" height="46" colspan="2" rowspan="2" valign="top" align="left" xpos="385"><img height="35" width="154" src="../../cleotitlesmall.gif"></td>
+				<td width="217" height="5"></td>
+			</tr>
+			<tr height="41">
+				<td width="1" height="41"><spacer type="block" width="1" height="41"></td>
+				<td width="23" height="41"></td>
+				<td width="3" height="41"></td>
+				<td width="1" height="41"></td>
+				<td width="1" height="41"></td>
+				<td width="1" height="41"></td>
+				<td width="3" height="41"></td>
+				<td width="1" height="41"></td>
+				<td width="86" height="128" colspan="5" rowspan="3" valign="top" align="left" xpos="33"><img height="110" width="81" src="hadriansmall.gif"></td>
+				<td width="32" height="41"></td>
+				<td width="16" height="41"></td>
+				<td width="218" height="41"></td>
+				<td width="217" height="41"></td>
+			</tr>
+			<tr height="43">
+				<td width="1" height="43"><spacer type="block" width="1" height="43"></td>
+				<td width="23" height="43"></td>
+				<td width="3" height="43"></td>
+				<td width="1" height="43"></td>
+				<td width="1" height="43"></td>
+				<td width="1" height="43"></td>
+				<td width="3" height="43"></td>
+				<td width="1" height="43"></td>
+				<td width="32" height="43"></td>
+				<td width="16" height="43"></td>
+				<td width="218" height="43"></td>
+				<td width="5" height="43"></td>
+				<td width="179" height="43" colspan="1" rowspan="1" valign="top" align="left" xpos="390" content csheight="31">
+					<center>
+						<font size="6"><i><b>Lesson Plans</b></i></font></center>
+				</td>
+				<td width="217" height="43"></td>
+			</tr>
+			<tr height="44">
+				<td width="1" height="44"><spacer type="block" width="1" height="44"></td>
+				<td width="23" height="44"></td>
+				<td width="3" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="3" height="44"></td>
+				<td width="1" height="44"></td>
+				<td width="32" height="44"></td>
+				<td width="16" height="44"></td>
+				<td width="619" height="44" colspan="4" rowspan="1" valign="top" align="left" xpos="167">
+					<hr width="410" size="2">
+				</td>
+			</tr>
+			<tr height="9">
+				<td width="1" height="9"><spacer type="block" width="1" height="9"></td>
+				<td width="23" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="15" height="9"></td>
+				<td width="49" height="42" colspan="1" rowspan="2" valign="top" align="left" xpos="48" content csheight="31">
+					<center>
+						<a href="../../../hadrian/hadrian.html">Hadrian</a></center>
+				</td>
+				<td width="12" height="9"></td>
+				<td width="4" height="9"></td>
+				<td width="6" height="9"></td>
+				<td width="32" height="9"></td>
+				<td width="16" height="9"></td>
+				<td width="218" height="9"></td>
+				<td width="5" height="9"></td>
+				<td width="179" height="9"></td>
+				<td width="217" height="9"></td>
+			</tr>
+			<tr height="33">
+				<td width="1" height="33"><spacer type="block" width="1" height="33"></td>
+				<td width="23" height="33"></td>
+				<td width="3" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="3" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="15" height="33"></td>
+				<td width="12" height="33"></td>
+				<td width="4" height="33"></td>
+				<td width="6" height="33"></td>
+				<td width="32" height="33"></td>
+				<td width="635" height="1996" colspan="5" rowspan="8" valign="top" align="left" xpos="151" content csheight="1996">
+					<center>
+						<font face="Times" size="3"><b>Honoring Leaders</b></font>
+						<p><font face="Times" size="3"><b><br>
+						<br>
+						</b></font></p>
+					</center>
+					<p><font face="Times">Lesson plan based on <b>Hadrian</b></font></p>
+					<p><font face="Times">Design and compare monuments that honor an imaginary Roman emperor and a future American president.</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Skills and Focus: </b>Cultural Comparisons, Studio, Analysis</font></p>
+					<p><font face="Times"><b>Subject Area: </b>Social Science</font></p>
+					<p><font face="Times"><b>Thematic Connection:</b> Comparing Cultures</font></p>
+					<p><font face="Times"><b>Grade Level: </b>Elementary School</font></p>
+					<p><font face="Times"><b>Time Needed: </b>30-40 minutes</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Objectives</b></font></p>
+					<blockquote>
+						<p><font face="Times">&#149; Compare the attributes of Roman rulers with those of American presidents.</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Instructional Materials Needed</b></font></p>
+					<blockquote>
+						<p><font face="Times">Story: <a href="(Empty Reference!)" csclick="B5051D8185" onclick="CSAction(new Array(/*CMP*/'B5051D8185'));return CSClickReturn();"><i>Portraits of Roman Emperors</i></a></font></p>
+						<p><a href="Worksheet2.html"><font face="Times"><u>Worksheet2</u></font></a></p>
+					</blockquote>
+					<p><font face="Times" color="blue"><u><br>
+					<br>
+					</u></font></p>
+					<p><font face="Times"><b>Activity</b></font></p>
+					<blockquote>
+						<p><font face="Times"><b>Step 1: </b>Distribute the worksheet. Explain to students that portraits of Roman emperors were seen on coins, buildings, and as sculptures in public squares throughout the empire. Ask students where they are likely to see portraits of past and present U.S. presidents. Then tell students to fill out the worksheet, describing how emperors and presidents are alike and how they are different.</font></p>
+						<p><font face="Times"><b>Step 2: </b>Have each student describe and/or draw his or her own monument honoring an imaginary Roman emperor and a past or present U.S. president. Ask students to explain how the monuments reflect the attributes of the person being honored.</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Goals</b></font></p>
+					<blockquote>
+						<p><font face="Times">This activity meets<b> Illinois State Goal 16</b>:<b> </b>Understand and analyze events, trends, individuals, and movements shaping the history of Illinois, the United States, and other nations.</font></p>
+						<p><font face="Times"><br>
+						</font><font face="Times"><br>
+						<b>Comparing Emperors and Presidents</b></font></p>
+					</blockquote>
+					<p>
+					<table border="1" cellspacing="1" cellpadding="5" width="442">
+						<tr>
+							<td valign="top">
+								<center>
+									<font face="Times"><b>Roman Emperor</b></font></center>
+							</td>
+						</tr>
+						<tr>
+							<td valign="top"><font face="Times">&nbsp;</font>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></td>
+						</tr>
+						<tr>
+							<td valign="top">
+								<center>
+									<font face="Times"><b>American President</b></font></center>
+							</td>
+						</tr>
+						<tr>
+							<td valign="top"><font face="Times">&nbsp;</font>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></p>
+								<p><font face="Times">&nbsp;</font></td>
+						</tr>
+					</table>
+					</p>
+					<p><font face="Times">&nbsp;</font></p>
+					<p></p>
+					<p></p>
+					<p></p>
+					<p><font size="2">&copy; 2000, by The Art Institute of Chicago. All rights reserved. Use of this program is subject to the terms below. No part of this program may be reproduced, transmitted or distributed in any form or by any means, except for personal or classroom use. All Copyright in and to the program, in whole or in part, belongs to the publisher and its licensors and is registered with the U.S. Copyright Office</font></td>
+			</tr>
+			<tr height="21">
+				<td width="1" height="21"><spacer type="block" width="1" height="21"></td>
+				<td width="23" height="21"></td>
+				<td width="3" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="80" height="21" colspan="5" rowspan="1" valign="top" align="left" xpos="29">
+					<hr size="2" width="79">
+				</td>
+				<td width="4" height="21"></td>
+				<td width="6" height="21"></td>
+				<td width="32" height="21"></td>
+			</tr>
+			<tr height="68">
+				<td width="1" height="68"><spacer type="block" width="1" height="68"></td>
+				<td width="23" height="68"></td>
+				<td width="96" height="68" colspan="11" rowspan="1" valign="top" align="left" xpos="23" content csheight="50">
+					<center>
+						<a href="../../LPMainSearch.html"><font size="3" face="Times New Roman,Georgia,Times"><b>Lesson Plans Home</b></font></a></center>
+				</td>
+				<td width="32" height="68"></td>
+			</tr>
+			<tr height="62">
+				<td width="1" height="62"><spacer type="block" width="1" height="62"></td>
+				<td width="23" height="62"></td>
+				<td width="3" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="3" height="62"></td>
+				<td width="77" height="62" colspan="4" rowspan="1" valign="top" align="left" xpos="32" content csheight="49">
+					<center>
+						<a href="../../../index.html"><font size="3"><b>Cleopatra Home</b></font></a></center>
+				</td>
+				<td width="4" height="62"></td>
+				<td width="6" height="62"></td>
+				<td width="32" height="62"></td>
+			</tr>
+			<tr height="58">
+				<td width="1" height="58"><spacer type="block" width="1" height="58"></td>
+				<td width="23" height="58"></td>
+				<td width="3" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="80" height="58" colspan="5" rowspan="1" valign="top" align="left" xpos="29" content csheight="43">
+					<center>
+						<a href="../../lessonprint.html"><font size="3"><b>Print Lessons</b></font></a></center>
+				</td>
+				<td width="4" height="58"></td>
+				<td width="6" height="58"></td>
+				<td width="32" height="58"></td>
+			</tr>
+			<tr height="10">
+				<td width="1" height="10"><spacer type="block" width="1" height="10"></td>
+				<td width="23" height="10"></td>
+				<td width="3" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="81" height="10" colspan="6" rowspan="1" valign="top" align="left" xpos="28">
+					<hr size="2" width="79">
+				</td>
+				<td width="4" height="10"></td>
+				<td width="6" height="10"></td>
+				<td width="32" height="10"></td>
+			</tr>
+			<tr height="37">
+				<td width="1" height="37"><spacer type="block" width="1" height="37"></td>
+				<td width="23" height="37"></td>
+				<td width="3" height="37"></td>
+				<td width="87" height="37" colspan="9" rowspan="1" valign="top" align="left" xpos="26" content csheight="37">
+					<center>
+						<a href="http://www.artic.edu/aic/index.html"><font size="3">The Art Institute of Chicago</font></a></center>
+				</td>
+				<td width="6" height="37"></td>
+				<td width="32" height="37"></td>
+			</tr>
+			<tr height="1707">
+				<td width="1" height="1707"><spacer type="block" width="1" height="1707"></td>
+				<td width="23" height="1707"></td>
+				<td width="3" height="1707"></td>
+				<td width="1" height="1707"></td>
+				<td width="86" height="1707" colspan="8" rowspan="1" valign="top" align="left" xpos="27"><a href="http://www.artic.edu/aic/index.html"><img height="45" width="79" src="../../AICbuttonNEW.gif"></a></td>
+				<td width="6" height="1707"></td>
+				<td width="32" height="1707"></td>
+			</tr>
+		</table>
+	</body>
+
+</html>

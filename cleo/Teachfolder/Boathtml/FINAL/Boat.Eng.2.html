@@ -1,0 +1,382 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Cleopatra</title>
+		<csactions>
+			<csaction name="B504FFAA52" class="Open Window" type="ONEVENT" val0="../../../boat/BoatFrame.html" val1 val2="700" val3="300" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+			<csaction name="B504FFB853" class="Open Window" type="ONEVENT" val0="../../../EgyptFrame.html" val1 val2="700" val3="300" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+		</csactions>
+		<csscriptdict>
+			<script><!--
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+CSStopExecution = false;
+
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+function CSOpenWindow(action) {
+	var wf = "";	
+	wf = wf + "width=" + action[3];
+	wf = wf + ",height=" + action[4];
+	wf = wf + ",resizable=" + (action[5] ? "yes" : "no");
+	wf = wf + ",scrollbars=" + (action[6] ? "yes" : "no");
+	wf = wf + ",menubar=" + (action[7] ? "yes" : "no");
+	wf = wf + ",toolbar=" + (action[8] ? "yes" : "no");
+	wf = wf + ",directories=" + (action[9] ? "yes" : "no");
+	wf = wf + ",location=" + (action[10] ? "yes" : "no");
+	wf = wf + ",status=" + (action[11] ? "yes" : "no");		
+	window.open(action[1],action[2],wf);
+}
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSAct[/*CMP*/ 'B504FFAA52'] = new Array(CSOpenWindow,/*URL*/ '../../../boat/BoatFrame.html','',700,300,true,false,false,false,false,false,true);
+CSAct[/*CMP*/ 'B504FFB853'] = new Array(CSOpenWindow,/*URL*/ '../../../EgyptFrame.html','',700,300,true,false,false,false,false,false,true);
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body background="../../allbkgstrip.gif" link="#1f2b54">
+		<table cool width="787" height="1670" border="0" cellpadding="0" cellspacing="0" gridx="16" showgridx gridy="16" showgridy>
+			<tr height="1" cntrlrow>
+				<td width="1" height="1"></td>
+				<td width="15" height="1"><spacer type="block" width="15" height="1"></td>
+				<td width="8" height="1"><spacer type="block" width="8" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="61" height="1"><spacer type="block" width="61" height="1"></td>
+				<td width="11" height="1"><spacer type="block" width="11" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="6" height="1"><spacer type="block" width="6" height="1"></td>
+				<td width="32" height="1"><spacer type="block" width="32" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="218" height="1"><spacer type="block" width="218" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="179" height="1"><spacer type="block" width="179" height="1"></td>
+				<td width="217" height="1"><spacer type="block" width="217" height="1"></td>
+			</tr>
+			<tr height="17">
+				<td width="1" height="17"><spacer type="block" width="1" height="17"></td>
+				<td width="15" height="17"></td>
+				<td width="8" height="17"></td>
+				<td width="3" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="3" height="17"></td>
+				<td width="5" height="17"></td>
+				<td width="61" height="17"></td>
+				<td width="11" height="17"></td>
+				<td width="4" height="17"></td>
+				<td width="6" height="17"></td>
+				<td width="32" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="218" height="17"></td>
+				<td width="5" height="17"></td>
+				<td width="179" height="17"></td>
+				<td width="217" height="17"></td>
+			</tr>
+			<tr height="16">
+				<td width="1" height="16"><spacer type="block" width="1" height="16"></td>
+				<td width="15" height="16"></td>
+				<td width="8" height="16"></td>
+				<td width="3" height="16"></td>
+				<td width="1" height="16"></td>
+				<td width="1" height="16"></td>
+				<td width="1" height="16"></td>
+				<td width="3" height="16"></td>
+				<td width="5" height="16"></td>
+				<td width="61" height="16"></td>
+				<td width="11" height="16"></td>
+				<td width="4" height="16"></td>
+				<td width="6" height="16"></td>
+				<td width="32" height="16"></td>
+				<td width="16" height="16"></td>
+				<td width="218" height="16"></td>
+				<td width="184" height="46" colspan="2" rowspan="2" valign="top" align="left" xpos="385"><img height="35" width="154" src="../../cleotitlesmall.gif"></td>
+				<td width="217" height="16"></td>
+			</tr>
+			<tr height="30">
+				<td width="1" height="30"><spacer type="block" width="1" height="30"></td>
+				<td width="15" height="30"></td>
+				<td width="136" height="98" colspan="12" rowspan="3" valign="top" align="left" xpos="15"><img height="83" width="110" src="Boat.jpg"></td>
+				<td width="16" height="30"></td>
+				<td width="218" height="30"></td>
+				<td width="217" height="30"></td>
+			</tr>
+			<tr height="43">
+				<td width="1" height="43"><spacer type="block" width="1" height="43"></td>
+				<td width="15" height="43"></td>
+				<td width="16" height="43"></td>
+				<td width="218" height="43"></td>
+				<td width="5" height="43"></td>
+				<td width="179" height="43" colspan="1" rowspan="1" valign="top" align="left" xpos="390" content csheight="31">
+					<center>
+						<font size="6"><i><b>Lesson Plans</b></i></font></center>
+				</td>
+				<td width="217" height="43"></td>
+			</tr>
+			<tr height="25">
+				<td width="1" height="25"><spacer type="block" width="1" height="25"></td>
+				<td width="15" height="25"></td>
+				<td width="16" height="25"></td>
+				<td width="619" height="25" colspan="4" rowspan="1" valign="top" align="left" xpos="167">
+					<hr width="410" size="2">
+				</td>
+			</tr>
+			<tr height="1">
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="15" height="1"></td>
+				<td width="8" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="1" height="1"></td>
+				<td width="3" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="61" height="34" colspan="1" rowspan="2" valign="top" align="left" xpos="37" content csheight="31">
+					<center>
+						<a href="../../../boat/boat.html">ModelBoat</a></center>
+				</td>
+				<td width="11" height="1"></td>
+				<td width="4" height="1"></td>
+				<td width="6" height="1"></td>
+				<td width="32" height="1"></td>
+				<td width="16" height="1"></td>
+				<td width="218" height="1"></td>
+				<td width="5" height="1"></td>
+				<td width="179" height="1"></td>
+				<td width="217" height="1"></td>
+			</tr>
+			<tr height="33">
+				<td width="1" height="33"><spacer type="block" width="1" height="33"></td>
+				<td width="15" height="33"></td>
+				<td width="8" height="33"></td>
+				<td width="3" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="3" height="33"></td>
+				<td width="5" height="33"></td>
+				<td width="11" height="33"></td>
+				<td width="4" height="33"></td>
+				<td width="6" height="33"></td>
+				<td width="32" height="33"></td>
+				<td width="635" height="1537" colspan="5" rowspan="8" valign="top" align="left" xpos="151" content csheight="1537">
+					<center>
+						<font face="Times" size="3"><b>A Trip Down the Nile</b></font>
+						<p><font face="Times" size="3"><b><br>
+						<br>
+						</b></font></p>
+					</center>
+					<p><font face="Times">Lesson plan based on <b>Model Boat</b></font></p>
+					<p><font face="Times">Research, write, and illustrate group reports that acknowledge the cultural importance of selected towns, monuments, and sights along the Nile River.</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Skills and Focus: </b>Research, Writing, Illustrating, Geography</font></p>
+					<p><font face="Times"><b>Subject Area: </b>English Language Arts</font></p>
+					<p><font face="Times"><b>Thematic Connection: </b>Transportation</font></p>
+					<p><font face="Times"><b>Grade Level: </b>Middle School</font></p>
+					<p><font face="Times"><b>Time Needed: </b>Three 50-minute class periods</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Objectives</b></font></p>
+					<blockquote>
+						<p><font face="Times">&#149; Research the upper and lower kingdoms of Egypt and some of the various towns, monuments, and sites along the Nile.</font></p>
+						<p><font face="Times">&#149; Work in small groups to explore in detail one site along the Nile, writing a two-paragraph summary accompanied by an illustration.</font></p>
+						<p><font face="Times">&#149; Through reading one another's presentations, understand the cultural importance of different places along the Nile.</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Instructional Materials Needed</b></font></p>
+					<blockquote>
+						<p><font face="Times">Stories: <a href="(Empty Reference!)" csclick="B504FFAA52" onclick="CSAction(new Array(/*CMP*/'B504FFAA52'));return CSClickReturn();"><i>Boats in Ancient Egypt </i></a>and <a href="(Empty Reference!)" csclick="B504FFB853" onclick="CSAction(new Array(/*CMP*/'B504FFB853'));return CSClickReturn();"><i>Egyptian Culture</i></a></font></p>
+						<p><a href="../../../MapEgypt.html"><font face="Times">Map</font></a></p>
+						<p><font face="Times">Crayons, markers, or colored pencils</font></p>
+						<p><font face="Times">Print resources on ancient and modern Egypt:</font></p>
+						<p><font face="Times">&#149; Ganeri, Anita. <i>Focus on Ancient Egyptians. </i>New York: Gloucester Press, 1993. Pp. 4-5</font></p>
+						<p><font face="Times">&#149; Harris, Geraldine. <i>Cultural Atlas for Young People: Ancient Egypt</i>. New York: Facts On File, Inc., 1990. (maps throughout).</font></p>
+						<p><font face="Times">&#149; Bentley IV, John J. <i>Egypt Guide.</i> Cold Spring Harbor, NY: Open Road Publishing, 1998.</font></p>
+						<p><font face="Times">&#149; <i>Exploring Egypt</i>, 2<sup>nd</sup> ed. New York: Fodor's Travel Publications, 1998.</font></p>
+						<p><font face="Times">&#149; Haag, Michael. <i>Egypt, </i>2<sup>nd</sup> ed.<i> </i>London: Cadogan Books, 1998.</font></p>
+						<p><font face="Times">&#149; <i>Insight Guide: Egypt</i>, 5<sup>th</sup> ed. London: Insight Guides, APA Publications, 1998.</font></p>
+						<p><font face="Times">&#149; <i>Knopf Guides: Egypt</i>. New York: Alfred A. Knopf, Inc., 1995.</font></p>
+						<p><font face="Times">Richardson, Dan. <i>Egypt: The Rough Guide</i>, 3<sup>rd</sup> ed. London: Rough Guides, Inc., 1996.</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Activity</b></font></p>
+					<blockquote>
+						<p><font face="Times"><b>Step 1: </b>Show students maps of both modern and ancient Egypt, pointing out the Nile Delta, Upper and Lower Egypt, major cities such as Cairo and Memphis, and the locations of historic sites including Giza, Saqqara, Dendera, and the Valley of the Kings. Modern sites of importance, such as the Aswan High Dam, should also be pointed out.</font></p>
+						<p><font face="Times"><b>Step 2:</b> Divide students into groups of two or three. Using modern travel guides alongside books on ancient culture, work with each group as they decide which sites to explore. Possibilities include but are not limited to Rosetta, Memphis, Giza, Saqqara, Dendera, Valley of the Kings, Aswan, Thebes, and Cairo. The product of this research should be a summary of the site that answers the following questions:</font></p>
+						<p><font face="Times">&#149; Why is this place important?</font></p>
+						<p><font face="Times">&#149; When was it constructed or founded?</font></p>
+						<p><font face="Times">&#149; What are the most interesting aspects of this place?</font></p>
+						<p><font face="Times">&#149; Is this place part of ancient or modern Egypt?</font></p>
+						<p><font face="Times">&#149; If the place is a remnant of ancient Egyptian culture, what happened there?</font></p>
+						<p><font face="Times">&#149; What historical figures are associated with it?</font></p>
+						<p><font face="Times">&#149; What kinds of Egyptian art and artifacts can be seen there?</font></p>
+						<p><font face="Times">&#149; If the place is part of modern Egypt, why was it constructed?</font></p>
+						<p><font face="Times">&#149; How important is the place in current life? Do people live in, work in, or visit this place?</font></p>
+						<p><font face="Times"><b>Step 3</b>: Have students use their research to create group reports about their place. Each group also should complete an illustration of the site.</font></p>
+						<p><font face="Times"><b>Step 4:</b> When students have completed their reports, ask a representative of each group to read the group&#146;s report to the class.</font></p>
+						<p><font face="Times"><br>
+						<br>
+						</font></p>
+					</blockquote>
+					<p><font face="Times"><b>Goals</b></font></p>
+					<blockquote>
+						<p><font face="Times">This activity meets <b>Illinois State Goal 1</b>: Read for understanding and fluency.</font></p>
+						<p><font face="Times">This activity meets <b>Illinois State Goal 3</b>: Write to communicate for a variety of purposes.</font></p>
+						<p></p>
+						<p></p>
+						<p></p>
+						<p></p>
+						<p><font size="2">&copy; 2000, by The Art Institute of Chicago. All rights reserved. Use of this program is subject to the terms below. No part of this program may be reproduced, transmitted or distributed in any form or by any means, except for personal or classroom use. All Copyright in and to the program, in whole or in part, belongs to the publisher and its licensors and is registered with the U.S. Copyright Office</font></blockquote>
+				</td>
+			</tr>
+			<tr height="21">
+				<td width="1" height="21"><spacer type="block" width="1" height="21"></td>
+				<td width="15" height="21"></td>
+				<td width="8" height="21"></td>
+				<td width="3" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="80" height="21" colspan="4" rowspan="1" valign="top" align="left" xpos="29">
+					<hr size="2" width="79">
+				</td>
+				<td width="4" height="21"></td>
+				<td width="6" height="21"></td>
+				<td width="32" height="21"></td>
+			</tr>
+			<tr height="68">
+				<td width="1" height="68"><spacer type="block" width="1" height="68"></td>
+				<td width="15" height="68"></td>
+				<td width="8" height="68"></td>
+				<td width="96" height="68" colspan="10" rowspan="1" valign="top" align="left" xpos="23" content csheight="50">
+					<center>
+						<a href="../../LPMainSearch.html"><font size="3" face="Times New Roman,Georgia,Times"><b>Lesson Plans Home</b></font></a></center>
+				</td>
+				<td width="32" height="68"></td>
+			</tr>
+			<tr height="62">
+				<td width="1" height="62"><spacer type="block" width="1" height="62"></td>
+				<td width="15" height="62"></td>
+				<td width="8" height="62"></td>
+				<td width="3" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="3" height="62"></td>
+				<td width="77" height="62" colspan="3" rowspan="1" valign="top" align="left" xpos="32" content csheight="49">
+					<center>
+						<a href="../../../index.html"><font size="3"><b>Cleopatra Home</b></font></a></center>
+				</td>
+				<td width="4" height="62"></td>
+				<td width="6" height="62"></td>
+				<td width="32" height="62"></td>
+			</tr>
+			<tr height="58">
+				<td width="1" height="58"><spacer type="block" width="1" height="58"></td>
+				<td width="15" height="58"></td>
+				<td width="8" height="58"></td>
+				<td width="3" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="80" height="58" colspan="4" rowspan="1" valign="top" align="left" xpos="29" content csheight="43">
+					<center>
+						<a href="../../lessonprint.html"><font size="3"><b>Print Lessons</b></font></a></center>
+				</td>
+				<td width="4" height="58"></td>
+				<td width="6" height="58"></td>
+				<td width="32" height="58"></td>
+			</tr>
+			<tr height="10">
+				<td width="1" height="10"><spacer type="block" width="1" height="10"></td>
+				<td width="15" height="10"></td>
+				<td width="8" height="10"></td>
+				<td width="3" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="81" height="10" colspan="5" rowspan="1" valign="top" align="left" xpos="28">
+					<hr size="2" width="79">
+				</td>
+				<td width="4" height="10"></td>
+				<td width="6" height="10"></td>
+				<td width="32" height="10"></td>
+			</tr>
+			<tr height="37">
+				<td width="1" height="37"><spacer type="block" width="1" height="37"></td>
+				<td width="15" height="37"></td>
+				<td width="8" height="37"></td>
+				<td width="3" height="37"></td>
+				<td width="87" height="37" colspan="8" rowspan="1" valign="top" align="left" xpos="26" content csheight="37">
+					<center>
+						<a href="http://www.artic.edu/aic/index.html"><font size="3">The Art Institute of Chicago</font></a></center>
+				</td>
+				<td width="6" height="37"></td>
+				<td width="32" height="37"></td>
+			</tr>
+			<tr height="1248">
+				<td width="1" height="1248"><spacer type="block" width="1" height="1248"></td>
+				<td width="15" height="1248"></td>
+				<td width="8" height="1248"></td>
+				<td width="3" height="1248"></td>
+				<td width="1" height="1248"></td>
+				<td width="86" height="1248" colspan="7" rowspan="1" valign="top" align="left" xpos="27"><a href="http://www.artic.edu/aic/index.html"><img height="45" width="79" src="../../AICbuttonNEW.gif"></a></td>
+				<td width="6" height="1248"></td>
+				<td width="32" height="1248"></td>
+			</tr>
+		</table>
+	</body>
+
+</html>

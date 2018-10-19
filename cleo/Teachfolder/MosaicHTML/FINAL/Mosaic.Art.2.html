@@ -1,0 +1,373 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Cleopatra</title>
+		<csactions>
+			<csaction name="B5052058105" class="Open Window" type="ONEVENT" val0="../../../mosaic/MovMos2.html" val1 val2="340" val3="300" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+			<csaction name="B50663D510" class="Open Window" type="ONEVENT" val0="../../../mosaic/MovMov1.html" val1 val2="340" val3="300" val4="true" val5="false" val6="false" val7="false" val8="false" val9="false" val10="true">
+		</csactions>
+		<csscriptdict>
+			<script><!--
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+CSStopExecution = false;
+
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+function CSOpenWindow(action) {
+	var wf = "";	
+	wf = wf + "width=" + action[3];
+	wf = wf + ",height=" + action[4];
+	wf = wf + ",resizable=" + (action[5] ? "yes" : "no");
+	wf = wf + ",scrollbars=" + (action[6] ? "yes" : "no");
+	wf = wf + ",menubar=" + (action[7] ? "yes" : "no");
+	wf = wf + ",toolbar=" + (action[8] ? "yes" : "no");
+	wf = wf + ",directories=" + (action[9] ? "yes" : "no");
+	wf = wf + ",location=" + (action[10] ? "yes" : "no");
+	wf = wf + ",status=" + (action[11] ? "yes" : "no");		
+	window.open(action[1],action[2],wf);
+}
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSAct[/*CMP*/ 'B5052058105'] = new Array(CSOpenWindow,/*URL*/ '../../../mosaic/MovMos2.html','',340,300,true,false,false,false,false,false,true);
+CSAct[/*CMP*/ 'B50663D510'] = new Array(CSOpenWindow,/*URL*/ '../../../mosaic/MovMov1.html','',340,300,true,false,false,false,false,false,true);
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body background="../../allbkgstrip.gif" link="#1f2b54">
+		<table cool width="787" height="1314" border="0" cellpadding="0" cellspacing="0" gridx="16" showgridx gridy="16" showgridy>
+			<tr height="1" cntrlrow>
+				<td width="1" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="7" height="1"><spacer type="block" width="7" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+				<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="49" height="1"><spacer type="block" width="49" height="1"></td>
+				<td width="12" height="1"><spacer type="block" width="12" height="1"></td>
+				<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+				<td width="6" height="1"><spacer type="block" width="6" height="1"></td>
+				<td width="32" height="1"><spacer type="block" width="32" height="1"></td>
+				<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+				<td width="218" height="1"><spacer type="block" width="218" height="1"></td>
+				<td width="5" height="1"><spacer type="block" width="5" height="1"></td>
+				<td width="179" height="1"><spacer type="block" width="179" height="1"></td>
+				<td width="217" height="1"><spacer type="block" width="217" height="1"></td>
+			</tr>
+			<tr height="17">
+				<td width="1" height="17"><spacer type="block" width="1" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="7" height="17"></td>
+				<td width="3" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="1" height="17"></td>
+				<td width="3" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="49" height="17"></td>
+				<td width="12" height="17"></td>
+				<td width="4" height="17"></td>
+				<td width="6" height="17"></td>
+				<td width="32" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="218" height="17"></td>
+				<td width="5" height="17"></td>
+				<td width="179" height="17"></td>
+				<td width="217" height="17"></td>
+			</tr>
+			<tr height="14">
+				<td width="1" height="14"><spacer type="block" width="1" height="14"></td>
+				<td width="16" height="14"></td>
+				<td width="7" height="14"></td>
+				<td width="3" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="1" height="14"></td>
+				<td width="3" height="14"></td>
+				<td width="16" height="14"></td>
+				<td width="49" height="14"></td>
+				<td width="12" height="14"></td>
+				<td width="4" height="14"></td>
+				<td width="6" height="14"></td>
+				<td width="32" height="14"></td>
+				<td width="16" height="14"></td>
+				<td width="218" height="14"></td>
+				<td width="184" height="46" colspan="2" rowspan="2" valign="top" align="left" xpos="385"><img height="35" width="154" src="../../cleotitlesmall.gif"></td>
+				<td width="217" height="14"></td>
+			</tr>
+			<tr height="32">
+				<td width="1" height="32"><spacer type="block" width="1" height="32"></td>
+				<td width="16" height="32"></td>
+				<td width="135" height="92" colspan="12" rowspan="3" valign="top" align="left" xpos="16"><img height="83" width="110" src="mosaic.gif"></td>
+				<td width="16" height="32"></td>
+				<td width="218" height="32"></td>
+				<td width="217" height="32"></td>
+			</tr>
+			<tr height="43">
+				<td width="1" height="43"><spacer type="block" width="1" height="43"></td>
+				<td width="16" height="43"></td>
+				<td width="16" height="43"></td>
+				<td width="218" height="43"></td>
+				<td width="5" height="43"></td>
+				<td width="179" height="43" colspan="1" rowspan="1" valign="top" align="left" xpos="390" content csheight="31">
+					<center>
+						<font size="6"><i><b>Lesson Plans</b></i></font></center>
+				</td>
+				<td width="217" height="43"></td>
+			</tr>
+			<tr height="17">
+				<td width="1" height="17"><spacer type="block" width="1" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="16" height="17"></td>
+				<td width="619" height="17" colspan="4" rowspan="1" valign="top" align="left" xpos="167">
+					<hr width="410" size="2">
+				</td>
+			</tr>
+			<tr height="9">
+				<td width="1" height="9"><spacer type="block" width="1" height="9"></td>
+				<td width="16" height="9"></td>
+				<td width="7" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="1" height="9"></td>
+				<td width="3" height="9"></td>
+				<td width="16" height="9"></td>
+				<td width="49" height="42" colspan="1" rowspan="2" valign="top" align="left" xpos="48" content csheight="31">
+					<center>
+						<a href="../../../mosaic/mosaic.html">Mosaic Floor</a></center>
+				</td>
+				<td width="12" height="9"></td>
+				<td width="4" height="9"></td>
+				<td width="6" height="9"></td>
+				<td width="32" height="9"></td>
+				<td width="16" height="9"></td>
+				<td width="218" height="9"></td>
+				<td width="5" height="9"></td>
+				<td width="179" height="9"></td>
+				<td width="217" height="9"></td>
+			</tr>
+			<tr height="33">
+				<td width="1" height="33"><spacer type="block" width="1" height="33"></td>
+				<td width="16" height="33"></td>
+				<td width="7" height="33"></td>
+				<td width="3" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="1" height="33"></td>
+				<td width="3" height="33"></td>
+				<td width="16" height="33"></td>
+				<td width="12" height="33"></td>
+				<td width="4" height="33"></td>
+				<td width="6" height="33"></td>
+				<td width="32" height="33"></td>
+				<td width="635" height="1181" colspan="5" rowspan="8" valign="top" align="left" xpos="151" content csheight="1181">
+					<center>
+						<font face="Times" size="3"><b>Modern Mosaics</b></font>
+						<p><font face="Times" size="3"><b><br>
+						<br>
+						</b></font></p>
+					</center>
+					<p><font face="Times">Lesson plan based on <b>Mosaic Floor</b></font></p>
+					<p><font face="Times">Construct individual mosaics that simulate ancient Roman techniques of manipulating tesserae to create three&#151;dimensional illusions.</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Skills and Focus:</b> Studio, Art Appreciation</font></p>
+					<p><font face="Times"><b>Subject Area: </b>Fine Arts</font></p>
+					<p><font face="Times"><b>Thematic Connection: </b>Identifying Patterns</font></p>
+					<p><font face="Times"><b>Grade Level: </b>Middle School</font></p>
+					<p><font face="Times"><b>Time Needed: </b>80 minutes</font></p>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Objectives</b></font></p>
+					<blockquote>
+						<p><font face="Times">&#149; Explore the elements of contrast, emphasis, pattern, and color schemes by identifying how the artist manipulated tesserae in the mosaic.</font></p>
+						<p><font face="Times">&#149; Explain how the use of tesserae creates specific effects, such as a sense of volume or shadowing.</font></p>
+						<p><font face="Times">&#149; Create original mosaics by manipulating torn paper to depict different textures and details.</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Instructional Materials Needed</b></font></p>
+					<blockquote>
+						<p><font face="Times">Stories: <a href="(Empty Reference!)" csclick="B50663D510" onclick="CSAction(new Array(/*CMP*/'B50663D510'));return CSClickReturn();"><i>What Animal Is This?</i></a> and <a href="(Empty Reference!)" csclick="B5052058105" onclick="CSAction(new Array(/*CMP*/'B5052058105'));return CSClickReturn();"><i>How Were Mosaics Made?</i></a></font></p>
+						<p><font face="Times">Pencils</font></p>
+						<p><font face="Times">11 x 17&quot; construction paper or cardstock</font></p>
+						<p><font face="Times">Construction paper in a variety of colors, torn into small pieces of uniform size (approximately 1/2&quot; square)</font></p>
+						<p><font face="Times">Glue sticks</font></p>
+						<p><font face="Times">Foil, ribbon, fabric remnants, or other materials as desired</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Activity</b></font></p>
+					<blockquote>
+						<p><font face="Times"><b>Step 1:</b> Explain to students that mosaics like this one were used to decorate private homes in ancient Rome. Discuss how mosaic artists created decorative patterns by making different shapes or lines with tesserae. Have students produce line drawings and experiment with patterns by manipulating paper tesserae on the drawings to create textures and details.</font></p>
+						<p><font face="Times"><b>Step 2: </b>Next have students produce a line drawing for an original mosaic design on 11 x 17&quot; construction paper or cardstock, making notations for patterns and textures.</font></p>
+						<p><font face="Times"><b>Step 3: </b>Instruct students to<b> </b>fill in the drawings with tiny pieces of colored paper, foil, ribbon, or other materials. Discuss the process with students.</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Critical Thinking</b> Ask students to</font></p>
+					<blockquote>
+						<p><font face="Times">&#149; <b>describe </b>the techniques they use to produce the desired effects.</font></p>
+						<p><font face="Times">&#149; <b>explain</b> how they manipulate the materials.</font></p>
+					</blockquote>
+					<p><font face="Times"><br>
+					<br>
+					</font></p>
+					<p><font face="Times"><b>Goals</b></font></p>
+					<blockquote>
+						<p><font face="Times">This activity meets<b> Illinois State Goal 25: </b>Know the language of the arts.</font></p>
+						<p><font face="Times">This activity meets<b> Illinois State Goal 26: </b>Through creating and performing, understand how works of art are produced.</font></p>
+						<p></p>
+						<p></p>
+						<p></p>
+						<p><font size="2">&copy; 2000, by The Art Institute of Chicago. All rights reserved. Use of this program is subject to the terms below. No part of this program may be reproduced, transmitted or distributed in any form or by any means, except for personal or classroom use. All Copyright in and to the program, in whole or in part, belongs to the publisher and its licensors and is registered with the U.S. Copyright Office</font></blockquote>
+				</td>
+			</tr>
+			<tr height="21">
+				<td width="1" height="21"><spacer type="block" width="1" height="21"></td>
+				<td width="16" height="21"></td>
+				<td width="7" height="21"></td>
+				<td width="3" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="1" height="21"></td>
+				<td width="80" height="21" colspan="4" rowspan="1" valign="top" align="left" xpos="29">
+					<hr size="2" width="79">
+				</td>
+				<td width="4" height="21"></td>
+				<td width="6" height="21"></td>
+				<td width="32" height="21"></td>
+			</tr>
+			<tr height="68">
+				<td width="1" height="68"><spacer type="block" width="1" height="68"></td>
+				<td width="16" height="68"></td>
+				<td width="7" height="68"></td>
+				<td width="96" height="68" colspan="10" rowspan="1" valign="top" align="left" xpos="23" content csheight="50">
+					<center>
+						<a href="../../LPMainSearch.html"><font size="3" face="Times New Roman,Georgia,Times"><b>Lesson Plans Home</b></font></a></center>
+				</td>
+				<td width="32" height="68"></td>
+			</tr>
+			<tr height="62">
+				<td width="1" height="62"><spacer type="block" width="1" height="62"></td>
+				<td width="16" height="62"></td>
+				<td width="7" height="62"></td>
+				<td width="3" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="1" height="62"></td>
+				<td width="3" height="62"></td>
+				<td width="77" height="62" colspan="3" rowspan="1" valign="top" align="left" xpos="32" content csheight="49">
+					<center>
+						<a href="../../../index.html"><font size="3" face="Times New Roman,Georgia,Times"><b>Cleopatra Home</b></font></a></center>
+				</td>
+				<td width="4" height="62"></td>
+				<td width="6" height="62"></td>
+				<td width="32" height="62"></td>
+			</tr>
+			<tr height="58">
+				<td width="1" height="58"><spacer type="block" width="1" height="58"></td>
+				<td width="16" height="58"></td>
+				<td width="7" height="58"></td>
+				<td width="3" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="1" height="58"></td>
+				<td width="80" height="58" colspan="4" rowspan="1" valign="top" align="left" xpos="29" content csheight="43">
+					<center>
+						<a href="../../lessonprint.html"><font size="3"><b>Print Lessons</b></font></a></center>
+				</td>
+				<td width="4" height="58"></td>
+				<td width="6" height="58"></td>
+				<td width="32" height="58"></td>
+			</tr>
+			<tr height="10">
+				<td width="1" height="10"><spacer type="block" width="1" height="10"></td>
+				<td width="16" height="10"></td>
+				<td width="7" height="10"></td>
+				<td width="3" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="1" height="10"></td>
+				<td width="81" height="10" colspan="5" rowspan="1" valign="top" align="left" xpos="28">
+					<hr size="2" width="79">
+				</td>
+				<td width="4" height="10"></td>
+				<td width="6" height="10"></td>
+				<td width="32" height="10"></td>
+			</tr>
+			<tr height="37">
+				<td width="1" height="37"><spacer type="block" width="1" height="37"></td>
+				<td width="16" height="37"></td>
+				<td width="7" height="37"></td>
+				<td width="3" height="37"></td>
+				<td width="87" height="37" colspan="8" rowspan="1" valign="top" align="left" xpos="26" content csheight="37">
+					<center>
+						<a href="http://www.artic.edu/aic/index.html"><font size="3">The Art Institute of Chicago</font></a></center>
+				</td>
+				<td width="6" height="37"></td>
+				<td width="32" height="37"></td>
+			</tr>
+			<tr height="892">
+				<td width="1" height="892"><spacer type="block" width="1" height="892"></td>
+				<td width="16" height="892"></td>
+				<td width="7" height="892"></td>
+				<td width="3" height="892"></td>
+				<td width="1" height="892"></td>
+				<td width="86" height="892" colspan="7" rowspan="1" valign="top" align="left" xpos="27"><a href="http://www.artic.edu/aic/index.html"><img height="45" width="79" src="../../AICbuttonNEW.gif"></a></td>
+				<td width="6" height="892"></td>
+				<td width="32" height="892"></td>
+			</tr>
+		</table>
+	</body>
+
+</html>
