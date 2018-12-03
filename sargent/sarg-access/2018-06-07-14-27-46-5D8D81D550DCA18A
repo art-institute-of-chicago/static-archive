@@ -1,0 +1,1 @@
+5781967f0a9487769bb5a7121c4ab8df918caca0738757125473c10fe03f004e sargent-cloudfront-logs.artic.edu [07/Jun/2018:13:54:12 +0000] 72.21.217.31 - 4E1286E94114018B REST.HEAD.BUCKET - "HEAD / HTTP/1.1" 400 AuthorizationHeaderMalformed 365 - 2 - "-" "aws-internal/3" -

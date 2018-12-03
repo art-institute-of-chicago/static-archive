@@ -1,0 +1,1 @@
+5781967f0a9487769bb5a7121c4ab8df918caca0738757125473c10fe03f004e sargent-cloudfront-logs.artic.edu [27/Apr/2018:20:18:06 +0000] 52.95.24.235 5781967f0a9487769bb5a7121c4ab8df918caca0738757125473c10fe03f004e 0C0F15C6B2EA37C3 REST.PUT.LOGGING_STATUS - "PUT /sargent-cloudfront-logs.artic.edu?logging= HTTP/1.1" 200 - - - 206 - "-" "S3Console/0.4, aws-internal/3" -

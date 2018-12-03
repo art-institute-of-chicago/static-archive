@@ -1,0 +1,1 @@
+5781967f0a9487769bb5a7121c4ab8df918caca0738757125473c10fe03f004e sargent-cloudfront-logs.artic.edu [14/May/2018:21:47:00 +0000] 52.95.24.235 5781967f0a9487769bb5a7121c4ab8df918caca0738757125473c10fe03f004e 4DD22CC4647E8AB7 REST.HEAD.BUCKET - "HEAD /sargent-cloudfront-logs.artic.edu HTTP/1.1" 200 - - - 11 10 "-" "S3Console/0.4, aws-internal/3" -
