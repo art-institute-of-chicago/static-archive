@@ -147,7 +147,7 @@ try {
 		<TD WIDTH=10 BGCOLOR=#FFFFFF></TD>
 		<TD WIDTH=10 BGCOLOR=#004890 STYLE="border-left: solid 1 #9FBFDF;">&nbsp;</TD>
 		<TD WIDTH=140 BGCOLOR=#004890>
-		<P CLASS=menu>		<A HREF=http://digital-libraries.saic.edu/cdm/search/collection/findingaids/searchterm/Reynolds,%20Mary,%20Collection,%201892-1972%20%20bulk%201941-1964%20/field/title/mode/all/conn/and/cosuppress/1 TARGET="_blank" CLASS=glbMnu>
+		<P CLASS=menu>		<A HREF=https://digital-libraries.artic.edu/cdm/search/collection/findingaids/searchterm/Reynolds,%20Mary,%20Collection,%201892-1972%20%20bulk%201941-1964%20/field/title/mode/all/conn/and/cosuppress/1 TARGET="_blank" CLASS=glbMnu>
 		Archival Finding Aid</A>
 		</P>		</TD>
 	</TR>
@@ -156,7 +156,7 @@ try {
 		<TD WIDTH=10 BGCOLOR=#FFFFFF></TD>
 		<TD WIDTH=10 BGCOLOR=#004890 STYLE="border-left: solid 1 #9FBFDF;">&nbsp;</TD>
 		<TD WIDTH=140 BGCOLOR=#004890>
-		<P CLASS=menu>		<A HREF=http://digital-libraries.saic.edu/cdm/search/collection/mqc/searchterm/Reynolds,%20Mary,%20Collection,%201892-1972%20%20bulk%201941-1964%20/field/subcol/mode/all/conn/and/cosuppress/1 TARGET="_blank" CLASS=glbMnu>
+		<P CLASS=menu>		<A HREF=https://digital-libraries.artic.edu/cdm/search/collection/mqc/searchterm/Reynolds,%20Mary,%20Collection,%201892-1972%20%20bulk%201941-1964%20/field/subcol/mode/all/conn/and/cosuppress/1 TARGET="_blank" CLASS=glbMnu>
 		Search for Images</A>
 		</P>		</TD>
 	</TR>

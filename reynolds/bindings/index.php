@@ -137,7 +137,7 @@
 <P CLASS=HeadF><B>Hebdomeros</B><BR>by Giorgio de Chirico</P><P CLASS=caption2>Mary Reynolds and Marcel Duchamp</P><P CLASS=caption2>Paris: Editions du Carrefour, 1929</P><P CLASS=caption2>One of 263 copies printed on Pannekock Dutch paper</P><P CLASS=caption2>Binding: unidentified leather, calf, niger (goatskin) doublures (inside linings of cover), and silk endpapers</P><P CLASS=caption2>Mary Reynolds Collection, MR 217</P>
 
 <BR>
-<P CLASS=BodyXXSmall><B><A HREF=/reynolds/index.php CLASS=pageBottomLink>Essays</A> | <A HREF=/reynolds/worksofart/index.php CLASS=pageBottomLink>Works of Art</A> | <A HREF=/reynolds/bindings/index.php CLASS=pageBottomLink>Book Bindings</A>  | <A HREF=/reynolds/related/links.php CLASS=pageBottomLink>Related Sites</A> | <A HREF=http://digital-libraries.saic.edu/cdm/search/collection/findingaids/searchterm/Reynolds,%20Mary,%20Collection,%201892-1972%20%20bulk%201941-1964%20/field/title/mode/all/conn/and/cosuppress/1 TARGET=blank CLASS=pageBottomLink>Finding Aid</A> | <A HREF=http://ryerson.artic.edu/search~S4 TARGET=blank CLASS=pageBottomLink>Search Collection</A></B><P CLASS=BodyXXSmallClose><P CLASS=Footer><BR><BR><A HREF=#navTop><IMG SRC=/reynolds/images/top.gif WIDTH=22 HEIGHT=11 VSPACE=4 BORDER=0></A><BR>Send comments regarding this information to<BR><A HREF=mailto:ryerson@artic.edu>ryerson@artic.edu</A><BR><BR>Copyright &copy;&nbsp;2001, The Art Institute of Chicago.<BR>All text and images on this site are protected by U.S. and <BR>international copyright laws. Unauthorized use is prohibited.<BR><BR><B><A class=pageBottomLink HREF=http://www.artic.edu/research>Ryerson and Burnham Libraries</A></B><BR><BR><A HREF=http://www.artic.edu/aic/index.html><IMG SRC=/reynolds/images/aic-arches.gif WIDTH=101 HEIGHT=60 border=0 VSPACE=3 alt=Art&nbsp;Institute&nbsp;of&nbsp;Chicago></A><BR>The Art Institute of Chicago</P><BR><BR></TD>
+<P CLASS=BodyXXSmall><B><A HREF=/reynolds/index.php CLASS=pageBottomLink>Essays</A> | <A HREF=/reynolds/worksofart/index.php CLASS=pageBottomLink>Works of Art</A> | <A HREF=/reynolds/bindings/index.php CLASS=pageBottomLink>Book Bindings</A>  | <A HREF=/reynolds/related/links.php CLASS=pageBottomLink>Related Sites</A> | <A HREF=https://digital-libraries.artic.edu/cdm/search/collection/findingaids/searchterm/Reynolds,%20Mary,%20Collection,%201892-1972%20%20bulk%201941-1964%20/field/title/mode/all/conn/and/cosuppress/1 TARGET=blank CLASS=pageBottomLink>Finding Aid</A> | <A HREF=http://ryerson.artic.edu/search~S4 TARGET=blank CLASS=pageBottomLink>Search Collection</A></B><P CLASS=BodyXXSmallClose><P CLASS=Footer><BR><BR><A HREF=#navTop><IMG SRC=/reynolds/images/top.gif WIDTH=22 HEIGHT=11 VSPACE=4 BORDER=0></A><BR>Send comments regarding this information to<BR><A HREF=mailto:ryerson@artic.edu>ryerson@artic.edu</A><BR><BR>Copyright &copy;&nbsp;2001, The Art Institute of Chicago.<BR>All text and images on this site are protected by U.S. and <BR>international copyright laws. Unauthorized use is prohibited.<BR><BR><B><A class=pageBottomLink HREF=http://www.artic.edu/research>Ryerson and Burnham Libraries</A></B><BR><BR><A HREF=http://www.artic.edu/aic/index.html><IMG SRC=/reynolds/images/aic-arches.gif WIDTH=101 HEIGHT=60 border=0 VSPACE=3 alt=Art&nbsp;Institute&nbsp;of&nbsp;Chicago></A><BR>The Art Institute of Chicago</P><BR><BR></TD>
 <TD WIDTH=25>&nbsp;</TD>
 		</TR>
 		</TABLE>
@@ -202,7 +202,7 @@ try {
 		<TD WIDTH=10 BGCOLOR=#FFFFFF></TD>
 		<TD WIDTH=10 BGCOLOR=#004890 STYLE="border-left: solid 1 #9FBFDF;">&nbsp;</TD>
 		<TD WIDTH=140 BGCOLOR=#004890>
-		<P CLASS=menu>		<A HREF=http://digital-libraries.saic.edu/cdm/search/collection/findingaids/searchterm/Reynolds,%20Mary,%20Collection,%201892-1972%20%20bulk%201941-1964%20/field/title/mode/all/conn/and/cosuppress/1 TARGET="_blank" CLASS=glbMnu>
+		<P CLASS=menu>		<A HREF=https://digital-libraries.artic.edu/cdm/search/collection/findingaids/searchterm/Reynolds,%20Mary,%20Collection,%201892-1972%20%20bulk%201941-1964%20/field/title/mode/all/conn/and/cosuppress/1 TARGET="_blank" CLASS=glbMnu>
 		Archival Finding Aid</A>
 		</P>		</TD>
 	</TR>
@@ -211,7 +211,7 @@ try {
 		<TD WIDTH=10 BGCOLOR=#FFFFFF></TD>
 		<TD WIDTH=10 BGCOLOR=#004890 STYLE="border-left: solid 1 #9FBFDF;">&nbsp;</TD>
 		<TD WIDTH=140 BGCOLOR=#004890>
-		<P CLASS=menu>		<A HREF=http://digital-libraries.saic.edu/cdm/search/collection/mqc/searchterm/Reynolds,%20Mary,%20Collection,%201892-1972%20%20bulk%201941-1964%20/field/subcol/mode/all/conn/and/cosuppress/1 TARGET="_blank" CLASS=glbMnu>
+		<P CLASS=menu>		<A HREF=https://digital-libraries.artic.edu/cdm/search/collection/mqc/searchterm/Reynolds,%20Mary,%20Collection,%201892-1972%20%20bulk%201941-1964%20/field/subcol/mode/all/conn/and/cosuppress/1 TARGET="_blank" CLASS=glbMnu>
 		Search for Images</A>
 		</P>		</TD>
 	</TR>
