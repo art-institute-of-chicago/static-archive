@@ -1,0 +1,92 @@
+/*
+.home .backButton{
+    display:none !important;
+}
+*/
+
+.backButton.transition{
+    transition: 1s ease;
+    -webkit-transition: 1s ease;
+    -o-transition: 1s ease;
+    -moz-transition: 1s ease;
+}
+
+.backButton.Right{
+    text-align: right;
+    position: fixed;
+    bottom: 50%;
+    right: -250px;
+    background: #F1F1F1;
+    border-left: 3px solid #CECECE;
+    text-align: center;
+    padding: 5px 15px;
+    z-index: 10000;
+    
+}
+
+.backButton.Left{
+    text-align: left;
+    position: fixed;
+    bottom: 50%;
+    left: -250px;
+    background: #F1F1F1;
+    border-right: 3px solid #CECECE;
+    text-align: center;
+    padding: 5px 15px;
+    z-index: 10000;
+    
+}
+
+.backButton.Right a .simbolo:before {
+    content: "<";
+    margin-right: 10px;
+    font-family: 'Cabin';
+    font-weight: 700;
+    color: #CECECE;
+    text-shadow: 0px 1px #fff, 0px -1px #7B7B7B;
+    
+}
+
+.backButton.Left a .simbolo:after {
+    content: "<";
+    margin-right: 10px;
+    font-family: 'Cabin';
+    font-weight: 700;
+    color: #CECECE;
+    text-shadow: 0px 1px #fff, 0px -1px #7B7B7B;
+    
+}
+
+.backButton a {
+    display: flex;
+    text-transform: uppercase;
+    font-family: 'TradeGothicLTStd-BdCn20','PT Sans Narrow';
+/*    font-size: 1.5em;*/
+    font-weight: 700;
+}
+
+/*WIDGET*/
+.backbutton-widget a {
+    text-transform: uppercase;
+    font-family: 'TradeGothicLTStd-BdCn20','PT Sans Narrow';
+    font-size: 1.5em;
+    font-weight: 700;
+    text-decoration: none !important;
+}
+
+.backbutton-widget.Right{
+    text-align: right;
+}
+.backbutton-widget.Center{
+    text-align: center;
+}
+.backbutton-widget.Left{
+    text-align: left;
+}
+
+/*RESOLUTION*/
+@media (max-width: 1024px) {
+  .backButton a span.texto , .backButton a .texto {
+    display: none;
+  }
+}

@@ -1,0 +1,1510 @@
+/*
+Theme Name: Sideswipe (AIC Modified)
+Theme URI: http://graphpaperpress.com/themes/sideswipe/
+Author: Graph Paper Press
+Author URI: http://graphpaperpress.com
+Description: A simple side-scrolling WordPress theme catering to visual folks. THIS IS A MODIFIED VERSION FOR USE ON STEICHEN PHOTOGRAPHY SITE (JR)
+Version: 1.0.9.1
+License: GNU General Public License, V2
+License URI: license.txt
+Tags:
+*/
+
+
+/* =Reset
+-------------------------------------------------------------- */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    border: 0;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+    word-wrap: break-word;
+}
+html {
+    font-size: 62.5%; /* Corrects text resizing oddly in IE6/7 when body font-size is set using em units http://clagnut.com/blog/348/#c790 */
+    overflow-y: scroll; /* Keeps page centred in all browsers regardless of content height */
+    -webkit-text-size-adjust: 100%; /* Prevents iOS text size adjust after orientation change, without disabling user zoom */
+    -ms-text-size-adjust: 100%; /* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section {
+    display: block;
+}
+ol, ul {
+    list-style: none;
+}
+table {/* tables still need 'cellspacing="0"' in the markup */
+border-collapse: separate;
+border-spacing: 0;
+}
+caption, th, td {
+    font-weight: normal;
+    text-align: left;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: "";
+}
+blockquote, q {
+    quotes: "" "";
+}
+a:focus {
+    outline: thin dotted;
+}
+a:hover,
+a:active {/* Improves readability when focused and also mouse hovered in all browsers people.opera.com/patrickl/experiments/keyboard/test */
+    outline: 0;
+}
+a img {
+    border: 0;
+}
+
+/* =Global
+----------------------------------------------- */
+
+body,
+button,
+input,
+select,
+textarea {
+    color: #222;
+    font-size: 12px;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6, .menu, input, footer {
+    clear: both;
+    /* font-family:"Oswald", "Helvetica Neue", Arial, Helvetica, sans-serif; */
+}
+body, h2.site-description, button, select, textarea, .home .sticky .entry-content p:first-child, .single-format-gallery .entry-content p:first-child, .format-quote .entry-content p, .entry-content p:first-child:first-letter {
+    /* font-family:"Lora", Georgia, Palatino, "Palatino Linotype", Times, "Times New Roman", serif; */
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    clear: both;
+    color: #111;
+    font-weight: normal;
+}
+h1 {
+    font-size: 3em;
+    line-height: 1;
+    margin-bottom: 0.5em;
+}
+h2 {
+    font-size: 2em;
+    margin-bottom: 0.75em;
+}
+h3 {
+    font-size: 1.5em;
+    line-height: 1;
+    margin-bottom: 1em;
+}
+h4 {
+    font-size: 1.2em;
+    line-height: 1.25;
+    margin-bottom: 1.25em;
+}
+h5 {
+    font-size: 1em;
+    margin-bottom: 1.5em;
+}
+h6 {
+    font-size: 1em;
+}
+hr {
+    background-color: #ccc;
+    border: 0;
+    height: 1px;
+    margin-bottom: 1.5em;
+}
+
+/* Text elements */
+p {
+    margin-bottom: 1.5em;
+}
+ul {
+    list-style: disc;
+}
+ol {
+    list-style: decimal;
+}
+ul ul, ol ol, ul ol, ol ul {
+    margin-bottom: 0;
+    margin-left: 1.5em;
+}
+dt {
+    font-weight: bold;
+}
+dd {
+    margin: 0 1.5em 1.5em;
+}
+b, strong {
+    font-weight: bold;
+}
+dfn, cite, em, i {
+    font-style: italic;
+}
+blockquote {
+    margin: 0 1.5em;
+}
+address {
+    margin: 0 0 1.5em;
+}
+pre {
+    background: #eee;
+    font-family: "Courier 10 Pitch", Courier, monospace;
+    font-size: 15px;
+    font-size: 1.5rem;
+    line-height: 1.6;
+    margin-bottom: 1.6em;
+    padding: 1.6em;
+    overflow: auto;
+    max-width: 100%;
+}
+code, kbd, tt, var {
+    font: 12px Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+}
+abbr, acronym {
+    border-bottom: 1px dotted #666;
+    cursor: help;
+}
+mark, ins {
+    background: #fff9c0;
+    text-decoration: none;
+}
+sup,
+sub {
+    font-size: 75%;
+    height: 0;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sup {
+    bottom: 1ex;
+}
+sub {
+    top: .5ex;
+}
+small {
+    font-size: 75%;
+}
+big {
+    font-size: 125%;
+}
+figure {
+    margin: 0;
+}
+table {
+    margin: 0 0 1.5em;
+    width: 100%;
+}
+th {
+    font-weight: bold;
+}
+button,
+input,
+select,
+textarea {
+    font-size: 100%; /* Corrects font size not being inherited in all browsers */
+    margin: 0; /* Addresses margins set differently in IE6/7, F3/4, S5, Chrome */
+    vertical-align: baseline; /* Improves appearance and consistency in all browsers */
+    *vertical-align: middle; /* Improves appearance and consistency in all browsers */
+}
+button,
+input {
+    line-height: normal; /* Addresses FF3/4 setting line-height using !important in the UA stylesheet */
+    *overflow: visible; /* Corrects inner spacing displayed oddly in IE6/7 */
+}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    border: 1px solid #ccc;
+    border-color: #ccc #ccc #bbb #ccc;
+    border-radius: 3px;
+    background: #fafafa; /* Old browsers */
+    background: -moz-linear-gradient(top, #fafafa 60%, #e6e6e6 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(60%,#fafafa), color-stop(100%,#e6e6e6)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #fafafa 60%,#e6e6e6 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #fafafa 60%,#e6e6e6 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #fafafa 60%,#e6e6e6 100%); /* IE10+ */
+    background: linear-gradient(top, #fafafa 60%,#e6e6e6 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#e6e6e6',GradientType=0 ); /* IE6-9 */
+    box-shadow: inset 0 2px 1px #fff;
+    color: rgba(0,0,0,.8);
+    cursor: pointer; /* Improves usability and consistency of cursor style between image-type 'input' and others */
+    -webkit-appearance: button; /* Corrects inability to style clickable 'input' types in iOS */
+    font-size: 12px;
+    font-size: 1.4rem;
+    padding: 1.12em 1.5em .88em;
+    text-shadow: 0 1px 0 rgba(255,255,255,.5);
+}
+button:hover,
+html input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+    background: #f5f5f5; /* Old browsers */
+    background: -moz-linear-gradient(top, #f5f5f5 60%, #dcdcdc 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(60%,#f5f5f5), color-stop(100%,#dcdcdc)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #f5f5f5 60%,#dcdcdc 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #f5f5f5 60%,#dcdcdc 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #f5f5f5 60%,#dcdcdc 100%); /* IE10+ */
+    background: linear-gradient(top, #f5f5f5 60%,#dcdcdc 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f5f5', endColorstr='#dcdcdc',GradientType=0 ); /* IE6-9 */
+    border-color: #bbb #bbb #aaa #bbb;
+}
+button:focus,
+html input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus,
+button:active,
+html input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+    border-color: #aaa #bbb #bbb #bbb;
+    box-shadow: inset 0 2px 3px rgba(0,0,0,.15);
+    box-shadow: inset 0 2px 2px rgba(0,0,0,.15);
+}
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box; /* Addresses box sizing set to content-box in IE8/9 */
+    padding: 0; /* Addresses excess padding in IE8/9 */
+}
+input[type="search"] {
+    -webkit-appearance: textfield; /* Addresses appearance set to searchfield in S5, Chrome */
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box; /* Addresses box sizing set to border-box in S5, Chrome (include -moz to future-proof) */
+    box-sizing: content-box;
+}
+input[type="search"]::-webkit-search-decoration {/* Corrects inner padding displayed oddly in S5, Chrome on OSX */
+    -webkit-appearance: none;
+}
+button::-moz-focus-inner,
+input::-moz-focus-inner {/* Corrects inner padding and border displayed oddly in FF3/4 www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/ */
+    border: 0;
+    padding: 0;
+}
+input[type=text],
+textarea {
+    color: #666;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+input[type=text]:focus,
+textarea:focus {
+    color: #111;
+}
+input[type=text] {
+    padding: 3px;
+}
+textarea {
+    overflow: auto; /* Removes default vertical scrollbar in IE6/7/8/9 */
+    padding-left: 3px;
+    vertical-align: top; /* Improves readability and alignment in all browsers */
+    width: 98%;
+}
+
+.clearboth {
+    float: left;
+    clear: both;
+}
+
+/* Links */
+a {
+    color: #000;
+}
+a:visited {
+    color: #000;
+}
+a:hover,
+a:focus,
+a:active {
+    color: #777;
+}
+.full-width {
+    width: 100% !important;
+}
+/* Alignment */
+.alignleft {
+    display: inline;
+    float: left;
+    margin-right: 1.5em;
+    margin-bottom: 1.5em;
+}
+.alignright {
+    display: inline;
+    float: right;
+    margin-left: 1.5em;
+    margin-bottom: 1.5em;
+}
+.aligncenter {
+    clear: both;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Text meant only for screen readers */
+.assistive-text {
+    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+}
+
+/* =Layout
+----------------------------------------------- */
+.site {
+    width: 90%;
+    margin: 0 auto;
+}
+.site-header, .site-footer {
+    clear: both;
+    width: 90%;
+}
+.site-content {
+    margin-top: 112px;
+    width: 100%;
+}
+.site-header {
+    position: fixed;
+    z-index: 10;
+    clear: both;
+    height: 75px;
+    width: 90%;
+    left: 0%;
+    padding: 0 5%;
+    top: 0;
+}
+.page-header {
+    float: left;
+}
+.has-sidebar .page .entry-content {
+    width: 66%;
+    float: right;
+    clear: left;
+}
+.has-sidebar .page #page-sidebar {
+    float: left;
+    width: 33%;
+}
+.has-sidebar .page .entry-header {
+    float: left;
+    width: 33%;
+}
+.has-sidebar .page .widget-area {
+    width: 100%;
+}
+.site-content {
+}
+.site-footer {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 10px 5%;
+    z-index: 101;
+    font-size: .9em;
+}
+#secondary {
+    clear: left;
+    float: left;
+}
+.widget-area {
+    overflow: hidden;
+}
+
+.faded, .hentry {
+    zoom: 1;
+    filter: alpha(opacity=0);
+    opacity: 0;
+}
+.preloader {
+    background: url(images/ajax-loader.gif) center center no-repeat transparent;
+    display: block;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+/* has sidebar */
+.has-sidebar .site-content {
+    float: left;
+    /*margin: 0 -25% 0 0;*/
+}
+/*.has-sidebar #content {
+margin: 0 25% 0 0;
+}
+*/
+.has-sidebar .widget-area {
+    float: left;
+    width: 33%;
+}
+
+.sideswipe {
+    white-space: nowrap;
+    padding: 0;
+    position: absolute;
+    display:none;
+}
+
+
+/* =hgroup
+----------------------------------------------- */
+hgroup {
+    float: left;
+    padding: 10px 20px 9px 0;
+}
+.site-title {
+    margin: 0;
+    font-size: 1.75em;
+    text-transform: uppercase;
+    text-align: left;
+}
+.site-title a {
+    text-decoration: none;
+}
+.site-description {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+    text-transform: lowercase;
+    margin: 0;
+}
+
+/* =Menu
+----------------------------------------------- */
+.main-navigation {
+    display: block;
+    float: left;
+    text-transform: uppercase;
+}
+.main-navigation ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 10px;
+}
+.main-navigation li {
+    float: left;
+    margin: 0;
+    position: relative;
+}
+.main-navigation a {
+    display: block;
+    padding: 20px 10px;
+    text-decoration: none;
+}
+.main-navigation ul ul {
+    display: none;
+    float: left;
+    position: absolute;
+    top: 3.5em;
+    left: 0;
+    z-index: 99999;
+}
+.main-navigation ul ul a {
+    padding: 5px 10px;
+}
+.main-navigation ul ul ul {
+    left: 101%;
+    top: 0;
+}
+.main-navigation ul ul a {
+    width: 200px;
+}
+.main-navigation ul ul li {
+}
+.main-navigation li:hover > a {
+}
+.main-navigation ul ul :hover > a {
+}
+.main-navigation ul ul a:hover {
+}
+.main-navigation ul li:hover > ul {
+    display: block;
+}
+.main-navigation li.current_page_item a,
+.main-navigation li.current-menu-item a {
+}
+.menu-home-container {
+    position: relative;
+}
+#menu-home {
+    position: relative;
+}
+
+/* Small menu */
+.menu-toggle {
+    cursor: pointer;
+    font-size: 12px;
+}
+.main-small-navigation .menu {
+    display: none;
+    list-style: none;
+}
+
+.main-small-navigation .menu li {
+    margin: 0.7em 0;
+}
+
+.main-small-navigation .menu li a {
+    text-decoration: none;
+}
+
+.main-small-navigation .menu {
+    position: absolute !important;
+    left: 0px;
+    width: 100%;
+    top: 58px;
+}
+
+.main-small-navigation .menu li {
+    list-style: none;
+    margin: 1em 0;
+}
+.main-small-navigation .menu ul {
+    margin-left: 0;
+}
+
+
+/* =Content
+----------------------------------------------- */
+/* sidescroll home, archive and gallery post formats */
+.sideswipe article {
+    float: left;
+    position: relative;
+    height: 100%;
+    margin: 0 20px 0 0;
+    width: auto;
+    max-width: 100%;
+    white-space: normal;
+    overflow: auto;
+    margin-bottom: 40px;
+}
+.sideswipe .gallery article {
+    margin-bottom: 0;
+}
+.sideswipe .horizontal, .home .sideswipe .format-video {
+    max-width: 600px;
+}
+.sideswipe .vertical, .sideswipe .format-audio, .sideswipe .format-standard, .sideswipe .format-quote {
+    max-width: 400px;
+}
+.sideswipe article, .single-format-gallery article {
+    height: 500px;
+    height: auto;
+}
+.sideswipe article.comment {
+    height: auto;
+}
+.single-format-gallery .entry-content article {
+    height:auto;
+}
+.sideswipe article img, .sideswipe article embed, .sideswipe article iframe, .sideswipe article object {
+    max-height: 432px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.block {
+    max-height: 100%;
+    overflow: auto;
+}
+.single header.entry-header {
+    float: left;
+    width: 33%;
+    clear: none;
+    margin-top: 1em;
+}
+.single .entry-content {
+    float: right;
+    width: 62%;
+    padding-left: 5%;
+}
+.single-format-gallery header.entry-header, .single-format-gallery .entry-content {
+    float: none;
+    width: 100%;
+    padding: 0
+}
+h1.page-title {
+    margin-bottom: 0.6em;
+}
+.home .entry-title, .archive .entry-title {
+    font-size: 16px;
+    color: #222;
+    margin-bottom: 0;
+}
+.single h1.entry-title {
+    font-size: 2.0em;
+    line-height: 1.3;
+}
+.home .entry-title a, .archive .entry-title a {
+    color: #222;
+    text-decoration: none;
+}
+.entry-post-format {
+    margin-bottom: 1.5em;
+}
+.entry-content {
+    overflow: auto;
+}
+.page:after, .post:after {
+    clear: both;
+    content: ' ';
+    display: table;
+}
+.home .sticky {
+    padding: 0;
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+}
+.home .sticky .entry-title a {
+    font-size: 2em;
+    text-decoration: none;
+}
+.home .sticky .entry-title {
+    float: none;
+    margin: 0;
+}
+.home .sticky .entry-meta {
+    float: none;
+    margin: 1em 0;
+}
+.hentry {
+    -moz-box-shadow: rgba(200,200,200,0.7) 0 4px 10px -1px;
+    -webkit-box-shadow: rgba(200, 200, 200, 0.7) 0 4px 10px -1px;
+    box-shadow: rgba(200, 200, 200, 0.7) 0 4px 10px -1px;
+    background-color: #f9f9f9;
+    border: 1px solid #DDD;
+    padding: 20px;
+    margin-bottom: 1em;
+}
+
+.has-sidebar .search-results {
+    width: 66%;
+    float: right;
+    clear: left;
+}
+
+.single .hentry, .page .hentry {
+    max-width:960px;
+    padding: 20px;
+}
+
+.entry-meta {
+    clear: both;
+    margin: 0.5em 0 2em 0;
+    letter-spacing: 1px;
+    font-size: .8em;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.home .format-image .entry-meta, .home .format-gallery .entry-meta, .home .format-video .entry-meta, .archive .format-image .entry-meta, .archive .format-gallery .entry-meta, .archive .format-video .entry-meta {
+    margin: 0;
+    line-height: 2.2em;
+    float: left;
+    width: 100%;
+}
+.byline {
+    display: none;
+}
+.comments-link {
+    display: block
+}
+.count {
+    float: right;
+}
+.single .count {
+    float: none;
+    display: block;
+}
+.single .byline,
+.group-blog .byline {
+    display: inline;
+}
+.entry-content,
+.entry-summary {
+    margin: 1.5em 0 0;
+}
+.page-links {
+    clear: both;
+    margin: 0 0 1.5em;
+}
+.caption {
+    font-style: italic;
+    font-size: 10px;
+}
+.caption span {
+    font-style: normal;
+    font-weight: bold;
+}
+
+/* =Gallery Format
+----------------------------------------------- */
+
+.single-format-gallery article.post {
+    width: 400px;
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+    padding: 0;
+}
+.single-format-gallery article.image {
+    width: auto;
+    max-width:800px;
+}
+.single-format-gallery article.image img {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+/* =Quote Format
+----------------------------------------------- */
+
+.format-quote .entry-content p {
+    background: yellow;
+    font-size: 2em;
+    padding: 0.6em;
+}
+
+/* =Asides
+----------------------------------------------- */
+
+.blog .format-aside .entry-title,
+.archive .format-aside .entry-title {
+    display: none;
+}
+.blog #content {
+    max-width: 100%;
+}
+.home #content {
+    max-width: none;
+}
+
+/* =Media
+----------------------------------------------- */
+
+.site-header img,
+.entry-content img,
+.comment-content img,
+.widget img,
+.wp-post-image {
+    max-width: 100%; /* Fluid images for posts, comments, and widgets */
+}
+.site-header img,
+.entry-content img,
+img[class*="align"],
+img[class*="wp-image-"],
+.wp-post-image {
+    height: auto; /* Make sure images with WordPress-added height and width attributes are scaled correctly */
+}
+.site-header img,
+.entry-content img,
+img.size-full,
+.wp-post-image {
+    max-width: 100%;
+    width: auto; /* Prevent stretching of full-size images with height and width attributes in IE8 */
+}
+.entry-content img.wp-smiley,
+.comment-content img.wp-smiley {
+    border: none;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+}
+.wp-caption {
+    border: 1px solid #ccc;
+    max-width: 100%;
+}
+.wp-caption.aligncenter,
+.wp-caption.alignleft,
+.wp-caption.alignright {
+    margin-bottom: 1.5em;
+}
+.wp-caption img {
+    display: block;
+    margin: 1.2% auto 0;
+    max-width: 98%;
+}
+.wp-caption-text {
+  text-align: center;
+  margin: 0.8075em 0;
+}
+.wp-caption .wp-caption-text {
+    margin: 0.8075em 0;
+}
+#content .gallery {
+    margin-bottom: 1.5em;
+}
+.gallery-caption {
+}
+#content .gallery a img {
+    border: none;
+    height: auto;
+    max-width: 100%;
+}
+#content .gallery dd {
+    margin: 0;
+}
+#content .gallery-columns-4 .gallery-item {
+}
+#content .gallery-columns-4 .gallery-item img {
+}
+
+/* Make sure embeds and iframes fit their containers */
+embed,
+iframe,
+object {
+    max-width: 100%;
+}
+audio {
+    width: 100%;
+    background: #222;
+}
+
+/* Plate page overrides */
+#post-1194 .wp-caption.alignleft {
+  height: 180px; /* force height so variation in image size doesn't break float rows */
+}
+
+#post-1194 .wp-caption .wp-caption-text {
+  font-size: 90%;
+  max-width: 140px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* =Navigation
+----------------------------------------------- */
+.nav {
+    float: right;
+    margin: 12px 0;
+    z-index:9999;
+}
+.paging-navigation, .post-navigation {
+    margin: 0;
+    width: auto;
+}
+.site-footer .paging-navigation, .site-footer .post-navigation {
+    width: auto;
+    text-align: right;
+}
+.site-footer .paging-navigation {
+    text-align: right;
+}
+.nav-previous {
+    margin-right: 10px;
+}
+.nav-next {
+}
+.nav-previous, .nav-next {
+    display: inline;
+}
+.prev, .next {
+    /* text-indent: -999em; */
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-shadow: none;
+    background: transparent;
+    font-size: 0;
+    line-height: 0;
+    text-indent: none
+}
+.prev:hover, .next:hover {
+    cursor: pointer;
+    border-color: transparent;
+    box-shadow: none;
+    background: transparent;
+}
+.prev {
+    margin-right: 20px;
+    width: 16px;
+    height: 30px;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-right: 15px solid #999;
+}
+.prev:hover {
+    border-right-color: #222;
+}
+.next {
+    width: 16px;
+    height: 30px;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-left: 15px solid #999;
+}
+.next:hover {
+    border-left-color: #222;
+}
+
+/* =Comments
+----------------------------------------------- */
+#comments {
+    float: none;
+    border-top: 0;
+    min-width: 250px;
+}
+.single-format-gallery #comments {
+    max-width: 600px;
+}
+.bypostauthor {
+}
+#comments-title {
+    padding: 8px 4px;
+    text-transform: uppercase;
+    font-size: .9em;
+}
+article.comment {
+    display: block;
+}
+#respond input[type=text] {
+    display: block;
+    width: 40%;
+}
+#respond textarea {
+    display: block;
+    margin: 0 0 1em;
+    width: 60%;
+}
+#respond .form-allowed-tags {
+    clear: both;
+    width: 60%;
+}
+#respond .form-allowed-tags {
+    display: none;
+}
+.commentlist {
+    margin: 2em 0;
+    list-style-type: none;
+    float: left;
+    width: 100%;
+}
+.commentlist li {
+    position: relative;
+    margin: 0;
+    float: left;
+    width: 100%;
+}
+.comment {
+    max-width: 100%;
+    overflow: hidden;
+    display: block;
+}
+article.comment {
+    margin: 20px 0 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #DDD;
+}
+.comment header {
+    font-size: 1.2em;
+}
+.comment .comment-content {
+    font-size: .9em;
+    float: left;
+    width: 100%;
+    margin-top: 1em;
+}
+.comment footer {
+    float: left;
+    width: 75%;
+    font-size: .7em;
+}
+.comment .reply {
+    float: right;
+    font-size: .9em;
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+}
+.commentmetadata {
+}
+.pinglist {
+    margin: 20px 0 40px 52px;
+    list-style-type: decimal;
+}
+#commentform {
+    margin-top: 20px;
+}
+.children {
+    list-style-type: none;
+    margin-left: 55px;
+}
+.comment .avatar {
+    float: left;
+    margin: 0 1em .5em 0;
+}
+.comment-author {
+    display: inline;
+    margin-right: 5px;
+    font-size: 1.3em;
+}
+.comment-author cite {
+    font-weight: bold;
+    font-style: normal;
+}
+.comment-meta {
+    display: block;
+    font-size: 11px;
+}
+.comment-body {
+    margin: 0 0 30px 55px;
+}
+#cancel-comment-reply-link {
+    font-size: 1.3em;
+}
+#respond {
+    padding-bottom: 35px;
+    padding-top: 20px;
+    min-width:200px;
+}
+#respond h3 {
+    font-size: 14px;
+    font-weight: bold;
+}
+.nocomments {
+    text-align: center;
+    padding: 20px;
+}
+.comment-body ul {
+    list-style-type: disc;
+}
+.comment-body ol {
+    list-style-type: decimal;
+}
+#commentform label small {
+    font-size: 12px;
+}
+.comment-author-admin article {
+}
+.comment-author-admin footer {
+    left: 1em;
+}
+.depth-2, .depth-3, .depth-4, .depth-5 {
+    font-size: 1em;
+}
+.comment-reply-link {
+    position: relative;
+    overflow: visible;
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    font: 11px/normal sans-serif;
+    white-space: nowrap;
+    cursor: pointer;
+    outline: none;
+    -moz-background-clip: padding; /* for Firefox 3.6 */
+    background-clip: padding-box;
+    /* IE hacks */
+    zoom: 1;
+    display: inline;
+    width: auto;
+}
+.comment-reply-link:hover, .comment-reply-link:focus, .comment-reply-link:active {
+    text-decoration: none;
+}
+
+
+/* =Widgets
+----------------------------------------------- */
+
+.widget {
+    margin: 0 0 2.5em;
+}
+/* Search widget */
+#searchsubmit {
+    display: none;
+}
+
+
+/* =Footer
+----------------------------------------------- */
+.site-info {
+    float: left;
+}
+
+/* =Front page custom layouts 
+----------------------------------------------- */
+
+body.home {
+  background-color: #474749;
+  color: #fff;
+}
+
+.home .exhibition-title {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.home .exhibition-title h1 {
+  width: 100%;
+  text-align: center;
+}
+
+/* hide the h1 tag text */
+.home .exhibition-title h1 {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.home .exhibition-title .aic-logo,
+.home .exhibition-title .exhibition-logo {
+  margin: 50px auto 20px;
+  width: auto;
+  display: block;
+  max-width: 100%;
+  float: left;
+  text-align: center;
+}
+
+.home .exhibition-title .exhibition-logo img {
+  margin: 0 0 0 75px;
+}
+
+.home .exhibition-title .aic-logo img {
+  margin-right: 20px; 
+}
+
+.home h2.wp-caption-text,
+.site-sections .wp-caption a,
+.home .exhibition-title h1 span {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+}
+
+.home h2.wp-caption-text,
+.front-page .hentry {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.home h2.wp-caption-text {
+  margin-top: 10px;
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+
+.home .site-header {
+  display: none;
+}
+
+.home article.page-243 {
+  padding: 0;
+}
+
+.front-page .hentry {
+  border: none;
+  box-shadow: none;
+  background-color: transparent;
+  padding: 0;
+}
+
+.front-page .hentry .entry-content {
+  font-size: 1.1em;
+}
+
+.front-page .hentry .entry-content p {
+  width: 45%;
+  float: left;
+  margin-right: 40px;
+  display: inline-block;
+}
+
+.front-page .hentry .entry-content p.no-column {
+  float: none;
+  clear: both;
+  margin-right: 0;
+  width: 100%;
+}
+
+.home .site-content.front-page {
+  margin: 0;
+}
+
+.front-page .site-sections {
+  margin: 10px auto 50px;
+  width: 100%;
+  text-align: center;
+  max-width: 960px;
+}
+
+.front-page .site-sections .site-sections-items .wp-caption:last-child {
+  margin-right: 0; 
+}
+
+.front-page .site-sections .wp-caption {
+  border: none;
+  margin: 0 30px 0 0;
+}
+
+.front-page .site-sections .wp-caption img {
+  height: 300px;
+}
+
+.site-sections-copyright {
+  display: none;
+}
+
+.home .site-sections-copyright {
+  text-align: center;
+  width: 100%;
+  display: block;
+}
+
+/* drop-shadow above footer bar on homepage */
+/* .home .site-footer { */
+/*   -webkit-box-shadow: 0 -8px 6px -6px black; */
+/*   -moz-box-shadow: 0 -8px 6px -6px black; */
+/*   box-shadow: 0 -8px 6px -6px black; */
+/* } */
+
+.site-footer .paging-navigation,
+.site-footer .post-navigation {
+  float: right;
+}
+
+.slb_slideshow {
+  display: none;
+}
+
+div#slb_viewer_wrap .slb_theme_slb_default .slb_details {
+  margin: 0.8075em 0;
+}
+
+
+/* =Clears
+----------------------------------------------- */
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.clearfix {
+    *zoom: 1;
+}
+
+/**
+ * Utilities
+ */
+.hide-me {
+  display: none; 
+}
+
+
+/* =Responsiveness: Readers
+----------------------------------------------- */
+
+@media screen and (max-width: 1024px) {
+
+    .has-sidebar .site-content, .has-sidebar #content, .has-sidebar .widget-area {
+        clear: both;
+        display: block;
+        float: none;
+        width: 100%;
+    }
+    .single header.entry-header, .single .entry-content {
+        width: 100%;
+    }
+    .has-sidebar .page .entry-content, .has-sidebar .page .entry-header, .has-sidebar .page #page-sidebar {
+        width: 100%;
+    }
+    .site-header {
+        text-align: center;
+    }
+    .menu-toggle {
+        font-weight: normal;
+    }
+    .main-small-navigation {
+        float: right;
+        margin: 2em 0 2em;
+    }
+    .site-footer .post-navigation {
+        width: 100%;
+        float: left;
+        margin-top: 0.6em;
+    }
+    .nav {
+        display: none;
+    }
+    .nav-previous {
+        float: left;
+    }
+    .nav-next {
+        float: right;
+    }
+    .site-info {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+    .sideswipe .horizontal, .home .sideswipe .format-video, .single-format-gallery article.image {
+        max-width: 400px;
+    }
+    .sideswipe .vertical, .sideswipe .format-audio, .sideswipe .format-standard, .sideswipe .format-quote {
+        max-width: 200px;
+    }
+    .sideswipe article, .single-format-gallery article {
+        height: 300px;
+    }
+    .sideswipe article img, .sideswipe article embed, .sideswipe article iframe, .sideswipe article object {
+        max-height: 236px;
+    }
+    .single h1.entry-title, .format-quote .entry-content p {
+        font-size: 1.5em;
+    }
+    .home .sticky .entry-content p:first-child, .single-format-gallery .entry-content p:first-child, .format-quote .entry-content p {
+        font-size: 1em;
+        font-style: normal;
+    }
+    .page-title {
+        font-size: 2em;
+    }
+
+    .front-page .site-sections .wp-caption {
+      float: none;
+      margin-right: 0;
+      margin-bottom: 25px;
+      display: block;
+    }
+    .front-page .site-sections .wp-caption img {
+      height: 400px;
+    }
+}
+
+/* Patch for in-between homepage sizes ----------- */
+@media only screen
+and (max-width : 959px) {
+
+    .home .exhibition-title .aic-logo, 
+    .home .exhibition-title .exhibition-logo {
+      float: none;
+      margin: 20px auto;
+    }
+    .home .exhibition-title .aic-logo img, 
+    .home .exhibition-title .exhibition-logo img {
+      margin: 0 auto;
+      max-width: 100%;
+    }
+
+    .front-page .hentry .entry-content p {
+      float: none;
+      width: 100%;
+      margin-right: 0;
+    }
+}
+
+/* Patch for landscape-oriented image on responsive homepage ----------- */
+@media only screen
+and (max-width : 599px) {
+  .front-page .site-sections .wp-caption img {
+    height: auto;
+  }
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen
+and (max-width : 480px) {
+    .site {
+        width: 100%;
+    }
+    .site-header, .site-footer, .sideswipe {
+        position: relative;
+    }
+    .site-header {
+        height: 100px;
+    }
+    .site-footer {
+        height: 30px;
+        font-size: .7em;
+    }
+    .site-content {
+        margin-top: 0;
+    }
+    hgroup {
+        float: none;
+    }
+    .site-title {
+        text-align: center;
+    }
+    .site-navigation {
+        float: none;
+        margin: 1em auto;
+    }
+    .main-small-navigation .menu {
+        top: 100px;
+    }
+    .nav {
+        display: none;
+    }
+    #content {
+        width: 90% !important;
+        padding: 2em 5%;
+    }
+    article {
+        margin: 0 auto 2em;
+        max-height: 100%;
+    }
+    .sticky {
+        max-width: 100% !important;
+    }
+    .hentry {
+        padding: 2em 5%;
+    }
+    .sideswipe .horizontal, .single-format-gallery article, .home .sideswipe .format-video, .single-format-gallery article.image {
+        max-width: 90%;
+    }
+    .sideswipe .vertical, .sideswipe .format-audio, .sideswipe .format-standard, .sideswipe .format-quote {
+        max-width: 90%;
+    }
+    .sideswipe article, .single-format-gallery article {
+        height: auto;
+        width: 100%;
+    }
+    .sideswipe article img, .sideswipe article embed, .sideswipe article iframe, .sideswipe article object {
+        max-height: 232px;
+    }
+}

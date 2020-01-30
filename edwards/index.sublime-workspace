@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"horizon",
+				"horizontalSplitClasses"
+			],
+			[
+				"Hori",
+				"HorizontalSplitStore"
+			],
+			[
+				"ho",
+				"horizontal-split"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"max",
+				"maxScale"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"last_filter": "JSO",
+		"selected_items":
+		[
+			[
+				"JSO",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tshah2/TINA/journeyMaker/backups/changesFromProductionToOpenSource.html",
+		"/Users/tshah2/TINA/journeyMaker/backups/beforeLanguageUpdate/aicweb13_test/www/html-test/config.json",
+		"/Users/tshah2/Downloads/setenv.sh",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/scripts/config/constants.js",
+		"/Users/tshah2/TINA/journeyMaker/backups/beforeLanguageUpdate/aicweb13_production/www/html/sites/default/files/json/json.json",
+		"/Users/tshah2/TINA/DigitalMarking_WebUpdates/imageBanks/intranet-image-bank/data/banks.json",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/scripts/components/shared/modules/Split/Split.js",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/styles/modules/_horizontalSplit.scss",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/scripts/components/shared/modules/FullWidthMedia/FullWidthMedia.js",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/scripts/stores/shared/Module/HorizontalSplit.store.js",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/scripts/config/schemas/HorizontalSplit.schema.js",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/scripts/components/shared/modules/HorizontalSplit/HorizontalSplit.props.js",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/scripts/components/shared/modules/HorizontalSplit/HorizontalSplit.js",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/styles/global.scss",
+		"/Users/tshah2/TINA/sites/art-institute-of-chicago/src/scripts/components/shared/modules/HorizontalSplit/HorizontalSplit.js",
+		"/Users/tshah2/TINA/sites/art-institute-of-chicago/src/scripts/components/shared/modules/HorizontalSplit/HorizontalSplit.props.js",
+		"/Users/tshah2/TINA/sites/art-institute-of-chicago/src/scripts/config/schemas/index.js",
+		"/Users/tshah2/TINA/sites/art-institute-of-chicago/src/scripts/stores/shared/Module/index.js",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/scripts/stores/shared/Module/index.js",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/scripts/config/schemas/index.js",
+		"/Users/tshah2/TINA/sites/art-institute-of-chicago/src/scripts/config/constants.js",
+		"/Users/tshah2/TINA/sites/art-institute-of-chicago/src/scripts/components/shared/utils/modules.js",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/scripts/components/shared/utils/modules.js",
+		"/Users/tshah2/TINA/sites/art-institute-of-chicago/src/scripts/stores/shared/Module/HorizontalSplit.store.js",
+		"/Users/tshah2/TINA/sites/art-institute-of-chicago/src/scripts/config/schemas/HorizontalSplit.schema.js",
+		"/Users/tshah2/TINA/sites/art-institute-of-chicago/src/scripts/components/shared/modules/HorizontalSplit/index.js",
+		"/Users/tshah2/TINA/sites/aic-digital-labels/src/scripts/components/shared/modules/HorizontalSplit/index.js",
+		"/Users/tshah2/Downloads/data-es.json",
+		"/Applications/MAMP/aicmobile/sites/default/files/appData.json",
+		"/Users/tshah2/TINA/sites/art-institute-of-chicago/node_modules/generate-function/example.js",
+		"/Users/tshah2/TINA/sites/art-institute-of-chicago/aic-cms-services/target/aic-cms-1.0.1-SNAPSHOT/index.jsp",
+		"/Users/tshah2/TINA/sites/art-institute-of-chicago/index.html",
+		"/Users/tshah2/TINA/AICMobile/local/aicmobile/profiles/wcreek/wcreek.profile",
+		"/Users/tshah2/TINA/AICMobile/dev/appData.json",
+		"/Users/tshah2/TINA/journeyMaker/json/json.json",
+		"/Users/tshah2/TINA/AICMobile/appDataReal.json",
+		"/Applications/MAMP/htdocs/sites/default/files/json/modernSeriesImageMap.json",
+		"/Users/tshah2/TINA/AICMobile/appDatacopy.json",
+		"/Users/tshah2/TINA/Mobile/appDatacopy.json",
+		"/Users/tshah2/TINA/journeyMaker/logs/log-2016-09-19-0.txt",
+		"/Users/tshah2/TINA/Mobile/appData.json",
+		"/Applications/MAMP/htdocs/sites/all/OSCI-Toolkit-Frontend/js/oscitk/osci_tk_layered_image.js",
+		"/Users/tshah2/TINA/OSCI/modernSeriesImageMap/modernSeriesImageMap.json",
+		"/Applications/MAMP/react-15.3.1/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_06/finish/js/Note.js",
+		"/Applications/MAMP/react-15.3.1/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_05/start/index.html",
+		"/Applications/MAMP/react-15.3.1/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_04/start/index.html",
+		"/Applications/MAMP/react-15.3.1/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_04/start/css/style.css",
+		"/Applications/MAMP/react-15.3.1/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_04/start/js/Note.js",
+		"/Applications/MAMP/react-15.3.1/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_02/start/index.html",
+		"/Applications/MAMP/react-15.3.1/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_02/finish/index.html",
+		"/Applications/MAMP/react-15.3.1/Ex_Files_LReact_js_2016/Exercise Files/Ch02/02_01/start/index.html",
+		"/Applications/MAMP/react-15.3.1/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_01/start/src/helloworld.js",
+		"/Applications/MAMP/react-15.3.1/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_01/start/build/helloworld.js",
+		"/Users/tshah2/TINA/aicdams-lakeshore/multiLevelDocTypes/json/lake_doctypes.json",
+		"/Users/tshah2/TINA/aicdams-lakeshore/multiLevelDocTypes/json/sample_doctypes.json",
+		"/Applications/MAMP/htdocs/sites/all/ChicagoCodeX/modules/aic_rti/spidergl/multires.js",
+		"/Users/tshah2/TINA/aicdams-lakeshore/multiLevelDocTypes/DynamicDropdown/jsondata/data.json",
+		"/Applications/MAMP/htdocs/sites/all/ChicagoCodeX/modules/aic_rti/css/webrtiviewer.css",
+		"/Applications/MAMP/htdocs/sites/all/ChicagoCodeX/modules/aic_rti/aic_rti.module",
+		"/Applications/MAMP/htdocs/sites/all/ChicagoCodeX/modules/aic_360/aic_360.module",
+		"/Applications/MAMP/htdocs/sites/all/ChicagoCodeX/modules/aic_360/js/360render.js",
+		"/Applications/MAMP/htdocs/sites/all/libraries/polymaps/polymaps.js",
+		"/Applications/MAMP/htdocs/sites/all/OSCI-Toolkit/modules/osci_tk_layered_image/js/osci_tk_layered_image.js",
+		"/Applications/MAMP/htdocs/sites/all/OSCI-Toolkit/modules/osci_tk_layered_image/osci_tk_layered_image.module",
+		"/Users/tshah2/TINA/OSCI/RTI/webRTIViewer/webViewer/spidergl/multires.js",
+		"/Applications/MAMP/htdocs/sites/all/OSCI-Toolkit-Frontend/js/external/backbone.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/tshah2/TINA/Edwards/staticSites/4.19/aicweb07.artic.edu:8080"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"baseurl",
+			"latitude",
+			"gallery",
+			"Gallery 216",
+			"gallery",
+			"update",
+			"^.*\\.svn.*$\\n",
+			"^.*\\.svn.*$",
+			"1052",
+			"ture",
+			"aicweb12",
+			">http://aicweb07.artic.edu:8080<",
+			"http://aicweb07.artic.edu:8080/",
+			"frank",
+			"steinber",
+			"steinberg",
+			"edwards",
+			"go",
+			"Almeida",
+			"To Organize Delirium",
+			"delirium",
+			"tours",
+			"tour",
+			"editableimage",
+			"upload",
+			"editabl",
+			"upload",
+			"caption",
+			"render",
+			"caption",
+			"description",
+			"experienceID: experienceID",
+			"king culture",
+			"fabricacion",
+			"Porcelain",
+			"objects",
+			"description",
+			"EditableImage",
+			"media",
+			"required",
+			"checkfortransition",
+			"data.description",
+			"AuthStore",
+			"assetcreate",
+			"handleEditImage",
+			"EditableImage",
+			"Fragment Gallery",
+			"objects",
+			"Magic of the Miniature",
+			"An economic downturn",
+			"Experience this comprehensive",
+			"Impressionism",
+			"title\": America After the Fall ",
+			"America After the Fall: Painting in the 1930s",
+			"The Architecture Tour",
+			"America After the Fall",
+			"American after the fall",
+			"The Essentials T",
+			"Impressionism",
+			"magic of the miniature",
+			"magic of the min",
+			"essentials tour",
+			"the new contemp",
+			"New Contemporary",
+			"Experience this comprehensive and remarkable sampling from the Impressionist painters.",
+			"Impressionism",
+			"saints",
+			"saint and heroes",
+			"IM020800",
+			"IM020807",
+			"saints",
+			"whistler's",
+			"-",
+			"'",
+			"Description",
+			"AuthStore",
+			"Store()",
+			"Auth",
+			"render",
+			"--edit",
+			"-edit",
+			"handleassetclose",
+			"handleeditimage",
+			"checkForTransition",
+			"mandarin",
+			"field_thumbnail_image",
+			"crop",
+			"tours",
+			"thumbnail",
+			"field_thumbnail_image",
+			"thumbnail_image",
+			"thumbnail_crop_rect",
+			"crop",
+			"thumbnail",
+			"tinashah",
+			"tina",
+			"test",
+			"crop",
+			"image_url",
+			"crop",
+			"audio",
+			"thumbnail_crop_rect",
+			"\"1956",
+			"crop",
+			"<p>",
+			"field_reference_num",
+			"1956",
+			"1255",
+			"Brave",
+			"..And the Home",
+			"..And the Home ",
+			"crop",
+			"object",
+			"banner",
+			"new",
+			"banner",
+			"_crop",
+			"Teapot",
+			"_crop",
+			"thumbnail_crop",
+			"teapot",
+			"thumbnail_cr",
+			"english noblewoman",
+			"adoration of the magi",
+			"thumbnail_crop",
+			"crop",
+			"962",
+			"thumbnail_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			">http://media.artic.edu:8080<",
+			"/edwards/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			],
+			[
+				"horizonta",
+				"src/styles/modules/_horizontalSplit.scss"
+			],
+			[
+				"full",
+				"src/scripts/components/shared/modules/FullWidthMedia/FullWidthMedia.js"
+			],
+			[
+				"horizon",
+				"src/styles/modules/_horizontalSplit.scss"
+			],
+			[
+				"horiz",
+				"src/scripts/components/shared/modules/HorizontalSplit/HorizontalSplit.js"
+			],
+			[
+				"conts",
+				"src/scripts/config/constants.js"
+			],
+			[
+				"hori",
+				"src/scripts/components/shared/modules/HorizontalSplit/HorizontalSplit.js"
+			],
+			[
+				"fullw",
+				"src/scripts/components/shared/modules/FullWidthMedia/FullWidthMedia.js"
+			],
+			[
+				"horio",
+				"src/scripts/components/shared/modules/HorizontalSplit/HorizontalSplit.props.js"
+			],
+			[
+				"fullwdi",
+				"src/scripts/components/shared/modules/FullWidthMedia/FullWidthMedia.js"
+			],
+			[
+				"fullwid",
+				"src/scripts/components/shared/modules/FullWidthMedia/FullWidthMedia.js"
+			],
+			[
+				"globa",
+				"src/styles/global.scss"
+			],
+			[
+				"constants",
+				"src/scripts/config/constants.js"
+			],
+			[
+				"example",
+				"node_modules/generate-function/example.js"
+			],
+			[
+				"modalmed",
+				"src/scripts/components/shared/ui/Modal/ModalMedia.js"
+			],
+			[
+				"attrac",
+				"src/scripts/components/shared/modules/Attract/Attract.props.js"
+			],
+			[
+				"fulldwidthmedia.",
+				"src/scripts/components/shared/modules/FullWidthMedia/FullWidthMedia.props.js"
+			],
+			[
+				"constan",
+				"src/scripts/config/constants.js"
+			],
+			[
+				"index.jsp",
+				"aic-cms-services/target/aic-cms-1.0.1-SNAPSHOT/index.jsp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
