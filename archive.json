@@ -849,6 +849,96 @@
 			"exhibition_ids": [1865],
 			"agent_ids": [40610],
 			"artwork_ids": [28560]
+		},
+		{
+			"id": 97,
+			"title": "Marc Chagall's American Windows",
+			"year": "2010",
+			"link": "http://archive.artic.edu/chagall/",
+                        "description": "",
+			"exhibition_ids": [],
+			"agent_ids": [33909],
+                        "artwork_ids": [109439,42969,48609,59426,76258]
+		},
+		{
+			"id": 98,
+			"title": "Midwest Masterpieces: The Sullivan Banks",
+			"year": "2015",
+			"link": "http://archive.artic.edu/sullivanbanks/",
+                        "description": "In 1976 Crombie Taylor used then state-of-the-art multi-media slide projection technology to represent Louis Sullivan's eight Midwestern banks at architectural scale and with exquisite fidelity to their stunning polychromy. Now digitized, Taylor's program, together with his pioneering Sullivan building restorations and stencil exhibit, reveals a previously unknown Sullivan, a master of mass and volume, and a new starting point for our understanding of early modern architectural history.",
+			"exhibition_ids": [],
+			"agent_ids": [32803],
+                        "artwork_ids": []
+		},
+		{
+			"id": 99,
+			"title": "Cleopatra: A Multimedia Guide to the Ancient World",
+			"year": "2000",
+			"link": "http://archive.artic.edu/cleo/",
+                        "description": "Cleopatra: A Multimedia Guide to the Ancient World is an interactive guide to the Ancient Art Collection of The Art Institute of Chicago. This Web site is named after Cleopatra, queen of Egypt from 51 to 30 B.C., because she embodied the three great cultures of the ancient Mediterranean region: she was Greek by birth, ruled Egypt as its queen, and lost her kingdom to Rome.",
+			"exhibition_ids": [],
+			"agent_ids": [],
+                        "artwork_ids": [127874,120293,64339,127859,120300,177,52201,129906,5764,52198,58135,52764,103304,126436,61600,56166]
+		},
+		{
+			"id": 100,
+			"title": "Mary Louise Reynolds Collection",
+			"year": "2001",
+			"link": "http://archive.artic.edu/reynolds/",
+                        "description": "",
+			"exhibition_ids": [],
+			"agent_ids": [],
+                        "artwork_ids": []
+		},
+		{
+			"id": 100,
+			"title": "Mary Louise Reynolds Collection",
+			"year": "2001",
+			"link": "http://archive.artic.edu/reynolds/",
+                        "description": "",
+			"exhibition_ids": [],
+			"agent_ids": [],
+                        "artwork_ids": []
+		},
+		{
+			"id": 101,
+			"title": "John Singer Sarget & Chicago's Gilded Age",
+			"year": "2018",
+			"link": "http://archive.artic.edu/sargent/",
+                        "description": "Presenting the full range of his work—including beloved portraits—John Singer Sarget and Chicago's Gilded Age chronicles a never-told story about this celebrated American artist, tracing his Chicago connections and illuminating the city's vibrant art scene at the turn of the 20th century.",
+			"exhibition_ids": [2522],
+			"agent_ids": [36540],
+                        "artwork_ids": [69780,4749,159721,145903]
+		},
+		{
+			"id": 102,
+			"title": "The Alfred Stieglitz Collection",
+			"year": "2016",
+			"link": "http://archive.artic.edu/stieglitz/",
+                        "description": "This site features detailed information on the 244 photographs in the Alfred Stieglitz Collection at the Art Institute of Chicago. In addition to more general information about the artists, processes, and themes relevant to the collection, the site features individual artwork pages that include resources useful to readers interested in closer study of the works.",
+			"exhibition_ids": [],
+			"agent_ids": [36809],
+                        "artwork_ids": [66434,66489,66303,66424,66284,66394,66315,66275,66435,66296,66278,66269,66340,66472,66272,66739,66258,66567,66261,66453,66327,66880,66469,66438,66889,66746,66286,66267,66427,66590,66476,66402,66321,66309,66457,66718,66429,66564,66526,66356,66351,66459,77269,66559,124651,66342,66570,66486,66317,66312,66535,66515,66405,66420,66264,66561,66319,66479,66387,66397,66742,66492,66330,66350,66574,66417,66414,66545,66443,66587,66392,20338,66376,120501,66730,66749,66294,66462,66577,66721,66446,66347,111063,66289,66406,66465,66555,66337,103512,66378,66597,66584,66552,66593,66281,66482,66713,68601,66733,77274,66359,66365,66519,66323,66306,66509,66715,66361,66506,66580,66711,66500,66539,66617,66639,66382,77261,66512,66503,66496,66892,66532,66895,66370,66723,66368,103519,66529,66613,66542,66637,119110,66725,66634,66628,66549,66600,66610,66385,66522,66647,66625,66631,66604,66333,66656,66659,66607,125731,120122,66622,66619,66643,212243,66727,66645,66654,66373,68569,68579,66668,66662,68585,66665,68608,20340,68599,20337,68572,68595,68575,68674,68592,68634,68649,68611,68623,77271,77267,77263,68641,68643,119112,68582,20339,68604,68627,68647]
+		},
+		{
+			"id": 103,
+			"title": "Edward Steichen's Work War I Years",
+			"year": "2015",
+			"link": "http://archive.artic.edu/steichen/",
+                        "description": "This website, which includes works drawn from the Art Institute’s collection, reveals the profound influence Steichen had on various photographic fields. Featured is a unique album of World War I aerial photographs assembled and annotated by Steichen in 1919 following his military discharge.",
+			"exhibition_ids": [],
+			"agent_ids": [36782],
+                        "artwork_ids": []
+		},
+		{
+			"id": 104,
+			"title": "Hugh Edwards",
+			"year": "2017",
+			"link": "http://archive.artic.edu/edwards/",
+                        "description": "",
+			"exhibition_ids": [],
+			"agent_ids": [7497],
+                        "artwork_ids": []
 		}
 	]
 }
